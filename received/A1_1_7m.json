@@ -1,0 +1,702 @@
+[
+  {
+    "word": "fishing",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is 'fishing'?",
+        "answers": [
+          { "id": 1, "value": "The activity of catching fish, often for sport or food" },
+          { "id": 2, "value": "The practice of planting crops" },
+          { "id": 3, "value": "The act of cooking food outdoors" },
+          { "id": 4, "value": "A sport involving a racket and net" },
+          { "id": 5, "value": "A game played on a field with a ball" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Every weekend, he goes _______ at the lake to relax.",
+        "answers": [
+          { "id": 1, "value": "fishing" },
+          { "id": 2, "value": "running" },
+          { "id": 3, "value": "sailing" },
+          { "id": 4, "value": "climbing" },
+          { "id": 5, "value": "skating" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Fishing is a peaceful way to spend time by the water,' what does 'fishing' mean?",
+        "answers": [
+          { "id": 1, "value": "Catching fish as an activity" },
+          { "id": 2, "value": "Swimming in the lake" },
+          { "id": 3, "value": "Hiking around the water" },
+          { "id": 4, "value": "Watching birds" },
+          { "id": 5, "value": "Cooking outdoors" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is closely related to 'fishing'?",
+        "answers": [
+          { "id": 1, "value": "angling" },
+          { "id": 2, "value": "skiing" },
+          { "id": 3, "value": "hiking" },
+          { "id": 4, "value": "rowing" },
+          { "id": 5, "value": "running" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They packed their rods and bait for a day of fishing,' what does 'fishing' mean?",
+        "answers": [
+          { "id": 1, "value": "Catching fish" },
+          { "id": 2, "value": "Riding bikes" },
+          { "id": 3, "value": "Building a campfire" },
+          { "id": 4, "value": "Cooking food" },
+          { "id": 5, "value": "Diving underwater" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hockey",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is 'hockey'?",
+        "answers": [
+          { "id": 1, "value": "A sport where players use sticks to hit a puck into a goal" },
+          { "id": 2, "value": "A game where players throw a ball into a hoop" },
+          { "id": 3, "value": "A type of running competition" },
+          { "id": 4, "value": "A swimming race" },
+          { "id": 5, "value": "A dance style" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He learned to play _______ on ice at an early age.",
+        "answers": [
+          { "id": 1, "value": "hockey" },
+          { "id": 2, "value": "soccer" },
+          { "id": 3, "value": "golf" },
+          { "id": 4, "value": "tennis" },
+          { "id": 5, "value": "rugby" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Hockey is a fast-paced sport enjoyed worldwide,' what does 'hockey' mean?",
+        "answers": [
+          { "id": 1, "value": "A sport played with sticks and a puck" },
+          { "id": 2, "value": "A sport played with a racket" },
+          { "id": 3, "value": "A water sport" },
+          { "id": 4, "value": "A type of board game" },
+          { "id": 5, "value": "A card game" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these words is related to 'hockey'?",
+        "answers": [
+          { "id": 1, "value": "puck" },
+          { "id": 2, "value": "net" },
+          { "id": 3, "value": "hoop" },
+          { "id": 4, "value": "ball" },
+          { "id": 5, "value": "bat" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'She plays hockey on the weekends with her friends,' what does 'hockey' mean?",
+        "answers": [
+          { "id": 1, "value": "A game played with sticks and a puck" },
+          { "id": 2, "value": "A swimming sport" },
+          { "id": 3, "value": "A board game" },
+          { "id": 4, "value": "A cooking class" },
+          { "id": 5, "value": "A puzzle game" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "jam",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'jam'?",
+        "answers": [
+          { "id": 1, "value": "A sweet spread made from fruit and sugar" },
+          { "id": 2, "value": "A type of bread" },
+          { "id": 3, "value": "A kitchen utensil" },
+          { "id": 4, "value": "A cleaning product" },
+          { "id": 5, "value": "A leafy green vegetable" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She spread some strawberry _______ on her toast.",
+        "answers": [
+          { "id": 1, "value": "jam" },
+          { "id": 2, "value": "butter" },
+          { "id": 3, "value": "milk" },
+          { "id": 4, "value": "salt" },
+          { "id": 5, "value": "oil" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He loves toast with raspberry jam,' what does 'jam' mean?",
+        "answers": [
+          { "id": 1, "value": "A sweet spread made from fruit" },
+          { "id": 2, "value": "A type of cheese" },
+          { "id": 3, "value": "A kind of salad" },
+          { "id": 4, "value": "A grain used in cooking" },
+          { "id": 5, "value": "A type of soup" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is closely related to 'jam'?",
+        "answers": [
+          { "id": 1, "value": "preserve" },
+          { "id": 2, "value": "cookie" },
+          { "id": 3, "value": "cream" },
+          { "id": 4, "value": "cake" },
+          { "id": 5, "value": "pie" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They made fresh jam with strawberries and sugar,' what does 'jam' mean?",
+        "answers": [
+          { "id": 1, "value": "A sweet spread made with fruit" },
+          { "id": 2, "value": "A cooking oil" },
+          { "id": 3, "value": "A type of flour" },
+          { "id": 4, "value": "A meat product" },
+          { "id": 5, "value": "A type of bread" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "jazz",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is 'jazz'?",
+        "answers": [
+          { "id": 1, "value": "A type of music known for its improvisation and rhythm" },
+          { "id": 2, "value": "A style of dance" },
+          { "id": 3, "value": "A painting technique" },
+          { "id": 4, "value": "A kind of sport" },
+          { "id": 5, "value": "A genre of literature" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They went to a _______ concert in the city last night.",
+        "answers": [
+          { "id": 1, "value": "jazz" },
+          { "id": 2, "value": "rock" },
+          { "id": 3, "value": "classical" },
+          { "id": 4, "value": "pop" },
+          { "id": 5, "value": "hip-hop" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Jazz has a unique rhythm that many people love,' what does 'jazz' mean?",
+        "answers": [
+          { "id": 1, "value": "A style of music" },
+          { "id": 2, "value": "A type of dance" },
+          { "id": 3, "value": "A style of painting" },
+          { "id": 4, "value": "A running sport" },
+          { "id": 5, "value": "A type of cooking" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is related to 'jazz'?",
+        "answers": [
+          { "id": 1, "value": "blues" },
+          { "id": 2, "value": "drawing" },
+          { "id": 3, "value": "writing" },
+          { "id": 4, "value": "hiking" },
+          { "id": 5, "value": "baking" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They listened to jazz as they relaxed on the patio,' what does 'jazz' mean?",
+        "answers": [
+          { "id": 1, "value": "A style of music with improvisation" },
+          { "id": 2, "value": "A type of cooking" },
+          { "id": 3, "value": "A painting style" },
+          { "id": 4, "value": "A kind of poetry" },
+          { "id": 5, "value": "A kind of outdoor game" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "laughter",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'laughter' mean?",
+        "answers": [
+          { "id": 1, "value": "The sound made when people find something funny" },
+          { "id": 2, "value": "The sound of music" },
+          { "id": 3, "value": "The sound of birds chirping" },
+          { "id": 4, "value": "The noise of a car engine" },
+          { "id": 5, "value": "A quiet sound in nature" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The room was filled with _______ as they shared funny stories.",
+        "answers": [
+          { "id": 1, "value": "laughter" },
+          { "id": 2, "value": "music" },
+          { "id": 3, "value": "voices" },
+          { "id": 4, "value": "clapping" },
+          { "id": 5, "value": "whispering" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Their laughter could be heard from across the room,' what does 'laughter' mean?",
+        "answers": [
+          { "id": 1, "value": "Sound of people finding something funny" },
+          { "id": 2, "value": "The noise of footsteps" },
+          { "id": 3, "value": "The hum of a fan" },
+          { "id": 4, "value": "The sound of a door closing" },
+          { "id": 5, "value": "The chatter of birds" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is closely related to 'laughter'?",
+        "answers": [
+          { "id": 1, "value": "giggle" },
+          { "id": 2, "value": "shout" },
+          { "id": 3, "value": "cry" },
+          { "id": 4, "value": "whistle" },
+          { "id": 5, "value": "whisper" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'Her laughter brightened up the entire room,' what does 'laughter' mean?",
+        "answers": [
+          { "id": 1, "value": "The sound made when something is funny" },
+          { "id": 2, "value": "The sound of someone eating" },
+          { "id": 3, "value": "The sound of clapping" },
+          { "id": 4, "value": "The sound of an animal" },
+          { "id": 5, "value": "The sound of raindrops" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "joke",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'joke'?",
+        "answers": [
+          { "id": 1, "value": "Something said or done to make people laugh" },
+          { "id": 2, "value": "A serious story" },
+          { "id": 3, "value": "A kind of poem" },
+          { "id": 4, "value": "An exercise routine" },
+          { "id": 5, "value": "A style of dance" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She told a funny _______ that made everyone laugh.",
+        "answers": [
+          { "id": 1, "value": "joke" },
+          { "id": 2, "value": "poem" },
+          { "id": 3, "value": "song" },
+          { "id": 4, "value": "story" },
+          { "id": 5, "value": "lecture" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He made a joke to cheer up his friend,' what does 'joke' mean?",
+        "answers": [
+          { "id": 1, "value": "A funny comment" },
+          { "id": 2, "value": "A sad story" },
+          { "id": 3, "value": "A difficult question" },
+          { "id": 4, "value": "A serious statement" },
+          { "id": 5, "value": "A helpful tip" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these words is similar to 'joke'?",
+        "answers": [
+          { "id": 1, "value": "prank" },
+          { "id": 2, "value": "lecture" },
+          { "id": 3, "value": "announcement" },
+          { "id": 4, "value": "news" },
+          { "id": 5, "value": "order" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'The joke was so funny that everyone laughed,' what does 'joke' mean?",
+        "answers": [
+          { "id": 1, "value": "A humorous remark" },
+          { "id": 2, "value": "A sad story" },
+          { "id": 3, "value": "A news report" },
+          { "id": 4, "value": "An explanation" },
+          { "id": 5, "value": "A warning" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "musical",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'musical'?",
+        "answers": [
+          { "id": 1, "value": "A play or movie with songs and music" },
+          { "id": 2, "value": "A painting exhibition" },
+          { "id": 3, "value": "A type of cooking show" },
+          { "id": 4, "value": "A hiking event" },
+          { "id": 5, "value": "A running competition" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They went to see a _______ about the history of jazz.",
+        "answers": [
+          { "id": 1, "value": "musical" },
+          { "id": 2, "value": "comedy" },
+          { "id": 3, "value": "lecture" },
+          { "id": 4, "value": "book" },
+          { "id": 5, "value": "poem" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'They enjoyed the musical because it had great songs,' what does 'musical' mean?",
+        "answers": [
+          { "id": 1, "value": "A show with songs and music" },
+          { "id": 2, "value": "A serious movie" },
+          { "id": 3, "value": "A silent performance" },
+          { "id": 4, "value": "A dance-only show" },
+          { "id": 5, "value": "A news program" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is related to a 'musical'?",
+        "answers": [
+          { "id": 1, "value": "opera" },
+          { "id": 2, "value": "book" },
+          { "id": 3, "value": "game" },
+          { "id": 4, "value": "contest" },
+          { "id": 5, "value": "lecture" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'She has always loved musicals because of the singing and dancing,' what does 'musicals' mean?",
+        "answers": [
+          { "id": 1, "value": "Shows with music, singing, and dancing" },
+          { "id": 2, "value": "Books with images" },
+          { "id": 3, "value": "News programs" },
+          { "id": 4, "value": "Cooking shows" },
+          { "id": 5, "value": "Silent films" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "jump",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'jump' mean?",
+        "answers": [
+          { "id": 1, "value": "To push oneself off the ground and rise into the air" },
+          { "id": 2, "value": "To move slowly" },
+          { "id": 3, "value": "To sing a song" },
+          { "id": 4, "value": "To sit down" },
+          { "id": 5, "value": "To sleep deeply" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The dog loves to _______ up and down when excited.",
+        "answers": [
+          { "id": 1, "value": "jump" },
+          { "id": 2, "value": "sing" },
+          { "id": 3, "value": "sit" },
+          { "id": 4, "value": "whisper" },
+          { "id": 5, "value": "sleep" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He had to jump to reach the high shelf,' what does 'jump' mean?",
+        "answers": [
+          { "id": 1, "value": "To push oneself into the air" },
+          { "id": 2, "value": "To stay on the ground" },
+          { "id": 3, "value": "To shout loudly" },
+          { "id": 4, "value": "To read a book" },
+          { "id": 5, "value": "To sit down" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is similar in meaning to 'jump'?",
+        "answers": [
+          { "id": 1, "value": "leap" },
+          { "id": 2, "value": "fall" },
+          { "id": 3, "value": "walk" },
+          { "id": 4, "value": "sit" },
+          { "id": 5, "value": "sleep" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'The children love to jump on the trampoline,' what does 'jump' mean?",
+        "answers": [
+          { "id": 1, "value": "To push oneself up into the air" },
+          { "id": 2, "value": "To lie down" },
+          { "id": 3, "value": "To sit on a chair" },
+          { "id": 4, "value": "To walk slowly" },
+          { "id": 5, "value": "To swim in water" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'pet'?",
+        "answers": [
+          { "id": 1, "value": "An animal kept for companionship or enjoyment" },
+          { "id": 2, "value": "A type of food" },
+          { "id": 3, "value": "A piece of furniture" },
+          { "id": 4, "value": "A musical instrument" },
+          { "id": 5, "value": "A kitchen appliance" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She has a _______ dog named Max.",
+        "answers": [
+          { "id": 1, "value": "pet" },
+          { "id": 2, "value": "toy" },
+          { "id": 3, "value": "book" },
+          { "id": 4, "value": "plant" },
+          { "id": 5, "value": "tool" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Taking care of a pet requires time and attention,' what does 'pet' mean?",
+        "answers": [
+          { "id": 1, "value": "An animal kept at home" },
+          { "id": 2, "value": "A favorite game" },
+          { "id": 3, "value": "A favorite meal" },
+          { "id": 4, "value": "A special place" },
+          { "id": 5, "value": "A plant in the garden" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is an example of a 'pet'?",
+        "answers": [
+          { "id": 1, "value": "cat" },
+          { "id": 2, "value": "tree" },
+          { "id": 3, "value": "table" },
+          { "id": 4, "value": "car" },
+          { "id": 5, "value": "computer" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They adopted a pet rabbit,' what does 'pet' mean?",
+        "answers": [
+          { "id": 1, "value": "An animal kept for companionship" },
+          { "id": 2, "value": "A piece of furniture" },
+          { "id": 3, "value": "A new car" },
+          { "id": 4, "value": "A musical instrument" },
+          { "id": 5, "value": "A garden tool" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sail",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'sail' mean?",
+        "answers": [
+          { "id": 1, "value": "To travel by boat using the wind" },
+          { "id": 2, "value": "To drive a car" },
+          { "id": 3, "value": "To walk on land" },
+          { "id": 4, "value": "To cook food" },
+          { "id": 5, "value": "To climb a mountain" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They decided to _______ around the lake on a sunny afternoon.",
+        "answers": [
+          { "id": 1, "value": "sail" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "drive" },
+          { "id": 4, "value": "swim" },
+          { "id": 5, "value": "hike" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'They sailed across the sea to reach the island,' what does 'sailed' mean?",
+        "answers": [
+          { "id": 1, "value": "Traveled by boat" },
+          { "id": 2, "value": "Drove a car" },
+          { "id": 3, "value": "Ran quickly" },
+          { "id": 4, "value": "Rode a bike" },
+          { "id": 5, "value": "Climbed a hill" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is related to 'sail'?",
+        "answers": [
+          { "id": 1, "value": "boat" },
+          { "id": 2, "value": "car" },
+          { "id": 3, "value": "airplane" },
+          { "id": 4, "value": "bicycle" },
+          { "id": 5, "value": "train" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'The captain taught us how to sail on the open sea,' what does 'sail' mean?",
+        "answers": [
+          { "id": 1, "value": "To travel by boat using the wind" },
+          { "id": 2, "value": "To walk around" },
+          { "id": 3, "value": "To ride a bicycle" },
+          { "id": 4, "value": "To sing a song" },
+          { "id": 5, "value": "To read a map" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

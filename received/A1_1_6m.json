@@ -1,0 +1,702 @@
+[
+  {
+    "word": "ride",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'ride' mean?",
+        "answers": [
+          { "id": 1, "value": "To travel on or in a vehicle or animal" },
+          { "id": 2, "value": "To sing a song" },
+          { "id": 3, "value": "To draw a picture" },
+          { "id": 4, "value": "To cook a meal" },
+          { "id": 5, "value": "To dance" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She learned how to _______ a bicycle when she was young.",
+        "answers": [
+          { "id": 1, "value": "ride" },
+          { "id": 2, "value": "cook" },
+          { "id": 3, "value": "sing" },
+          { "id": 4, "value": "read" },
+          { "id": 5, "value": "paint" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He offered to give her a ride home,' what does 'ride' mean?",
+        "answers": [
+          { "id": 1, "value": "A lift or journey in a vehicle" },
+          { "id": 2, "value": "A song" },
+          { "id": 3, "value": "A type of food" },
+          { "id": 4, "value": "A kind of game" },
+          { "id": 5, "value": "A cooking recipe" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is related to 'ride'?",
+        "answers": [
+          { "id": 1, "value": "journey" },
+          { "id": 2, "value": "cook" },
+          { "id": 3, "value": "write" },
+          { "id": 4, "value": "draw" },
+          { "id": 5, "value": "stand" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They went for a ride on the carousel,' what does 'ride' mean?",
+        "answers": [
+          { "id": 1, "value": "To travel on something, like an amusement ride" },
+          { "id": 2, "value": "To sleep on it" },
+          { "id": 3, "value": "To cook on it" },
+          { "id": 4, "value": "To sing about it" },
+          { "id": 5, "value": "To write about it" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sauce",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is 'sauce'?",
+        "answers": [
+          { "id": 1, "value": "A liquid or semi-liquid food added to dishes for flavor" },
+          { "id": 2, "value": "A type of soup" },
+          { "id": 3, "value": "A style of cooking" },
+          { "id": 4, "value": "A kind of drink" },
+          { "id": 5, "value": "A method of frying" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She added some tomato _______ to her pasta.",
+        "answers": [
+          { "id": 1, "value": "sauce" },
+          { "id": 2, "value": "juice" },
+          { "id": 3, "value": "soup" },
+          { "id": 4, "value": "spice" },
+          { "id": 5, "value": "milk" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'The sauce made the dish taste much better,' what does 'sauce' mean?",
+        "answers": [
+          { "id": 1, "value": "A flavorful liquid added to food" },
+          { "id": 2, "value": "A style of dance" },
+          { "id": 3, "value": "A type of drink" },
+          { "id": 4, "value": "A cooking pan" },
+          { "id": 5, "value": "A type of bread" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is closely related to 'sauce'?",
+        "answers": [
+          { "id": 1, "value": "gravy" },
+          { "id": 2, "value": "bread" },
+          { "id": 3, "value": "water" },
+          { "id": 4, "value": "tea" },
+          { "id": 5, "value": "candy" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'He poured sauce over the steak for more flavor,' what does 'sauce' mean?",
+        "answers": [
+          { "id": 1, "value": "A flavorful liquid added to food" },
+          { "id": 2, "value": "A cooking pan" },
+          { "id": 3, "value": "A dessert" },
+          { "id": 4, "value": "A type of spoon" },
+          { "id": 5, "value": "A cereal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ring",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'ring'?",
+        "answers": [
+          { "id": 1, "value": "A small circular band, often worn as jewelry" },
+          { "id": 2, "value": "A large plate for food" },
+          { "id": 3, "value": "A type of book" },
+          { "id": 4, "value": "A musical instrument" },
+          { "id": 5, "value": "A place for pets" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She wore a beautiful diamond _______ on her finger.",
+        "answers": [
+          { "id": 1, "value": "ring" },
+          { "id": 2, "value": "spoon" },
+          { "id": 3, "value": "hat" },
+          { "id": 4, "value": "necklace" },
+          { "id": 5, "value": "watch" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He bought her a ring for their anniversary,' what does 'ring' mean?",
+        "answers": [
+          { "id": 1, "value": "A piece of jewelry worn on the finger" },
+          { "id": 2, "value": "A type of food" },
+          { "id": 3, "value": "A tool for cooking" },
+          { "id": 4, "value": "A board game" },
+          { "id": 5, "value": "A form of payment" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these items is similar to a 'ring'?",
+        "answers": [
+          { "id": 1, "value": "bracelet" },
+          { "id": 2, "value": "shoe" },
+          { "id": 3, "value": "car" },
+          { "id": 4, "value": "candle" },
+          { "id": 5, "value": "phone" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'She admired the ring on her hand,' what does 'ring' mean?",
+        "answers": [
+          { "id": 1, "value": "A circular band worn as jewelry" },
+          { "id": 2, "value": "A kitchen utensil" },
+          { "id": 3, "value": "A type of animal" },
+          { "id": 4, "value": "A musical instrument" },
+          { "id": 5, "value": "A spoon" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "singing",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is 'singing'?",
+        "answers": [
+          { "id": 1, "value": "The act of producing musical sounds with the voice" },
+          { "id": 2, "value": "The act of playing an instrument" },
+          { "id": 3, "value": "The process of writing a story" },
+          { "id": 4, "value": "The art of painting" },
+          { "id": 5, "value": "The activity of running a race" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She enjoys _______ along to her favorite songs.",
+        "answers": [
+          { "id": 1, "value": "singing" },
+          { "id": 2, "value": "dancing" },
+          { "id": 3, "value": "writing" },
+          { "id": 4, "value": "cooking" },
+          { "id": 5, "value": "drawing" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He has a beautiful voice for singing,' what does 'singing' mean?",
+        "answers": [
+          { "id": 1, "value": "Producing music with the voice" },
+          { "id": 2, "value": "Cooking food" },
+          { "id": 3, "value": "Running in a race" },
+          { "id": 4, "value": "Writing a letter" },
+          { "id": 5, "value": "Playing a game" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is most related to 'singing'?",
+        "answers": [
+          { "id": 1, "value": "vocalizing" },
+          { "id": 2, "value": "drawing" },
+          { "id": 3, "value": "typing" },
+          { "id": 4, "value": "painting" },
+          { "id": 5, "value": "cutting" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They were singing together on stage,' what does 'singing' mean?",
+        "answers": [
+          { "id": 1, "value": "Making music with the voice" },
+          { "id": 2, "value": "Walking on stage" },
+          { "id": 3, "value": "Drawing on stage" },
+          { "id": 4, "value": "Playing sports" },
+          { "id": 5, "value": "Cooking food" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "score",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'score' mean?",
+        "answers": [
+          { "id": 1, "value": "The points achieved in a game or test" },
+          { "id": 2, "value": "The name of a player" },
+          { "id": 3, "value": "A type of food" },
+          { "id": 4, "value": "The color of a team" },
+          { "id": 5, "value": "The length of the game" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The final _______ of the game was 3-2.",
+        "answers": [
+          { "id": 1, "value": "score" },
+          { "id": 2, "value": "color" },
+          { "id": 3, "value": "goal" },
+          { "id": 4, "value": "line" },
+          { "id": 5, "value": "point" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'The team worked hard to improve their score,' what does 'score' mean?",
+        "answers": [
+          { "id": 1, "value": "The points achieved in a game" },
+          { "id": 2, "value": "The length of the game" },
+          { "id": 3, "value": "The number of players" },
+          { "id": 4, "value": "The price of tickets" },
+          { "id": 5, "value": "The team's mascot" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is closely related to 'score'?",
+        "answers": [
+          { "id": 1, "value": "points" },
+          { "id": 2, "value": "loss" },
+          { "id": 3, "value": "time" },
+          { "id": 4, "value": "team" },
+          { "id": 5, "value": "length" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'He checked the score to see if his team was winning,' what does 'score' mean?",
+        "answers": [
+          { "id": 1, "value": "The points in the game" },
+          { "id": 2, "value": "The number of players" },
+          { "id": 3, "value": "The team color" },
+          { "id": 4, "value": "The time left in the game" },
+          { "id": 5, "value": "The location of the game" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ski",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'ski' mean?",
+        "answers": [
+          { "id": 1, "value": "To glide on snow using long, flat pieces attached to boots" },
+          { "id": 2, "value": "To swim in a pool" },
+          { "id": 3, "value": "To run quickly" },
+          { "id": 4, "value": "To dance on a stage" },
+          { "id": 5, "value": "To cook on a stove" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They went to the mountains to _______ during winter vacation.",
+        "answers": [
+          { "id": 1, "value": "ski" },
+          { "id": 2, "value": "swim" },
+          { "id": 3, "value": "hike" },
+          { "id": 4, "value": "ride" },
+          { "id": 5, "value": "camp" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He learned how to ski on a snowy mountain,' what does 'ski' mean?",
+        "answers": [
+          { "id": 1, "value": "To move over snow using special equipment" },
+          { "id": 2, "value": "To play a game with a ball" },
+          { "id": 3, "value": "To climb a steep hill" },
+          { "id": 4, "value": "To read a book" },
+          { "id": 5, "value": "To bake bread" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is related to 'ski'?",
+        "answers": [
+          { "id": 1, "value": "snow" },
+          { "id": 2, "value": "pool" },
+          { "id": 3, "value": "gym" },
+          { "id": 4, "value": "field" },
+          { "id": 5, "value": "court" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They enjoyed skiing down the snowy slopes,' what does 'skiing' mean?",
+        "answers": [
+          { "id": 1, "value": "Gliding on snow with special equipment" },
+          { "id": 2, "value": "Running on ice" },
+          { "id": 3, "value": "Swimming underwater" },
+          { "id": 4, "value": "Flying in an airplane" },
+          { "id": 5, "value": "Cooking over a fire" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "soccer",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is 'soccer'?",
+        "answers": [
+          { "id": 1, "value": "A sport where players kick a ball into a goal" },
+          { "id": 2, "value": "A card game played in teams" },
+          { "id": 3, "value": "A water-based sport" },
+          { "id": 4, "value": "A board game played with pieces" },
+          { "id": 5, "value": "A type of musical performance" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He joined a _______ team to play with his friends after school.",
+        "answers": [
+          { "id": 1, "value": "soccer" },
+          { "id": 2, "value": "golf" },
+          { "id": 3, "value": "tennis" },
+          { "id": 4, "value": "ski" },
+          { "id": 5, "value": "chess" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Soccer is the most popular sport in many countries,' what does 'soccer' mean?",
+        "answers": [
+          { "id": 1, "value": "A game where players kick a ball into a net" },
+          { "id": 2, "value": "A sport where players use rackets" },
+          { "id": 3, "value": "A cooking competition" },
+          { "id": 4, "value": "A game with cards" },
+          { "id": 5, "value": "A singing contest" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is related to 'soccer'?",
+        "answers": [
+          { "id": 1, "value": "goal" },
+          { "id": 2, "value": "net" },
+          { "id": 3, "value": "bat" },
+          { "id": 4, "value": "field" },
+          { "id": 5, "value": "paddle" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They played soccer in the park every weekend,' what does 'soccer' mean?",
+        "answers": [
+          { "id": 1, "value": "A sport where players kick a ball into a goal" },
+          { "id": 2, "value": "A sport involving a net and shuttlecock" },
+          { "id": 3, "value": "A game with cards and dice" },
+          { "id": 4, "value": "A swimming competition" },
+          { "id": 5, "value": "A running race" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "spider",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'spider'?",
+        "answers": [
+          { "id": 1, "value": "An eight-legged insect-like creature that spins webs" },
+          { "id": 2, "value": "A type of bird" },
+          { "id": 3, "value": "A small fish" },
+          { "id": 4, "value": "A kind of dog" },
+          { "id": 5, "value": "A type of flower" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There was a small _______ in the corner of the room.",
+        "answers": [
+          { "id": 1, "value": "spider" },
+          { "id": 2, "value": "dog" },
+          { "id": 3, "value": "fish" },
+          { "id": 4, "value": "tree" },
+          { "id": 5, "value": "bird" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'The spider spun a web in the garden,' what does 'spider' mean?",
+        "answers": [
+          { "id": 1, "value": "A small creature that makes webs" },
+          { "id": 2, "value": "A type of plant" },
+          { "id": 3, "value": "A large bird" },
+          { "id": 4, "value": "A breed of dog" },
+          { "id": 5, "value": "A kind of rock" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is related to 'spider'?",
+        "answers": [
+          { "id": 1, "value": "web" },
+          { "id": 2, "value": "feathers" },
+          { "id": 3, "value": "wings" },
+          { "id": 4, "value": "fur" },
+          { "id": 5, "value": "leaves" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They found a spider hiding in the corner,' what does 'spider' mean?",
+        "answers": [
+          { "id": 1, "value": "An eight-legged creature" },
+          { "id": 2, "value": "A type of flower" },
+          { "id": 3, "value": "A type of tree" },
+          { "id": 4, "value": "A small fish" },
+          { "id": 5, "value": "A piece of furniture" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "spoon",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'spoon'?",
+        "answers": [
+          { "id": 1, "value": "A utensil with a small bowl at the end, used for eating or serving food" },
+          { "id": 2, "value": "A type of pot" },
+          { "id": 3, "value": "A piece of clothing" },
+          { "id": 4, "value": "A kind of bread" },
+          { "id": 5, "value": "A musical instrument" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He used a _______ to stir his coffee.",
+        "answers": [
+          { "id": 1, "value": "spoon" },
+          { "id": 2, "value": "knife" },
+          { "id": 3, "value": "plate" },
+          { "id": 4, "value": "bowl" },
+          { "id": 5, "value": "cup" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'She gave him a spoon to eat his soup,' what does 'spoon' mean?",
+        "answers": [
+          { "id": 1, "value": "A utensil with a small bowl for eating" },
+          { "id": 2, "value": "A large pot" },
+          { "id": 3, "value": "A glass for drinking" },
+          { "id": 4, "value": "A piece of clothing" },
+          { "id": 5, "value": "A book for reading" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is closely related to 'spoon'?",
+        "answers": [
+          { "id": 1, "value": "fork" },
+          { "id": 2, "value": "cup" },
+          { "id": 3, "value": "plate" },
+          { "id": 4, "value": "knife" },
+          { "id": 5, "value": "pan" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'He held the spoon carefully as he ate,' what does 'spoon' mean?",
+        "answers": [
+          { "id": 1, "value": "A utensil for eating or stirring food" },
+          { "id": 2, "value": "A type of food" },
+          { "id": 3, "value": "A book" },
+          { "id": 4, "value": "A seat" },
+          { "id": 5, "value": "A jacket" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "stage",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'stage' mean in a theater context?",
+        "answers": [
+          { "id": 1, "value": "A platform where performances take place" },
+          { "id": 2, "value": "A type of seat for the audience" },
+          { "id": 3, "value": "A sound system" },
+          { "id": 4, "value": "A ticket booth" },
+          { "id": 5, "value": "A dressing room" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The actors walked onto the _______ to begin their performance.",
+        "answers": [
+          { "id": 1, "value": "stage" },
+          { "id": 2, "value": "floor" },
+          { "id": 3, "value": "desk" },
+          { "id": 4, "value": "audience" },
+          { "id": 5, "value": "light" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'The stage was set up with bright lights for the play,' what does 'stage' mean?",
+        "answers": [
+          { "id": 1, "value": "A platform for performing" },
+          { "id": 2, "value": "A food counter" },
+          { "id": 3, "value": "A resting area" },
+          { "id": 4, "value": "A type of curtain" },
+          { "id": 5, "value": "A back entrance" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is related to 'stage'?",
+        "answers": [
+          { "id": 1, "value": "platform" },
+          { "id": 2, "value": "seat" },
+          { "id": 3, "value": "desk" },
+          { "id": 4, "value": "screen" },
+          { "id": 5, "value": "lobby" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'She felt nervous standing on the stage,' what does 'stage' mean?",
+        "answers": [
+          { "id": 1, "value": "A platform for performances" },
+          { "id": 2, "value": "A seating area" },
+          { "id": 3, "value": "A ticket booth" },
+          { "id": 4, "value": "A makeup room" },
+          { "id": 5, "value": "A restaurant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

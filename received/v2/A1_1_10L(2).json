@@ -1,0 +1,49 @@
+{
+  "passage": {
+    "first_sentence": "Sara and her friends love spending weekends together.",
+    "shuffled_sentences": [
+      "They enjoy playing hockey and sometimes go fishing by the lake.",
+      "If the weather is warm, they take a boat and sail on the river.",
+      "In the evening, they listen to jazz music and tell jokes, filling the night with laughter."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Everyone has a great time with their friends and pets." },
+      { "id": 2, "value": "They enjoy dancing to musical tunes all night long." },
+      { "id": 3, "value": "They end the night with a jump into the lake for fun." },
+      { "id": 4, "value": "Spending time together like this always makes them happy." }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the following sentences to reflect the correct order in the passage:",
+      "answers": [
+        { "id": 1, "value": "They enjoy playing hockey and sometimes go fishing by the lake." },
+        { "id": 2, "value": "If the weather is warm, they take a boat and sail on the river." },
+        { "id": 3, "value": "In the evening, they listen to jazz music and tell jokes, filling the night with laughter." }
+      ],
+      "correct_answers": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order is: First, they play hockey or go fishing. Then, they sail if it’s warm. Finally, they relax with music and jokes in the evening.",
+        "vietnamese": "Trật tự đúng là: Đầu tiên, họ chơi khúc côn cầu hoặc đi câu cá. Sau đó, nếu trời ấm, họ đi thuyền. Cuối cùng, họ thư giãn với âm nhạc và kể chuyện cười vào buổi tối."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Everyone has a great time with their friends and pets." },
+        { "id": 2, "value": "They enjoy dancing to musical tunes all night long." },
+        { "id": 3, "value": "They end the night with a jump into the lake for fun." },
+        { "id": 4, "value": "Spending time together like this always makes them happy." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "The best answer is 'Spending time together like this always makes them happy' because it connects well with the joy and activities they share.",
+        "vietnamese": "Câu trả lời đúng là 'Dành thời gian cùng nhau như thế này luôn làm họ vui vẻ' vì nó kết nối tốt với niềm vui và các hoạt động họ chia sẻ."
+      }
+    }
+  ]
+}

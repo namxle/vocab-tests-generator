@@ -1,0 +1,49 @@
+{
+  "passage": {
+    "first_sentence": "Emma and her classmates had a fun day at school preparing for a special show.",
+    "shuffled_sentences": [
+      "They wrote a short essay about their favorite toys and shared it with the class.",
+      "After that, they practiced an act on stage where each student played a different role.",
+      "At the end of the day, their teacher gave them a sweet treat for all their hard work."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Emma couldn’t wait to show her family what she learned at school." },
+      { "id": 2, "value": "Emma felt very tired after a boring day at school." },
+      { "id": 3, "value": "They forgot to bring their favorite toys to class." },
+      { "id": 4, "value": "They decided to stop the show and go back home early." }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the following sentences to reflect the correct order in the passage:",
+      "answers": [
+        { "id": 1, "value": "They wrote a short essay about their favorite toys and shared it with the class." },
+        { "id": 2, "value": "After that, they practiced an act on stage where each student played a different role." },
+        { "id": 3, "value": "At the end of the day, their teacher gave them a sweet treat for all their hard work." }
+      ],
+      "correct_answers": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order is: First, they wrote essays about their favorite toys. Then, they practiced an act on stage. Finally, their teacher rewarded them with a treat.",
+        "vietnamese": "Trật tự đúng là: Đầu tiên, họ viết bài luận về đồ chơi yêu thích của mình. Sau đó, họ diễn tập trên sân khấu. Cuối cùng, giáo viên tặng họ một món quà ngọt."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Emma couldn’t wait to show her family what she learned at school." },
+        { "id": 2, "value": "Emma felt very tired after a boring day at school." },
+        { "id": 3, "value": "They forgot to bring their favorite toys to class." },
+        { "id": 4, "value": "They decided to stop the show and go back home early." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The best answer is 'Emma couldn’t wait to show her family what she learned at school' because it shows her excitement and pride in the day’s activities.",
+        "vietnamese": "Câu trả lời đúng là 'Emma rất nóng lòng muốn cho gia đình thấy những gì cô ấy đã học ở trường' vì nó thể hiện sự hào hứng và tự hào của cô ấy về các hoạt động trong ngày."
+      }
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "word": "top",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'top' mean?",
+        "answers": [
+          { "id": 1, "value": "The highest or uppermost part of something" },
+          { "id": 2, "value": "The bottom of an object" },
+          { "id": 3, "value": "A kind of plant" },
+          { "id": 4, "value": "A tool for cooking" },
+          { "id": 5, "value": "The back of an object" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She climbed to the _______ of the mountain.",
+        "answers": [
+          { "id": 1, "value": "top" },
+          { "id": 2, "value": "bottom" },
+          { "id": 3, "value": "side" },
+          { "id": 4, "value": "end" },
+          { "id": 5, "value": "front" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He placed the book on top of the stack,' what does 'top' mean?",
+        "answers": [
+          { "id": 1, "value": "The highest point or part" },
+          { "id": 2, "value": "The lowest part" },
+          { "id": 3, "value": "The side of the stack" },
+          { "id": 4, "value": "The inside of the stack" },
+          { "id": 5, "value": "The middle of the stack" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is most similar to 'top'?",
+        "answers": [
+          { "id": 1, "value": "peak" },
+          { "id": 2, "value": "bottom" },
+          { "id": 3, "value": "side" },
+          { "id": 4, "value": "base" },
+          { "id": 5, "value": "edge" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'She reached the top of the ladder,' what does 'top' mean?",
+        "answers": [
+          { "id": 1, "value": "The highest point" },
+          { "id": 2, "value": "The middle" },
+          { "id": 3, "value": "The bottom" },
+          { "id": 4, "value": "The side" },
+          { "id": 5, "value": "The back" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mine",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'mine' mean?",
+        "answers": [
+          { "id": 1, "value": "Something that belongs to me" },
+          { "id": 2, "value": "Something given away" },
+          { "id": 3, "value": "A type of plant" },
+          { "id": 4, "value": "A place for animals" },
+          { "id": 5, "value": "A type of food" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "That book is _______; I borrowed it from my friend.",
+        "answers": [
+          { "id": 1, "value": "mine" },
+          { "id": 2, "value": "ours" },
+          { "id": 3, "value": "theirs" },
+          { "id": 4, "value": "hers" },
+          { "id": 5, "value": "yours" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'The book on the table is mine,' what does 'mine' mean?",
+        "answers": [
+          { "id": 1, "value": "Belonging to me" },
+          { "id": 2, "value": "Belonging to someone else" },
+          { "id": 3, "value": "A gift" },
+          { "id": 4, "value": "Something borrowed" },
+          { "id": 5, "value": "A type of food" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is the opposite of 'mine'?",
+        "answers": [
+          { "id": 1, "value": "yours" },
+          { "id": 2, "value": "ours" },
+          { "id": 3, "value": "theirs" },
+          { "id": 4, "value": "his" },
+          { "id": 5, "value": "mine" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'Is this jacket yours or mine?' what does 'mine' mean?",
+        "answers": [
+          { "id": 1, "value": "Belonging to me" },
+          { "id": 2, "value": "Belonging to you" },
+          { "id": 3, "value": "Belonging to them" },
+          { "id": 4, "value": "Belonging to her" },
+          { "id": 5, "value": "Belonging to everyone" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bear",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'bear'?",
+        "answers": [
+          { "id": 1, "value": "A large animal with thick fur, often found in forests" },
+          { "id": 2, "value": "A type of fruit" },
+          { "id": 3, "value": "A small insect" },
+          { "id": 4, "value": "A kind of bird" },
+          { "id": 5, "value": "A kitchen utensil" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ wandered through the forest looking for food.",
+        "answers": [
+          { "id": 1, "value": "bear" },
+          { "id": 2, "value": "dog" },
+          { "id": 3, "value": "cat" },
+          { "id": 4, "value": "bird" },
+          { "id": 5, "value": "fish" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'We saw a bear in the forest during our hike,' what does 'bear' mean?",
+        "answers": [
+          { "id": 1, "value": "A large animal with thick fur" },
+          { "id": 2, "value": "A small insect" },
+          { "id": 3, "value": "A type of tree" },
+          { "id": 4, "value": "A rock formation" },
+          { "id": 5, "value": "A cooking tool" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is similar to 'bear'?",
+        "answers": [
+          { "id": 1, "value": "animal" },
+          { "id": 2, "value": "plant" },
+          { "id": 3, "value": "fish" },
+          { "id": 4, "value": "stone" },
+          { "id": 5, "value": "flower" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'The bear hibernates during the winter,' what does 'bear' mean?",
+        "answers": [
+          { "id": 1, "value": "A large animal with fur" },
+          { "id": 2, "value": "A place to store food" },
+          { "id": 3, "value": "A tree in the forest" },
+          { "id": 4, "value": "A type of food" },
+          { "id": 5, "value": "A type of bag" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bone",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'bone'?",
+        "answers": [
+          { "id": 1, "value": "A hard structure that forms the skeleton in animals" },
+          { "id": 2, "value": "A type of muscle" },
+          { "id": 3, "value": "A soft tissue in the body" },
+          { "id": 4, "value": "A type of feather" },
+          { "id": 5, "value": "A part of a plant" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Dogs love to chew on a _______.",
+        "answers": [
+          { "id": 1, "value": "bone" },
+          { "id": 2, "value": "leaf" },
+          { "id": 3, "value": "stick" },
+          { "id": 4, "value": "rope" },
+          { "id": 5, "value": "plate" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'She broke a bone in her arm,' what does 'bone' mean?",
+        "answers": [
+          { "id": 1, "value": "A hard structure in the body" },
+          { "id": 2, "value": "A type of muscle" },
+          { "id": 3, "value": "A part of a plant" },
+          { "id": 4, "value": "A kind of feather" },
+          { "id": 5, "value": "A piece of furniture" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is related to 'bone'?",
+        "answers": [
+          { "id": 1, "value": "skeleton" },
+          { "id": 2, "value": "skin" },
+          { "id": 3, "value": "feather" },
+          { "id": 4, "value": "branch" },
+          { "id": 5, "value": "leaf" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'The bone helps support the body,' what does 'bone' mean?",
+        "answers": [
+          { "id": 1, "value": "A hard part of the skeleton" },
+          { "id": 2, "value": "A muscle used for movement" },
+          { "id": 3, "value": "A type of leaf" },
+          { "id": 4, "value": "A branch of a tree" },
+          { "id": 5, "value": "A part of a flower" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dry",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'dry' mean?",
+        "answers": [
+          { "id": 1, "value": "Without moisture or water" },
+          { "id": 2, "value": "Full of water" },
+          { "id": 3, "value": "Very cold" },
+          { "id": 4, "value": "Full of salt" },
+          { "id": 5, "value": "Extremely hot" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ground was _______ because it hadn't rained in weeks.",
+        "answers": [
+          { "id": 1, "value": "dry" },
+          { "id": 2, "value": "wet" },
+          { "id": 3, "value": "cold" },
+          { "id": 4, "value": "soft" },
+          { "id": 5, "value": "frozen" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Her clothes were finally dry after hanging outside all day,' what does 'dry' mean?",
+        "answers": [
+          { "id": 1, "value": "Without moisture" },
+          { "id": 2, "value": "Very warm" },
+          { "id": 3, "value": "Cold and wet" },
+          { "id": 4, "value": "Soft and smooth" },
+          { "id": 5, "value": "Filled with water" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is the opposite of 'dry'?",
+        "answers": [
+          { "id": 1, "value": "wet" },
+          { "id": 2, "value": "cold" },
+          { "id": 3, "value": "soft" },
+          { "id": 4, "value": "warm" },
+          { "id": 5, "value": "hard" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'The desert is a very dry place,' what does 'dry' mean?",
+        "answers": [
+          { "id": 1, "value": "Lacking water or moisture" },
+          { "id": 2, "value": "Full of plants and trees" },
+          { "id": 3, "value": "Very cold" },
+          { "id": 4, "value": "Full of ice" },
+          { "id": 5, "value": "Always snowy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "farm",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'farm'?",
+        "answers": [
+          { "id": 1, "value": "A place where crops are grown and animals are raised" },
+          { "id": 2, "value": "A kind of factory" },
+          { "id": 3, "value": "A large forest" },
+          { "id": 4, "value": "A type of school" },
+          { "id": 5, "value": "A hospital for animals" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They visited a _______ to see the cows and sheep.",
+        "answers": [
+          { "id": 1, "value": "farm" },
+          { "id": 2, "value": "school" },
+          { "id": 3, "value": "beach" },
+          { "id": 4, "value": "factory" },
+          { "id": 5, "value": "forest" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'She grew up on a farm with lots of animals,' what does 'farm' mean?",
+        "answers": [
+          { "id": 1, "value": "A place for raising animals and growing crops" },
+          { "id": 2, "value": "A large shopping mall" },
+          { "id": 3, "value": "A restaurant in the city" },
+          { "id": 4, "value": "A small apartment" },
+          { "id": 5, "value": "A mountain cabin" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is closely related to 'farm'?",
+        "answers": [
+          { "id": 1, "value": "ranch" },
+          { "id": 2, "value": "hospital" },
+          { "id": 3, "value": "bridge" },
+          { "id": 4, "value": "river" },
+          { "id": 5, "value": "kitchen" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'The farm was filled with animals and fields of crops,' what does 'farm' mean?",
+        "answers": [
+          { "id": 1, "value": "A place for raising animals and growing crops" },
+          { "id": 2, "value": "A hospital for animals" },
+          { "id": 3, "value": "A large hotel" },
+          { "id": 4, "value": "A beach with sand" },
+          { "id": 5, "value": "A small village" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dark",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'dark' mean?",
+        "answers": [
+          { "id": 1, "value": "Having little or no light" },
+          { "id": 2, "value": "Being very cold" },
+          { "id": 3, "value": "Being very loud" },
+          { "id": 4, "value": "Being very fast" },
+          { "id": 5, "value": "Full of colors" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It was so _______ outside that we needed a flashlight.",
+        "answers": [
+          { "id": 1, "value": "dark" },
+          { "id": 2, "value": "loud" },
+          { "id": 3, "value": "warm" },
+          { "id": 4, "value": "slow" },
+          { "id": 5, "value": "tall" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'The room was dark because the lights were off,' what does 'dark' mean?",
+        "answers": [
+          { "id": 1, "value": "Having little or no light" },
+          { "id": 2, "value": "Very cold" },
+          { "id": 3, "value": "Very small" },
+          { "id": 4, "value": "Very quiet" },
+          { "id": 5, "value": "Very colorful" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is the opposite of 'dark'?",
+        "answers": [
+          { "id": 1, "value": "bright" },
+          { "id": 2, "value": "cold" },
+          { "id": 3, "value": "long" },
+          { "id": 4, "value": "deep" },
+          { "id": 5, "value": "shiny" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'The night was dark without the moon,' what does 'dark' mean?",
+        "answers": [
+          { "id": 1, "value": "Having no light" },
+          { "id": 2, "value": "Very warm" },
+          { "id": 3, "value": "Very noisy" },
+          { "id": 4, "value": "Full of colors" },
+          { "id": 5, "value": "Very soft" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "nut",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'nut'?",
+        "answers": [
+          { "id": 1, "value": "A hard-shelled fruit often eaten as a snack" },
+          { "id": 2, "value": "A type of bird" },
+          { "id": 3, "value": "A large rock" },
+          { "id": 4, "value": "A kind of tree" },
+          { "id": 5, "value": "A vegetable that grows underground" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She had a handful of _______ as a snack.",
+        "answers": [
+          { "id": 1, "value": "nuts" },
+          { "id": 2, "value": "stones" },
+          { "id": 3, "value": "leaves" },
+          { "id": 4, "value": "flowers" },
+          { "id": 5, "value": "books" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Squirrels love to gather nuts in the fall,' what does 'nuts' mean?",
+        "answers": [
+          { "id": 1, "value": "Hard-shelled fruits often eaten as snacks" },
+          { "id": 2, "value": "Small animals" },
+          { "id": 3, "value": "Birds that fly south" },
+          { "id": 4, "value": "A type of rock" },
+          { "id": 5, "value": "A type of leaf" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is closely related to 'nut'?",
+        "answers": [
+          { "id": 1, "value": "almond" },
+          { "id": 2, "value": "apple" },
+          { "id": 3, "value": "rose" },
+          { "id": 4, "value": "rock" },
+          { "id": 5, "value": "river" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'She added nuts to the salad for extra crunch,' what does 'nuts' mean?",
+        "answers": [
+          { "id": 1, "value": "Hard-shelled edible seeds" },
+          { "id": 2, "value": "Small pieces of bread" },
+          { "id": 3, "value": "A type of plant" },
+          { "id": 4, "value": "Soft cheese" },
+          { "id": 5, "value": "Frozen fruit" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "route",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does 'route' mean?",
+        "answers": [
+          { "id": 1, "value": "A path or way to get somewhere" },
+          { "id": 2, "value": "A type of map" },
+          { "id": 3, "value": "A kind of street sign" },
+          { "id": 4, "value": "A type of vehicle" },
+          { "id": 5, "value": "A small village" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They took the shortest _______ to reach the park.",
+        "answers": [
+          { "id": 1, "value": "route" },
+          { "id": 2, "value": "river" },
+          { "id": 3, "value": "hill" },
+          { "id": 4, "value": "car" },
+          { "id": 5, "value": "bike" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'She planned the best route for their road trip,' what does 'route' mean?",
+        "answers": [
+          { "id": 1, "value": "A path or way to get somewhere" },
+          { "id": 2, "value": "A type of food" },
+          { "id": 3, "value": "A radio station" },
+          { "id": 4, "value": "A kind of rock" },
+          { "id": 5, "value": "A large building" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these words is similar to 'route'?",
+        "answers": [
+          { "id": 1, "value": "path" },
+          { "id": 2, "value": "river" },
+          { "id": 3, "value": "lake" },
+          { "id": 4, "value": "mountain" },
+          { "id": 5, "value": "book" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'He checked the route on the map before starting the hike,' what does 'route' mean?",
+        "answers": [
+          { "id": 1, "value": "A way to get somewhere" },
+          { "id": 2, "value": "A part of the forest" },
+          { "id": 3, "value": "A small hill" },
+          { "id": 4, "value": "A book of maps" },
+          { "id": 5, "value": "A type of backpack" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wood",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is 'wood'?",
+        "answers": [
+          { "id": 1, "value": "The hard material from trees used for building" },
+          { "id": 2, "value": "A type of metal" },
+          { "id": 3, "value": "A kind of animal" },
+          { "id": 4, "value": "A small hill" },
+          { "id": 5, "value": "A plastic material" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The table was made of solid _______.",
+        "answers": [
+          { "id": 1, "value": "wood" },
+          { "id": 2, "value": "metal" },
+          { "id": 3, "value": "cloth" },
+          { "id": 4, "value": "paper" },
+          { "id": 5, "value": "stone" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'They collected wood for the campfire,' what does 'wood' mean?",
+        "answers": [
+          { "id": 1, "value": "The hard material from trees" },
+          { "id": 2, "value": "A type of metal" },
+          { "id": 3, "value": "A kind of animal" },
+          { "id": 4, "value": "A small book" },
+          { "id": 5, "value": "A type of water" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these items is made from 'wood'?",
+        "answers": [
+          { "id": 1, "value": "furniture" },
+          { "id": 2, "value": "cloth" },
+          { "id": 3, "value": "metal" },
+          { "id": 4, "value": "plastic" },
+          { "id": 5, "value": "paper" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They built a small house using wood,' what does 'wood' mean?",
+        "answers": [
+          { "id": 1, "value": "Material from trees used for building" },
+          { "id": 2, "value": "A type of fabric" },
+          { "id": 3, "value": "A kind of metal" },
+          { "id": 4, "value": "A tool for cooking" },
+          { "id": 5, "value": "A type of plant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

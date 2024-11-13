@@ -1,0 +1,49 @@
+{
+  "passage": {
+    "first_sentence": "Anna moved into an old house with her family near the countryside.",
+    "shuffled_sentences": [
+      "The house had wooden floors and a thick carpet downstairs in the living room.",
+      "While unpacking, Anna tripped on the stairs and twisted her ankle.",
+      "Her mother went to the kitchen to boil some water for tea and prepare dinner with beans and rice."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Everyone was glad to finally relax after a busy moving day." },
+      { "id": 2, "value": "Anna wished they could move to a different house." },
+      { "id": 3, "value": "They decided to stay outside and camp instead." },
+      { "id": 4, "value": "They worried about unpacking everything before it got dark." }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the following sentences to reflect the correct order in the passage:",
+      "answers": [
+        { "id": 1, "value": "The house had wooden floors and a thick carpet downstairs in the living room." },
+        { "id": 2, "value": "While unpacking, Anna tripped on the stairs and twisted her ankle." },
+        { "id": 3, "value": "Her mother went to the kitchen to boil some water for tea and prepare dinner with beans and rice." }
+      ],
+      "correct_answers": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order is: First, they noticed the wooden floors and carpet. Then, Anna twisted her ankle. Finally, her mother prepared tea and dinner.",
+        "vietnamese": "Trật tự đúng là: Đầu tiên, họ nhận thấy sàn gỗ và thảm. Sau đó, Anna bị trật mắt cá chân. Cuối cùng, mẹ cô chuẩn bị trà và bữa tối."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Everyone was glad to finally relax after a busy moving day." },
+        { "id": 2, "value": "Anna wished they could move to a different house." },
+        { "id": 3, "value": "They decided to stay outside and camp instead." },
+        { "id": 4, "value": "They worried about unpacking everything before it got dark." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The best answer is 'Everyone was glad to finally relax after a busy moving day' because it reflects the end of the day and the feeling of relief after moving.",
+        "vietnamese": "Câu trả lời đúng là 'Mọi người đều vui mừng khi được thư giãn sau một ngày chuyển nhà bận rộn' vì nó thể hiện kết thúc ngày và cảm giác nhẹ nhõm sau khi dọn nhà."
+      }
+    }
+  ]
+}

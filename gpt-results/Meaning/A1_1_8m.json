@@ -1,0 +1,702 @@
+[
+  {
+    "word": "basketball",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is the meaning of 'basketball'?",
+        "answers": [
+          { "id": 1, "value": "A game played by two teams where players try to score by shooting a ball through a hoop" },
+          { "id": 2, "value": "A game played by hitting a small ball with a bat and running around bases" },
+          { "id": 3, "value": "An outdoor activity involving tents and cooking in nature" },
+          { "id": 4, "value": "A competition where players drive a ball into a series of holes" },
+          { "id": 5, "value": "A board game where players move pieces across a grid" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She plays _______ every weekend with her friends at the local court.",
+        "answers": [
+          { "id": 1, "value": "basketball" },
+          { "id": 2, "value": "golf" },
+          { "id": 3, "value": "soccer" },
+          { "id": 4, "value": "baseball" },
+          { "id": 5, "value": "tennis" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Basketball requires both skill and teamwork to succeed,' what does 'basketball' refer to?",
+        "answers": [
+          { "id": 1, "value": "A sport involving shooting a ball into a hoop" },
+          { "id": 2, "value": "A form of solo exercise" },
+          { "id": 3, "value": "A form of track racing" },
+          { "id": 4, "value": "A water sport with diving" },
+          { "id": 5, "value": "A card game played in pairs" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of the following is related to 'basketball'?",
+        "answers": [
+          { "id": 1, "value": "hoop" },
+          { "id": 2, "value": "net" },
+          { "id": 3, "value": "stick" },
+          { "id": 4, "value": "swing" },
+          { "id": 5, "value": "goggles" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They scored the final basket in the basketball game,' what does 'basketball' mean?",
+        "answers": [
+          { "id": 1, "value": "A team sport with a ball and hoop" },
+          { "id": 2, "value": "A fast car race" },
+          { "id": 3, "value": "A game with cards" },
+          { "id": 4, "value": "A style of cooking" },
+          { "id": 5, "value": "A form of music performance" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "baseball",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is 'baseball'?",
+        "answers": [
+          { "id": 1, "value": "A sport where players hit a ball with a bat and run to bases" },
+          { "id": 2, "value": "A water sport played with paddles" },
+          { "id": 3, "value": "A solo exercise involving weightlifting" },
+          { "id": 4, "value": "A card game for two players" },
+          { "id": 5, "value": "A team sport with a net and a shuttlecock" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He bought a new _______ glove to use at the game on Saturday.",
+        "answers": [
+          { "id": 1, "value": "baseball" },
+          { "id": 2, "value": "basketball" },
+          { "id": 3, "value": "football" },
+          { "id": 4, "value": "soccer" },
+          { "id": 5, "value": "tennis" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Baseball is a popular sport in the United States,' what does 'baseball' mean?",
+        "answers": [
+          { "id": 1, "value": "A game with a bat, ball, and bases" },
+          { "id": 2, "value": "A sport with hoops and nets" },
+          { "id": 3, "value": "An event for swimming and diving" },
+          { "id": 4, "value": "A table game with pieces" },
+          { "id": 5, "value": "A car race across tracks" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is related to 'baseball'?",
+        "answers": [
+          { "id": 1, "value": "bat" },
+          { "id": 2, "value": "racket" },
+          { "id": 3, "value": "paddle" },
+          { "id": 4, "value": "helmet" },
+          { "id": 5, "value": "goggles" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'The pitcher threw a fastball in the baseball game,' what does 'baseball' mean?",
+        "answers": [
+          { "id": 1, "value": "A game where players hit a ball with a bat" },
+          { "id": 2, "value": "A board game with a dice" },
+          { "id": 3, "value": "A form of track racing" },
+          { "id": 4, "value": "A water sport with diving" },
+          { "id": 5, "value": "A card game played with a deck" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "camping",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is the meaning of 'camping'?",
+        "answers": [
+          { "id": 1, "value": "An outdoor activity involving tents and spending the night outside" },
+          { "id": 2, "value": "A race across a water track" },
+          { "id": 3, "value": "An indoor game involving cards" },
+          { "id": 4, "value": "A skill-based competition using computers" },
+          { "id": 5, "value": "A cooking competition" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They went _______ by the lake to enjoy nature and cook outdoors.",
+        "answers": [
+          { "id": 1, "value": "camping" },
+          { "id": 2, "value": "swimming" },
+          { "id": 3, "value": "skating" },
+          { "id": 4, "value": "boating" },
+          { "id": 5, "value": "climbing" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Camping allows people to relax in nature and spend the night outdoors,' what does 'camping' mean?",
+        "answers": [
+          { "id": 1, "value": "Staying outside in a tent" },
+          { "id": 2, "value": "Racing in a car" },
+          { "id": 3, "value": "Playing cards" },
+          { "id": 4, "value": "Cooking indoors" },
+          { "id": 5, "value": "Sailing on a boat" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of the following activities is related to 'camping'?",
+        "answers": [
+          { "id": 1, "value": "hiking" },
+          { "id": 2, "value": "typing" },
+          { "id": 3, "value": "painting" },
+          { "id": 4, "value": "dancing" },
+          { "id": 5, "value": "gardening" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They packed their tent and sleeping bags for a weekend of camping,' what does 'camping' mean?",
+        "answers": [
+          { "id": 1, "value": "An outdoor activity with tents" },
+          { "id": 2, "value": "A type of card game" },
+          { "id": 3, "value": "A cooking style" },
+          { "id": 4, "value": "A racing event" },
+          { "id": 5, "value": "A dance performance" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bowl",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'bowl'?",
+        "answers": [
+          { "id": 1, "value": "A round dish used for holding food or liquids" },
+          { "id": 2, "value": "A flat surface for cutting food" },
+          { "id": 3, "value": "A tool used for cooking on a stove" },
+          { "id": 4, "value": "A glass used for drinking" },
+          { "id": 5, "value": "A machine for grinding spices" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She poured the soup into a _______ before serving it.",
+        "answers": [
+          { "id": 1, "value": "bowl" },
+          { "id": 2, "value": "cupboard" },
+          { "id": 3, "value": "glass" },
+          { "id": 4, "value": "jar" },
+          { "id": 5, "value": "pan" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He ate cereal out of a large bowl,' what does 'bowl' mean?",
+        "answers": [
+          { "id": 1, "value": "A round dish for holding food" },
+          { "id": 2, "value": "A small cup for tea" },
+          { "id": 3, "value": "A cooking pot for stew" },
+          { "id": 4, "value": "A pan for frying" },
+          { "id": 5, "value": "A box for storing spices" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is closely related to a 'bowl'?",
+        "answers": [
+          { "id": 1, "value": "dish" },
+          { "id": 2, "value": "pan" },
+          { "id": 3, "value": "oven" },
+          { "id": 4, "value": "knife" },
+          { "id": 5, "value": "fork" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'He mixed the salad in a large bowl,' what does 'bowl' mean?",
+        "answers": [
+          { "id": 1, "value": "A round container for food" },
+          { "id": 2, "value": "A pot for cooking" },
+          { "id": 3, "value": "A frying pan" },
+          { "id": 4, "value": "A small cup" },
+          { "id": 5, "value": "A glass for water" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cupboard",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'cupboard'?",
+        "answers": [
+          { "id": 1, "value": "A cabinet for storing items like dishes and food" },
+          { "id": 2, "value": "A tool for mixing food" },
+          { "id": 3, "value": "A table for cutting vegetables" },
+          { "id": 4, "value": "A large pot for cooking" },
+          { "id": 5, "value": "A type of sink" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She kept the plates in the _______ above the counter.",
+        "answers": [
+          { "id": 1, "value": "cupboard" },
+          { "id": 2, "value": "drawer" },
+          { "id": 3, "value": "bowl" },
+          { "id": 4, "value": "sink" },
+          { "id": 5, "value": "fridge" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'The cups are stored in the cupboard next to the sink,' what does 'cupboard' mean?",
+        "answers": [
+          { "id": 1, "value": "A cabinet for storing items" },
+          { "id": 2, "value": "A drawer for utensils" },
+          { "id": 3, "value": "A refrigerator" },
+          { "id": 4, "value": "A dishwasher" },
+          { "id": 5, "value": "A stove" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is most similar to a 'cupboard'?",
+        "answers": [
+          { "id": 1, "value": "cabinet" },
+          { "id": 2, "value": "fridge" },
+          { "id": 3, "value": "oven" },
+          { "id": 4, "value": "microwave" },
+          { "id": 5, "value": "stove" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'She opened the cupboard to find a clean plate,' what does 'cupboard' mean?",
+        "answers": [
+          { "id": 1, "value": "A place to store kitchen items" },
+          { "id": 2, "value": "A drawer for small items" },
+          { "id": 3, "value": "A fridge for cooling food" },
+          { "id": 4, "value": "A sink for washing dishes" },
+          { "id": 5, "value": "A stove for cooking" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "draw",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does it mean to 'draw'?",
+        "answers": [
+          { "id": 1, "value": "To make a picture with a pen, pencil, or similar tool" },
+          { "id": 2, "value": "To cook food on a stove" },
+          { "id": 3, "value": "To run quickly" },
+          { "id": 4, "value": "To sleep for a long time" },
+          { "id": 5, "value": "To play music" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He used a pencil to _______ a picture of the mountain.",
+        "answers": [
+          { "id": 1, "value": "draw" },
+          { "id": 2, "value": "cook" },
+          { "id": 3, "value": "bake" },
+          { "id": 4, "value": "paint" },
+          { "id": 5, "value": "write" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'She likes to draw animals in her sketchbook,' what does 'draw' mean?",
+        "answers": [
+          { "id": 1, "value": "To make a picture" },
+          { "id": 2, "value": "To erase something" },
+          { "id": 3, "value": "To dance" },
+          { "id": 4, "value": "To cut" },
+          { "id": 5, "value": "To type" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is similar to 'draw'?",
+        "answers": [
+          { "id": 1, "value": "sketch" },
+          { "id": 2, "value": "erase" },
+          { "id": 3, "value": "write" },
+          { "id": 4, "value": "read" },
+          { "id": 5, "value": "cut" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'He likes to draw different designs with colored pencils,' what does 'draw' mean?",
+        "answers": [
+          { "id": 1, "value": "To make a picture" },
+          { "id": 2, "value": "To fold something" },
+          { "id": 3, "value": "To eat" },
+          { "id": 4, "value": "To sing" },
+          { "id": 5, "value": "To shout" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cook",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does it mean to 'cook'?",
+        "answers": [
+          { "id": 1, "value": "To prepare food by heating it" },
+          { "id": 2, "value": "To draw pictures" },
+          { "id": 3, "value": "To plant vegetables" },
+          { "id": 4, "value": "To clean dishes" },
+          { "id": 5, "value": "To wash clothes" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She likes to _______ dinner for her family every evening.",
+        "answers": [
+          { "id": 1, "value": "cook" },
+          { "id": 2, "value": "write" },
+          { "id": 3, "value": "dance" },
+          { "id": 4, "value": "paint" },
+          { "id": 5, "value": "sing" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He decided to cook pasta for dinner,' what does 'cook' mean?",
+        "answers": [
+          { "id": 1, "value": "To prepare food by heating" },
+          { "id": 2, "value": "To draw a picture" },
+          { "id": 3, "value": "To run a race" },
+          { "id": 4, "value": "To clean something" },
+          { "id": 5, "value": "To watch a movie" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which word is related to 'cook'?",
+        "answers": [
+          { "id": 1, "value": "bake" },
+          { "id": 2, "value": "sketch" },
+          { "id": 3, "value": "read" },
+          { "id": 4, "value": "write" },
+          { "id": 5, "value": "run" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'She likes to cook meals with fresh ingredients,' what does 'cook' mean?",
+        "answers": [
+          { "id": 1, "value": "To prepare food by heating it" },
+          { "id": 2, "value": "To draw something" },
+          { "id": 3, "value": "To write a story" },
+          { "id": 4, "value": "To play a game" },
+          { "id": 5, "value": "To fix something" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cartoon",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is a 'cartoon'?",
+        "answers": [
+          { "id": 1, "value": "A drawing or animated show, often humorous" },
+          { "id": 2, "value": "A type of novel with chapters" },
+          { "id": 3, "value": "A form of dance" },
+          { "id": 4, "value": "A dramatic movie" },
+          { "id": 5, "value": "A musical concert" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children watched a funny _______ on Saturday morning.",
+        "answers": [
+          { "id": 1, "value": "cartoon" },
+          { "id": 2, "value": "documentary" },
+          { "id": 3, "value": "play" },
+          { "id": 4, "value": "sports game" },
+          { "id": 5, "value": "music video" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'He loves to draw cartoons of animals,' what does 'cartoons' mean?",
+        "answers": [
+          { "id": 1, "value": "Funny drawings" },
+          { "id": 2, "value": "Books with stories" },
+          { "id": 3, "value": "Songs about animals" },
+          { "id": 4, "value": "Photos of nature" },
+          { "id": 5, "value": "Paintings of landscapes" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is closely related to 'cartoon'?",
+        "answers": [
+          { "id": 1, "value": "animation" },
+          { "id": 2, "value": "drama" },
+          { "id": 3, "value": "song" },
+          { "id": 4, "value": "novel" },
+          { "id": 5, "value": "poem" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'They laughed at the cartoon because it was very funny,' what does 'cartoon' mean?",
+        "answers": [
+          { "id": 1, "value": "A humorous drawing or show" },
+          { "id": 2, "value": "A story in a book" },
+          { "id": 3, "value": "A serious movie" },
+          { "id": 4, "value": "A type of song" },
+          { "id": 5, "value": "A newspaper article" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "drive",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What does it mean to 'drive'?",
+        "answers": [
+          { "id": 1, "value": "To operate a vehicle, like a car" },
+          { "id": 2, "value": "To cook food" },
+          { "id": 3, "value": "To read a book" },
+          { "id": 4, "value": "To sing a song" },
+          { "id": 5, "value": "To build a house" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He learned how to _______ a car when he turned 18.",
+        "answers": [
+          { "id": 1, "value": "drive" },
+          { "id": 2, "value": "cook" },
+          { "id": 3, "value": "draw" },
+          { "id": 4, "value": "write" },
+          { "id": 5, "value": "clean" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'She likes to drive to work each day,' what does 'drive' mean?",
+        "answers": [
+          { "id": 1, "value": "To operate a vehicle" },
+          { "id": 2, "value": "To walk quickly" },
+          { "id": 3, "value": "To fly an airplane" },
+          { "id": 4, "value": "To ride a bicycle" },
+          { "id": 5, "value": "To clean the house" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is similar in meaning to 'drive'?",
+        "answers": [
+          { "id": 1, "value": "operate" },
+          { "id": 2, "value": "swim" },
+          { "id": 3, "value": "stop" },
+          { "id": 4, "value": "sit" },
+          { "id": 5, "value": "sing" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'He decided to drive instead of taking the bus,' what does 'drive' mean?",
+        "answers": [
+          { "id": 1, "value": "To use a car" },
+          { "id": 2, "value": "To ride a bike" },
+          { "id": 3, "value": "To walk" },
+          { "id": 4, "value": "To swim" },
+          { "id": 5, "value": "To fly a plane" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "golf",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Definition Recall (MCQ)",
+        "question_name": "What is 'golf'?",
+        "answers": [
+          { "id": 1, "value": "A sport where players try to hit a ball into a series of holes" },
+          { "id": 2, "value": "A type of car racing" },
+          { "id": 3, "value": "A water sport with diving" },
+          { "id": 4, "value": "A ball game played on a court" },
+          { "id": 5, "value": "A team sport with a net" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They went to the course to play a round of _______.",
+        "answers": [
+          { "id": 1, "value": "golf" },
+          { "id": 2, "value": "tennis" },
+          { "id": 3, "value": "basketball" },
+          { "id": 4, "value": "baseball" },
+          { "id": 5, "value": "soccer" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 3,
+        "type": "Context-Based Meaning (MCQ)",
+        "question_name": "In the sentence, 'Golf is a relaxing sport enjoyed by many,' what does 'golf' mean?",
+        "answers": [
+          { "id": 1, "value": "A sport with a ball and holes" },
+          { "id": 2, "value": "A type of music" },
+          { "id": 3, "value": "A card game" },
+          { "id": 4, "value": "A board game" },
+          { "id": 5, "value": "A dance form" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 4,
+        "type": "Synonyms/Antonyms (MCQ)",
+        "question_name": "Which of these is related to 'golf'?",
+        "answers": [
+          { "id": 1, "value": "course" },
+          { "id": 2, "value": "court" },
+          { "id": 3, "value": "field" },
+          { "id": 4, "value": "ring" },
+          { "id": 5, "value": "stage" }
+        ],
+        "correct_answers": [1]
+      },
+      {
+        "id": 5,
+        "type": "Context-Based Meaning (Sentence)",
+        "question_name": "In the sentence, 'He used a golf club to hit the ball,' what does 'golf' mean?",
+        "answers": [
+          { "id": 1, "value": "A sport involving hitting a ball into holes" },
+          { "id": 2, "value": "A style of dance" },
+          { "id": 3, "value": "A type of swimming" },
+          { "id": 4, "value": "A musical performance" },
+          { "id": 5, "value": "A bicycle race" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

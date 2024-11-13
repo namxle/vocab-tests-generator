@@ -1,0 +1,49 @@
+{
+  "passage": {
+    "first_sentence": "Jack and his friends planned a fun day at the park together.",
+    "shuffled_sentences": [
+      "Jack packed his backpack with snacks, including some lemons and sandwiches.",
+      "They decided to cycle around the park and stop to rest under a big tree.",
+      "In the evening, they went back to Jack’s house to watch a comedy movie together."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Everyone had a great time and wanted to do it again soon." },
+      { "id": 2, "value": "They got bored and decided to go home early." },
+      { "id": 3, "value": "They couldn’t find anything fun to do at the park." },
+      { "id": 4, "value": "They wished they had gone somewhere else for the day." }
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the following sentences to reflect the correct order in the passage:",
+      "answers": [
+        { "id": 1, "value": "Jack packed his backpack with snacks, including some lemons and sandwiches." },
+        { "id": 2, "value": "They decided to cycle around the park and stop to rest under a big tree." },
+        { "id": 3, "value": "In the evening, they went back to Jack’s house to watch a comedy movie together." }
+      ],
+      "correct_answers": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order is: First, Jack packed his backpack. Then, they cycled around the park and rested. Finally, they watched a comedy movie in the evening.",
+        "vietnamese": "Trật tự đúng là: Đầu tiên, Jack đóng gói ba lô của mình. Sau đó, họ đạp xe quanh công viên và nghỉ ngơi. Cuối cùng, họ xem một bộ phim hài vào buổi tối."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Everyone had a great time and wanted to do it again soon." },
+        { "id": 2, "value": "They got bored and decided to go home early." },
+        { "id": 3, "value": "They couldn’t find anything fun to do at the park." },
+        { "id": 4, "value": "They wished they had gone somewhere else for the day." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The best answer is 'Everyone had a great time and wanted to do it again soon' because it reflects the enjoyment they had during the day.",
+        "vietnamese": "Câu trả lời đúng là 'Mọi người đã có khoảng thời gian tuyệt vời và muốn lặp lại sớm' vì nó thể hiện sự thích thú của họ trong ngày."
+      }
+    }
+  ]
+}
