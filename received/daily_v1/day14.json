@@ -1,0 +1,182 @@
+[
+  {
+    "word": "kill",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hunter was not allowed to _______ any animals in the protected forest.",
+        "answers": [
+          { "id": 1, "value": "kill" },
+          { "id": 2, "value": "feed" },
+          { "id": 3, "value": "find" },
+          { "id": 4, "value": "save" },
+          { "id": 5, "value": "watch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "recognize",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She didn’t _______ him at first because he had grown a beard.",
+        "answers": [
+          { "id": 1, "value": "recognize" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "forget" },
+          { "id": 4, "value": "remember" },
+          { "id": 5, "value": "help" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They like to _______ for hours on the phone every evening.",
+        "answers": [
+          { "id": 1, "value": "talk" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "sleep" },
+          { "id": 4, "value": "read" },
+          { "id": 5, "value": "cook" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "twin",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She has a _______ brother who looks exactly like her.",
+        "answers": [
+          { "id": 1, "value": "twin" },
+          { "id": 2, "value": "younger" },
+          { "id": 3, "value": "older" },
+          { "id": 4, "value": "cousin" },
+          { "id": 5, "value": "friend" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "attention",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher asked the students to pay _______ during the lesson.",
+        "answers": [
+          { "id": 1, "value": "attention" },
+          { "id": 2, "value": "money" },
+          { "id": 3, "value": "respect" },
+          { "id": 4, "value": "interest" },
+          { "id": 5, "value": "help" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "argue",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They always _______ about whose turn it is to wash the dishes.",
+        "answers": [
+          { "id": 1, "value": "argue" },
+          { "id": 2, "value": "agree" },
+          { "id": 3, "value": "decide" },
+          { "id": 4, "value": "forget" },
+          { "id": 5, "value": "plan" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "audience",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ clapped loudly after the performance ended.",
+        "answers": [
+          { "id": 1, "value": "audience" },
+          { "id": 2, "value": "actors" },
+          { "id": 3, "value": "musicians" },
+          { "id": 4, "value": "speakers" },
+          { "id": 5, "value": "players" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chat",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They like to _______ online with their friends every weekend.",
+        "answers": [
+          { "id": 1, "value": "chat" },
+          { "id": 2, "value": "dance" },
+          { "id": 3, "value": "sing" },
+          { "id": 4, "value": "play" },
+          { "id": 5, "value": "jump" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dream",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She had a strange _______ last night about flying over the city.",
+        "answers": [
+          { "id": 1, "value": "dream" },
+          { "id": 2, "value": "thought" },
+          { "id": 3, "value": "wish" },
+          { "id": 4, "value": "plan" },
+          { "id": 5, "value": "goal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "broken",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The toy was _______ after it fell off the table.",
+        "answers": [
+          { "id": 1, "value": "broken" },
+          { "id": 2, "value": "fixed" },
+          { "id": 3, "value": "new" },
+          { "id": 4, "value": "missing" },
+          { "id": 5, "value": "old" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "fishing",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We spent the entire afternoon ______ by the lake, hoping to catch some trout.",
+        "answers": [
+          { "id": 1, "value": "fishing" },
+          { "id": 2, "value": "swimming" },
+          { "id": 3, "value": "sailing" },
+          { "id": 4, "value": "hiking" },
+          { "id": 5, "value": "camping" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hockey",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He broke his stick while playing a rough game of ______ on the ice.",
+        "answers": [
+          { "id": 1, "value": "hockey" },
+          { "id": 2, "value": "basketball" },
+          { "id": 3, "value": "soccer" },
+          { "id": 4, "value": "tennis" },
+          { "id": 5, "value": "golf" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "jam",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She spread strawberry ______ on her toast for breakfast.",
+        "answers": [
+          { "id": 1, "value": "jam" },
+          { "id": 2, "value": "butter" },
+          { "id": 3, "value": "cheese" },
+          { "id": 4, "value": "syrup" },
+          { "id": 5, "value": "honey" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "jazz",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Louis Armstrong was one of the greatest ______ musicians of all time.",
+        "answers": [
+          { "id": 1, "value": "jazz" },
+          { "id": 2, "value": "rock" },
+          { "id": 3, "value": "pop" },
+          { "id": 4, "value": "classical" },
+          { "id": 5, "value": "country" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "laughter",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The room was filled with ______ as everyone enjoyed the comedian's jokes.",
+        "answers": [
+          { "id": 1, "value": "laughter" },
+          { "id": 2, "value": "silence" },
+          { "id": 3, "value": "anger" },
+          { "id": 4, "value": "music" },
+          { "id": 5, "value": "whispering" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "joke",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Everyone laughed when he told a funny ______ during dinner.",
+        "answers": [
+          { "id": 1, "value": "joke" },
+          { "id": 2, "value": "story" },
+          { "id": 3, "value": "speech" },
+          { "id": 4, "value": "lecture" },
+          { "id": 5, "value": "song" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "musical",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The theater group performed a popular ______ featuring lots of singing and dancing.",
+        "answers": [
+          { "id": 1, "value": "musical" },
+          { "id": 2, "value": "play" },
+          { "id": 3, "value": "concert" },
+          { "id": 4, "value": "opera" },
+          { "id": 5, "value": "movie" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "jump",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He was so excited to see his friend that he did a little ______ for joy.",
+        "answers": [
+          { "id": 1, "value": "jump" },
+          { "id": 2, "value": "crawl" },
+          { "id": 3, "value": "walk" },
+          { "id": 4, "value": "sit" },
+          { "id": 5, "value": "clap" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They adopted a dog as their new ______ and named him Max.",
+        "answers": [
+          { "id": 1, "value": "pet" },
+          { "id": 2, "value": "toy" },
+          { "id": 3, "value": "plant" },
+          { "id": 4, "value": "book" },
+          { "id": 5, "value": "car" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sail",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They decided to ______ around the world in their small boat.",
+        "answers": [
+          { "id": 1, "value": "sail" },
+          { "id": 2, "value": "drive" },
+          { "id": 3, "value": "fly" },
+          { "id": 4, "value": "run" },
+          { "id": 5, "value": "swim" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "bean",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She added a handful of _______ to the soup for extra flavor.",
+        "answers": [
+          { "id": 1, "value": "beans" },
+          { "id": 2, "value": "leaves" },
+          { "id": 3, "value": "nuts" },
+          { "id": 4, "value": "spices" },
+          { "id": 5, "value": "berries" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ankle",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "During the hike, she stepped on a loose rock and twisted her ________, causing her to limp the rest of the way.",
+        "answers": [
+          { "id": 1, "value": "ankle" },
+          { "id": 2, "value": "shoulder" },
+          { "id": 3, "value": "spine" },
+          { "id": 4, "value": "jaw" },
+          { "id": 5, "value": "rib" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "belt",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She wore a black _______ to keep her jeans up.",
+        "answers": [
+          { "id": 1, "value": "belt" },
+          { "id": 2, "value": "scarf" },
+          { "id": 3, "value": "bracelet" },
+          { "id": 4, "value": "hat" },
+          { "id": 5, "value": "glove" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "boil",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You need to _______ the water before adding the pasta.",
+        "answers": [
+          { "id": 1, "value": "boil" },
+          { "id": 2, "value": "freeze" },
+          { "id": 3, "value": "mix" },
+          { "id": 4, "value": "stir" },
+          { "id": 5, "value": "cool" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "blood",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The doctor checked his _______ pressure.",
+        "answers": [
+          { "id": 1, "value": "blood" },
+          { "id": 2, "value": "water" },
+          { "id": 3, "value": "heart" },
+          { "id": 4, "value": "muscle" },
+          { "id": 5, "value": "nerve" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "carpet",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They bought a new _______ for the living room.",
+        "answers": [
+          { "id": 1, "value": "carpet" },
+          { "id": 2, "value": "curtain" },
+          { "id": 3, "value": "table" },
+          { "id": 4, "value": "lamp" },
+          { "id": 5, "value": "couch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "land",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After years of saving, they finally purchased a piece of _______ to build their dream home.",
+        "answers": [
+          { "id": 1, "value": "land" },
+          { "id": 2, "value": "furniture" },
+          { "id": 3, "value": "equipment" },
+          { "id": 4, "value": "appliances" },
+          { "id": 5, "value": "jewelry" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "death",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The sudden _______ of the famous actor shocked his fans around the world.",
+        "answers": [
+          { "id": 1, "value": "death" },
+          { "id": 2, "value": "arrival" },
+          { "id": 3, "value": "success" },
+          { "id": 4, "value": "promotion" },
+          { "id": 5, "value": "growth" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "downstairs",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Hearing a strange noise, he quickly ran _______ to check the front door.",
+        "answers": [
+          { "id": 1, "value": "downstairs" },
+          { "id": 2, "value": "outdoors" },
+          { "id": 3, "value": "upstairs" },
+          { "id": 4, "value": "backwards" },
+          { "id": 5, "value": "sideways" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "plant",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The scientist decided to _______ a rare species of flower in the greenhouse.",
+        "answers": [
+          { "id": 1, "value": "plant" },
+          { "id": 2, "value": "harvest" },
+          { "id": 3, "value": "grind" },
+          { "id": 4, "value": "erase" },
+          { "id": 5, "value": "scatter" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

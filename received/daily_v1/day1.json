@@ -1,0 +1,183 @@
+
+[{
+  "word": "basketball",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "Michael Jordan became famous for playing ______ at a professional level.",
+      "answers": [
+        { "id": 1, "value": "basketball" },
+        { "id": 2, "value": "tennis" },
+        { "id": 3, "value": "soccer" },
+        { "id": 4, "value": "volleyball" },
+        { "id": 5, "value": "swimming" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+},
+{
+  "word": "baseball",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "The pitcher threw the ball so fast in the ______ game that the batter missed it.",
+      "answers": [
+        { "id": 1, "value": "baseball" },
+        { "id": 2, "value": "cricket" },
+        { "id": 3, "value": "rugby" },
+        { "id": 4, "value": "badminton" },
+        { "id": 5, "value": "golf" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+},
+{
+  "word": "camping",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "We spent the night in a tent under the stars while ______ in the forest.",
+      "answers": [
+        { "id": 1, "value": "camping" },
+        { "id": 2, "value": "swimming" },
+        { "id": 3, "value": "sailing" },
+        { "id": 4, "value": "skiing" },
+        { "id": 5, "value": "diving" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+},
+{
+  "word": "bowl",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "She poured the hot soup into a large ______ before serving.",
+      "answers": [
+        { "id": 1, "value": "bowl" },
+        { "id": 2, "value": "plate" },
+        { "id": 3, "value": "cup" },
+        { "id": 4, "value": "spoon" },
+        { "id": 5, "value": "tray" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+},
+{
+  "word": "cupboard",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "All the glasses are kept in the top ______ above the kitchen sink.",
+      "answers": [
+        { "id": 1, "value": "cupboard" },
+        { "id": 2, "value": "drawer" },
+        { "id": 3, "value": "shelf" },
+        { "id": 4, "value": "closet" },
+        { "id": 5, "value": "table" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+},
+{
+  "word": "draw",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "The artist used charcoal to ______ a detailed portrait of the man.",
+      "answers": [
+        { "id": 1, "value": "draw" },
+        { "id": 2, "value": "paint" },
+        { "id": 3, "value": "write" },
+        { "id": 4, "value": "read" },
+        { "id": 5, "value": "sing" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+},
+{
+  "word": "cook",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "He used the recipe to ______ a delicious Italian pasta dish.",
+      "answers": [
+        { "id": 1, "value": "cook" },
+        { "id": 2, "value": "bake" },
+        { "id": 3, "value": "fry" },
+        { "id": 4, "value": "boil" },
+        { "id": 5, "value": "toast" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+},
+{
+  "word": "cartoon",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "The children laughed loudly while watching a funny ______ on Saturday morning.",
+      "answers": [
+        { "id": 1, "value": "cartoon" },
+        { "id": 2, "value": "documentary" },
+        { "id": 3, "value": "news" },
+        { "id": 4, "value": "drama" },
+        { "id": 5, "value": "sport" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+},
+{
+  "word": "drive",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "It took him two hours to ______ from the city to his hometown.",
+      "answers": [
+        { "id": 1, "value": "drive" },
+        { "id": 2, "value": "ride" },
+        { "id": 3, "value": "push" },
+        { "id": 4, "value": "fly" },
+        { "id": 5, "value": "sail" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+},
+{
+  "word": "golf",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Fill-in-the-Blanks (MCQ)",
+      "question_name": "Tiger Woods is one of the most famous players in the sport of ______.",
+      "answers": [
+        { "id": 1, "value": "golf" },
+        { "id": 2, "value": "tennis" },
+        { "id": 3, "value": "football" },
+        { "id": 4, "value": "cricket" },
+        { "id": 5, "value": "hockey" }
+      ],
+      "correct_answers": [1]
+    }
+  ]
+}
+]
+

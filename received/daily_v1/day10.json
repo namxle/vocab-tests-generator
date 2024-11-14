@@ -1,0 +1,182 @@
+[
+  {
+    "word": "knife",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Be careful when using the _______ to cut vegetables.",
+        "answers": [
+          { "id": 1, "value": "knife" },
+          { "id": 2, "value": "spoon" },
+          { "id": 3, "value": "fork" },
+          { "id": 4, "value": "plate" },
+          { "id": 5, "value": "bowl" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lost",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I think we are _______ because we can’t find our way back home.",
+        "answers": [
+          { "id": 1, "value": "lost" },
+          { "id": 2, "value": "ready" },
+          { "id": 3, "value": "late" },
+          { "id": 4, "value": "busy" },
+          { "id": 5, "value": "early" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "adult",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You need to be an _______ to watch this movie because it has mature content.",
+        "answers": [
+          { "id": 1, "value": "adult" },
+          { "id": 2, "value": "child" },
+          { "id": 3, "value": "baby" },
+          { "id": 4, "value": "pet" },
+          { "id": 5, "value": "student" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "loud",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The music at the party was so _______ that I couldn’t hear what anyone was saying.",
+        "answers": [
+          { "id": 1, "value": "loud" },
+          { "id": 2, "value": "soft" },
+          { "id": 3, "value": "quiet" },
+          { "id": 4, "value": "slow" },
+          { "id": 5, "value": "silent" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "luck",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She wished him good _______ before his big exam.",
+        "answers": [
+          { "id": 1, "value": "luck" },
+          { "id": 2, "value": "health" },
+          { "id": 3, "value": "food" },
+          { "id": 4, "value": "strength" },
+          { "id": 5, "value": "money" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "major",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The city faced a _______ problem after the storm caused severe flooding.",
+        "answers": [
+          { "id": 1, "value": "major" },
+          { "id": 2, "value": "minor" },
+          { "id": 3, "value": "easy" },
+          { "id": 4, "value": "happy" },
+          { "id": 5, "value": "simple" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "monkey",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "At the zoo, the children enjoyed watching the _______ swinging from tree to tree.",
+        "answers": [
+          { "id": 1, "value": "monkey" },
+          { "id": 2, "value": "elephant" },
+          { "id": 3, "value": "fish" },
+          { "id": 4, "value": "bird" },
+          { "id": 5, "value": "turtle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "male",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In many animal species, only the _______ lions have thick, bushy manes.",
+        "answers": [
+          { "id": 1, "value": "male" },
+          { "id": 2, "value": "female" },
+          { "id": 3, "value": "young" },
+          { "id": 4, "value": "old" },
+          { "id": 5, "value": "tiny" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "nervous",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She felt _______ before her job interview but tried to stay calm.",
+        "answers": [
+          { "id": 1, "value": "nervous" },
+          { "id": 2, "value": "excited" },
+          { "id": 3, "value": "bored" },
+          { "id": 4, "value": "happy" },
+          { "id": 5, "value": "relaxed" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "movement",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ of the dancers was graceful and smooth.",
+        "answers": [
+          { "id": 1, "value": "movement" },
+          { "id": 2, "value": "noise" },
+          { "id": 3, "value": "color" },
+          { "id": 4, "value": "taste" },
+          { "id": 5, "value": "weather" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

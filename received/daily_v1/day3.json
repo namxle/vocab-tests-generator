@@ -1,0 +1,182 @@
+[
+  {
+    "word": "ride",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She enjoys taking a ______ on her horse every weekend.",
+        "answers": [
+          { "id": 1, "value": "ride" },
+          { "id": 2, "value": "walk" },
+          { "id": 3, "value": "jump" },
+          { "id": 4, "value": "climb" },
+          { "id": 5, "value": "swim" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sauce",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The chef prepared a delicious tomato ______ to go with the pasta.",
+        "answers": [
+          { "id": 1, "value": "sauce" },
+          { "id": 2, "value": "juice" },
+          { "id": 3, "value": "syrup" },
+          { "id": 4, "value": "jam" },
+          { "id": 5, "value": "broth" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ring",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She wore a beautiful diamond ______ on her finger after the proposal.",
+        "answers": [
+          { "id": 1, "value": "ring" },
+          { "id": 2, "value": "bracelet" },
+          { "id": 3, "value": "necklace" },
+          { "id": 4, "value": "earring" },
+          { "id": 5, "value": "brooch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "singing",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her ______ in the choir was so powerful that it moved everyone to tears.",
+        "answers": [
+          { "id": 1, "value": "singing" },
+          { "id": 2, "value": "dancing" },
+          { "id": 3, "value": "acting" },
+          { "id": 4, "value": "drawing" },
+          { "id": 5, "value": "writing" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "score",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team celebrated when they achieved the highest ______ in the tournament.",
+        "answers": [
+          { "id": 1, "value": "score" },
+          { "id": 2, "value": "rank" },
+          { "id": 3, "value": "grade" },
+          { "id": 4, "value": "mark" },
+          { "id": 5, "value": "record" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ski",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "During their winter vacation, they decided to ______ down the snowy slopes at a famous resort.",
+        "answers": [
+          { "id": 1, "value": "ski" },
+          { "id": 2, "value": "sled" },
+          { "id": 3, "value": "surf" },
+          { "id": 4, "value": "skate" },
+          { "id": 5, "value": "hike" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "soccer",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Lionel Messi is considered one of the greatest ______ players in history.",
+        "answers": [
+          { "id": 1, "value": "soccer" },
+          { "id": 2, "value": "tennis" },
+          { "id": 3, "value": "cricket" },
+          { "id": 4, "value": "hockey" },
+          { "id": 5, "value": "basketball" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "spider",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ______ spun a delicate web in the corner of the room, waiting to catch insects.",
+        "answers": [
+          { "id": 1, "value": "spider" },
+          { "id": 2, "value": "beetle" },
+          { "id": 3, "value": "ant" },
+          { "id": 4, "value": "worm" },
+          { "id": 5, "value": "butterfly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "spoon",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He used a ______ to stir the soup gently as it cooked on the stove.",
+        "answers": [
+          { "id": 1, "value": "spoon" },
+          { "id": 2, "value": "fork" },
+          { "id": 3, "value": "knife" },
+          { "id": 4, "value": "spatula" },
+          { "id": 5, "value": "tongs" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "stage",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The actor was nervous as he stepped onto the ______ for his performance.",
+        "answers": [
+          { "id": 1, "value": "stage" },
+          { "id": 2, "value": "podium" },
+          { "id": 3, "value": "balcony" },
+          { "id": 4, "value": "hallway" },
+          { "id": 5, "value": "aisle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

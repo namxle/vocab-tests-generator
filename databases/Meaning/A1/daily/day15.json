@@ -1,0 +1,182 @@
+[
+  {
+    "word": "thief",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ was caught stealing from the store.",
+        "answers": [
+          { "id": 1, "value": "thief" },
+          { "id": 2, "value": "police" },
+          { "id": 3, "value": "doctor" },
+          { "id": 4, "value": "teacher" },
+          { "id": 5, "value": "friend" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "decision",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After thinking about it for days, he finally made the _______ to change his career.",
+  "answers": [
+    { "id": 1, "value": "decision" },
+    { "id": 2, "value": "mistake" },
+    { "id": 3, "value": "dream" },
+    { "id": 4, "value": "plan" },
+    { "id": 5, "value": "request" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "crime",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Stealing is considered a serious _______ in most countries.",
+        "answers": [
+          { "id": 1, "value": "crime" },
+          { "id": 2, "value": "joke" },
+          { "id": 3, "value": "game" },
+          { "id": 4, "value": "habit" },
+          { "id": 5, "value": "plan" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "curly",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her _______ hair was difficult to comb, but it looked beautiful.",
+  "answers": [
+    { "id": 1, "value": "curly" },
+    { "id": 2, "value": "straight" },
+    { "id": 3, "value": "wet" },
+    { "id": 4, "value": "short" },
+    { "id": 5, "value": "bald" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "employ",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company decided to _______ more staff to handle the growing workload.",
+  "answers": [
+    { "id": 1, "value": "employ" },
+    { "id": 2, "value": "fire" },
+    { "id": 3, "value": "pay" },
+    { "id": 4, "value": "train" },
+    { "id": 5, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "employer",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her _______ gave her a raise for her hard work.",
+        "answers": [
+          { "id": 1, "value": "employer" },
+          { "id": 2, "value": "employee" },
+          { "id": 3, "value": "friend" },
+          { "id": 4, "value": "neighbor" },
+          { "id": 5, "value": "student" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "creative",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is very _______ and loves to paint and write stories.",
+        "answers": [
+          { "id": 1, "value": "creative" },
+          { "id": 2, "value": "lazy" },
+          { "id": 3, "value": "bored" },
+          { "id": 4, "value": "tired" },
+          { "id": 5, "value": "careful" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "free",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The event is _______ to attend, so everyone is welcome.",
+        "answers": [
+          { "id": 1, "value": "free" },
+          { "id": 2, "value": "expensive" },
+          { "id": 3, "value": "cheap" },
+          { "id": 4, "value": "limited" },
+          { "id": 5, "value": "private" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "knowledge",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Reading books can help you gain more _______.",
+        "answers": [
+          { "id": 1, "value": "knowledge" },
+          { "id": 2, "value": "money" },
+          { "id": 3, "value": "weight" },
+          { "id": 4, "value": "clothes" },
+          { "id": 5, "value": "furniture" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lift",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He had to _______ the suitcase onto the shelf, but it was too heavy.",
+  "answers": [
+    { "id": 1, "value": "lift" },
+    { "id": 2, "value": "drop" },
+    { "id": 3, "value": "push" },
+    { "id": 4, "value": "pull" },
+    { "id": 5, "value": "kick" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

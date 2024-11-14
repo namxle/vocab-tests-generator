@@ -1,0 +1,182 @@
+[
+  {
+    "word": "noisy",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The city street was so _______ that I couldn’t hear my friend talking.",
+        "answers": [
+          { "id": 1, "value": "noisy" },
+          { "id": 2, "value": "quiet" },
+          { "id": 3, "value": "empty" },
+          { "id": 4, "value": "bright" },
+          { "id": 5, "value": "dark" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "noise",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The loud _______ from the construction site kept me awake all night.",
+        "answers": [
+          { "id": 1, "value": "noise" },
+          { "id": 2, "value": "music" },
+          { "id": 3, "value": "light" },
+          { "id": 4, "value": "smell" },
+          { "id": 5, "value": "color" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "opportunity",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She didn’t want to miss the _______ to study abroad.",
+        "answers": [
+          { "id": 1, "value": "opportunity" },
+          { "id": 2, "value": "mistake" },
+          { "id": 3, "value": "habit" },
+          { "id": 4, "value": "problem" },
+          { "id": 5, "value": "difficulty" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "option",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We have the _______ to take the train or drive to the city.",
+        "answers": [
+          { "id": 1, "value": "option" },
+          { "id": 2, "value": "habit" },
+          { "id": 3, "value": "event" },
+          { "id": 4, "value": "request" },
+          { "id": 5, "value": "rule" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "patient",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You need to be _______ when waiting for the results to come out.",
+        "answers": [
+          { "id": 1, "value": "patient" },
+          { "id": 2, "value": "fast" },
+          { "id": 3, "value": "strong" },
+          { "id": 4, "value": "happy" },
+          { "id": 5, "value": "lazy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ordinary",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It was just an _______ day until I received some exciting news.",
+        "answers": [
+          { "id": 1, "value": "ordinary" },
+          { "id": 2, "value": "amazing" },
+          { "id": 3, "value": "rare" },
+          { "id": 4, "value": "loud" },
+          { "id": 5, "value": "busy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "personality",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She has a friendly _______ that makes everyone feel welcome.",
+        "answers": [
+          { "id": 1, "value": "personality" },
+          { "id": 2, "value": "habit" },
+          { "id": 3, "value": "appearance" },
+          { "id": 4, "value": "gift" },
+          { "id": 5, "value": "hobby" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "reach",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Can you _______ the book on the top shelf for me?",
+        "answers": [
+          { "id": 1, "value": "reach" },
+          { "id": 2, "value": "break" },
+          { "id": 3, "value": "fix" },
+          { "id": 4, "value": "paint" },
+          { "id": 5, "value": "throw" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pocket",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He reached into his _______ to find some change for the parking meter.",
+  "answers": [
+    { "id": 1, "value": "pocket" },
+    { "id": 2, "value": "wallet" },
+    { "id": 3, "value": "bag" },
+    { "id": 4, "value": "drawer" },
+    { "id": 5, "value": "shelf" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "push",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You need to _______ the door to open it; don’t pull it.",
+        "answers": [
+          { "id": 1, "value": "push" },
+          { "id": 2, "value": "close" },
+          { "id": 3, "value": "lift" },
+          { "id": 4, "value": "drop" },
+          { "id": 5, "value": "carry" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

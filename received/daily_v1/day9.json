@@ -1,0 +1,182 @@
+[
+  {
+    "word": "attractive",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The old house was made _______ again after a fresh coat of paint.",
+        "answers": [
+          { "id": 1, "value": "attractive" },
+          { "id": 2, "value": "ugly" },
+          { "id": 3, "value": "old" },
+          { "id": 4, "value": "tall" },
+          { "id": 5, "value": "expensive" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "athlete",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ trained for months to compete in the Olympics.",
+        "answers": [
+          { "id": 1, "value": "athlete" },
+          { "id": 2, "value": "teacher" },
+          { "id": 3, "value": "musician" },
+          { "id": 4, "value": "driver" },
+          { "id": 5, "value": "chef" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "brilliant",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her solution to the problem was absolutely _______ and impressed everyone.",
+        "answers": [
+          { "id": 1, "value": "brilliant" },
+          { "id": 2, "value": "basic" },
+          { "id": 3, "value": "slow" },
+          { "id": 4, "value": "wrong" },
+          { "id": 5, "value": "boring" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "beat",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They practiced hard so they could _______ the other team in the final game.",
+        "answers": [
+          { "id": 1, "value": "beat" },
+          { "id": 2, "value": "join" },
+          { "id": 3, "value": "watch" },
+          { "id": 4, "value": "greet" },
+          { "id": 5, "value": "meet" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "couple",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The young _______ decided to buy a house together after getting married.",
+        "answers": [
+          { "id": 1, "value": "couple" },
+          { "id": 2, "value": "group" },
+          { "id": 3, "value": "team" },
+          { "id": 4, "value": "crowd" },
+          { "id": 5, "value": "family" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "brain",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The human _______ controls all the functions of the body.",
+        "answers": [
+          { "id": 1, "value": "brain" },
+          { "id": 2, "value": "heart" },
+          { "id": 3, "value": "hand" },
+          { "id": 4, "value": "eye" },
+          { "id": 5, "value": "foot" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chance",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This is your last _______ to win the prize, so make it count!",
+        "answers": [
+          { "id": 1, "value": "chance" },
+          { "id": 2, "value": "mistake" },
+          { "id": 3, "value": "plan" },
+          { "id": 4, "value": "fear" },
+          { "id": 5, "value": "question" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "missing",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "One of the puzzle pieces was _______ so we couldn’t finish it.",
+        "answers": [
+          { "id": 1, "value": "missing" },
+          { "id": 2, "value": "extra" },
+          { "id": 3, "value": "broken" },
+          { "id": 4, "value": "dirty" },
+          { "id": 5, "value": "small" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "first",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She won the race and came in _______ place, ahead of all the other runners.",
+        "answers": [
+          { "id": 1, "value": "first" },
+          { "id": 2, "value": "last" },
+          { "id": 3, "value": "third" },
+          { "id": 4, "value": "next" },
+          { "id": 5, "value": "middle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "gap",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There was a wide _______ in the fence, allowing the dog to escape.",
+        "answers": [
+          { "id": 1, "value": "gap" },
+          { "id": 2, "value": "door" },
+          { "id": 3, "value": "bridge" },
+          { "id": 4, "value": "path" },
+          { "id": 5, "value": "floor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

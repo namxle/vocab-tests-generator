@@ -1,0 +1,182 @@
+[
+  {
+    "word": "cycle",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She decided to ______ to work instead of driving her car.",
+        "answers": [
+          { "id": 1, "value": "cycle" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "walk" },
+          { "id": 4, "value": "swim" },
+          { "id": 5, "value": "sprint" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "collect",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She decided to ______ rare coins as a hobby and now has a valuable collection.",
+        "answers": [
+          { "id": 1, "value": "collect" },
+          { "id": 2, "value": "buy" },
+          { "id": 3, "value": "sell" },
+          { "id": 4, "value": "borrow" },
+          { "id": 5, "value": "exchange" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fork",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He used a ______ to twirl his spaghetti before taking a bite.",
+        "answers": [
+          { "id": 1, "value": "fork" },
+          { "id": 2, "value": "spoon" },
+          { "id": 3, "value": "knife" },
+          { "id": 4, "value": "chopstick" },
+          { "id": 5, "value": "straw" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "guy",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ______ at the coffee shop recommended a new blend that I ended up loving.",
+        "answers": [
+          { "id": 1, "value": "guy" },
+          { "id": 2, "value": "woman" },
+          { "id": 3, "value": "child" },
+          { "id": 4, "value": "barista" },
+          { "id": 5, "value": "chef" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lamp",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She turned on the ______ to read her book before bed.",
+        "answers": [
+          { "id": 1, "value": "lamp" },
+          { "id": 2, "value": "candle" },
+          { "id": 3, "value": "flashlight" },
+          { "id": 4, "value": "stove" },
+          { "id": 5, "value": "lantern" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fly",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ______ buzzed around the kitchen, landing on the fruit.",
+        "answers": [
+          { "id": 1, "value": "fly" },
+          { "id": 2, "value": "ant" },
+          { "id": 3, "value": "bee" },
+          { "id": 4, "value": "spider" },
+          { "id": 5, "value": "worm" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "knock",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There was a loud ______ on the door in the middle of the night.",
+        "answers": [
+          { "id": 1, "value": "knock" },
+          { "id": 2, "value": "ring" },
+          { "id": 3, "value": "whisper" },
+          { "id": 4, "value": "shout" },
+          { "id": 5, "value": "click" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lemon",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "To make the lemonade, she squeezed a fresh ______ and added sugar and water.",
+        "answers": [
+          { "id": 1, "value": "lemon" },
+          { "id": 2, "value": "orange" },
+          { "id": 3, "value": "lime" },
+          { "id": 4, "value": "grapefruit" },
+          { "id": 5, "value": "apple" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "backpack",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Before the camping trip, he filled his ______ with a tent, food, and a sleeping bag.",
+        "answers": [
+          { "id": 1, "value": "backpack" },
+          { "id": 2, "value": "suitcase" },
+          { "id": 3, "value": "purse" },
+          { "id": 4, "value": "bag" },
+          { "id": 5, "value": "basket" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "comedy",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The TV show was a hit because of its clever ______, making people laugh every episode.",
+        "answers": [
+          { "id": 1, "value": "comedy" },
+          { "id": 2, "value": "drama" },
+          { "id": 3, "value": "horror" },
+          { "id": 4, "value": "mystery" },
+          { "id": 5, "value": "tragedy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]
