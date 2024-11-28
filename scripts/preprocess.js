@@ -8,8 +8,8 @@ const helperScript = require('./helper');
 const CWD = process.cwd();
 
 const LEVEL = 'A2';
-const SUB_LEVEL = 'L2';
-const GROUP = 'M';
+const SUB_LEVEL = 'L3';
+const GROUP = 'L';
 const DAY = 'Day';
 
 // Total expected questions per GROUP
@@ -96,7 +96,7 @@ function processSourceFiles(files) {
   console.log('Files found:', files.length);
 
   files.forEach((fileName) => {
-    // console.log('Processing file:', fileName);
+    console.log('Processing file:', fileName);
     const elements = fileName.split('.json')[0].split('_');
     const fileLevel = elements[0];
     const fileSubLevel = elements[1];

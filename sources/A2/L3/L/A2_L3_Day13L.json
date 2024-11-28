@@ -1,0 +1,66 @@
+{
+  "passage": {
+    "first_sentence": "Scientists often search for evidence of alien life on other planets, but the matter remains uncertain.",
+    "shuffled_sentences": [
+      "Their work involves using advanced technology to explore space and collect data from distant worlds.",
+      "For example, some inventions help measure a planet’s ability to support life by analyzing its atmosphere and surface.",
+      "These efforts show that even small discoveries can lead to big questions about the universe."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "This research might one day prove whether life exists beyond Earth."
+      },
+      {
+        "id": 2,
+        "value": "It suggests that scientists no longer study space seriously."
+      },
+      {
+        "id": 3,
+        "value": "The evidence shows that alien life is already living among us."
+      },
+      { "id": 4, "value": "This proves that no planets can ever support life." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [2, 1, 3],
+      "explanation": {
+        "english": "The correct sequence begins with scientists using advanced technology (Sentence 2) to introduce how they explore space and gather data. Next, the sentence about inventions measuring a planet’s ability to support life (Sentence 1) logically follows, providing an example of the tools used. Finally, the sentence about small discoveries leading to big questions (Sentence 3) concludes the passage, reflecting the broader significance of their work. Incorrect orders disrupt the logical flow from exploration to tools and then to outcomes.",
+        "vietnamese": "Trật tự đúng bắt đầu bằng việc các nhà khoa học sử dụng công nghệ tiên tiến (Câu 2) để giới thiệu cách họ khám phá không gian và thu thập dữ liệu. Tiếp theo là câu về các phát minh đo khả năng của hành tinh hỗ trợ sự sống (Câu 1), cung cấp một ví dụ về các công cụ được sử dụng. Cuối cùng, câu về những khám phá nhỏ dẫn đến các câu hỏi lớn (Câu 3) kết luận đoạn văn, phản ánh ý nghĩa rộng lớn hơn của công việc của họ. Trật tự sai sẽ phá vỡ dòng logic từ khám phá, công cụ đến kết quả."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "This research might one day prove whether life exists beyond Earth."
+        },
+        {
+          "id": 2,
+          "value": "It suggests that scientists no longer study space seriously."
+        },
+        {
+          "id": 3,
+          "value": "The evidence shows that alien life is already living among us."
+        },
+        {
+          "id": 4,
+          "value": "This proves that no planets can ever support life."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it logically ties back to the passage’s focus on searching for evidence and understanding whether alien life exists. Option 2 incorrectly implies that scientists are not serious about space exploration, which contradicts the passage. Option 3 makes an unsupported claim that alien life is already proven, which the passage explicitly says is uncertain. Option 4 incorrectly concludes that no planets can support life, which is not suggested in the passage.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó liên kết logic với trọng tâm của đoạn văn về việc tìm kiếm bằng chứng và hiểu liệu sự sống ngoài hành tinh có tồn tại hay không. Lựa chọn 2 sai vì nó ngụ ý rằng các nhà khoa học không nghiêm túc trong việc khám phá không gian, điều này mâu thuẫn với đoạn văn. Lựa chọn 3 đưa ra một tuyên bố không có căn cứ rằng sự sống ngoài hành tinh đã được chứng minh, trong khi đoạn văn nói rõ rằng điều này vẫn chưa chắc chắn. Lựa chọn 4 sai vì kết luận rằng không hành tinh nào có thể hỗ trợ sự sống, điều này không được đề cập trong đoạn văn."
+      }
+    }
+  ]
+}

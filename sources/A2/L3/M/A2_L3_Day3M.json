@@ -1,0 +1,182 @@
+[
+  {
+    "word": "poster",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The movie _______ on the wall showed all the details about the film's release date.",
+        "answers": [
+          { "id": 1, "value": "poster" },
+          { "id": 2, "value": "picture" },
+          { "id": 3, "value": "advertisement" },
+          { "id": 4, "value": "banner" },
+          { "id": 5, "value": "paper" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "replace",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The mechanic said he would _______ the broken part with a new one.",
+        "answers": [
+          { "id": 1, "value": "replace" },
+          { "id": 2, "value": "repair" },
+          { "id": 3, "value": "remove" },
+          { "id": 4, "value": "adjust" },
+          { "id": 5, "value": "clean" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "quality",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The store is known for selling goods of excellent _______.",
+        "answers": [
+          { "id": 1, "value": "quality" },
+          { "id": 2, "value": "price" },
+          { "id": 3, "value": "style" },
+          { "id": 4, "value": "brand" },
+          { "id": 5, "value": "quantity" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "request",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She sent a _______ for more information about the new course.",
+        "answers": [
+          { "id": 1, "value": "request" },
+          { "id": 2, "value": "letter" },
+          { "id": 3, "value": "message" },
+          { "id": 4, "value": "order" },
+          { "id": 5, "value": "announcement" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "low",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The battery on his phone was very _______ after using it all day.",
+        "answers": [
+          { "id": 1, "value": "low" },
+          { "id": 2, "value": "full" },
+          { "id": 3, "value": "empty" },
+          { "id": 4, "value": "broken" },
+          { "id": 5, "value": "high" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "report",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher asked each student to write a _______ about their science project.",
+        "answers": [
+          { "id": 1, "value": "report" },
+          { "id": 2, "value": "summary" },
+          { "id": 3, "value": "story" },
+          { "id": 4, "value": "diagram" },
+          { "id": 5, "value": "speech" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "van",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The delivery company uses a large _______ to transport goods.",
+        "answers": [
+          { "id": 1, "value": "van" },
+          { "id": 2, "value": "car" },
+          { "id": 3, "value": "truck" },
+          { "id": 4, "value": "bicycle" },
+          { "id": 5, "value": "motorcycle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sheet",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She put a clean _______ on the bed before the guests arrived.",
+        "answers": [
+          { "id": 1, "value": "sheet" },
+          { "id": 2, "value": "blanket" },
+          { "id": 3, "value": "pillow" },
+          { "id": 4, "value": "cover" },
+          { "id": 5, "value": "quilt" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "disaster",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The earthquake was a terrible _______ that destroyed many homes.",
+        "answers": [
+          { "id": 1, "value": "disaster" },
+          { "id": 2, "value": "accident" },
+          { "id": 3, "value": "event" },
+          { "id": 4, "value": "problem" },
+          { "id": 5, "value": "crisis" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cause",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The doctor explained that smoking was the main _______ of his illness.",
+        "answers": [
+          { "id": 1, "value": "cause" },
+          { "id": 2, "value": "result" },
+          { "id": 3, "value": "effect" },
+          { "id": 4, "value": "solution" },
+          { "id": 5, "value": "symptom" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

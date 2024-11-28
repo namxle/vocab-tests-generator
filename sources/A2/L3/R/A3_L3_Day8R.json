@@ -1,0 +1,87 @@
+{
+  "topic": "Artificial Intelligence",
+  "provided_words": ["following", "expect", "future", "intelligent", "predict", "recommend", "respond", "speed", "understanding", "unfortunately"],
+  "passage": "Artificial Intelligence (AI) is becoming an important part of our lives. Many people expect AI to help us in the future in many ways. For example, intelligent robots can respond quickly to questions, making tasks faster and easier. AI systems are also used to predict the weather or recommend books, movies, and even food. With its speed and accuracy, AI has the power to change the way we live. \n\nHowever, AI needs understanding to work well. It studies data and learns how to make decisions. Unfortunately, not all AI systems are perfect. Sometimes, they make mistakes because they cannot think like humans. For example, a computer might give the wrong answer if the data is not correct. \n\nIn the following years, scientists will work hard to improve AI. They hope to make it more intelligent and reliable. With better technology, the future of AI looks bright, and it will continue to help people in many ways.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "AI is becoming an important part of our lives and helps in many ways." },
+        { "id": 2, "value": "AI is perfect and never makes mistakes." },
+        { "id": 3, "value": "AI is used only for predicting the weather." },
+        { "id": 4, "value": "AI is dangerous and should not be used." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains how AI is important and useful, but also mentions its challenges and future improvements.",
+        "vietnamese": "Đoạn văn giải thích cách AI quan trọng và hữu ích, nhưng cũng đề cập đến những thách thức và cải tiến trong tương lai."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What is a synonym for 'predict' as used in the passage?",
+      "answers": [
+        { "id": 1, "value": "Guess" },
+        { "id": 2, "value": "Ignore" },
+        { "id": 3, "value": "Measure" },
+        { "id": 4, "value": "Understand" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Predict' means to guess what will happen in the future, based on information.",
+        "vietnamese": "'Predict' có nghĩa là đoán những gì sẽ xảy ra trong tương lai, dựa trên thông tin."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Why does AI sometimes make mistakes?",
+      "answers": [
+        { "id": 1, "value": "It cannot think like humans." },
+        { "id": 2, "value": "It works too slowly." },
+        { "id": 3, "value": "It does not study data." },
+        { "id": 4, "value": "It does not respond to questions." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that AI sometimes makes mistakes because it cannot think like humans.",
+        "vietnamese": "Đoạn văn giải thích rằng AI đôi khi mắc lỗi vì nó không thể suy nghĩ như con người."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "What can we infer about the future of AI?",
+      "answers": [
+        { "id": 1, "value": "It will improve and help people more." },
+        { "id": 2, "value": "It will stop being used." },
+        { "id": 3, "value": "It will only work for scientists." },
+        { "id": 4, "value": "It will replace all human jobs." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage suggests that scientists will make AI better in the future to help people.",
+        "vietnamese": "Đoạn văn gợi ý rằng các nhà khoa học sẽ làm AI tốt hơn trong tương lai để giúp đỡ con người."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'unfortunately' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It shows a problem or challenge with AI." },
+        { "id": 2, "value": "It shows AI is very useful." },
+        { "id": 3, "value": "It explains a solution to AI mistakes." },
+        { "id": 4, "value": "It introduces a future improvement." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'unfortunately' is used to introduce a problem or difficulty with AI systems.",
+        "vietnamese": "Từ 'unfortunately' được sử dụng để giới thiệu một vấn đề hoặc khó khăn với hệ thống AI."
+      }
+    }
+  ]
+}

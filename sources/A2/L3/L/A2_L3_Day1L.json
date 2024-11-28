@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "The store is having a big sale, and many people are excited to find the perfect gift.",
+    "shuffled_sentences": [
+      "Some customers are looking for jewellery, while others prefer fashion items like clothes, shoes, or a new wallet.",
+      "A large lorry delivered new items to the shop early in the morning to prepare for the sale.",
+      "The event also offers special discounts for shoppers paying with a credit card."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "These payment options make it easier for everyone to enjoy the sale."
+      },
+      {
+        "id": 2,
+        "value": "Customers are happy to find gifts and items that meet their needs at this store."
+      },
+      {
+        "id": 3,
+        "value": "Many shoppers are focusing on jewellery and wallets during this exciting sale."
+      },
+      {
+        "id": 4,
+        "value": "The shop owner is busy organizing items to make shopping easier for everyone."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [2, 1, 3],
+      "explanation": {
+        "english": "The correct sequence begins with the lorry delivering new items (Sentence 2), setting the stage for the sale. Then, the mention of customers looking for jewellery, wallets, and fashion items (Sentence 1) logically follows by focusing on their interests. Finally, highlighting discounts for credit card payments (Sentence 3) concludes the passage with practical and inclusive benefits for shoppers. Other sequences would disrupt this logical flow.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc xe tải giao hàng mới (Câu 2), thiết lập bối cảnh cho đợt giảm giá. Tiếp theo là khách hàng tìm kiếm trang sức, ví và thời trang (Câu 1) nối tiếp một cách hợp lý vì tập trung vào sự quan tâm của họ. Cuối cùng, việc nhấn mạnh ưu đãi khi thanh toán bằng thẻ tín dụng (Câu 3) kết thúc đoạn văn với lợi ích thực tế và toàn diện cho người mua. Các trật tự khác sẽ làm gián đoạn dòng logic này."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "These payment options make it easier for everyone to enjoy the sale."
+        },
+        {
+          "id": 2,
+          "value": "Customers are happy to find gifts and items that meet their needs at this store."
+        },
+        {
+          "id": 3,
+          "value": "Many shoppers are focusing on jewellery and wallets during this exciting sale."
+        },
+        {
+          "id": 4,
+          "value": "The shop owner is busy organizing items to make shopping easier for everyone."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it logically concludes the passage by summarizing how payment options enhance the shopping experience, tying in the idea of discounts. Option 2 focuses on customer satisfaction but doesn’t address payment methods. Option 3 shifts the focus to specific products, which is too narrow for the conclusion. Option 4 mentions the shop owner, which is unrelated to the main topic of customer shopping benefits.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết thúc đoạn văn một cách hợp lý bằng cách tóm tắt cách các phương thức thanh toán cải thiện trải nghiệm mua sắm, gắn liền với ý tưởng về giảm giá. Lựa chọn 2 tập trung vào sự hài lòng của khách hàng nhưng không đề cập đến phương thức thanh toán. Lựa chọn 3 chuyển sự chú ý đến các sản phẩm cụ thể, điều này quá hẹp cho kết luận. Lựa chọn 4 đề cập đến chủ cửa hàng, điều này không liên quan đến chủ đề chính về lợi ích mua sắm của khách hàng."
+      }
+    }
+  ]
+}

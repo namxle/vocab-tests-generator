@@ -1,0 +1,172 @@
+[
+  {
+    "word": "following",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please read the _______ instructions carefully before starting the test.",
+        "answers": [
+          { "id": 1, "value": "following" },
+          { "id": 2, "value": "fast" },
+          { "id": 3, "value": "previous" },
+          { "id": 4, "value": "new" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "expect",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We _______ the train to arrive at 6:00 PM.",
+        "answers": [
+          { "id": 1, "value": "expect" },
+          { "id": 2, "value": "watch" },
+          { "id": 3, "value": "try" },
+          { "id": 4, "value": "ask" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "future",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She wants to be a doctor in the _______.",
+        "answers": [
+          { "id": 1, "value": "future" },
+          { "id": 2, "value": "past" },
+          { "id": 3, "value": "weekend" },
+          { "id": 4, "value": "evening" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "intelligent",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He is very _______ and always solves problems quickly.",
+        "answers": [
+          { "id": 1, "value": "intelligent" },
+          { "id": 2, "value": "strong" },
+          { "id": 3, "value": "quiet" },
+          { "id": 4, "value": "tired" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "predict",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is hard to _______ the weather for next week.",
+        "answers": [
+          { "id": 1, "value": "predict" },
+          { "id": 2, "value": "change" },
+          { "id": 3, "value": "control" },
+          { "id": 4, "value": "write" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "recommend",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Can you _______ a good book to read?",
+        "answers": [
+          { "id": 1, "value": "recommend" },
+          { "id": 2, "value": "write" },
+          { "id": 3, "value": "sell" },
+          { "id": 4, "value": "watch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "respond",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please _______ to the email as soon as possible.",
+        "answers": [
+          { "id": 1, "value": "respond" },
+          { "id": 2, "value": "speak" },
+          { "id": 3, "value": "hear" },
+          { "id": 4, "value": "send" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "speed",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The car’s _______ was too fast for the road conditions.",
+        "answers": [
+          { "id": 1, "value": "speed" },
+          { "id": 2, "value": "price" },
+          { "id": 3, "value": "size" },
+          { "id": 4, "value": "distance" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "understanding",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She showed a good _______ of the topic during the presentation.",
+        "answers": [
+          { "id": 1, "value": "understanding" },
+          { "id": 2, "value": "problem" },
+          { "id": 3, "value": "question" },
+          { "id": 4, "value": "example" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "unfortunately",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "_______, we missed the bus and had to walk home.",
+        "answers": [
+          { "id": 1, "value": "Unfortunately" },
+          { "id": 2, "value": "Luckily" },
+          { "id": 3, "value": "Happily" },
+          { "id": 4, "value": "Quickly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

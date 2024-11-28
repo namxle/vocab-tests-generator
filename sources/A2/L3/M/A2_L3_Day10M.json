@@ -1,0 +1,172 @@
+[
+  {
+    "word": "effect",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The medicine had a positive _______ on her health.",
+        "answers": [
+          { "id": 1, "value": "effect" },
+          { "id": 2, "value": "result" },
+          { "id": 3, "value": "change" },
+          { "id": 4, "value": "decision" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "data",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The researcher analyzed the _______ to find patterns in people's behavior.",
+        "answers": [
+          { "id": 1, "value": "data" },
+          { "id": 2, "value": "samples" },
+          { "id": 3, "value": "information" },
+          { "id": 4, "value": "tools" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "discovery",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The scientist made an important _______ about a new type of bacteria.",
+        "answers": [
+          { "id": 1, "value": "discovery" },
+          { "id": 2, "value": "decision" },
+          { "id": 3, "value": "solution" },
+          { "id": 4, "value": "experiment" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "discover",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I want to _______ new places when I travel to Europe.",
+        "answers": [
+          { "id": 1, "value": "discover" },
+          { "id": 2, "value": "visit" },
+          { "id": 3, "value": "find" },
+          { "id": 4, "value": "explore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "direction",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He asked for _______ to the nearest train station.",
+        "answers": [
+          { "id": 1, "value": "direction" },
+          { "id": 2, "value": "help" },
+          { "id": 3, "value": "map" },
+          { "id": 4, "value": "time" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "engine",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The car's _______ stopped working, so we had to call a mechanic.",
+        "answers": [
+          { "id": 1, "value": "engine" },
+          { "id": 2, "value": "battery" },
+          { "id": 3, "value": "fuel" },
+          { "id": 4, "value": "wheel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "expert",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company hired an _______ to solve their technical problems.",
+        "answers": [
+          { "id": 1, "value": "expert" },
+          { "id": 2, "value": "assistant" },
+          { "id": 3, "value": "engineer" },
+          { "id": 4, "value": "student" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "engineer",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ designed the bridge to withstand strong winds.",
+        "answers": [
+          { "id": 1, "value": "engineer" },
+          { "id": 2, "value": "builder" },
+          { "id": 3, "value": "expert" },
+          { "id": 4, "value": "worker" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "factor",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Weather is an important _______ to consider when planning a trip.",
+        "answers": [
+          { "id": 1, "value": "factor" },
+          { "id": 2, "value": "problem" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "reason" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "error",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There was an _______ in the report, so it had to be corrected.",
+        "answers": [
+          { "id": 1, "value": "error" },
+          { "id": 2, "value": "answer" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "solution" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

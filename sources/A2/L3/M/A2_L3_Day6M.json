@@ -1,0 +1,182 @@
+[
+  {
+    "word": "original",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The painting is not a copy; it is the _______ artwork.",
+        "answers": [
+          { "id": 1, "value": "original" },
+          { "id": 2, "value": "fake" },
+          { "id": 3, "value": "new" },
+          { "id": 4, "value": "painted" },
+          { "id": 5, "value": "old" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "repair",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The mechanic said it would take two days to _______ the car.",
+        "answers": [
+          { "id": 1, "value": "repair" },
+          { "id": 2, "value": "drive" },
+          { "id": 3, "value": "wash" },
+          { "id": 4, "value": "sell" },
+          { "id": 5, "value": "replace" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "flood",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After the heavy rain, the town was damaged by a _______.",
+        "answers": [
+          { "id": 1, "value": "flood" },
+          { "id": 2, "value": "storm" },
+          { "id": 3, "value": "drought" },
+          { "id": 4, "value": "earthquake" },
+          { "id": 5, "value": "fire" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shut",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please _______ the door before you leave the room.",
+        "answers": [
+          { "id": 1, "value": "shut" },
+          { "id": 2, "value": "open" },
+          { "id": 3, "value": "knock" },
+          { "id": 4, "value": "push" },
+          { "id": 5, "value": "lock" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rise",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The prices of food continue to _______ every year.",
+        "answers": [
+          { "id": 1, "value": "rise" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "stop" },
+          { "id": 4, "value": "fall" },
+          { "id": 5, "value": "stay" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "communicate",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We use phones and emails to _______ with each other.",
+        "answers": [
+          { "id": 1, "value": "communicate" },
+          { "id": 2, "value": "travel" },
+          { "id": 3, "value": "work" },
+          { "id": 4, "value": "play" },
+          { "id": 5, "value": "read" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "download",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You can _______ the latest version of the app from the website.",
+        "answers": [
+          { "id": 1, "value": "download" },
+          { "id": 2, "value": "upload" },
+          { "id": 3, "value": "install" },
+          { "id": 4, "value": "buy" },
+          { "id": 5, "value": "delete" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mention",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She forgot to _______ the time of the meeting in her email.",
+        "answers": [
+          { "id": 1, "value": "mention" },
+          { "id": 2, "value": "write" },
+          { "id": 3, "value": "remember" },
+          { "id": 4, "value": "say" },
+          { "id": 5, "value": "discuss" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "control",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He lost _______ of the car and it crashed into a tree.",
+        "answers": [
+          { "id": 1, "value": "control" },
+          { "id": 2, "value": "speed" },
+          { "id": 3, "value": "sight" },
+          { "id": 4, "value": "power" },
+          { "id": 5, "value": "balance" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "digital",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The museum offers a _______ guide that you can access on your smartphone.",
+        "answers": [
+          { "id": 1, "value": "digital" },
+          { "id": 2, "value": "manual" },
+          { "id": 3, "value": "paper" },
+          { "id": 4, "value": "traditional" },
+          { "id": 5, "value": "printed" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

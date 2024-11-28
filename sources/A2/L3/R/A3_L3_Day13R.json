@@ -1,0 +1,87 @@
+{
+  "topic": "The Search for Life in Space",
+  "provided_words": ["evidence", "involve", "invent", "matter", "scientist", "search", "ability", "space", "alien", "planet"],
+  "passage": "Scientists have always been curious about life in space. They search for evidence that aliens might exist on other planets. To find this evidence, they use powerful telescopes and spacecraft that were invented to study space. These tools help scientists explore planets far away from Earth. \n\nThe search for aliens involves many challenges. One of the biggest problems is finding a planet where life could survive. For life to exist, certain conditions must be met, like the right temperature and the presence of water. No matter how hard it is, scientists continue their search because they believe in the ability of science to solve great mysteries. \n\nDiscovering aliens would be an incredible moment in history. It would answer important questions about our universe and how we fit into it. Until then, scientists will keep exploring space, studying planets, and looking for signs of life beyond Earth.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "Scientists are searching for evidence of life on other planets." },
+        { "id": 2, "value": "Aliens have been discovered on Earth." },
+        { "id": 3, "value": "Space exploration does not involve any challenges." },
+        { "id": 4, "value": "Telescopes are not useful for studying space." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage focuses on how scientists are searching for evidence of alien life on other planets.",
+        "vietnamese": "Đoạn văn tập trung vào cách các nhà khoa học tìm kiếm bằng chứng về sự sống ngoài hành tinh trên các hành tinh khác."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'involve' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Include" },
+        { "id": 2, "value": "Avoid" },
+        { "id": 3, "value": "Finish" },
+        { "id": 4, "value": "Replace" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Involve' means to include or require, as in the search for aliens requiring certain challenges.",
+        "vietnamese": "'Involve' có nghĩa là bao gồm hoặc yêu cầu, như trong việc tìm kiếm người ngoài hành tinh đòi hỏi những thách thức nhất định."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What conditions are necessary for life to exist on a planet?",
+      "answers": [
+        { "id": 1, "value": "The right temperature and the presence of water." },
+        { "id": 2, "value": "A telescope and a spacecraft." },
+        { "id": 3, "value": "Evidence of aliens living there." },
+        { "id": 4, "value": "A large number of scientists working on it." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that life needs the right temperature and the presence of water to exist on a planet.",
+        "vietnamese": "Đoạn văn nói rằng sự sống cần nhiệt độ phù hợp và sự hiện diện của nước để tồn tại trên một hành tinh."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why do scientists continue searching for aliens despite the challenges?",
+      "answers": [
+        { "id": 1, "value": "Because they believe science can solve great mysteries." },
+        { "id": 2, "value": "Because they have already found evidence of aliens." },
+        { "id": 3, "value": "Because telescopes are easy to use." },
+        { "id": 4, "value": "Because space exploration is simple." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that scientists believe in the ability of science to solve mysteries, motivating their continued search.",
+        "vietnamese": "Đoạn văn đề cập rằng các nhà khoa học tin tưởng vào khả năng của khoa học để giải quyết bí ẩn, thúc đẩy việc tìm kiếm của họ."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'invent' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It describes the creation of tools like telescopes and spacecraft for space exploration." },
+        { "id": 2, "value": "It explains why planets need water for life." },
+        { "id": 3, "value": "It highlights the challenges of space exploration." },
+        { "id": 4, "value": "It shows how scientists analyze data." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'invent' is used to describe how tools like telescopes and spacecraft were created to study space.",
+        "vietnamese": "Từ 'invent' được sử dụng để mô tả cách các công cụ như kính viễn vọng và tàu vũ trụ được tạo ra để nghiên cứu không gian."
+      }
+    }
+  ]
+}

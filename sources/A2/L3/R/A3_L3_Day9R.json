@@ -1,0 +1,87 @@
+{
+  "topic": "Modern Communication",
+  "provided_words": ["app", "online", "message", "email", "appearance", "along", "alternative", "chemistry", "billion", "average"],
+  "passage": "In today’s world, many people use apps to communicate. Apps like messaging platforms and email services have become essential for staying in touch. Along with traditional methods, these apps offer fast and convenient ways to send a message. For example, you can send an email or a text to someone far away in seconds. \n\nOn average, billions of messages are sent online every day. These apps not only make communication easy but also allow people to customize the appearance of their profiles. This feature is popular among users who want to express themselves. \n\nSometimes, apps are seen as an alternative to face-to-face conversations. This can be helpful when people live in different cities or countries. However, chemistry between people might be harder to feel through a screen. Despite this, online communication has improved relationships for many individuals. As technology grows, we can expect more tools to connect us in new and exciting ways.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "Apps have changed how people communicate by making it easier and faster." },
+        { "id": 2, "value": "Face-to-face communication is no longer needed." },
+        { "id": 3, "value": "Chemistry between people is only possible online." },
+        { "id": 4, "value": "Technology makes communication more difficult." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage discusses how apps and technology have improved communication and made it easier.",
+        "vietnamese": "Đoạn văn thảo luận về cách các ứng dụng và công nghệ đã cải thiện giao tiếp và làm cho nó dễ dàng hơn."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What is the meaning of 'alternative' in the passage?",
+      "answers": [
+        { "id": 1, "value": "A choice or option" },
+        { "id": 2, "value": "A mistake" },
+        { "id": 3, "value": "A rule" },
+        { "id": 4, "value": "A habit" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Alternative' means a choice or option, as it refers to using apps instead of face-to-face conversations.",
+        "vietnamese": "'Alternative' có nghĩa là một sự lựa chọn hoặc phương án, vì nó đề cập đến việc sử dụng ứng dụng thay cho các cuộc trò chuyện trực tiếp."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What do people use apps for, according to the passage?",
+      "answers": [
+        { "id": 1, "value": "To communicate quickly and conveniently" },
+        { "id": 2, "value": "To avoid talking to others" },
+        { "id": 3, "value": "To replace traditional communication entirely" },
+        { "id": 4, "value": "To customize their devices" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that apps are used for fast and convenient communication.",
+        "vietnamese": "Đoạn văn nói rằng các ứng dụng được sử dụng để giao tiếp nhanh chóng và tiện lợi."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why might online communication not replace face-to-face communication entirely?",
+      "answers": [
+        { "id": 1, "value": "Because chemistry between people is harder to feel through a screen." },
+        { "id": 2, "value": "Because apps are slow and difficult to use." },
+        { "id": 3, "value": "Because traditional methods are more popular." },
+        { "id": 4, "value": "Because online communication is too expensive." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that chemistry is harder to feel online, which makes face-to-face communication unique.",
+        "vietnamese": "Đoạn văn đề cập rằng sự gắn kết cảm xúc khó cảm nhận qua mạng, điều này làm cho giao tiếp trực tiếp trở nên đặc biệt."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'appearance' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It highlights how users can personalize their profiles on apps." },
+        { "id": 2, "value": "It explains how apps work." },
+        { "id": 3, "value": "It describes the speed of communication." },
+        { "id": 4, "value": "It refers to face-to-face communication." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'appearance' is used to show that users can customize how their profiles look on apps.",
+        "vietnamese": "Từ 'appearance' được sử dụng để cho thấy người dùng có thể tùy chỉnh giao diện hồ sơ của họ trên ứng dụng."
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "accident",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He was involved in a car _______ on his way to work.",
+        "answers": [
+          { "id": 1, "value": "accident" },
+          { "id": 2, "value": "incident" },
+          { "id": 3, "value": "event" },
+          { "id": 4, "value": "meeting" },
+          { "id": 5, "value": "party" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hit",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The baseball player managed to _______ the ball out of the stadium.",
+        "answers": [
+          { "id": 1, "value": "hit" },
+          { "id": 2, "value": "kick" },
+          { "id": 3, "value": "throw" },
+          { "id": 4, "value": "push" },
+          { "id": 5, "value": "catch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wind",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ blew the leaves off the trees.",
+        "answers": [
+          { "id": 1, "value": "wind" },
+          { "id": 2, "value": "rain" },
+          { "id": 3, "value": "sun" },
+          { "id": 4, "value": "snow" },
+          { "id": 5, "value": "fog" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "enormous",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The elephant is an _______ animal.",
+        "answers": [
+          { "id": 1, "value": "enormous" },
+          { "id": 2, "value": "tiny" },
+          { "id": 3, "value": "small" },
+          { "id": 4, "value": "little" },
+          { "id": 5, "value": "short" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "blank",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please fill in the _______ spaces on the form.",
+        "answers": [
+          { "id": 1, "value": "blank" },
+          { "id": 2, "value": "full" },
+          { "id": 3, "value": "empty" },
+          { "id": 4, "value": "occupied" },
+          { "id": 5, "value": "written" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dead",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The plant is _______ because it hasn't been watered.",
+        "answers": [
+          { "id": 1, "value": "dead" },
+          { "id": 2, "value": "alive" },
+          { "id": 3, "value": "growing" },
+          { "id": 4, "value": "blooming" },
+          { "id": 5, "value": "healthy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "manner",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He apologized in a sincere _______ for arriving late to the meeting.",
+        "answers": [
+          { "id": 1, "value": "manner" },
+          { "id": 2, "value": "style" },
+          { "id": 3, "value": "habit" },
+          { "id": 4, "value": "method" },
+          { "id": 5, "value": "voice" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "prevent",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Wearing a seatbelt can _______ injuries in a car accident.",
+        "answers": [
+          { "id": 1, "value": "prevent" },
+          { "id": 2, "value": "cause" },
+          { "id": 3, "value": "allow" },
+          { "id": 4, "value": "increase" },
+          { "id": 5, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fall",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Leaves begin to _______ from the trees in autumn.",
+        "answers": [
+          { "id": 1, "value": "fall" },
+          { "id": 2, "value": "drop" },
+          { "id": 3, "value": "fly" },
+          { "id": 4, "value": "float" },
+          { "id": 5, "value": "rise" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "drop",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She accidentally let the glass _______ to the floor.",
+        "answers": [
+          { "id": 1, "value": "drop" },
+          { "id": 2, "value": "fly" },
+          { "id": 3, "value": "rise" },
+          { "id": 4, "value": "float" },
+          { "id": 5, "value": "stand" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

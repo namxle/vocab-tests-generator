@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "A flood caused by heavy rain forced local authorities to shut down roads and repair damaged buildings.",
+    "shuffled_sentences": [
+      "As water levels continued to rise, it became harder to communicate with people in affected areas.",
+      "Some residents mentioned that digital tools like weather apps helped them prepare for the situation.",
+      "Others had to download emergency updates to stay informed about when it was safe to leave."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "These efforts helped the community regain control and return to normal life."
+      },
+      {
+        "id": 2,
+        "value": "Many people praised the original design of the flood protection system."
+      },
+      {
+        "id": 3,
+        "value": "The flood caused severe damage to homes and businesses in the area."
+      },
+      {
+        "id": 4,
+        "value": "Digital communication tools became essential during the emergency."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [2, 3, 1],
+      "explanation": {
+        "english": "The correct sequence starts with water levels rising (Sentence 2), setting the stage for the flood’s impact. Next, residents mentioning digital tools (Sentence 3) shows how they coped with the situation. Finally, downloading emergency updates (Sentence 1) highlights practical actions to ensure safety. This sequence flows logically from the problem to responses and solutions.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc mực nước dâng cao (Câu 2), thiết lập bối cảnh về tác động của lũ lụt. Tiếp theo, việc cư dân đề cập đến công cụ kỹ thuật số (Câu 3) cho thấy cách họ đối phó với tình hình. Cuối cùng, tải xuống các cập nhật khẩn cấp (Câu 1) nhấn mạnh các hành động thực tế để đảm bảo an toàn. Trình tự này di chuyển logic từ vấn đề đến phản ứng và giải pháp."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "These efforts helped the community regain control and return to normal life."
+        },
+        {
+          "id": 2,
+          "value": "Many people praised the original design of the flood protection system."
+        },
+        {
+          "id": 3,
+          "value": "The flood caused severe damage to homes and businesses in the area."
+        },
+        {
+          "id": 4,
+          "value": "Digital communication tools became essential during the emergency."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it summarizes the actions and highlights the community’s recovery efforts, tying together the flood, its challenges, and the solutions taken. Option 2 focuses on flood protection design, which was not the main focus of the passage. Option 3 emphasizes the damage caused but doesn’t connect to the recovery efforts. Option 4 highlights digital tools but misses the broader theme of regaining control and normalcy.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó tóm tắt các hành động và nhấn mạnh nỗ lực phục hồi của cộng đồng, kết nối giữa lũ lụt, thách thức và giải pháp đã thực hiện. Lựa chọn 2 tập trung vào thiết kế hệ thống bảo vệ lũ, điều này không phải là trọng tâm chính của đoạn văn. Lựa chọn 3 nhấn mạnh thiệt hại gây ra nhưng không kết nối với nỗ lực phục hồi. Lựa chọn 4 nhấn mạnh các công cụ kỹ thuật số nhưng bỏ qua chủ đề rộng hơn về việc lấy lại kiểm soát và trở lại bình thường."
+      }
+    }
+  ]
+}

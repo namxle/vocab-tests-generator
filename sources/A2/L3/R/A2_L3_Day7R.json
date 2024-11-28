@@ -1,0 +1,116 @@
+{
+  "topic": "How the Internet Connects the World",
+  "provided_words": [
+    "inside",
+    "forward",
+    "internet",
+    "mail",
+    "web",
+    "network",
+    "further",
+    "expression",
+    "alright",
+    "connect"
+  ],
+  "passage": "The internet is an amazing tool that helps people connect with each other no matter where they are in the world. Inside your home, the internet allows you to send mail, chat with friends, and even attend classes online. Moving forward, it is likely that more services will become available on the web, making daily tasks easier for everyone. The internet is part of a global network, which means people can share information and ideas with others in a matter of seconds. For example, if you want to learn more about an interesting topic, you can search the web to find further details. Although the internet is incredibly useful, it is important to use it in the right way. Expressions like \"alright\" or quick messages sent through emails and social media can sometimes be misunderstood, so it’s a good idea to be clear when communicating. Additionally, while the internet helps us connect with others, spending too much time online may lead to less time spent with family and friends in person. By using the internet wisely, you can stay connected and make the most of this amazing technology.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "The internet connects people around the world and makes life easier."
+        },
+        {
+          "id": 2,
+          "value": "Emails and social media are the best tools on the internet."
+        },
+        {
+          "id": 3,
+          "value": "The internet is more useful than spending time with family and friends."
+        },
+        {
+          "id": 4,
+          "value": "Expressions on the internet are often misunderstood."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage focuses on how the internet helps people connect globally and simplifies daily life, while also encouraging wise use.",
+        "vietnamese": "Đoạn văn tập trung vào cách internet giúp mọi người kết nối toàn cầu và đơn giản hóa cuộc sống hàng ngày, đồng thời khuyến khích sử dụng hợp lý."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'network' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "A system that connects people or things" },
+        { "id": 2, "value": "A type of email service" },
+        { "id": 3, "value": "A way to write expressions" },
+        { "id": 4, "value": "A physical place for learning" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'network' refers to a system that connects people and allows them to share information globally.",
+        "vietnamese": "Trong đoạn văn, 'network' đề cập đến một hệ thống kết nối mọi người và cho phép họ chia sẻ thông tin trên toàn cầu."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What can people do inside their homes using the internet?",
+      "answers": [
+        { "id": 1, "value": "Send mail and attend online classes" },
+        { "id": 2, "value": "Build a new web network" },
+        { "id": 3, "value": "Write better expressions" },
+        { "id": 4, "value": "Spend time offline with friends" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that inside their homes, people can use the internet to send mail, chat with friends, and attend online classes.",
+        "vietnamese": "Đoạn văn đề cập rằng trong nhà, mọi người có thể sử dụng internet để gửi thư, trò chuyện với bạn bè và tham gia lớp học trực tuyến."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why should people be careful with expressions like 'alright' online?",
+      "answers": [
+        { "id": 1, "value": "Because they can be misunderstood." },
+        { "id": 2, "value": "Because they are not polite." },
+        { "id": 3, "value": "Because they are too formal." },
+        { "id": 4, "value": "Because they cannot be sent through mail." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage suggests that expressions like 'alright' can sometimes be misunderstood, so it’s important to communicate clearly online.",
+        "vietnamese": "Đoạn văn gợi ý rằng các cách diễn đạt như 'alright' đôi khi có thể bị hiểu sai, vì vậy cần giao tiếp rõ ràng khi trực tuyến."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'connect' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It emphasizes the internet's ability to link people worldwide."
+        },
+        { "id": 2, "value": "It shows how emails are sent quickly." },
+        {
+          "id": 3,
+          "value": "It explains why the internet replaces face-to-face meetings."
+        },
+        { "id": 4, "value": "It describes the web as a tool for learning." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'connect' highlights the internet's role in linking people around the world, allowing them to share information instantly.",
+        "vietnamese": "Từ 'connect' nhấn mạnh vai trò của internet trong việc kết nối mọi người trên toàn thế giới, cho phép họ chia sẻ thông tin ngay lập tức."
+      }
+    }
+  ]
+}

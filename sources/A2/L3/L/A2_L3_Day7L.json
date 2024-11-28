@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "Inside the office, employees were learning how to connect their computers to the company’s network for faster communication.",
+    "shuffled_sentences": [
+      "Many employees used the internet and email to send important updates to their teams.",
+      "The manager encouraged everyone to move forward with their tasks and explore the company’s web resources for further training.",
+      "Expressions of curiosity were shared as workers learned how to use new tools efficiently."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "This training ensured that everyone was alright and ready to handle future challenges."
+      },
+      {
+        "id": 2,
+        "value": "The team praised the network's speed, which made tasks much easier to complete."
+      },
+      {
+        "id": 3,
+        "value": "Further lessons on using the web will help employees improve their skills."
+      },
+      {
+        "id": 4,
+        "value": "The manager noted that internet access was a key factor for successful teamwork."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 3, 2],
+      "explanation": {
+        "english": "The correct sequence begins with employees using the internet and email to communicate (Sentence 1), setting the context of workplace communication. Next, the manager encouraging employees to move forward (Sentence 3) shows leadership and resource use. Finally, expressions of curiosity (Sentence 2) reflect the employees' engagement with the training. This sequence flows logically from communication tools to motivation and engagement.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc nhân viên sử dụng internet và email để giao tiếp (Câu 1), thiết lập bối cảnh về giao tiếp nơi làm việc. Tiếp theo, việc quản lý khuyến khích nhân viên tiến lên (Câu 3) thể hiện sự lãnh đạo và sử dụng tài nguyên. Cuối cùng, biểu hiện sự tò mò (Câu 2) phản ánh sự tham gia của nhân viên vào đào tạo. Trình tự này logic từ công cụ giao tiếp đến động lực và sự tham gia."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "This training ensured that everyone was alright and ready to handle future challenges."
+        },
+        {
+          "id": 2,
+          "value": "The team praised the network's speed, which made tasks much easier to complete."
+        },
+        {
+          "id": 3,
+          "value": "Further lessons on using the web will help employees improve their skills."
+        },
+        {
+          "id": 4,
+          "value": "The manager noted that internet access was a key factor for successful teamwork."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it summarizes the purpose of the training, emphasizing readiness and confidence. Option 2 praises the network speed but doesn’t conclude the overall theme of training. Option 3 focuses on further lessons, which shifts away from the immediate context of preparation. Option 4 highlights internet access but doesn’t tie back to the broader training goals.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó tóm tắt mục đích của việc đào tạo, nhấn mạnh sự sẵn sàng và tự tin. Lựa chọn 2 khen ngợi tốc độ mạng nhưng không kết luận được chủ đề chung của đào tạo. Lựa chọn 3 tập trung vào các bài học tiếp theo, điều này làm lệch khỏi bối cảnh chuẩn bị ngay lập tức. Lựa chọn 4 nhấn mạnh quyền truy cập internet nhưng không liên kết lại với các mục tiêu đào tạo rộng hơn."
+      }
+    }
+  ]
+}

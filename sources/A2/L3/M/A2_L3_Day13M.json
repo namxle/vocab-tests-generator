@@ -1,0 +1,172 @@
+[
+  {
+    "word": "evidence",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The police found _______ that helped solve the crime.",
+        "answers": [
+          { "id": 1, "value": "evidence" },
+          { "id": 2, "value": "information" },
+          { "id": 3, "value": "tools" },
+          { "id": 4, "value": "objects" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "involve",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The project will _______ working with other people in a team.",
+        "answers": [
+          { "id": 1, "value": "involve" },
+          { "id": 2, "value": "create" },
+          { "id": 3, "value": "use" },
+          { "id": 4, "value": "ask" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "invent",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Thomas Edison helped _______ the light bulb.",
+        "answers": [
+          { "id": 1, "value": "invent" },
+          { "id": 2, "value": "discover" },
+          { "id": 3, "value": "improve" },
+          { "id": 4, "value": "develop" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "matter",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It doesn’t _______ if we arrive late; the meeting hasn’t started yet.",
+        "answers": [
+          { "id": 1, "value": "matter" },
+          { "id": 2, "value": "help" },
+          { "id": 3, "value": "change" },
+          { "id": 4, "value": "work" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scientist",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ studied the effects of the new drug in the laboratory.",
+        "answers": [
+          { "id": 1, "value": "scientist" },
+          { "id": 2, "value": "doctor" },
+          { "id": 3, "value": "researcher" },
+          { "id": 4, "value": "teacher" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "search",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team continued to _______ for survivors after the storm.",
+        "answers": [
+          { "id": 1, "value": "search" },
+          { "id": 2, "value": "ask" },
+          { "id": 3, "value": "look" },
+          { "id": 4, "value": "find" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ability",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She has the _______ to solve problems quickly and effectively.",
+        "answers": [
+          { "id": 1, "value": "ability" },
+          { "id": 2, "value": "skill" },
+          { "id": 3, "value": "knowledge" },
+          { "id": 4, "value": "power" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "space",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Astronauts are trained to live and work in _______.",
+        "answers": [
+          { "id": 1, "value": "space" },
+          { "id": 2, "value": "air" },
+          { "id": 3, "value": "water" },
+          { "id": 4, "value": "land" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "alien",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In the movie, an _______ spaceship landed on Earth.",
+        "answers": [
+          { "id": 1, "value": "alien" },
+          { "id": 2, "value": "unknown" },
+          { "id": 3, "value": "foreign" },
+          { "id": 4, "value": "distant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "planet",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Mars is a _______ that scientists want to explore.",
+        "answers": [
+          { "id": 1, "value": "planet" },
+          { "id": 2, "value": "star" },
+          { "id": 3, "value": "moon" },
+          { "id": 4, "value": "comet" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

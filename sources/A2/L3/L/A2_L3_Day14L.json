@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "The idea of flying to the moon seemed impossible long ago, but now it is a reality.",
+    "shuffled_sentences": [
+      "Scientists explain that the moon itself is a strange place because it has no atmosphere or life.",
+      "In this context, exploring anywhere beyond our own planet helps us understand more about the universe.",
+      "Everywhere on Earth, from one continent to another, people are amazed by the unusual discoveries made during space missions."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "These efforts show how humans continue to push the limits of exploration."
+      },
+      {
+        "id": 2,
+        "value": "This proves that the moon is the only place worth exploring."
+      },
+      {
+        "id": 3,
+        "value": "It shows that flying beyond Earth is unnecessary for science."
+      },
+      {
+        "id": 4,
+        "value": "These missions confirm that life exists everywhere in space."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 3, 2],
+      "explanation": {
+        "english": "The correct sequence begins with scientists describing the moon itself (Sentence 1), introducing the topic of its unique features. Next, the sentence about discoveries on Earth (Sentence 3) follows logically, connecting the moon’s exploration to its impact on people globally. Finally, the sentence about the broader context of exploration (Sentence 2) concludes by reflecting on its importance for understanding the universe. Incorrect orders disrupt the logical flow from describing the moon, showing its impact, and concluding with its significance.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc các nhà khoa học mô tả chính mặt trăng (Câu 1), giới thiệu về các đặc điểm độc đáo của nó. Tiếp theo là câu về những khám phá trên Trái Đất (Câu 3), liên kết việc khám phá mặt trăng với tác động toàn cầu. Cuối cùng, câu về bối cảnh rộng lớn hơn của việc khám phá (Câu 2) kết luận, nhấn mạnh tầm quan trọng của nó trong việc hiểu về vũ trụ. Trật tự sai sẽ phá vỡ dòng logic từ mô tả mặt trăng, tác động của nó và kết luận về ý nghĩa của nó."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "These efforts show how humans continue to push the limits of exploration."
+        },
+        {
+          "id": 2,
+          "value": "This proves that the moon is the only place worth exploring."
+        },
+        {
+          "id": 3,
+          "value": "It shows that flying beyond Earth is unnecessary for science."
+        },
+        {
+          "id": 4,
+          "value": "These missions confirm that life exists everywhere in space."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it aligns with the passage’s focus on the achievements and importance of exploration beyond Earth. Option 2 incorrectly limits exploration to the moon, which is not the passage’s argument. Option 3 contradicts the passage’s emphasis on the value of space exploration. Option 4 incorrectly suggests that life exists everywhere in space, which is not supported by the passage.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó phù hợp với trọng tâm của đoạn văn về những thành tựu và tầm quan trọng của việc khám phá ngoài Trái Đất. Lựa chọn 2 sai vì nó giới hạn việc khám phá chỉ ở mặt trăng, điều này không phải là lập luận của đoạn văn. Lựa chọn 3 mâu thuẫn với trọng tâm của đoạn văn về giá trị của việc khám phá không gian. Lựa chọn 4 sai vì nó cho rằng sự sống tồn tại ở khắp mọi nơi trong không gian, điều này không được đoạn văn hỗ trợ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "word": "medical",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She decided to study _______ science to become a doctor.",
+        "answers": [
+          { "id": 1, "value": "medical" },
+          { "id": 2, "value": "physical" },
+          { "id": 3, "value": "chemical" },
+          { "id": 4, "value": "general" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "technology",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Modern _______ has made communication much faster.",
+        "answers": [
+          { "id": 1, "value": "technology" },
+          { "id": 2, "value": "education" },
+          { "id": 3, "value": "medicine" },
+          { "id": 4, "value": "engineering" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "virus",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ spread quickly, causing many people to become ill.",
+        "answers": [
+          { "id": 1, "value": "virus" },
+          { "id": 2, "value": "bacteria" },
+          { "id": 3, "value": "disease" },
+          { "id": 4, "value": "medicine" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "biology",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We studied plants and animals in our _______ class.",
+        "answers": [
+          { "id": 1, "value": "biology" },
+          { "id": 2, "value": "chemistry" },
+          { "id": 3, "value": "physics" },
+          { "id": 4, "value": "math" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "experiment",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The students did an _______ to test their science project idea.",
+        "answers": [
+          { "id": 1, "value": "experiment" },
+          { "id": 2, "value": "assignment" },
+          { "id": 3, "value": "activity" },
+          { "id": 4, "value": "question" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "achieve",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "If you work hard, you can _______ your goals.",
+        "answers": [
+          { "id": 1, "value": "achieve" },
+          { "id": 2, "value": "create" },
+          { "id": 3, "value": "find" },
+          { "id": 4, "value": "start" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "correctly",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Make sure you answer all the questions _______ to get a good score.",
+        "answers": [
+          { "id": 1, "value": "correctly" },
+          { "id": 2, "value": "quickly" },
+          { "id": 3, "value": "easily" },
+          { "id": 4, "value": "slowly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "develop",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Scientists work to _______ new medicines to help people.",
+        "answers": [
+          { "id": 1, "value": "develop" },
+          { "id": 2, "value": "create" },
+          { "id": 3, "value": "test" },
+          { "id": 4, "value": "study" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "education",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Good _______ is important for building a successful future.",
+        "answers": [
+          { "id": 1, "value": "education" },
+          { "id": 2, "value": "technology" },
+          { "id": 3, "value": "training" },
+          { "id": 4, "value": "information" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "board",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher wrote the answers on the white _______.",
+        "answers": [
+          { "id": 1, "value": "board" },
+          { "id": 2, "value": "table" },
+          { "id": 3, "value": "paper" },
+          { "id": 4, "value": "computer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

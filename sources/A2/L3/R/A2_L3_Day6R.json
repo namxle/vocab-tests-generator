@@ -1,0 +1,116 @@
+{
+  "topic": "The Role of Digital Tools in Emergencies",
+  "provided_words": [
+    "original",
+    "repair",
+    "flood",
+    "shut",
+    "rise",
+    "communicate",
+    "download",
+    "mention",
+    "control",
+    "digital"
+  ],
+  "passage": "In times of emergencies, digital tools play an important role in helping people stay safe and manage problems effectively. When a flood happens, the water levels may rise quickly, which can damage homes and roads that need immediate repair. Authorities often use digital platforms, such as social media, to communicate important updates so that people know what to do. For example, they might mention areas to avoid or provide information about shelters that are available. Digital maps, which can be downloaded on smartphones, help people navigate safely during floods or other emergencies. If roads are blocked by water, officials may shut them down to control traffic and reduce the risk of accidents. The use of digital tools is faster and more practical than traditional methods because apps and websites allow people to get alerts immediately. For instance, downloading an app that sends weather warnings is quicker than waiting for original notices on paper. Although digital tools cannot stop floods or other natural events, they can help reduce the impact by keeping people informed and prepared. To stay safe, it is important to act responsibly and use digital technology to plan ahead and make better decisions during emergencies.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Digital tools help people stay safe and manage problems during emergencies."
+        },
+        {
+          "id": 2,
+          "value": "Floods cause damage that requires immediate repair."
+        },
+        {
+          "id": 3,
+          "value": "Social media is the best way to communicate during emergencies."
+        },
+        {
+          "id": 4,
+          "value": "Traditional methods are more reliable than digital tools."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains how digital tools are used during emergencies to help people stay safe and manage challenges effectively.",
+        "vietnamese": "Đoạn văn giải thích cách các công cụ kỹ thuật số được sử dụng trong các tình huống khẩn cấp để giúp mọi người an toàn và xử lý vấn đề hiệu quả."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'repair' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Fix something that is broken" },
+        { "id": 2, "value": "Shut down a system" },
+        { "id": 3, "value": "Download information" },
+        { "id": 4, "value": "Control the situation" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'repair' means fixing damage caused by floods, such as to homes and roads.",
+        "vietnamese": "Trong đoạn văn, 'repair' có nghĩa là sửa chữa các thiệt hại do lũ lụt gây ra, chẳng hạn như đối với nhà cửa và đường sá."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "How are digital maps used during emergencies?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "They help people navigate safely in flooded areas."
+        },
+        { "id": 2, "value": "They shut down roads to prevent accidents." },
+        { "id": 3, "value": "They repair damage caused by floods." },
+        { "id": 4, "value": "They control water levels during floods." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that digital maps can be downloaded to help people navigate safely in emergencies, especially during floods.",
+        "vietnamese": "Đoạn văn đề cập rằng bản đồ kỹ thuật số có thể được tải xuống để giúp mọi người di chuyển an toàn trong các tình huống khẩn cấp, đặc biệt là trong lũ lụt."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why is shutting down certain roads important during a flood?",
+      "answers": [
+        { "id": 1, "value": "To control traffic and prevent accidents." },
+        { "id": 2, "value": "To repair homes and roads faster." },
+        { "id": 3, "value": "To allow people to download apps safely." },
+        { "id": 4, "value": "To reduce water levels in the area." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that shutting down roads during a flood is necessary to control traffic and prevent accidents caused by dangerous conditions.",
+        "vietnamese": "Đoạn văn giải thích rằng việc đóng đường trong thời gian lũ lụt là cần thiết để kiểm soát giao thông và ngăn ngừa tai nạn do điều kiện nguy hiểm gây ra."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'digital' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It highlights the use of technology to manage emergencies."
+        },
+        { "id": 2, "value": "It refers to a type of natural disaster." },
+        { "id": 3, "value": "It shows how floods damage roads." },
+        { "id": 4, "value": "It explains how shelters are constructed." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'digital' in the passage emphasizes the use of technology, such as apps and maps, to manage emergencies effectively.",
+        "vietnamese": "Từ 'digital' trong đoạn văn nhấn mạnh việc sử dụng công nghệ, chẳng hạn như ứng dụng và bản đồ, để quản lý các tình huống khẩn cấp hiệu quả."
+      }
+    }
+  ]
+}

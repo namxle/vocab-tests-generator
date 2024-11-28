@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "Education in biology and medical technology helps researchers correctly identify ways to fight viruses.",
+    "shuffled_sentences": [
+      "To achieve success, they conduct experiments in labs to develop new treatments.",
+      "For example, a research board often approves these experiments to ensure safety and accuracy.",
+      "This process shows how combining knowledge and advanced tools can lead to important discoveries."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "As a result, more effective treatments become available to people worldwide."
+      },
+      {
+        "id": 2,
+        "value": "This leads to fewer experiments and a slower process."
+      },
+      {
+        "id": 3,
+        "value": "This proves that viruses can never be stopped completely."
+      },
+      {
+        "id": 4,
+        "value": "It ensures that biology is no longer necessary in medical research."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct sequence starts with the goal of achieving success (Sentence 1), which introduces the experiments and their purpose. Next, the approval of experiments by a research board (Sentence 2) logically follows, as it ensures safety and reliability. Finally, the sentence about combining knowledge and tools (Sentence 3) concludes the passage, highlighting the overall process. Incorrect orders would disrupt this logical flow from the purpose to the approval process and the conclusion.",
+        "vietnamese": "Trật tự đúng bắt đầu với mục tiêu đạt được thành công (Câu 1), giới thiệu các thí nghiệm và mục đích của chúng. Tiếp theo, việc phê duyệt các thí nghiệm bởi hội đồng nghiên cứu (Câu 2) được nêu ra, đảm bảo an toàn và độ tin cậy. Cuối cùng, câu về việc kết hợp kiến thức và công cụ (Câu 3) kết luận đoạn văn, nhấn mạnh quy trình tổng thể. Trật tự sai sẽ phá vỡ dòng logic từ mục tiêu, quy trình phê duyệt đến kết luận."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "As a result, more effective treatments become available to people worldwide."
+        },
+        {
+          "id": 2,
+          "value": "This leads to fewer experiments and a slower process."
+        },
+        {
+          "id": 3,
+          "value": "This proves that viruses can never be stopped completely."
+        },
+        {
+          "id": 4,
+          "value": "It ensures that biology is no longer necessary in medical research."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it aligns with the theme of the passage, focusing on achieving effective treatments through research and technology. Option 2 suggests a slower process, which contradicts the progress emphasized in the passage. Option 3 makes an absolute statement that viruses cannot be stopped, which is not supported by the passage. Option 4 incorrectly claims that biology is no longer necessary, which directly opposes the passage's focus on education and biology.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó phù hợp với chủ đề của đoạn văn, tập trung vào việc đạt được các phương pháp điều trị hiệu quả thông qua nghiên cứu và công nghệ. Lựa chọn 2 gợi ý một quá trình chậm hơn, điều này mâu thuẫn với tiến trình được nhấn mạnh trong đoạn văn. Lựa chọn 3 đưa ra một tuyên bố tuyệt đối rằng virus không thể bị ngăn chặn, điều này không được hỗ trợ bởi đoạn văn. Lựa chọn 4 sai vì nó cho rằng sinh học không còn cần thiết, điều này trái ngược với trọng tâm của đoạn văn về giáo dục và sinh học."
+      }
+    }
+  ]
+}

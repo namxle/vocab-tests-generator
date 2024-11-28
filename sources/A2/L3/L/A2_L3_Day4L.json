@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "A heavy storm can affect many areas, causing fear and danger for people living nearby.",
+    "shuffled_sentences": [
+      "The storm was a blow to the community, damaging homes and leaving families without power.",
+      "Heat waves after the storm can burn plants and hurt animals in the region.",
+      "Emergency teams work quickly to reduce the danger and help those who are affected."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "These efforts are important to protect lives and help the community recover after the storm."
+      },
+      {
+        "id": 2,
+        "value": "People fear that another storm might come and cause more problems."
+      },
+      {
+        "id": 3,
+        "value": "Many families work together to clear the heavy damage from their homes."
+      },
+      {
+        "id": 4,
+        "value": "The storm’s heat wave caused more damage than the initial wind."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 3, 2],
+      "explanation": {
+        "english": "The correct sequence begins with the storm being a blow to the community (Sentence 1), introducing the damage and challenges. Next, emergency teams working to reduce danger (Sentence 3) highlights the immediate response. Finally, the heat wave burning plants and hurting animals (Sentence 2) shows the longer-term effects. This sequence maintains a logical flow from the initial impact to emergency actions and long-term consequences.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc cơn bão là cú đánh lớn vào cộng đồng (Câu 1), giới thiệu thiệt hại và thách thức. Tiếp theo, các đội khẩn cấp làm việc để giảm thiểu nguy hiểm (Câu 3) nhấn mạnh phản ứng ngay lập tức. Cuối cùng, đợt nắng nóng thiêu đốt cây cối và làm tổn thương động vật (Câu 2) cho thấy hậu quả lâu dài. Trình tự này duy trì dòng chảy logic từ tác động ban đầu đến hành động khẩn cấp và hậu quả lâu dài."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "These efforts are important to protect lives and help the community recover after the storm."
+        },
+        {
+          "id": 2,
+          "value": "People fear that another storm might come and cause more problems."
+        },
+        {
+          "id": 3,
+          "value": "Many families work together to clear the heavy damage from their homes."
+        },
+        {
+          "id": 4,
+          "value": "The storm’s heat wave caused more damage than the initial wind."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it concludes the passage by emphasizing the efforts to protect lives and recover after the storm. Option 2 focuses on future fears, which are not central to the theme of recovery. Option 3 mentions families' efforts but doesn’t summarize the broader theme of emergency actions and community recovery. Option 4 emphasizes the heat wave but misses the overall focus on the storm’s impact and recovery efforts.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết luận đoạn văn bằng cách nhấn mạnh nỗ lực bảo vệ tính mạng và phục hồi sau cơn bão. Lựa chọn 2 tập trung vào nỗi sợ trong tương lai, điều này không phải trọng tâm của chủ đề phục hồi. Lựa chọn 3 đề cập đến nỗ lực của các gia đình nhưng không tóm tắt được chủ đề rộng hơn về hành động khẩn cấp và phục hồi cộng đồng. Lựa chọn 4 nhấn mạnh đợt nắng nóng nhưng bỏ qua trọng tâm về tác động của bão và nỗ lực phục hồi."
+      }
+    }
+  ]
+}

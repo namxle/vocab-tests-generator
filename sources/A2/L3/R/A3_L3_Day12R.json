@@ -1,0 +1,87 @@
+{
+  "topic": "Medical Technology and Education",
+  "provided_words": ["medical", "technology", "virus", "biology", "experiment", "achieve", "correctly", "develop", "education", "board"],
+  "passage": "Medical technology has changed the way we fight diseases. Researchers in biology work hard to understand how viruses spread and how to stop them. Through experiments, scientists develop new medicines and vaccines to protect people. For these medicines to work, they must be used correctly. \n\nEducation also plays an important role in medical progress. Students studying biology and medicine learn how to conduct experiments and analyze results. With the right education, they can achieve great success in their fields. Medical schools often include courses about technology, as it helps doctors and researchers find better solutions. \n\nMedical boards ensure that doctors are well-trained and follow the latest developments. These boards also check that hospitals use the best technology to care for patients. With teamwork between education, technology, and research, we can continue to develop ways to fight diseases and improve health for everyone.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "Medical technology and education help improve health and fight diseases." },
+        { "id": 2, "value": "Viruses are the main focus of all medical experiments." },
+        { "id": 3, "value": "Medical boards are not necessary for progress." },
+        { "id": 4, "value": "Education is more important than medical technology." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage discusses the importance of medical technology, education, and research in improving health and fighting diseases.",
+        "vietnamese": "Đoạn văn thảo luận về tầm quan trọng của công nghệ y tế, giáo dục và nghiên cứu trong việc cải thiện sức khỏe và chống lại bệnh tật."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'correctly' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "In the right way" },
+        { "id": 2, "value": "Quickly" },
+        { "id": 3, "value": "Easily" },
+        { "id": 4, "value": "Dangerously" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Correctly' means doing something in the right way, as mentioned about using medicines properly.",
+        "vietnamese": "'Correctly' có nghĩa là làm điều gì đó đúng cách, như đã đề cập về việc sử dụng thuốc một cách đúng đắn."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What do medical boards do, according to the passage?",
+      "answers": [
+        { "id": 1, "value": "They ensure doctors are well-trained and up-to-date with technology." },
+        { "id": 2, "value": "They create new vaccines." },
+        { "id": 3, "value": "They study viruses in biology." },
+        { "id": 4, "value": "They develop courses for medical schools." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that medical boards check that doctors are trained and use the latest technology.",
+        "vietnamese": "Đoạn văn nói rằng các hội đồng y tế kiểm tra xem các bác sĩ có được đào tạo và sử dụng công nghệ mới nhất không."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why is education important in medical progress?",
+      "answers": [
+        { "id": 1, "value": "It helps students learn how to conduct experiments and analyze results." },
+        { "id": 2, "value": "It stops the spread of viruses." },
+        { "id": 3, "value": "It replaces the need for medical boards." },
+        { "id": 4, "value": "It only teaches about vaccines." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that education prepares students to conduct research and use medical technology effectively.",
+        "vietnamese": "Đoạn văn đề cập rằng giáo dục chuẩn bị cho sinh viên nghiên cứu và sử dụng công nghệ y tế một cách hiệu quả."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'develop' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It shows how scientists create new medicines and vaccines." },
+        { "id": 2, "value": "It describes the role of medical boards." },
+        { "id": 3, "value": "It explains how viruses spread." },
+        { "id": 4, "value": "It highlights the importance of teamwork." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'develop' is used to show how scientists create new medicines and vaccines through research.",
+        "vietnamese": "Từ 'develop' được sử dụng để cho thấy cách các nhà khoa học tạo ra các loại thuốc và vắc xin mới thông qua nghiên cứu."
+      }
+    }
+  ]
+}

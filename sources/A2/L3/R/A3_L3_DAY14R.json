@@ -1,0 +1,87 @@
+{
+  "topic": "The Mysteries of the Moon",
+  "provided_words": ["moon", "everywhere", "anywhere", "flying", "continent", "context", "impossible", "itself", "strange", "unusual"],
+  "passage": "The moon has always fascinated people. It is the closest object to Earth in space, but it is still full of mysteries. Scientists study the moon to learn more about it, but there are still many unusual and strange things about it. For example, the moon does not produce light itself; instead, it reflects the light from the sun.\n\nUnlike Earth, the moon has no air, so life as we know it would be impossible there. You won’t find plants, animals, or water anywhere on the moon. However, its surface is covered with craters, which were formed by flying rocks from space. These craters can be found everywhere on the moon’s surface.\n\nIn the context of history, people have always wondered about the moon. Some cultures believed it had magical powers. Today, scientists know much more about the moon, but it still holds secrets. Visiting the moon is like exploring a new continent; it is exciting and full of possibilities. With modern technology, humans may discover even more about this unusual neighbor in the future.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "The moon is fascinating, full of mysteries, and different from Earth." },
+        { "id": 2, "value": "The moon produces its own light and has no craters." },
+        { "id": 3, "value": "The moon is exactly like a continent on Earth." },
+        { "id": 4, "value": "Scientists know everything about the moon." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage highlights the moon's unique features and how it is still mysterious and different from Earth.",
+        "vietnamese": "Đoạn văn nêu bật những đặc điểm độc đáo của mặt trăng và cách nó vẫn còn bí ẩn và khác biệt so với Trái đất."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'impossible' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Not able to happen or exist" },
+        { "id": 2, "value": "Very easy to do" },
+        { "id": 3, "value": "Dangerous and risky" },
+        { "id": 4, "value": "Unusual or strange" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Impossible' means something that cannot happen or exist, as life cannot exist on the moon due to a lack of air.",
+        "vietnamese": "'Impossible' có nghĩa là điều gì đó không thể xảy ra hoặc tồn tại, vì sự sống không thể tồn tại trên mặt trăng do thiếu không khí."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What is the surface of the moon covered with?",
+      "answers": [
+        { "id": 1, "value": "Craters formed by flying rocks from space." },
+        { "id": 2, "value": "Water and plants." },
+        { "id": 3, "value": "Magical powers." },
+        { "id": 4, "value": "Air and animals." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that the moon's surface is covered with craters formed by rocks flying from space.",
+        "vietnamese": "Đoạn văn giải thích rằng bề mặt mặt trăng được bao phủ bởi các miệng núi lửa được hình thành bởi các tảng đá bay từ không gian."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why is visiting the moon compared to exploring a new continent?",
+      "answers": [
+        { "id": 1, "value": "Because it is exciting and full of possibilities." },
+        { "id": 2, "value": "Because it is covered with water and plants." },
+        { "id": 3, "value": "Because it has air and life." },
+        { "id": 4, "value": "Because it has magical powers." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage compares visiting the moon to exploring a new continent because it is exciting and holds many opportunities for discovery.",
+        "vietnamese": "Đoạn văn so sánh việc thăm mặt trăng với việc khám phá một lục địa mới vì nó thú vị và chứa đựng nhiều cơ hội khám phá."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'context' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It refers to the historical understanding and beliefs about the moon." },
+        { "id": 2, "value": "It describes the flying rocks that form craters." },
+        { "id": 3, "value": "It explains why the moon does not have air." },
+        { "id": 4, "value": "It highlights the lack of life on the moon." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'context' is used to talk about the historical beliefs and understanding of the moon in human history.",
+        "vietnamese": "Từ 'context' được sử dụng để nói về những niềm tin và sự hiểu biết lịch sử về mặt trăng trong lịch sử nhân loại."
+      }
+    }
+  ]
+}

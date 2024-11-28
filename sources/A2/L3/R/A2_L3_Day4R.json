@@ -1,0 +1,125 @@
+{
+  "topic": "The Impact of Storms and Heat Waves",
+  "provided_words": [
+    "affect",
+    "blow",
+    "burn",
+    "fear",
+    "danger",
+    "heat",
+    "heavy",
+    "hurt",
+    "wave",
+    "storm"
+  ],
+  "passage": "Storms and heat waves are natural events that can greatly affect people's lives, especially when they are severe. A storm, which often brings heavy rain and strong winds, can cause a powerful blow to communities by damaging homes and cutting off power. Although people prepare for storms by securing their homes, there is always a fear that unexpected events may happen, such as trees falling on houses or roads being blocked. In some cases, a storm may lead to floods, putting people in danger and making it hard for emergency teams to help those who are hurt. Heat waves, which occur when temperatures stay extremely high for several days, can also cause serious problems if people do not take precautions. The intense heat can burn plants and dry up water supplies, creating challenges for farmers and communities. In addition, heat waves often affect elderly people and young children more severely because their bodies cannot cope well with extreme temperatures. While weather warnings help people prepare for storms and heat waves, some individuals ignore them and face unnecessary risks. Both storms and heat waves remind us of the power of nature, showing that preparation and caution are essential.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Storms and heat waves can cause serious problems, so preparation is important."
+        },
+        { "id": 2, "value": "Floods are the most dangerous result of storms." },
+        {
+          "id": 3,
+          "value": "Heat waves mostly affect children and elderly people."
+        },
+        {
+          "id": 4,
+          "value": "Weather warnings prevent all problems during disasters."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage discusses how storms and heat waves can cause serious problems for people and emphasizes the importance of preparation.",
+        "vietnamese": "Đoạn văn nói về cách bão và các đợt nắng nóng gây ra vấn đề nghiêm trọng cho con người và nhấn mạnh sự cần thiết phải chuẩn bị."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'blow' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "A strong hit or strike" },
+        { "id": 2, "value": "A light breeze" },
+        { "id": 3, "value": "A type of wave" },
+        { "id": 4, "value": "A fear of storms" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'blow' refers to a strong hit, such as the damage storms cause to homes and communities.",
+        "vietnamese": "Trong đoạn văn, 'blow' ám chỉ một cú đánh mạnh, như thiệt hại mà các cơn bão gây ra cho nhà cửa và cộng đồng."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What problems can heat waves cause?",
+      "answers": [
+        { "id": 1, "value": "Burnt plants and dried-up water supplies" },
+        { "id": 2, "value": "Blocked roads and fallen trees" },
+        { "id": 3, "value": "Flooded homes and power outages" },
+        { "id": 4, "value": "Improved weather for farming" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that during heat waves, the heat can burn plants and dry up water supplies, leading to serious problems.",
+        "vietnamese": "Đoạn văn đề cập rằng trong các đợt nắng nóng, nhiệt độ có thể làm cháy cây trồng và làm cạn kiệt nguồn nước, gây ra vấn đề nghiêm trọng."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why might some people still be hurt during storms or heat waves despite warnings?",
+      "answers": [
+        { "id": 1, "value": "Because they ignore the weather warnings." },
+        { "id": 2, "value": "Because the warnings are not clear." },
+        {
+          "id": 3,
+          "value": "Because storms are always stronger than predicted."
+        },
+        {
+          "id": 4,
+          "value": "Because they do not have enough water to stay safe."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that some people ignore weather warnings, which leads to them being hurt during storms or heat waves.",
+        "vietnamese": "Đoạn văn giải thích rằng một số người bỏ qua các cảnh báo thời tiết, dẫn đến việc họ bị tổn thương trong các cơn bão hoặc đợt nắng nóng."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'danger' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It highlights the risks of storms and heat waves."
+        },
+        {
+          "id": 2,
+          "value": "It describes how water dries up during heat waves."
+        },
+        {
+          "id": 3,
+          "value": "It explains the cause of strong winds during storms."
+        },
+        {
+          "id": 4,
+          "value": "It refers to how roads are blocked during floods."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'danger' emphasizes the risks people face during storms and heat waves, such as floods or extreme heat.",
+        "vietnamese": "Từ 'danger' nhấn mạnh các rủi ro mà con người phải đối mặt trong các cơn bão và đợt nắng nóng, như lũ lụt hoặc nhiệt độ cực đoan."
+      }
+    }
+  ]
+}

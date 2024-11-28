@@ -1,0 +1,104 @@
+{
+  "topic": "Fashion and Sales: The Joy of Shopping",
+  "provided_words": [
+    "fashion",
+    "gift",
+    "sale",
+    "item",
+    "credit",
+    "jewellery",
+    "lorry",
+    "wallet",
+    "store",
+    "shop"
+  ],
+  "passage": "Fashion plays a big role in how people express themselves, and shopping is one of the best ways to explore new trends. During holiday seasons, stores often have large sales so that customers can buy fashionable items at lower prices. This makes it easier for people to purchase gifts, such as jewellery, which is both elegant and long-lasting. Although some items can still be expensive, many shops offer credit options, allowing customers to pay gradually. If you visit a fashion store during a sale, you might notice lorries delivering new stock to ensure shelves are always full. Shopping is more enjoyable when friends or family join because they can give advice and share opinions about different items. When shopping for a sale, it is important to remember your wallet so you can pay for your chosen pieces. While sales make shopping affordable, they also help people explore new fashion styles and feel good about their choices.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Shopping during sales is a fun way to explore fashion trends."
+        },
+        {
+          "id": 2,
+          "value": "Jewellery is the best gift to buy during a sale."
+        },
+        { "id": 3, "value": "Fashion stores are always full of new items." },
+        { "id": 4, "value": "Credit options are only available during sales." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage focuses on how sales make shopping for fashion fun and affordable, while allowing people to explore new trends.",
+        "vietnamese": "Đoạn văn tập trung vào cách các đợt giảm giá khiến việc mua sắm thời trang trở nên thú vị và hợp túi tiền, đồng thời giúp mọi người khám phá các xu hướng mới."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What is a synonym for 'sale' in the passage?",
+      "answers": [
+        { "id": 1, "value": "Discount" },
+        { "id": 2, "value": "Gift" },
+        { "id": 3, "value": "Wallet" },
+        { "id": 4, "value": "Purchase" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'sale' refers to an event where items are sold at lower prices, which is similar in meaning to 'discount.'",
+        "vietnamese": "Trong đoạn văn, 'sale' ám chỉ một sự kiện mà các mặt hàng được bán với giá thấp hơn, có nghĩa tương tự như 'discount'."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What do lorries bring to fashion stores?",
+      "answers": [
+        { "id": 1, "value": "New stock" },
+        { "id": 2, "value": "Jewellery" },
+        { "id": 3, "value": "Gifts" },
+        { "id": 4, "value": "Wallets" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that lorries deliver new stock to keep shelves full during sales.",
+        "vietnamese": "Đoạn văn đề cập rằng xe tải mang các mặt hàng mới đến để giữ kệ hàng luôn đầy trong các đợt giảm giá."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why is shopping with family or friends more enjoyable?",
+      "answers": [
+        { "id": 1, "value": "Because they can share opinions about items." },
+        { "id": 2, "value": "Because they always know the best deals." },
+        { "id": 3, "value": "Because they pay for your items." },
+        { "id": 4, "value": "Because they like jewellery." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Shopping with family or friends is more enjoyable because they can share their opinions and advice, as mentioned in the passage.",
+        "vietnamese": "Mua sắm cùng gia đình hoặc bạn bè thú vị hơn vì họ có thể chia sẻ ý kiến và lời khuyên, như được đề cập trong đoạn văn."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'wallet' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It reminds people to bring money for shopping." },
+        { "id": 2, "value": "It describes the items sold in stores." },
+        { "id": 3, "value": "It is used to pay for expensive jewellery." },
+        { "id": 4, "value": "It shows how credit options work." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'wallet' in the passage serves as a reminder for people to bring money when they shop.",
+        "vietnamese": "Từ 'wallet' trong đoạn văn được dùng để nhắc nhở mọi người mang theo tiền khi đi mua sắm."
+      }
+    }
+  ]
+}

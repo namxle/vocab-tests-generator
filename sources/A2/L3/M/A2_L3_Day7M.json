@@ -1,0 +1,182 @@
+[
+  {
+    "word": "inside",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The keys are not outside; they must be _______ the drawer.",
+        "answers": [
+          { "id": 1, "value": "inside" },
+          { "id": 2, "value": "outside" },
+          { "id": 3, "value": "under" },
+          { "id": 4, "value": "above" },
+          { "id": 5, "value": "behind" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "forward",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He took a step _______ to get a better view of the painting.",
+        "answers": [
+          { "id": 1, "value": "forward" },
+          { "id": 2, "value": "backward" },
+          { "id": 3, "value": "sideways" },
+          { "id": 4, "value": "upward" },
+          { "id": 5, "value": "downward" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "internet",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ has made it easier for people to connect and share information globally.",
+        "answers": [
+          { "id": 1, "value": "internet" },
+          { "id": 2, "value": "library" },
+          { "id": 3, "value": "network" },
+          { "id": 4, "value": "radio" },
+          { "id": 5, "value": "web" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mail",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In the past, people used _______ to send messages across long distances.",
+        "answers": [
+          { "id": 1, "value": "mails" },
+          { "id": 2, "value": "webs" },
+          { "id": 3, "value": "network" },
+          { "id": 4, "value": "internet" },
+          { "id": 5, "value": "emails" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "web",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He searched for the information on the _______.",
+        "answers": [
+          { "id": 1, "value": "web" },
+          { "id": 2, "value": "book" },
+          { "id": 3, "value": "internet" },
+          { "id": 4, "value": "page" },
+          { "id": 5, "value": "site" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "network",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company has a strong _______ of contacts in the industry.",
+        "answers": [
+          { "id": 1, "value": "network" },
+          { "id": 2, "value": "group" },
+          { "id": 3, "value": "system" },
+          { "id": 4, "value": "chain" },
+          { "id": 5, "value": "circle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "further",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He walked _______ into the forest until he reached the river.",
+        "answers": [
+          { "id": 1, "value": "further" },
+          { "id": 2, "value": "closer" },
+          { "id": 3, "value": "slower" },
+          { "id": 4, "value": "faster" },
+          { "id": 5, "value": "backward" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "expression",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her face had a happy _______ after she heard the good news.",
+        "answers": [
+          { "id": 1, "value": "expression" },
+          { "id": 2, "value": "reaction" },
+          { "id": 3, "value": "emotion" },
+          { "id": 4, "value": "feeling" },
+          { "id": 5, "value": "gesture" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "alright",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Don’t worry about the mistake, everything will be _______.",
+        "answers": [
+          { "id": 1, "value": "alright" },
+          { "id": 2, "value": "wrong" },
+          { "id": 3, "value": "okay" },
+          { "id": 4, "value": "bad" },
+          { "id": 5, "value": "fine" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "connect",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We need to _______ the printer to the computer before using it.",
+        "answers": [
+          { "id": 1, "value": "connect" },
+          { "id": 2, "value": "link" },
+          { "id": 3, "value": "fix" },
+          { "id": 4, "value": "attach" },
+          { "id": 5, "value": "install" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

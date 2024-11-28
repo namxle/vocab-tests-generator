@@ -1,0 +1,155 @@
+[
+  {
+    "word": "increase",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There was an _______ in the price of fuel last month.",
+        "answers": [
+          { "id": 1, "value": "increase" },
+          { "id": 2, "value": "idea" },
+          { "id": 3, "value": "reduction" },
+          { "id": 4, "value": "improvement" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "industry",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The car _______ has grown quickly in the last few years.",
+        "answers": [
+          { "id": 1, "value": "industry" },
+          { "id": 2, "value": "factory" },
+          { "id": 3, "value": "company" },
+          { "id": 4, "value": "work" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "information",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The website provides useful _______ about healthy eating.",
+        "answers": [
+          { "id": 1, "value": "information" },
+          { "id": 2, "value": "data" },
+          { "id": 3, "value": "advice" },
+          { "id": 4, "value": "lessons" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "invention",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The telephone was an important _______ that changed the world.",
+        "answers": [
+          { "id": 1, "value": "invention" },
+          { "id": 2, "value": "discovery" },
+          { "id": 3, "value": "machine" },
+          { "id": 4, "value": "experiment" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "instrument",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He plays the guitar, which is his favorite musical _______.",
+        "answers": [
+          { "id": 1, "value": "instrument" },
+          { "id": 2, "value": "tool" },
+          { "id": 3, "value": "device" },
+          { "id": 4, "value": "machine" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mathematics",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is very good at _______ and can solve problems quickly.",
+        "answers": [
+          { "id": 1, "value": "mathematics" },
+          { "id": 2, "value": "science" },
+          { "id": 3, "value": "history" },
+          { "id": 4, "value": "reading" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "method",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher explained a new _______ for solving the problem.",
+        "answers": [
+          { "id": 1, "value": "method" },
+          { "id": 2, "value": "example" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "tool" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lab",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The students worked on experiments in the science _______.",
+        "answers": [
+          { "id": 1, "value": "lab" },
+          { "id": 2, "value": "classroom" },
+          { "id": 3, "value": "library" },
+          { "id": 4, "value": "office" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "researcher",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ spent years studying the effects of climate change.",
+        "answers": [
+          { "id": 1, "value": "researcher" },
+          { "id": 2, "value": "engineer" },
+          { "id": 3, "value": "teacher" },
+          { "id": 4, "value": "student" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

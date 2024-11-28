@@ -1,0 +1,87 @@
+{
+  "topic": "Scientific Discoveries",
+  "provided_words": ["effect", "data", "discovery", "discover", "direction", "engine", "expert", "engineer", "factor", "error"],
+  "passage": "Scientific discoveries have a major effect on our world. One important part of every discovery is collecting data. Scientists gather information to understand how things work and to find solutions to problems. Sometimes, a single factor can change the direction of research. For example, if an error is found in the data, the entire project might need to start again. \n\nExperts in science, such as engineers and researchers, work together to make discoveries. An engineer might design a machine, like a powerful engine, to help in experiments. These machines help scientists discover new things faster and with more accuracy. However, even experts make mistakes, and these errors are part of the learning process. \n\nEvery discovery teaches us something new, even if it does not solve the problem right away. By working carefully, experts ensure their data is correct, which leads to better results and more reliable findings. This process shows how science moves in the right direction, step by step, to improve our understanding of the world.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "Scientific discoveries depend on data, teamwork, and learning from errors." },
+        { "id": 2, "value": "Engineers are the only people responsible for scientific discoveries." },
+        { "id": 3, "value": "Errors in science always stop progress." },
+        { "id": 4, "value": "Science never requires teamwork or machines." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains how data, teamwork, and learning from mistakes are important for scientific progress.",
+        "vietnamese": "Đoạn văn giải thích cách dữ liệu, làm việc nhóm và học hỏi từ sai lầm là quan trọng đối với sự tiến bộ khoa học."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'factor' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "A part or element" },
+        { "id": 2, "value": "A mistake" },
+        { "id": 3, "value": "A tool" },
+        { "id": 4, "value": "A result" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Factor' means a part or element that can influence something, as mentioned in the passage about research direction.",
+        "vietnamese": "'Factor' có nghĩa là một phần hoặc yếu tố có thể ảnh hưởng đến điều gì đó, như được đề cập trong đoạn văn về hướng nghiên cứu."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Why might a project need to start again?",
+      "answers": [
+        { "id": 1, "value": "Because of an error in the data." },
+        { "id": 2, "value": "Because experts do not work together." },
+        { "id": 3, "value": "Because engineers do not use machines." },
+        { "id": 4, "value": "Because no discoveries are made." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that errors in the data can cause the entire project to start over.",
+        "vietnamese": "Đoạn văn đề cập rằng các lỗi trong dữ liệu có thể khiến toàn bộ dự án phải bắt đầu lại."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "What can we infer about teamwork in science?",
+      "answers": [
+        { "id": 1, "value": "Teamwork is necessary for making discoveries." },
+        { "id": 2, "value": "Teamwork slows down research." },
+        { "id": 3, "value": "Teamwork creates too many errors." },
+        { "id": 4, "value": "Teamwork is only important for engineers." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage shows that engineers and researchers work together to make scientific progress.",
+        "vietnamese": "Đoạn văn cho thấy rằng các kỹ sư và nhà nghiên cứu làm việc cùng nhau để đạt được tiến bộ khoa học."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'engine' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It refers to a machine that helps in experiments." },
+        { "id": 2, "value": "It describes a scientific error." },
+        { "id": 3, "value": "It explains the role of data." },
+        { "id": 4, "value": "It introduces teamwork." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'engine' is used to describe a machine designed by engineers to assist in experiments.",
+        "vietnamese": "Từ 'engine' được sử dụng để mô tả một cỗ máy do các kỹ sư thiết kế để hỗ trợ trong các thí nghiệm."
+      }
+    }
+  ]
+}

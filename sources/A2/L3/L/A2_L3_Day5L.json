@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "An enormous windstorm caused a serious accident on the highway, leaving many people stranded.",
+    "shuffled_sentences": [
+      "Several trees fell across the road, and a few branches hit nearby cars, causing damage.",
+      "In a calm manner, police officers worked to prevent further accidents by guiding traffic safely.",
+      "Drivers were asked to stop and drop their speed to avoid any dangerous situations."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "Their quick response helped save lives and reduce the number of dead or injured people."
+      },
+      {
+        "id": 2,
+        "value": "Many drivers left their cars blank, unsure of what to do during the storm."
+      },
+      {
+        "id": 3,
+        "value": "People worried that the windstorm would lead to more accidents in the area."
+      },
+      {
+        "id": 4,
+        "value": "The enormous damage caused by the storm will take months to repair."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 3, 2],
+      "explanation": {
+        "english": "The correct sequence starts with the trees falling and hitting cars (Sentence 1), introducing the damage caused by the storm. Next, drivers dropping their speed (Sentence 3) shows immediate reactions to prevent further accidents. Finally, police working in a calm manner to guide traffic (Sentence 2) concludes with a focus on maintaining safety and order. This order ensures a logical progression from the accident to the response.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc cây đổ và đập vào xe (Câu 1), giới thiệu thiệt hại do bão gây ra. Tiếp theo, việc tài xế giảm tốc độ (Câu 3) cho thấy phản ứng ngay lập tức để ngăn chặn tai nạn thêm. Cuối cùng, cảnh sát làm việc bình tĩnh để hướng dẫn giao thông (Câu 2) kết thúc với trọng tâm là duy trì an toàn và trật tự. Trình tự này đảm bảo dòng chảy logic từ tai nạn đến phản ứng."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Their quick response helped save lives and reduce the number of dead or injured people."
+        },
+        {
+          "id": 2,
+          "value": "Many drivers left their cars blank, unsure of what to do during the storm."
+        },
+        {
+          "id": 3,
+          "value": "People worried that the windstorm would lead to more accidents in the area."
+        },
+        {
+          "id": 4,
+          "value": "The enormous damage caused by the storm will take months to repair."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it emphasizes the importance of the police response, tying together the actions taken to save lives and reduce harm. Option 2 highlights confusion but does not summarize the broader theme of safety. Option 3 focuses on worries about the future, which are not directly relevant to the passage’s conclusion. Option 4 shifts to the physical damage but misses the focus on safety and lives saved.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó nhấn mạnh tầm quan trọng của phản ứng của cảnh sát, kết nối các hành động đã thực hiện để cứu sống và giảm thiểu thương vong. Lựa chọn 2 nhấn mạnh sự bối rối nhưng không tóm tắt được chủ đề rộng hơn về an toàn. Lựa chọn 3 tập trung vào lo lắng trong tương lai, điều này không liên quan trực tiếp đến kết luận của đoạn văn. Lựa chọn 4 chuyển sang thiệt hại vật chất nhưng bỏ qua trọng tâm về an toàn và mạng sống được cứu."
+      }
+    }
+  ]
+}

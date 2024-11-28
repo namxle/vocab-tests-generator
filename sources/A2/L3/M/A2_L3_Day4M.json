@@ -1,0 +1,182 @@
+[
+  {
+    "word": "affect",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The new policy will _______ many people living in rural areas.",
+        "answers": [
+          { "id": 1, "value": "affect" },
+          { "id": 2, "value": "support" },
+          { "id": 3, "value": "stop" },
+          { "id": 4, "value": "protect" },
+          { "id": 5, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "blow",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The boxer delivered a powerful _______ to his opponent's chest, knocking him down.",
+        "answers": [
+          { "id": 1, "value": "blow" },
+          { "id": 2, "value": "tap" },
+          { "id": 3, "value": "push" },
+          { "id": 4, "value": "strike" },
+          { "id": 5, "value": "touch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "burn",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Be careful with the candles or you might _______ yourself.",
+        "answers": [
+          { "id": 1, "value": "burn" },
+          { "id": 2, "value": "cut" },
+          { "id": 3, "value": "hurt" },
+          { "id": 4, "value": "break" },
+          { "id": 5, "value": "scratch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fear",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She felt a sudden _______ when she heard the strange noise.",
+        "answers": [
+          { "id": 1, "value": "fear" },
+          { "id": 2, "value": "joy" },
+          { "id": 3, "value": "relief" },
+          { "id": 4, "value": "anger" },
+          { "id": 5, "value": "confusion" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "danger",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hikers were warned about the _______ of climbing the mountain during bad weather.",
+        "answers": [
+          { "id": 1, "value": "danger" },
+          { "id": 2, "value": "excitement" },
+          { "id": 3, "value": "risk" },
+          { "id": 4, "value": "challenge" },
+          { "id": 5, "value": "opportunity" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "heat",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The intense _______ from the fire made it hard to get close.",
+        "answers": [
+          { "id": 1, "value": "heat" },
+          { "id": 2, "value": "smell" },
+          { "id": 3, "value": "flame" },
+          { "id": 4, "value": "light" },
+          { "id": 5, "value": "wind" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "heavy",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He couldn’t lift the box because it was too _______.",
+        "answers": [
+          { "id": 1, "value": "heavy" },
+          { "id": 2, "value": "light" },
+          { "id": 3, "value": "big" },
+          { "id": 4, "value": "small" },
+          { "id": 5, "value": "short" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hurt",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He fell off the ladder and _______ his back, so he had to see a doctor.",
+        "answers": [
+          { "id": 1, "value": "hurt" },
+          { "id": 2, "value": "scratched" },
+          { "id": 3, "value": "burned" },
+          { "id": 4, "value": "twisted" },
+          { "id": 5, "value": "bruised" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wave",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The surfer rode the biggest _______ he had ever seen.",
+        "answers": [
+          { "id": 1, "value": "wave" },
+          { "id": 2, "value": "tide" },
+          { "id": 3, "value": "water" },
+          { "id": 4, "value": "surf" },
+          { "id": 5, "value": "current" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "storm",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ damaged many houses and knocked down several trees.",
+        "answers": [
+          { "id": 1, "value": "storm" },
+          { "id": 2, "value": "rain" },
+          { "id": 3, "value": "wind" },
+          { "id": 4, "value": "cloud" },
+          { "id": 5, "value": "fog" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

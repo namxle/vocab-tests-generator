@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "Many researchers work in labs to discover new methods and instruments that help improve the industry.",
+    "shuffled_sentences": [
+      "The invention of better tools often depends on a deep understanding of mathematics and science.",
+      "For example, information about how machines work can increase the efficiency of production processes.",
+      "In this way, research plays a key role in developing new technologies that benefit society."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "This process ensures that industries continue to grow and succeed."
+      },
+      {
+        "id": 2,
+        "value": "It also helps researchers understand human behavior better."
+      },
+      {
+        "id": 3,
+        "value": "As a result, mathematical knowledge becomes less important."
+      },
+      {
+        "id": 4,
+        "value": "Inventions are usually made without any careful planning."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [2, 1, 3],
+      "explanation": {
+        "english": "The correct sequence begins with the invention of better tools (Sentence 2), providing the foundation for how tools improve through mathematics and science. Next, information about increasing production efficiency (Sentence 1) follows logically, offering an example of the tools’ applications. Finally, the sentence about research’s role (Sentence 3) concludes the argument, showing the broader impact on society. Incorrect orders would disrupt this logical flow from the tools to their application and societal benefit.",
+        "vietnamese": "Trật tự đúng bắt đầu bằng việc phát minh các công cụ tốt hơn (Câu 2), cung cấp nền tảng cho cách công cụ được cải tiến thông qua toán học và khoa học. Tiếp theo, thông tin về việc tăng hiệu quả sản xuất (Câu 1) được đưa ra, minh họa cách áp dụng của các công cụ. Cuối cùng, câu về vai trò của nghiên cứu (Câu 3) kết luận lập luận, thể hiện tác động rộng hơn đối với xã hội. Trật tự sai sẽ phá vỡ dòng logic từ công cụ, ứng dụng đến lợi ích xã hội."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "This process ensures that industries continue to grow and succeed."
+        },
+        {
+          "id": 2,
+          "value": "It also helps researchers understand human behavior better."
+        },
+        {
+          "id": 3,
+          "value": "As a result, mathematical knowledge becomes less important."
+        },
+        {
+          "id": 4,
+          "value": "Inventions are usually made without any careful planning."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it ties back to the overall theme of the passage, which discusses how research, inventions, and methods benefit industries and promote growth. Option 2 introduces human behavior, which is not discussed in the passage. Option 3 contradicts the passage, as mathematical knowledge is described as crucial. Option 4 is incorrect because it directly conflicts with the idea that careful research and understanding lead to inventions.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó liên quan đến chủ đề chính của đoạn văn, thảo luận cách nghiên cứu, phát minh và phương pháp mang lại lợi ích cho các ngành công nghiệp và thúc đẩy sự phát triển. Lựa chọn 2 đề cập đến hành vi con người, điều này không được thảo luận trong đoạn văn. Lựa chọn 3 mâu thuẫn với đoạn văn, vì kiến thức toán học được miêu tả là rất quan trọng. Lựa chọn 4 không đúng vì nó trái ngược với ý tưởng rằng nghiên cứu cẩn thận và hiểu biết dẫn đến các phát minh."
+      }
+    }
+  ]
+}

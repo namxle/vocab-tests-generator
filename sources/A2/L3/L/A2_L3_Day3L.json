@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "The poster outside the store advertises low prices and high-quality products for everyone.",
+    "shuffled_sentences": [
+      "A van delivers fresh items every morning to replace old stock and ensure customers get the best products.",
+      "In some cases, poor packaging can cause problems, leading customers to request replacements.",
+      "The store also asks buyers to report any issues to help improve their service."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "This system helps prevent small problems from turning into a disaster for the store."
+      },
+      {
+        "id": 2,
+        "value": "Many customers agree that the store has a wide range of quality items available."
+      },
+      {
+        "id": 3,
+        "value": "The shop owner promised to replace all damaged products immediately."
+      },
+      {
+        "id": 4,
+        "value": "The poster clearly shows the steps to contact the store for replacements."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 3, 2],
+      "explanation": {
+        "english": "The correct sequence starts with the van delivering fresh items (Sentence 1), which sets the stage for maintaining quality. Next, the mention of problems and customers requesting replacements (Sentence 3) highlights potential issues. Finally, asking customers to report issues (Sentence 2) ties the passage together, showing how the store resolves problems and improves its service. Incorrect orders disrupt this logical flow.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc xe tải giao hàng mới (Câu 1), tạo cơ sở cho việc duy trì chất lượng. Tiếp theo, đề cập đến vấn đề và yêu cầu thay thế của khách hàng (Câu 3) làm nổi bật các vấn đề tiềm ẩn. Cuối cùng, việc yêu cầu khách hàng báo cáo sự cố (Câu 2) kết nối đoạn văn, thể hiện cách cửa hàng giải quyết vấn đề và cải thiện dịch vụ. Trật tự sai sẽ phá vỡ dòng chảy logic này."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "This system helps prevent small problems from turning into a disaster for the store."
+        },
+        {
+          "id": 2,
+          "value": "Many customers agree that the store has a wide range of quality items available."
+        },
+        {
+          "id": 3,
+          "value": "The shop owner promised to replace all damaged products immediately."
+        },
+        {
+          "id": 4,
+          "value": "The poster clearly shows the steps to contact the store for replacements."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it logically concludes the passage by emphasizing how the store’s system prevents problems from escalating. Option 2 shifts focus to customer opinions but doesn’t address problem resolution. Option 3 mentions product replacement but doesn’t summarize the broader goal of preventing issues. Option 4 focuses on the poster but doesn’t connect it to the passage’s main idea.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết thúc đoạn văn một cách logic bằng cách nhấn mạnh hệ thống của cửa hàng giúp ngăn các vấn đề nhỏ trở thành thảm họa. Lựa chọn 2 chuyển trọng tâm sang ý kiến khách hàng nhưng không đề cập đến việc giải quyết vấn đề. Lựa chọn 3 nói về việc thay thế sản phẩm nhưng không tóm tắt được mục tiêu rộng hơn là ngăn chặn sự cố. Lựa chọn 4 tập trung vào áp phích nhưng không kết nối với ý chính của đoạn văn."
+      }
+    }
+  ]
+}

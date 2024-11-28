@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "Many people use an app or email to send messages, making communication faster than ever.",
+    "shuffled_sentences": [
+      "Online platforms also provide an alternative way to connect with others who share similar interests.",
+      "Along with its convenience, technology changes the appearance of how we interact every day.",
+      "For example, in a chemistry class, students can send billions of messages to share ideas and learn together."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "On average, people now spend hours each day using these tools for work and study."
+      },
+      {
+        "id": 2,
+        "value": "This has led to better results in education and teamwork."
+      },
+      {
+        "id": 3,
+        "value": "People now focus on finding more creative ways to share information."
+      },
+      {
+        "id": 4,
+        "value": "The result is a system that replaces all traditional methods of teaching."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [3, 2, 1],
+      "explanation": {
+        "english": "The correct sequence starts with online platforms as an alternative (Sentence 3), introducing the idea of connecting through shared interests. Next, the sentence about technology changing interaction (Sentence 2) elaborates on how appearances and methods evolve with technology. Finally, the example of chemistry students sharing billions of messages (Sentence 1) shows the practical impact of these tools. Incorrect orders would disrupt the logical flow of introducing a general idea, explaining its effects, and providing an example.",
+        "vietnamese": "Trật tự đúng bắt đầu bằng các nền tảng trực tuyến như một lựa chọn thay thế (Câu 3), giới thiệu ý tưởng kết nối qua các sở thích chung. Tiếp theo là câu về công nghệ thay đổi cách tương tác (Câu 2), giải thích sự phát triển về phương pháp và hình thức. Cuối cùng, ví dụ về sinh viên hóa học chia sẻ hàng tỷ tin nhắn (Câu 1) cho thấy tác động thực tế của các công cụ này. Trật tự sai sẽ làm gián đoạn tiến trình logic của việc giới thiệu ý tưởng chung, giải thích tác động và đưa ra ví dụ."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "On average, people now spend hours each day using these tools for work and study."
+        },
+        {
+          "id": 2,
+          "value": "This has led to better results in education and teamwork."
+        },
+        {
+          "id": 3,
+          "value": "People now focus on finding more creative ways to share information."
+        },
+        {
+          "id": 4,
+          "value": "The result is a system that replaces all traditional methods of teaching."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it logically concludes the passage by quantifying the impact of using apps and emails for daily activities. It ties back to earlier mentions of communication and collaboration. Option 2 introduces a new idea about education results, which is unrelated to the passage's main focus. Option 3 shifts to creativity, which is not discussed. Option 4 incorrectly suggests that traditional methods are completely replaced, which is not supported by the text.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết luận logic đoạn văn bằng cách định lượng tác động của việc sử dụng ứng dụng và email trong các hoạt động hàng ngày. Nó liên quan đến các đề cập trước đó về giao tiếp và hợp tác. Lựa chọn 2 đưa ra một ý tưởng mới về kết quả giáo dục, không liên quan đến trọng tâm chính của đoạn văn. Lựa chọn 3 chuyển hướng sang sáng tạo, điều này không được thảo luận. Lựa chọn 4 gợi ý rằng các phương pháp truyền thống bị thay thế hoàn toàn, điều này không được đoạn văn hỗ trợ."
+      }
+    }
+  ]
+}

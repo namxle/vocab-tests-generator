@@ -1,0 +1,172 @@
+[
+  {
+    "word": "app",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I downloaded an _______ to help me learn new languages.",
+        "answers": [
+          { "id": 1, "value": "app" },
+          { "id": 2, "value": "email" },
+          { "id": 3, "value": "website" },
+          { "id": 4, "value": "message" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "online",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Many students now take _______ courses instead of going to school.",
+        "answers": [
+          { "id": 1, "value": "online" },
+          { "id": 2, "value": "quick" },
+          { "id": 3, "value": "extra" },
+          { "id": 4, "value": "modern" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "message",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I sent her a _______ to let her know I will be late.",
+        "answers": [
+          { "id": 1, "value": "message" },
+          { "id": 2, "value": "call" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "answer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "email",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please send me an _______ with the details of the meeting.",
+        "answers": [
+          { "id": 1, "value": "email" },
+          { "id": 2, "value": "app" },
+          { "id": 3, "value": "text" },
+          { "id": 4, "value": "form" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "appearance",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The actor's _______ on the show surprised the audience.",
+        "answers": [
+          { "id": 1, "value": "appearance" },
+          { "id": 2, "value": "action" },
+          { "id": 3, "value": "speech" },
+          { "id": 4, "value": "voice" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "along",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We walked _______ the river and enjoyed the view.",
+        "answers": [
+          { "id": 1, "value": "along" },
+          { "id": 2, "value": "over" },
+          { "id": 3, "value": "across" },
+          { "id": 4, "value": "under" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "alternative",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "If you can’t come on Saturday, we can find an _______ date.",
+        "answers": [
+          { "id": 1, "value": "alternative" },
+          { "id": 2, "value": "early" },
+          { "id": 3, "value": "usual" },
+          { "id": 4, "value": "free" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chemistry",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I really enjoy studying _______ because I like experiments.",
+        "answers": [
+          { "id": 1, "value": "chemistry" },
+          { "id": 2, "value": "history" },
+          { "id": 3, "value": "math" },
+          { "id": 4, "value": "art" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "billion",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There are over a _______ people living on Earth.",
+        "answers": [
+          { "id": 1, "value": "billion" },
+          { "id": 2, "value": "million" },
+          { "id": 3, "value": "thousand" },
+          { "id": 4, "value": "hundred" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "average",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ temperature in summer is 25 degrees Celsius.",
+        "answers": [
+          { "id": 1, "value": "average" },
+          { "id": 2, "value": "high" },
+          { "id": 3, "value": "low" },
+          { "id": 4, "value": "usual" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

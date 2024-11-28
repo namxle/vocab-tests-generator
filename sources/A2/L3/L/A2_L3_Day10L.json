@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "The work of an engineer often depends on discovering new solutions to complex problems.",
+    "shuffled_sentences": [
+      "One important factor is how accurate the data is, as even a small error can lead to big problems.",
+      "Experts say that new discoveries often happen when people try a different direction in their thinking.",
+      "For example, designing an engine requires precise calculations to ensure the best possible effect."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "This shows how careful planning and testing lead to successful results."
+      },
+      {
+        "id": 2,
+        "value": "As a result, engineers must rely on teamwork to solve problems."
+      },
+      {
+        "id": 3,
+        "value": "This proves that creativity is the most important skill for engineers."
+      },
+      {
+        "id": 4,
+        "value": "Therefore, understanding basic principles is unnecessary for engineers."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [3, 1, 2],
+      "explanation": {
+        "english": "The correct sequence begins with the importance of accurate data (Sentence 3), setting the stage for why precision matters. Next, the role of experts and new discoveries (Sentence 1) logically follows, explaining how thinking in new directions can lead to breakthroughs. Finally, the example of designing an engine (Sentence 2) demonstrates the practical application of these ideas. Incorrect orders disrupt the logical flow from general principles to specific applications.",
+        "vietnamese": "Trật tự đúng bắt đầu bằng tầm quan trọng của dữ liệu chính xác (Câu 3), đặt nền tảng cho lý do tại sao độ chính xác là quan trọng. Tiếp theo, vai trò của chuyên gia và khám phá mới (Câu 1) được đề cập, giải thích cách suy nghĩ theo hướng mới có thể dẫn đến đột phá. Cuối cùng, ví dụ về thiết kế động cơ (Câu 2) minh họa ứng dụng thực tế của những ý tưởng này. Trật tự sai sẽ phá vỡ dòng logic từ nguyên tắc chung đến ứng dụng cụ thể."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "This shows how careful planning and testing lead to successful results."
+        },
+        {
+          "id": 2,
+          "value": "As a result, engineers must rely on teamwork to solve problems."
+        },
+        {
+          "id": 3,
+          "value": "This proves that creativity is the most important skill for engineers."
+        },
+        {
+          "id": 4,
+          "value": "Therefore, understanding basic principles is unnecessary for engineers."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it connects back to the ideas in the passage about precision, data accuracy, and thoughtful approaches to engineering challenges. Option 2 introduces the idea of teamwork, which is not explicitly mentioned. Option 3 shifts the focus entirely to creativity, which is only part of the story and not the main theme. Option 4 contradicts the passage, as understanding principles is clearly emphasized as crucial.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó liên kết với các ý tưởng trong đoạn văn về độ chính xác, dữ liệu chính xác và các phương pháp tiếp cận thận trọng đối với các thách thức kỹ thuật. Lựa chọn 2 giới thiệu ý tưởng về làm việc nhóm, điều này không được đề cập rõ ràng. Lựa chọn 3 thay đổi hoàn toàn trọng tâm sang sáng tạo, chỉ là một phần của câu chuyện và không phải là chủ đề chính. Lựa chọn 4 mâu thuẫn với đoạn văn, vì hiểu biết về nguyên tắc rõ ràng được nhấn mạnh là rất quan trọng."
+      }
+    }
+  ]
+}

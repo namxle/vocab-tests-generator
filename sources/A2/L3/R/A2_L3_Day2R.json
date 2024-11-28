@@ -1,0 +1,104 @@
+{
+  "topic": "Advertisements and Smart Shopping Tips",
+  "provided_words": [
+    "tip",
+    "advertisement",
+    "washing",
+    "advertise",
+    "button",
+    "include",
+    "flat",
+    "furniture",
+    "case",
+    "penny"
+  ],
+  "passage": "Advertisements play an important role in helping people decide what to buy, as they often provide useful information about products. Many stores advertise their products online or on TV so that they can reach more customers. For example, a furniture store might show a flat full of stylish chairs, tables, and sofas to make their products look appealing. A helpful tip for shopping is to always compare prices because one store might sell the same item for less money, which could save you every penny. In some cases, advertisements include special discounts, but you should read them carefully to understand all the details. When buying clothes, it is important to check the buttons and seams so that you can be sure they are well-made. For home appliances, such as a washing machine, read the advertisement carefully to see if the price includes delivery and installation, as these services are not always free. Shopping smart means looking at details and thinking about what you really need, even when the advertisement is very convincing. Although advertisements can be helpful, they may sometimes exaggerate the benefits of a product, which means you should not believe everything you see.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Advertisements help people shop smarter, but they must be read carefully."
+        },
+        {
+          "id": 2,
+          "value": "Furniture stores often advertise their products."
+        },
+        { "id": 3, "value": "Buttons and seams are important for clothes." },
+        { "id": 4, "value": "Washing machines are the best appliances to buy." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage discusses how advertisements help people shop wisely while emphasizing the importance of reading them carefully.",
+        "vietnamese": "Đoạn văn nói về cách quảng cáo giúp mọi người mua sắm thông minh hơn, đồng thời nhấn mạnh tầm quan trọng của việc đọc kỹ chúng."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What is a synonym for 'tip' in the passage?",
+      "answers": [
+        { "id": 1, "value": "Advice" },
+        { "id": 2, "value": "Discount" },
+        { "id": 3, "value": "Button" },
+        { "id": 4, "value": "Case" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'tip' refers to advice, such as how to shop smartly by comparing prices.",
+        "vietnamese": "Trong đoạn văn, 'tip' có nghĩa là lời khuyên, như cách mua sắm thông minh bằng cách so sánh giá cả."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What should people check when buying clothes?",
+      "answers": [
+        { "id": 1, "value": "The buttons and seams" },
+        { "id": 2, "value": "The furniture style" },
+        { "id": 3, "value": "The washing instructions" },
+        { "id": 4, "value": "The delivery options" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage advises checking buttons and seams to ensure clothes are well-made.",
+        "vietnamese": "Đoạn văn khuyên kiểm tra các nút và đường may để đảm bảo quần áo được làm tốt."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why should people compare prices when shopping?",
+      "answers": [
+        { "id": 1, "value": "To save money by finding better deals." },
+        { "id": 2, "value": "To find advertisements with free delivery." },
+        { "id": 3, "value": "To buy more furniture for their flat." },
+        { "id": 4, "value": "To avoid buying low-quality items." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage suggests comparing prices because one store might sell the same item for less, helping people save money.",
+        "vietnamese": "Đoạn văn gợi ý so sánh giá vì một cửa hàng có thể bán cùng một sản phẩm với giá rẻ hơn, giúp mọi người tiết kiệm tiền."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'penny' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It emphasizes saving money." },
+        { "id": 2, "value": "It describes a type of advertisement." },
+        { "id": 3, "value": "It shows the cost of washing machines." },
+        { "id": 4, "value": "It refers to a button on clothes." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'penny' in the passage highlights the idea of saving even small amounts of money through smart shopping.",
+        "vietnamese": "Từ 'penny' trong đoạn văn nhấn mạnh ý tưởng tiết kiệm ngay cả những khoản tiền nhỏ bằng cách mua sắm thông minh."
+      }
+    }
+  ]
+}

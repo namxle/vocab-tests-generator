@@ -1,0 +1,87 @@
+{
+  "topic": "Scientific Research and Inventions",
+  "provided_words": ["increase", "industry", "information", "invention", "instrument", "mathematics", "method", "lab", "researcher", "research"],
+  "passage": "Scientific research plays a key role in the development of new inventions. Researchers work in labs, using various methods to study problems and find solutions. One important tool in research is the instrument, which helps to measure and analyze data. Instruments are especially useful in fields like mathematics, where precise calculations are needed. \n\nInventions have a big impact on industries, often leading to an increase in production and efficiency. For example, new machines designed through research can help factories work faster and better. Researchers also focus on collecting information to ensure their methods are effective and reliable. \n\nThe process of invention often begins with a question or a problem. Scientists use different methods and test their ideas in labs before sharing their findings. This careful approach ensures that inventions can improve lives in meaningful ways. Whether in mathematics, engineering, or medicine, research and invention continue to shape the world around us.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "Scientific research and inventions improve industries and solve problems." },
+        { "id": 2, "value": "Mathematics is the only field that uses instruments." },
+        { "id": 3, "value": "Inventions are created without any research." },
+        { "id": 4, "value": "Labs are not useful for researchers." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage discusses how research and inventions help solve problems and improve industries.",
+        "vietnamese": "Đoạn văn thảo luận về cách nghiên cứu và phát minh giúp giải quyết vấn đề và cải thiện các ngành công nghiệp."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'instrument' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "A tool used for measuring or analyzing data" },
+        { "id": 2, "value": "A musical device" },
+        { "id": 3, "value": "A type of machine in a factory" },
+        { "id": 4, "value": "An error in research" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'instrument' refers to a tool used in research to measure or analyze data.",
+        "vietnamese": "Trong đoạn văn, 'instrument' đề cập đến một công cụ được sử dụng trong nghiên cứu để đo lường hoặc phân tích dữ liệu."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Where do researchers test their ideas?",
+      "answers": [
+        { "id": 1, "value": "In labs" },
+        { "id": 2, "value": "In factories" },
+        { "id": 3, "value": "In industries" },
+        { "id": 4, "value": "In offices" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that researchers test their ideas in labs to ensure their methods are effective.",
+        "vietnamese": "Đoạn văn nói rằng các nhà nghiên cứu kiểm tra ý tưởng của họ trong các phòng thí nghiệm để đảm bảo các phương pháp của họ hiệu quả."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why is collecting information important in research?",
+      "answers": [
+        { "id": 1, "value": "To ensure methods are effective and reliable" },
+        { "id": 2, "value": "To replace the need for inventions" },
+        { "id": 3, "value": "To make industries unnecessary" },
+        { "id": 4, "value": "To stop using instruments" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that collecting information ensures the reliability and effectiveness of research methods.",
+        "vietnamese": "Đoạn văn đề cập rằng việc thu thập thông tin đảm bảo độ tin cậy và hiệu quả của các phương pháp nghiên cứu."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'increase' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It describes how inventions help industries produce more efficiently." },
+        { "id": 2, "value": "It explains the role of instruments in labs." },
+        { "id": 3, "value": "It refers to errors in mathematics." },
+        { "id": 4, "value": "It highlights a decrease in production." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'increase' is used to show how inventions improve production and efficiency in industries.",
+        "vietnamese": "Từ 'increase' được sử dụng để cho thấy cách các phát minh cải thiện sản xuất và hiệu quả trong các ngành công nghiệp."
+      }
+    }
+  ]
+}

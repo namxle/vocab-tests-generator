@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "Many people try to predict the future, but it is not always easy to know what will happen.",
+    "shuffled_sentences": [
+      "Unfortunately, even intelligent guesses can sometimes be wrong because life is full of surprises.",
+      "Experts often recommend making plans for the future, as this helps you respond quickly to changes.",
+      "By understanding patterns from the past, we can improve our ability to expect what might come next."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "This approach can improve our speed in reacting to unexpected events."
+      },
+      {
+        "id": 2,
+        "value": "Following this, people often feel more relaxed about the future."
+      },
+      {
+        "id": 3,
+        "value": "As a result, intelligent people can predict everything perfectly."
+      },
+      {
+        "id": 4,
+        "value": "Planning for the future may help avoid problems completely."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [3, 2, 1],
+      "explanation": {
+        "english": "The correct sequence begins with understanding patterns (Sentence 3), as it builds a foundation for predicting the future. Next, experts recommending plans (Sentence 2) logically follows as a way to prepare for change. Lastly, the limitations of predictions (Sentence 1) conclude the argument, emphasizing that predictions are not always correct. Incorrect orders would disrupt the logical progression of understanding, preparing, and facing uncertainty.",
+        "vietnamese": "Trật tự đúng bắt đầu bằng việc hiểu các mô hình (Câu 3), vì nó tạo nền tảng để dự đoán tương lai. Tiếp theo là chuyên gia khuyến nghị lập kế hoạch (Câu 2) như một cách để chuẩn bị cho sự thay đổi. Cuối cùng, sự giới hạn của dự đoán (Câu 1) kết luận lập luận, nhấn mạnh rằng dự đoán không phải lúc nào cũng đúng. Trật tự sai sẽ làm gián đoạn tiến trình logic của việc hiểu, chuẩn bị và đối mặt với sự không chắc chắn."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "This approach can improve our speed in reacting to unexpected events."
+        },
+        {
+          "id": 2,
+          "value": "Following this, people often feel more relaxed about the future."
+        },
+        {
+          "id": 3,
+          "value": "As a result, intelligent people can predict everything perfectly."
+        },
+        {
+          "id": 4,
+          "value": "Planning for the future may help avoid problems completely."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it ties back to the main theme of the passage—using understanding and preparation to react effectively to unexpected events. Option 2 talks about feelings of relaxation, which are not discussed in the passage. Option 3 incorrectly suggests perfection in predictions, which contradicts the passage’s emphasis on unpredictability. Option 4 discusses avoiding problems entirely, which is unrealistic and not aligned with the passage's message.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó liên quan đến chủ đề chính của đoạn văn—sử dụng sự hiểu biết và chuẩn bị để phản ứng hiệu quả với các sự kiện bất ngờ. Lựa chọn 2 nói về cảm giác thoải mái, điều này không được đề cập trong đoạn văn. Lựa chọn 3 gợi ý rằng dự đoán hoàn hảo, điều này mâu thuẫn với trọng tâm của đoạn văn về sự không thể dự đoán. Lựa chọn 4 nói về việc tránh hoàn toàn các vấn đề, điều này không thực tế và không phù hợp với thông điệp của đoạn văn."
+      }
+    }
+  ]
+}

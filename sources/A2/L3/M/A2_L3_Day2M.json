@@ -1,0 +1,182 @@
+[
+  {
+    "word": "tip",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The waiter was very kind, so we decided to leave a generous _______.",
+        "answers": [
+          { "id": 1, "value": "tip" },
+          { "id": 2, "value": "gift" },
+          { "id": 3, "value": "bill" },
+          { "id": 4, "value": "note" },
+          { "id": 5, "value": "order" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "advertisement",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She saw an _______ for a new phone on TV last night.",
+        "answers": [
+          { "id": 1, "value": "advertisement" },
+          { "id": 2, "value": "announcement" },
+          { "id": 3, "value": "invitation" },
+          { "id": 4, "value": "report" },
+          { "id": 5, "value": "photo" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "washing",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She spent the afternoon _______ her clothes and cleaning the house.",
+        "answers": [
+          { "id": 1, "value": "washing" },
+          { "id": 2, "value": "ironing" },
+          { "id": 3, "value": "drying" },
+          { "id": 4, "value": "folding" },
+          { "id": 5, "value": "buying" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "advertise",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company plans to _______ its products on social media.",
+        "answers": [
+          { "id": 1, "value": "advertise" },
+          { "id": 2, "value": "sell" },
+          { "id": 3, "value": "discuss" },
+          { "id": 4, "value": "design" },
+          { "id": 5, "value": "review" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "button",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He sewed a new _______ onto his shirt because the old one was missing.",
+        "answers": [
+          { "id": 1, "value": "button" },
+          { "id": 2, "value": "zip" },
+          { "id": 3, "value": "collar" },
+          { "id": 4, "value": "pocket" },
+          { "id": 5, "value": "belt" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "include",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The price of the meal does not _______ drinks or desserts.",
+        "answers": [
+          { "id": 1, "value": "include" },
+          { "id": 2, "value": "exclude" },
+          { "id": 3, "value": "show" },
+          { "id": 4, "value": "offer" },
+          { "id": 5, "value": "contain" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "flat",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They moved into a small _______ on the second floor of the building.",
+        "answers": [
+          { "id": 1, "value": "flat" },
+          { "id": 2, "value": "house" },
+          { "id": 3, "value": "office" },
+          { "id": 4, "value": "room" },
+          { "id": 5, "value": "shop" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "furniture",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The living room is empty because they haven’t bought any _______ yet.",
+        "answers": [
+          { "id": 1, "value": "furniture" },
+          { "id": 2, "value": "clothes" },
+          { "id": 3, "value": "books" },
+          { "id": 4, "value": "food" },
+          { "id": 5, "value": "appliances" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "case",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The lawyer explained the details of the _______ to the judge.",
+        "answers": [
+          { "id": 1, "value": "case" },
+          { "id": 2, "value": "law" },
+          { "id": 3, "value": "file" },
+          { "id": 4, "value": "book" },
+          { "id": 5, "value": "rule" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "penny",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He didn’t have a single _______ left in his pocket after buying the ticket.",
+        "answers": [
+          { "id": 1, "value": "penny" },
+          { "id": 2, "value": "button" },
+          { "id": 3, "value": "key" },
+          { "id": 4, "value": "stone" },
+          { "id": 5, "value": "card" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

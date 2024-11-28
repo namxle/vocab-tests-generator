@@ -1,0 +1,172 @@
+[
+  {
+    "word": "moon",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ is visible in the night sky and looks very bright.",
+        "answers": [
+          { "id": 1, "value": "moon" },
+          { "id": 2, "value": "sun" },
+          { "id": 3, "value": "star" },
+          { "id": 4, "value": "planet" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "everywhere",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After the storm, there was water _______ in the house.",
+        "answers": [
+          { "id": 1, "value": "everywhere" },
+          { "id": 2, "value": "nowhere" },
+          { "id": 3, "value": "somewhere" },
+          { "id": 4, "value": "anywhere" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "anywhere",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You can sit _______ in the room; all the chairs are free.",
+        "answers": [
+          { "id": 1, "value": "anywhere" },
+          { "id": 2, "value": "everywhere" },
+          { "id": 3, "value": "nowhere" },
+          { "id": 4, "value": "there" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "flying",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The bird was _______ high above the trees.",
+        "answers": [
+          { "id": 1, "value": "flying" },
+          { "id": 2, "value": "jumping" },
+          { "id": 3, "value": "walking" },
+          { "id": 4, "value": "running" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "continent",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Africa is a large _______ with many different countries.",
+        "answers": [
+          { "id": 1, "value": "continent" },
+          { "id": 2, "value": "country" },
+          { "id": 3, "value": "region" },
+          { "id": 4, "value": "island" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "context",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The meaning of the word depends on its _______ in the sentence.",
+        "answers": [
+          { "id": 1, "value": "context" },
+          { "id": 2, "value": "place" },
+          { "id": 3, "value": "position" },
+          { "id": 4, "value": "time" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "impossible",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is _______ to lift that heavy box by yourself.",
+        "answers": [
+          { "id": 1, "value": "impossible" },
+          { "id": 2, "value": "difficult" },
+          { "id": 3, "value": "easy" },
+          { "id": 4, "value": "possible" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "itself",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The cat cleaned _______ by licking its fur.",
+        "answers": [
+          { "id": 1, "value": "itself" },
+          { "id": 2, "value": "myself" },
+          { "id": 3, "value": "yourself" },
+          { "id": 4, "value": "ourselves" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "strange",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He heard a _______ noise outside but couldn’t see anything.",
+        "answers": [
+          { "id": 1, "value": "strange" },
+          { "id": 2, "value": "loud" },
+          { "id": 3, "value": "soft" },
+          { "id": 4, "value": "common" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "unusual",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is _______ to see snow in the desert.",
+        "answers": [
+          { "id": 1, "value": "unusual" },
+          { "id": 2, "value": "interesting" },
+          { "id": 3, "value": "common" },
+          { "id": 4, "value": "normal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

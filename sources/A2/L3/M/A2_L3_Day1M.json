@@ -1,0 +1,182 @@
+[
+  {
+    "word": "fashion",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Paris is known as the capital of _______ because of its famous designers and trends.",
+        "answers": [
+          { "id": 1, "value": "fashion" },
+          { "id": 2, "value": "science" },
+          { "id": 3, "value": "medicine" },
+          { "id": 4, "value": "sports" },
+          { "id": 5, "value": "music" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "gift",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She bought a beautiful _______ for her friend's birthday.",
+        "answers": [
+          { "id": 1, "value": "gift" },
+          { "id": 2, "value": "ticket" },
+          { "id": 3, "value": "book" },
+          { "id": 4, "value": "photo" },
+          { "id": 5, "value": "cake" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sale",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The store is offering a 50% discount during their summer _______.",
+        "answers": [
+          { "id": 1, "value": "sale" },
+          { "id": 2, "value": "party" },
+          { "id": 3, "value": "meeting" },
+          { "id": 4, "value": "celebration" },
+          { "id": 5, "value": "holiday" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "item",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She added the last _______ to her shopping basket before heading to the checkout.",
+        "answers": [
+          { "id": 1, "value": "item" },
+          { "id": 2, "value": "recipe" },
+          { "id": 3, "value": "tool" },
+          { "id": 4, "value": "bag" },
+          { "id": 5, "value": "order" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "credit",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She used her _______ card to pay for the groceries.",
+        "answers": [
+          { "id": 1, "value": "credit" },
+          { "id": 2, "value": "debit" },
+          { "id": 3, "value": "cash" },
+          { "id": 4, "value": "gift" },
+          { "id": 5, "value": "membership" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "jewellery",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She keeps her expensive _______ in a locked box.",
+        "answers": [
+          { "id": 1, "value": "jewellery" },
+          { "id": 2, "value": "clothes" },
+          { "id": 3, "value": "papers" },
+          { "id": 4, "value": "books" },
+          { "id": 5, "value": "photos" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lorry",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ was full of goods heading to the supermarket.",
+        "answers": [
+          { "id": 1, "value": "lorry" },
+          { "id": 2, "value": "car" },
+          { "id": 3, "value": "bicycle" },
+          { "id": 4, "value": "bus" },
+          { "id": 5, "value": "plane" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wallet",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He realized he forgot his _______ at home after arriving at the café.",
+        "answers": [
+          { "id": 1, "value": "wallet" },
+          { "id": 2, "value": "hat" },
+          { "id": 3, "value": "phone" },
+          { "id": 4, "value": "bag" },
+          { "id": 5, "value": "shoes" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "store",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She went to the _______ to buy some milk and bread.",
+        "answers": [
+          { "id": 1, "value": "store" },
+          { "id": 2, "value": "school" },
+          { "id": 3, "value": "park" },
+          { "id": 4, "value": "library" },
+          { "id": 5, "value": "gym" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shop",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I love to visit that little _______ for fresh flowers every week.",
+        "answers": [
+          { "id": 1, "value": "shop" },
+          { "id": 2, "value": "factory" },
+          { "id": 3, "value": "office" },
+          { "id": 4, "value": "museum" },
+          { "id": 5, "value": "hotel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]
