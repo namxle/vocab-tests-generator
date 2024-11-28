@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "Last weekend was the best ever because we got to see a famous celebrity and enjoy many fun activities.",
+    "shuffled_sentences": [
+      "One of the best parts was visiting a theme park that had a ride featuring our favorite movie character.",
+      "Afterward, we went to a bookstore and found some great fiction novels that were both exciting and helpful for improving our imagination.",
+      "The weekend ended with a delicious dinner at a high restaurant where we had so many good choices of food."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Overall, the weekend was different from anything we had ever experienced, and it made us so happy." },
+      { "id": 2, "value": "We realized weekends like this depend on good planning and a little bit of luck." },
+      { "id": 3, "value": "It was a tiring weekend, but we didn’t enjoy it as much as we thought we would." },
+      { "id": 4, "value": "The weekend was fun, but next time we will try to include more quiet activities." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order starts with visiting the theme park (Sentence 1), which introduces an exciting activity. Next, visiting the bookstore (Sentence 2) provides a contrasting, quieter activity that complements the day. Finally, the delicious dinner (Sentence 3) logically concludes the weekend's events.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc thăm công viên giải trí (Câu 1), giới thiệu một hoạt động thú vị. Tiếp theo, việc ghé thăm hiệu sách (Câu 2) cung cấp một hoạt động yên tĩnh, bổ sung cho ngày cuối tuần. Cuối cùng, bữa tối ngon miệng (Câu 3) kết thúc hợp lý các sự kiện của cuối tuần."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Overall, the weekend was different from anything we had ever experienced, and it made us so happy." },
+        { "id": 2, "value": "We realized weekends like this depend on good planning and a little bit of luck." },
+        { "id": 3, "value": "It was a tiring weekend, but we didn’t enjoy it as much as we thought we would." },
+        { "id": 4, "value": "The weekend was fun, but next time we will try to include more quiet activities." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it summarizes the overall experience and matches the positive tone of the passage. Option 2 introduces a focus on planning and luck, which is not emphasized in the passage. Option 3 contradicts the positive description by suggesting the weekend was not enjoyable. Option 4 shifts to a suggestion for future changes, which does not align with the passage's focus on the joy of this particular weekend.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó tóm tắt trải nghiệm tổng thể và phù hợp với giọng điệu tích cực của đoạn văn. Lựa chọn 2 đề cập đến việc lập kế hoạch và may mắn, điều này không được nhấn mạnh trong đoạn văn. Lựa chọn 3 mâu thuẫn với mô tả tích cực bằng cách gợi ý rằng cuối tuần không thú vị. Lựa chọn 4 chuyển sang gợi ý thay đổi trong tương lai, không phù hợp với nội dung tập trung vào niềm vui của cuối tuần này."
+      }
+    }
+  ]
+}

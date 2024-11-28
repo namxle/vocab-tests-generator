@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "Famous landmarks around the world attract millions of visitors every year because they offer a unique look into history, culture, and architecture.",
+    "shuffled_sentences": [
+      "The Great Wall of China is an active reminder of how individuals worked together to protect their land and build something extraordinary.",
+      "At the Dead Sea, visitors can benefit from its salty water, which is known to be good for the skin and can even help people relax.",
+      "In Italy, many people visit the Colosseum, where they can slowly imagine what life was like for ancient Romans during the usual games and events held there."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Overall, visiting these landmarks gives people a better understanding of history and improves their lifestyle by encouraging travel and curiosity." },
+      { "id": 2, "value": "These landmarks are popular because they lock people into old traditions and history." },
+      { "id": 3, "value": "Many landmarks are owned by famous businessmen who use them to promote their businesses." },
+      { "id": 4, "value": "Landmarks can be interesting, but not everyone enjoys visiting them or learning about them." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct sequence starts with the Great Wall of China (Sentence 1), introducing a landmark with historical importance and teamwork. Next, the Dead Sea (Sentence 2) provides a contrasting example that highlights personal benefits, like skincare and relaxation. Finally, the Colosseum (Sentence 3) shifts the focus to imagining historical events, concluding the examples of famous landmarks.",
+        "vietnamese": "Trật tự đúng bắt đầu với Vạn Lý Trường Thành của Trung Quốc (Câu 1), giới thiệu một địa danh có ý nghĩa lịch sử và sự hợp tác. Tiếp theo, Biển Chết (Câu 2) cung cấp một ví dụ đối lập, nhấn mạnh lợi ích cá nhân như chăm sóc da và thư giãn. Cuối cùng, Đấu trường La Mã (Câu 3) tập trung vào việc tưởng tượng các sự kiện lịch sử, kết thúc các ví dụ về các địa danh nổi tiếng."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Overall, visiting these landmarks gives people a better understanding of history and improves their lifestyle by encouraging travel and curiosity." },
+        { "id": 2, "value": "These landmarks are popular because they lock people into old traditions and history." },
+        { "id": 3, "value": "Many landmarks are owned by famous businessmen who use them to promote their businesses." },
+        { "id": 4, "value": "Landmarks can be interesting, but not everyone enjoys visiting them or learning about them." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it summarizes the benefits of visiting landmarks, aligning with the positive examples given in the passage. Option 2 is incorrect because the idea of 'locking people into old traditions' contradicts the passage's focus on learning and curiosity. Option 3 is irrelevant, as the passage does not mention businessmen owning landmarks. Option 4 introduces a negative perspective, which does not match the enthusiastic tone of the passage.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó tóm tắt lợi ích của việc thăm các địa danh, phù hợp với các ví dụ tích cực được đưa ra trong đoạn văn. Lựa chọn 2 sai vì ý tưởng 'khóa mọi người vào các truyền thống cũ' mâu thuẫn với nội dung tập trung vào học hỏi và tò mò. Lựa chọn 3 không liên quan, vì đoạn văn không đề cập đến việc các doanh nhân sở hữu các địa danh. Lựa chọn 4 đưa ra một góc nhìn tiêu cực, không phù hợp với giọng văn nhiệt tình của đoạn văn."
+      }
+    }
+  ]
+}

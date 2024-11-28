@@ -1,0 +1,89 @@
+{
+  "topic": "Traditional Gatherings",
+  "provided_words": ["church", "palace", "tradition", "before", "traditional", "close", "formal", "listener", "percent", "polite"],
+  "passage_and_questions": {
+    "passage": "Traditional gatherings have been an important part of many cultures for centuries. These events often take place in special locations, such as a church or a palace, where people come together to celebrate or honor traditions that have been passed down through generations. For example, weddings in many countries are held in churches, where close family members and friends gather to support the couple, and the atmosphere is often filled with joy and respect. Before the ceremony begins, it is common for people to follow formal rules, such as dressing in traditional clothes and behaving politely, which show their respect for the event. In some cultures, traditional music is played during these events, and listeners are expected to pay attention while remaining quiet. Formal speeches may also be given by family members or friends, who often share their thoughts about the importance of the occasion and the traditions being followed. Although fewer than 50 percent of people in some regions follow these traditions as strictly as before, the value of these gatherings remains strong because they bring people close to one another. Whether in a palace, a church, or a simple home, these gatherings remind us of the importance of community, respect, and celebrating our shared history.",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Main Idea",
+        "question_name": "What is the main idea of the passage?",
+        "answers": [
+          { "id": 1, "value": "Traditional gatherings bring people together to honor culture and community." },
+          { "id": 2, "value": "Modern gatherings no longer follow traditional rules." },
+          { "id": 3, "value": "Churches are the most common place for gatherings." },
+          { "id": 4, "value": "Politeness is no longer important in formal gatherings." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage explains how traditional gatherings connect people and honor culture, even though traditions may change over time.",
+          "vietnamese": "Đoạn văn giải thích cách các buổi tụ họp truyền thống kết nối con người và tôn vinh văn hóa, mặc dù truyền thống có thể thay đổi theo thời gian."
+        }
+      },
+      {
+        "id": 2,
+        "type": "Vocabulary",
+        "question_name": "What does 'close' mean in the passage?",
+        "answers": [
+          { "id": 1, "value": "Polite" },
+          { "id": 2, "value": "Near in distance or relationship" },
+          { "id": 3, "value": "Formal" },
+          { "id": 4, "value": "Traditional" }
+        ],
+        "correct_answers": [2],
+        "explanation": {
+          "english": "In the passage, 'close' refers to family members and friends who are near in relationship and gathered at the event.",
+          "vietnamese": "Trong đoạn văn, 'close' ám chỉ những thành viên gia đình và bạn bè gần gũi về mối quan hệ, cùng tham gia sự kiện."
+        }
+      },
+      {
+        "id": 3,
+        "type": "Details",
+        "question_name": "Where do weddings often take place in many countries?",
+        "answers": [
+          { "id": 1, "value": "In homes" },
+          { "id": 2, "value": "In palaces" },
+          { "id": 3, "value": "In churches" },
+          { "id": 4, "value": "In schools" }
+        ],
+        "correct_answers": [3],
+        "explanation": {
+          "english": "The passage states that weddings in many countries are held in churches, where family and friends gather.",
+          "vietnamese": "Đoạn văn nói rằng đám cưới ở nhiều quốc gia được tổ chức trong nhà thờ, nơi gia đình và bạn bè tụ họp."
+        }
+      },
+      {
+        "id": 4,
+        "type": "Inference",
+        "question_name": "Why do people follow formal rules during traditional gatherings?",
+        "answers": [
+          { "id": 1, "value": "To show respect and honor the occasion." },
+          { "id": 2, "value": "To impress family members." },
+          { "id": 3, "value": "To compete with other guests." },
+          { "id": 4, "value": "To make the event less serious." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage suggests that people follow formal rules, such as dressing traditionally and behaving politely, to show respect for the event.",
+          "vietnamese": "Đoạn văn gợi ý rằng người ta tuân theo các quy tắc trang trọng, như mặc đồ truyền thống và hành xử lịch sự, để thể hiện sự tôn trọng đối với sự kiện."
+        }
+      },
+      {
+        "id": 5,
+        "type": "Role of Word",
+        "question_name": "What is the role of the word 'tradition' in the passage?",
+        "answers": [
+          { "id": 1, "value": "It refers to practices that have been passed down over time." },
+          { "id": 2, "value": "It describes formal rules for dressing." },
+          { "id": 3, "value": "It shows the location where gatherings take place." },
+          { "id": 4, "value": "It means being polite during events." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "In the passage, 'tradition' refers to practices and customs that people have followed for generations during gatherings.",
+          "vietnamese": "Trong đoạn văn, 'tradition' ám chỉ những phong tục và tập quán mà con người đã tuân theo qua nhiều thế hệ trong các buổi tụ họp."
+        }
+      }
+    ]
+  }
+}

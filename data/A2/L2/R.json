@@ -1,0 +1,1543 @@
+[
+  {
+    "day": 1,
+    "data": {
+      "passage": "Anna is a creative girl who loves art and has many great ideas. She works in a small art shop where her employer, Mr. Lewis, is kind and supportive. Not only does he teach her new skills, but he also encourages her to be free in expressing her creativity. Every day, Anna enjoys painting, designing, and making decorations for the shop, which she finds exciting and fulfilling. One morning, while arranging some new paintings, Anna noticed a man with curly hair entering the shop. Although he smiled at first, he looked around nervously and acted strangely. When Anna was helping another customer, she saw the man trying to lift a small but expensive painting without paying. Realizing that something was wrong, Anna made a quick decision to call Mr. Lewis. They worked together to stop the man, who turned out to be a thief. After the incident, the police arrived and praised Anna for her quick thinking and courage. They explained that stealing is a serious crime, and they were glad Anna acted so fast. Later, Mr. Lewis told Anna that she had done an excellent job and that her knowledge and bravery were impressive. Although the situation was scary, Anna felt proud of herself and knew she had made a positive difference. She continues to work hard at the shop, feeling even more motivated to learn and grow each day.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Anna works in an art shop and bravely stops a thief from stealing a painting."
+            },
+            { "id": 2, "value": "Anna becomes a famous artist at the shop." },
+            { "id": 3, "value": "Mr. Lewis opens a new art shop." },
+            { "id": 4, "value": "A man with curly hair buys a painting." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage highlights Anna's creativity, her job at the shop, and her bravery in stopping a thief.",
+            "vietnamese": "Đoạn văn nhấn mạnh sự sáng tạo, công việc của Anna tại cửa hàng và lòng dũng cảm của cô khi ngăn chặn tên trộm."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does 'decision' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "A quick choice to act." },
+            { "id": 2, "value": "A type of painting." },
+            { "id": 3, "value": "A mistake." },
+            { "id": 4, "value": "A crime." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'decision' refers to Anna's quick choice to act when she saw the thief.",
+            "vietnamese": "Trong đoạn văn, 'decision' ám chỉ sự lựa chọn nhanh chóng của Anna khi thấy tên trộm."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "Why did Anna feel proud after the incident?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "She used her knowledge and courage to stop a thief."
+            },
+            { "id": 2, "value": "She sold a painting to a customer." },
+            { "id": 3, "value": "She learned a new painting skill." },
+            { "id": 4, "value": "She opened a new shop." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "Anna felt proud because her knowledge and courage helped prevent a crime.",
+            "vietnamese": "Anna cảm thấy tự hào vì kiến thức và lòng dũng cảm của cô đã giúp ngăn chặn một vụ phạm tội."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why did Anna call Mr. Lewis when she saw the man stealing?",
+          "answers": [
+            { "id": 1, "value": "She trusted him to help solve the problem." },
+            { "id": 2, "value": "She wanted him to talk to the man." },
+            { "id": 3, "value": "She was afraid to speak to the customer." },
+            {
+              "id": 4,
+              "value": "She thought the man wanted to buy the painting."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "Anna knew Mr. Lewis would know what to do, so she called him for help.",
+            "vietnamese": "Anna biết rằng ông Lewis sẽ biết cách xử lý, nên cô đã gọi ông ấy giúp đỡ."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word",
+          "question_name": "What is the role of the word 'crime' in the passage?",
+          "answers": [
+            { "id": 1, "value": "It shows that stealing is wrong." },
+            { "id": 2, "value": "It describes Anna's creativity." },
+            { "id": 3, "value": "It explains why the thief entered the shop." },
+            { "id": 4, "value": "It is not important to the story." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "'Crime' is used to show that the thief's actions were illegal and wrong.",
+            "vietnamese": "'Crime' được dùng để chỉ rằng hành động của tên trộm là bất hợp pháp và sai trái."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 2,
+    "data": {
+      "passage": "Many ancient buildings around the world show how creative and skilled architects were in the past. For example, the Great Pyramid of Giza, which is located in Egypt, has stood for thousands of years and remains one of the wonders of the ancient world. It has a narrow entrance that leads to many hidden rooms, which were carefully designed to protect treasures. The architects had to manage the construction with great care, as they did not have modern tools to help them. At the top of the pyramid, there was once a shiny stone that reflected sunlight so brightly that it could be seen from far away. In ancient Greece, architects built the Parthenon, which is a temple dedicated to the goddess Athena. This temple was constructed on a high level of ground to show its importance, and its design included many details that symbolized strength and beauty. Since there were no trucks or cranes in ancient times, materials like stone had to be sailed across the sea, and workers had to lift heavy blocks using simple tools. Unlike modern architects, who sometimes get ideas from novels, ancient architects focused on making buildings that were strong and long-lasting. These incredible structures teach us about the creativity and intelligence of ancient people, whose designs continue to inspire us today.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Ancient buildings show the creativity and skill of architects in the past."
+            },
+            {
+              "id": 2,
+              "value": "The Parthenon is the most famous ancient building."
+            },
+            {
+              "id": 3,
+              "value": "Modern architects are more creative than ancient architects."
+            },
+            {
+              "id": 4,
+              "value": "Ancient people used trucks to build large buildings."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage highlights how ancient architects built creative and skillful structures, such as the Great Pyramid and the Parthenon.",
+            "vietnamese": "Đoạn văn nhấn mạnh cách các kiến trúc sư cổ đại xây dựng những công trình sáng tạo và khéo léo, như Kim tự tháp lớn và Parthenon."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does 'narrow' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Wide" },
+            { "id": 2, "value": "Small and thin" },
+            { "id": 3, "value": "Tall" },
+            { "id": 4, "value": "Bright" }
+          ],
+          "correct_answers": [2],
+          "explanation": {
+            "english": "In the passage, 'narrow' describes the small entrance to the Great Pyramid, which is not wide.",
+            "vietnamese": "Trong đoạn văn, 'narrow' mô tả lối vào nhỏ của Kim tự tháp lớn, không rộng."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "Why did architects build the Parthenon on a high level of ground?",
+          "answers": [
+            { "id": 1, "value": "To show its importance." },
+            { "id": 2, "value": "To keep it safe from animals." },
+            { "id": 3, "value": "To make it easier to build." },
+            { "id": 4, "value": "To protect it from floods." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains that the Parthenon was built on a high level of ground to show its importance.",
+            "vietnamese": "Đoạn văn giải thích rằng Parthenon được xây dựng trên nền đất cao để thể hiện tầm quan trọng của nó."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why did ancient architects need to sail materials across the sea?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Because they didn’t have trucks or cranes to transport materials."
+            },
+            {
+              "id": 2,
+              "value": "Because the sea was the only place to find materials."
+            },
+            {
+              "id": 3,
+              "value": "Because their cities were all near the ocean."
+            },
+            { "id": 4, "value": "Because they wanted to test their skills." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains that ancient architects needed to sail materials because they did not have modern tools like trucks or cranes.",
+            "vietnamese": "Đoạn văn giải thích rằng các kiến trúc sư cổ đại phải vận chuyển vật liệu qua biển vì họ không có công cụ hiện đại như xe tải hoặc cần cẩu."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word",
+          "question_name": "What is the role of the word 'novel' in the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It refers to books that sometimes inspire modern architects."
+            },
+            { "id": 2, "value": "It describes the size of ancient buildings." },
+            {
+              "id": 3,
+              "value": "It explains the tools used in ancient times."
+            },
+            { "id": 4, "value": "It means the building was narrow and small." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'novel' refers to books that inspire modern architects to design unique buildings.",
+            "vietnamese": "Trong đoạn văn, 'novel' ám chỉ những cuốn sách truyền cảm hứng cho các kiến trúc sư hiện đại thiết kế các tòa nhà độc đáo."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 3,
+    "data": {
+      "passage": "Architecture is a way to express ideas and culture. In different regions of the world, buildings often have unique shapes and designs, which reflect the traditions of their people. For example, in Egypt, the pyramids are shaped like triangles and are signs of the pharaohs’ power and greatness. In Japan, people often build houses with wooden structures that can move slightly during earthquakes, which shows a strong sense of safety and preparation. Sometimes, buildings are created to celebrate important events or achievements. The Eiffel Tower in France, which was built during a world fair, marks the birth of modern engineering and has become a global symbol of innovation. Architects often suggest ideas that are both creative and practical, aiming to meet the needs of the people who will use their buildings. For instance, they might design a school where children can learn towards a brighter future, or a hospital that brings comfort to patients while also being energy-efficient. Many architects wish to create places where people feel happy, safe, and inspired. When you look at a building, it feels like it has its own voice, telling the story of why it was built and who it was built for. This is why architecture is so important; it connects us to the past, the present, and the future.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Architecture connects people to history and culture."
+            },
+            { "id": 2, "value": "Architects only build homes for people." },
+            {
+              "id": 3,
+              "value": "Modern buildings are better than ancient ones."
+            },
+            { "id": 4, "value": "Regions all build in the same way." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains how architecture reflects culture and connects us to the past, present, and future.",
+            "vietnamese": "Đoạn văn giải thích cách kiến trúc phản ánh văn hóa và kết nối chúng ta với quá khứ, hiện tại và tương lai."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does 'shape' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Color" },
+            { "id": 2, "value": "Form or outline" },
+            { "id": 3, "value": "Material" },
+            { "id": 4, "value": "Weight" }
+          ],
+          "correct_answers": [2],
+          "explanation": {
+            "english": "In the passage, 'shape' refers to the form or outline of buildings, like the triangular shape of pyramids.",
+            "vietnamese": "Trong đoạn văn, 'shape' chỉ hình dạng hoặc đường viền của các tòa nhà, như hình tam giác của kim tự tháp."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "Why was the Eiffel Tower built?",
+          "answers": [
+            { "id": 1, "value": "To mark the birth of modern engineering." },
+            { "id": 2, "value": "To show the power of France." },
+            { "id": 3, "value": "To celebrate a pharaoh." },
+            { "id": 4, "value": "To protect people from earthquakes." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage states that the Eiffel Tower was built to celebrate the birth of modern engineering during a world fair.",
+            "vietnamese": "Đoạn văn nói rằng Tháp Eiffel được xây dựng để đánh dấu sự ra đời của kỹ thuật hiện đại trong một hội chợ thế giới."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why do architects design schools and hospitals?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "To meet people’s needs and improve their lives."
+            },
+            { "id": 2, "value": "To make places look more colorful." },
+            { "id": 3, "value": "To celebrate history and culture." },
+            { "id": 4, "value": "To make buildings last longer." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage suggests that architects design schools and hospitals to meet people's needs and make their lives better.",
+            "vietnamese": "Đoạn văn gợi ý rằng các kiến trúc sư thiết kế trường học và bệnh viện để đáp ứng nhu cầu của con người và cải thiện cuộc sống của họ."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word",
+          "question_name": "What is the role of the word 'voice' in the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It means buildings can tell a story about their purpose."
+            },
+            { "id": 2, "value": "It describes the sound of a building." },
+            {
+              "id": 3,
+              "value": "It explains why people talk about architecture."
+            },
+            { "id": 4, "value": "It refers to the sound made by architects." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'voice' refers to the way buildings can tell a story about their purpose and history.",
+            "vietnamese": "Trong đoạn văn, 'voice' ám chỉ cách các tòa nhà có thể kể câu chuyện về mục đích và lịch sử của chúng."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 4,
+    "data": {
+      "passage": "In ancient times, ceremonies were a way to celebrate important events and honor gods or rulers. For example, in Greece, people organized classical festivals to honor Zeus, the king of the gods, because they believed these ceremonies brought them closer to the divine. These festivals included grand arrangements of food, music, and athletic games, which attracted people from far and wide. Winners of the games were awarded olive wreaths, which symbolized victory and respect, while participants felt proud to compete in honor of their gods. Invitations were often sent to noble families and rulers from other regions, inviting them to join the celebration and strengthen political ties. In Egypt, ceremonies for the coronation of a new king or queen were equally impressive, as they included prayers to the gods and a procession where the king or queen was carried through the streets to show their connection to the divine. The arrangement of these events required careful planning to ensure everything went smoothly, since any mistake could be seen as a sign of disrespect to the gods. People believed that celebrating these moments not only brought blessings from the gods but also strengthened the bond between rulers and their people. Even today, modern ceremonies, which often reflect the traditions of ancient times, remind us of the importance of celebration and community.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Ancient ceremonies celebrated important events and honored gods or rulers."
+            },
+            {
+              "id": 2,
+              "value": "Kings and queens always sent invitations to noble families."
+            },
+            {
+              "id": 3,
+              "value": "Athletic games were the main focus of all ancient ceremonies."
+            },
+            {
+              "id": 4,
+              "value": "Modern ceremonies are more important than ancient ones."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains that ancient ceremonies were organized to celebrate events and honor gods or rulers.",
+            "vietnamese": "Đoạn văn giải thích rằng các nghi lễ cổ đại được tổ chức để kỷ niệm các sự kiện và tôn vinh các vị thần hoặc vua chúa."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does 'arrangement' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Decoration" },
+            { "id": 2, "value": "Preparation and planning" },
+            { "id": 3, "value": "Music and games" },
+            { "id": 4, "value": "Invitation" }
+          ],
+          "correct_answers": [2],
+          "explanation": {
+            "english": "In the passage, 'arrangement' refers to the careful planning and preparation of the ceremonies.",
+            "vietnamese": "Trong đoạn văn, 'arrangement' ám chỉ việc chuẩn bị và lên kế hoạch cẩn thận cho các nghi lễ."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "What were winners of the games in Greece awarded?",
+          "answers": [
+            { "id": 1, "value": "Golden crowns" },
+            { "id": 2, "value": "Olive wreaths" },
+            { "id": 3, "value": "Silver coins" },
+            { "id": 4, "value": "Invitations to other ceremonies" }
+          ],
+          "correct_answers": [2],
+          "explanation": {
+            "english": "The passage mentions that winners of the games in Greece were awarded olive wreaths as a symbol of victory and respect.",
+            "vietnamese": "Đoạn văn đề cập rằng những người chiến thắng trong các trò chơi ở Hy Lạp được trao vòng hoa ô liu như một biểu tượng của chiến thắng và sự tôn trọng."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why did people believe in celebrating these ceremonies?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "They thought it brought blessings from the gods."
+            },
+            { "id": 2, "value": "They wanted to show their wealth to others." },
+            {
+              "id": 3,
+              "value": "They needed to strengthen their military power."
+            },
+            {
+              "id": 4,
+              "value": "They wished to invite more people to their cities."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage suggests that people believed celebrating ceremonies brought blessings from the gods and strengthened their bond with rulers.",
+            "vietnamese": "Đoạn văn gợi ý rằng người ta tin rằng việc tổ chức các nghi lễ mang lại phước lành từ các vị thần và củng cố mối liên kết với các vị vua."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word",
+          "question_name": "What is the role of the word 'invitation' in the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It shows that people were invited to join celebrations."
+            },
+            {
+              "id": 2,
+              "value": "It describes the decoration of the ceremonies."
+            },
+            {
+              "id": 3,
+              "value": "It refers to the award given to winners of games."
+            },
+            { "id": 4, "value": "It explains how gods were honored." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'invitation' refers to how noble families and rulers were invited to join ancient ceremonies.",
+            "vietnamese": "Trong đoạn văn, 'invitation' ám chỉ cách các gia đình quý tộc và các vị vua được mời tham gia các nghi lễ cổ đại."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 5,
+    "data": {
+      "passage": "Traditional gatherings have been an important part of many cultures for centuries. These events often take place in special locations, such as a church or a palace, where people come together to celebrate or honor traditions that have been passed down through generations. For example, weddings in many countries are held in churches, where close family members and friends gather to support the couple, and the atmosphere is often filled with joy and respect. Before the ceremony begins, it is common for people to follow formal rules, such as dressing in traditional clothes and behaving politely, which show their respect for the event. In some cultures, traditional music is played during these events, and listeners are expected to pay attention while remaining quiet. Formal speeches may also be given by family members or friends, who often share their thoughts about the importance of the occasion and the traditions being followed. Although fewer than 50 percent of people in some regions follow these traditions as strictly as before, the value of these gatherings remains strong because they bring people close to one another. Whether in a palace, a church, or a simple home, these gatherings remind us of the importance of community, respect, and celebrating our shared history.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Traditional gatherings bring people together to honor culture and community."
+            },
+            {
+              "id": 2,
+              "value": "Modern gatherings no longer follow traditional rules."
+            },
+            {
+              "id": 3,
+              "value": "Churches are the most common place for gatherings."
+            },
+            {
+              "id": 4,
+              "value": "Politeness is no longer important in formal gatherings."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains how traditional gatherings connect people and honor culture, even though traditions may change over time.",
+            "vietnamese": "Đoạn văn giải thích cách các buổi tụ họp truyền thống kết nối con người và tôn vinh văn hóa, mặc dù truyền thống có thể thay đổi theo thời gian."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does 'close' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Polite" },
+            { "id": 2, "value": "Near in distance or relationship" },
+            { "id": 3, "value": "Formal" },
+            { "id": 4, "value": "Traditional" }
+          ],
+          "correct_answers": [2],
+          "explanation": {
+            "english": "In the passage, 'close' refers to family members and friends who are near in relationship and gathered at the event.",
+            "vietnamese": "Trong đoạn văn, 'close' ám chỉ những thành viên gia đình và bạn bè gần gũi về mối quan hệ, cùng tham gia sự kiện."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "Where do weddings often take place in many countries?",
+          "answers": [
+            { "id": 1, "value": "In homes" },
+            { "id": 2, "value": "In palaces" },
+            { "id": 3, "value": "In churches" },
+            { "id": 4, "value": "In schools" }
+          ],
+          "correct_answers": [3],
+          "explanation": {
+            "english": "The passage states that weddings in many countries are held in churches, where family and friends gather.",
+            "vietnamese": "Đoạn văn nói rằng đám cưới ở nhiều quốc gia được tổ chức trong nhà thờ, nơi gia đình và bạn bè tụ họp."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why do people follow formal rules during traditional gatherings?",
+          "answers": [
+            { "id": 1, "value": "To show respect and honor the occasion." },
+            { "id": 2, "value": "To impress family members." },
+            { "id": 3, "value": "To compete with other guests." },
+            { "id": 4, "value": "To make the event less serious." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage suggests that people follow formal rules, such as dressing traditionally and behaving politely, to show respect for the event.",
+            "vietnamese": "Đoạn văn gợi ý rằng người ta tuân theo các quy tắc trang trọng, như mặc đồ truyền thống và hành xử lịch sự, để thể hiện sự tôn trọng đối với sự kiện."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word",
+          "question_name": "What is the role of the word 'tradition' in the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It refers to practices that have been passed down over time."
+            },
+            { "id": 2, "value": "It describes formal rules for dressing." },
+            {
+              "id": 3,
+              "value": "It shows the location where gatherings take place."
+            },
+            { "id": 4, "value": "It means being polite during events." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'tradition' refers to practices and customs that people have followed for generations during gatherings.",
+            "vietnamese": "Trong đoạn văn, 'tradition' ám chỉ những phong tục và tập quán mà con người đã tuân theo qua nhiều thế hệ trong các buổi tụ họp."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 6,
+    "data": {
+      "passage": "A mirror is something we all have at home, but have you ever thought about the lessons it can teach us? When you look in a mirror, it shows you your reflection exactly as it is, which helps you see yourself clearly. If you smile, the mirror smiles back, but if you frown, it does the same, showing how life often reflects our actions. This is just like how people behave towards us in real life: if we are kind and polite, they will usually respond with kindness, but if we are rude, they might act against us. A mirror doesn’t allow you to lie about how you look, reminding us that we should be honest about our actions and words. Actually, being honest and kind is one of the most important lessons in life, because it helps us build good relationships with others. In some situations, you need to be careful about how you behave, especially if you are providing a service to others, since your behavior can affect how people see you. For example, a good waiter is able to stay calm and polite, even if a customer is upset, which not only helps solve problems but also shows professionalism. Life, like a mirror, reflects what you give it, so if you take care of others, they will take care of you in return.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Life is like a mirror; it reflects how we behave towards others."
+            },
+            {
+              "id": 2,
+              "value": "A mirror is an important tool in every home."
+            },
+            {
+              "id": 3,
+              "value": "Good waiters must always be polite to customers."
+            },
+            {
+              "id": 4,
+              "value": "Being rude will make people behave kindly towards you."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage compares life to a mirror, explaining how our actions and behavior are reflected back to us by others.",
+            "vietnamese": "Đoạn văn so sánh cuộc sống với một chiếc gương, giải thích cách hành động và cách cư xử của chúng ta được phản ánh lại từ người khác."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does 'careful' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Quick" },
+            { "id": 2, "value": "Honest" },
+            { "id": 3, "value": "Paying attention to what you do" },
+            { "id": 4, "value": "Rude" }
+          ],
+          "correct_answers": [3],
+          "explanation": {
+            "english": "In the passage, 'careful' means being thoughtful about how you behave, especially when providing a service to others.",
+            "vietnamese": "Trong đoạn văn, 'careful' nghĩa là cẩn thận trong cách bạn hành xử, đặc biệt khi phục vụ người khác."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "What happens if you smile at the mirror?",
+          "answers": [
+            { "id": 1, "value": "The mirror smiles back." },
+            { "id": 2, "value": "The mirror frowns." },
+            { "id": 3, "value": "The mirror doesn’t change." },
+            { "id": 4, "value": "The mirror breaks." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains that a mirror reflects your expression, so if you smile, the mirror smiles back.",
+            "vietnamese": "Đoạn văn giải thích rằng gương phản chiếu biểu cảm của bạn, vì vậy nếu bạn cười, gương sẽ phản chiếu lại nụ cười."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why is being polite important when providing a service?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It helps solve problems and shows professionalism."
+            },
+            { "id": 2, "value": "It allows customers to behave rudely." },
+            { "id": 3, "value": "It makes you look better in the mirror." },
+            { "id": 4, "value": "It helps you avoid making mistakes." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage suggests that being polite helps solve problems and reflects professionalism in service roles.",
+            "vietnamese": "Đoạn văn gợi ý rằng lịch sự giúp giải quyết vấn đề và thể hiện sự chuyên nghiệp trong các vai trò phục vụ."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word",
+          "question_name": "What is the role of the word 'actually' in the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It emphasizes the importance of honesty and kindness."
+            },
+            { "id": 2, "value": "It shows that being rude is acceptable." },
+            { "id": 3, "value": "It explains how mirrors work." },
+            {
+              "id": 4,
+              "value": "It introduces a negative idea about behavior."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'actually' is used to stress that being honest and kind is one of the most important life lessons.",
+            "vietnamese": "Trong đoạn văn, 'actually' được dùng để nhấn mạnh rằng trung thực và tử tế là một trong những bài học quan trọng nhất của cuộc sống."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 7,
+    "data": {
+      "passage": "Have you ever thought about what makes an ideal day? Perhaps it begins with something simple, like waking up feeling rested and ready for the day. For some people, an ideal day includes time to do something they care about, such as reading, exercising, or spending time with family, which helps them feel connected and happy. Others may dream of a day full of exciting or even crazy adventures, where they feel like they belong in the moment and can forget their daily worries. The character of a person often influences what they see as an ideal day, because someone who enjoys quiet moments may prefer a calm day, while someone adventurous might want something more thrilling. Fortunately, we don’t need everything to be perfect to enjoy the day. What matters most is feeling grateful and being able to appreciate the small things, like a smile from a friend or the beauty of nature, which can make even an ordinary day feel special. While life can certainly be challenging at times, having a positive attitude helps us create moments of joy that last forever. So, whether your ideal day is calm and peaceful or extremely busy and exciting, the key is to find joy in the moment and create memories you can cherish for a lifetime.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "An ideal day is about finding joy and appreciating small things."
+            },
+            { "id": 2, "value": "Daily routines are the key to happiness." },
+            { "id": 3, "value": "Crazy adventures make every day special." },
+            {
+              "id": 4,
+              "value": "Spending time with family is the only way to have an ideal day."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage emphasizes that an ideal day is about enjoying the moment and appreciating small things, regardless of the type of day.",
+            "vietnamese": "Đoạn văn nhấn mạnh rằng một ngày lý tưởng là tận hưởng khoảnh khắc và trân trọng những điều nhỏ bé, bất kể loại ngày nào."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does 'care' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "To worry about something" },
+            { "id": 2, "value": "To do something with love or attention" },
+            { "id": 3, "value": "To forget about something" },
+            { "id": 4, "value": "To belong to someone" }
+          ],
+          "correct_answers": [2],
+          "explanation": {
+            "english": "In the passage, 'care' refers to doing something with love or attention, like spending time on hobbies or with family.",
+            "vietnamese": "Trong đoạn văn, 'care' ám chỉ làm điều gì đó với tình yêu hoặc sự chú ý, như dành thời gian cho sở thích hoặc gia đình."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "What does the passage suggest about an ideal day?",
+          "answers": [
+            { "id": 1, "value": "It must be perfect to be enjoyable." },
+            {
+              "id": 2,
+              "value": "It is different for everyone based on their preferences."
+            },
+            { "id": 3, "value": "It should include crazy adventures." },
+            { "id": 4, "value": "It must be calm and peaceful." }
+          ],
+          "correct_answers": [2],
+          "explanation": {
+            "english": "The passage states that the character of an ideal day is different for everyone because people have unique lifestyles and preferences.",
+            "vietnamese": "Đoạn văn nói rằng tính chất của một ngày lý tưởng khác nhau đối với mỗi người vì mọi người có lối sống và sở thích riêng."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why is a positive attitude important, according to the passage?",
+          "answers": [
+            { "id": 1, "value": "It makes even ordinary days feel special." },
+            { "id": 2, "value": "It helps people plan their daily routines." },
+            { "id": 3, "value": "It ensures every day is extremely exciting." },
+            { "id": 4, "value": "It allows people to forget challenges." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains that a positive attitude helps people find joy, even on ordinary days, making them feel special.",
+            "vietnamese": "Đoạn văn giải thích rằng thái độ tích cực giúp mọi người tìm thấy niềm vui, ngay cả trong những ngày bình thường, làm cho chúng trở nên đặc biệt."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word",
+          "question_name": "What is the role of the word 'character' in the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It explains how personality influences what someone sees as an ideal day."
+            },
+            {
+              "id": 2,
+              "value": "It refers to the events that happen during an ideal day."
+            },
+            {
+              "id": 3,
+              "value": "It describes the importance of daily routines."
+            },
+            { "id": 4, "value": "It means spending time with family." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'character' refers to someone's personality, which influences what they consider an ideal day.",
+            "vietnamese": "Trong đoạn văn, 'character' ám chỉ tính cách của một người, điều này ảnh hưởng đến cách họ nhìn nhận một ngày lý tưởng."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 8,
+    "data": {
+      "passage": "Emily is a teenager who enjoys a busy but exciting life. Every morning, she wakes up early to prepare for school. Emily is very clever and always finishes her homework on time. At school, she loves her science class the most because she can identify how things work in the natural world. During lunch, Emily spends time with her friends. They prefer an informal setting, so they often sit under a lovely tree in the schoolyard. After school, Emily likes to relax a little. She sometimes feels lazy, but she knows she needs to complete her chores. In the evening, Emily helps her mother with cooking. They talk about the day while preparing a meal with fresh material from the garden. Emily also enjoys reading books. Her favorite stories are about characters who are brave and clever. On weekends, Emily is likely to meet her friends at the park. They talk, laugh, and imagine their futures. Emily dreams of becoming a doctor, while her best friend plans to marry and travel the world. No matter what they choose, they believe even the least exciting days can be special if spent with people they love.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Emily’s daily life is busy, but she enjoys spending time with friends and family."
+            },
+            {
+              "id": 2,
+              "value": "Emily spends all her time studying and doing homework."
+            },
+            {
+              "id": 3,
+              "value": "Emily prefers weekends because she can relax all day."
+            },
+            { "id": 4, "value": "Emily does not enjoy her school life." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage describes Emily’s daily life, including her school, family, and weekend activities, showing she balances responsibilities and fun.",
+            "vietnamese": "Đoạn văn mô tả cuộc sống hàng ngày của Emily, bao gồm việc học, gia đình, và các hoạt động cuối tuần, cho thấy cô ấy cân bằng giữa trách nhiệm và niềm vui."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does the word 'informal' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Casual" },
+            { "id": 2, "value": "Strict" },
+            { "id": 3, "value": "Exciting" },
+            { "id": 4, "value": "Complex" }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "'Informal' means casual or relaxed, which matches how Emily and her friends spend their lunch.",
+            "vietnamese": "'Informal' có nghĩa là giản dị hoặc thoải mái, phù hợp với cách Emily và bạn bè dành thời gian ăn trưa."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "Where do Emily and her friends sit during lunch?",
+          "answers": [
+            { "id": 1, "value": "In the science lab" },
+            { "id": 2, "value": "Under a lovely tree in the schoolyard" },
+            { "id": 3, "value": "At a restaurant near school" },
+            { "id": 4, "value": "In the classroom" }
+          ],
+          "correct_answers": [2],
+          "explanation": {
+            "english": "The passage states that Emily and her friends prefer sitting under a lovely tree during lunch.",
+            "vietnamese": "Đoạn văn nói rằng Emily và bạn bè thích ngồi dưới gốc cây đẹp vào giờ ăn trưa."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why does Emily enjoy science class?",
+          "answers": [
+            { "id": 1, "value": "She likes to learn about how things work." },
+            { "id": 2, "value": "She thinks it is the easiest subject." },
+            { "id": 3, "value": "Her friends also love science." },
+            { "id": 4, "value": "She wants to become a scientist." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "Emily loves science because she enjoys learning how things work in the natural world.",
+            "vietnamese": "Emily thích môn khoa học vì cô thích tìm hiểu cách mọi thứ hoạt động trong thế giới tự nhiên."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word/Phrase",
+          "question_name": "What is the role of the word 'likely' in the sentence, 'Emily is likely to meet her friends at the park'?",
+          "answers": [
+            { "id": 1, "value": "It describes Emily's regular habit." },
+            {
+              "id": 2,
+              "value": "It shows Emily’s feelings about her friends."
+            },
+            {
+              "id": 3,
+              "value": "It means Emily is uncertain about meeting her friends."
+            },
+            {
+              "id": 4,
+              "value": "It highlights Emily's plans to marry in the future."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The word 'likely' explains that meeting her friends is a common part of Emily’s weekend routine.",
+            "vietnamese": "Từ 'likely' giải thích rằng việc gặp bạn bè là một phần thường xuyên trong thói quen cuối tuần của Emily."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 9,
+    "data": {
+      "passage": "Last summer, I had a dream vacation with my family. We decided to visit a small island that is not a typical tourist destination. The island was quiet and peaceful, and we felt safe exploring its beaches and forests. The hotel we chose had a friendly owner who welcomed us warmly. It wasn’t a luxury hotel, but it met all the standard needs for a comfortable stay. Every morning, we enjoyed a regular breakfast of fresh fruit and bread while sitting quietly by the sea. One of the highlights of the trip was kayaking. We paddled among the calm, blue waters, surrounded by beautiful fish and coral. In the evenings, we talked about our day and felt satisfied with all the fun and relaxation. My favorite part was meeting a group of tourists from the United States. They shared stories about their home, and we exchanged ideas about the best travel destinations. This vacation showed me how wonderful it is to connect with nature and people from different places.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "The writer’s dream vacation was on a peaceful island with fun activities and new friends."
+            },
+            {
+              "id": 2,
+              "value": "The writer stayed at a luxury hotel on a busy island."
+            },
+            {
+              "id": 3,
+              "value": "The writer’s favorite part of the vacation was eating breakfast by the sea."
+            },
+            {
+              "id": 4,
+              "value": "The writer enjoyed kayaking the most on the trip."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage describes the writer’s vacation on a peaceful island with activities like kayaking and meeting new people.",
+            "vietnamese": "Đoạn văn mô tả kỳ nghỉ của người viết trên một hòn đảo yên bình với các hoạt động như chèo thuyền kayak và gặp gỡ những người mới."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does the word 'standard' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Basic" },
+            { "id": 2, "value": "Luxury" },
+            { "id": 3, "value": "Difficult" },
+            { "id": 4, "value": "Special" }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'standard' refers to basic needs being met, such as comfort and safety.",
+            "vietnamese": "Trong đoạn văn, 'standard' chỉ các nhu cầu cơ bản được đáp ứng, như sự thoải mái và an toàn."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "What did the writer do during the mornings on the island?",
+          "answers": [
+            { "id": 1, "value": "Kayaked in the ocean." },
+            { "id": 2, "value": "Ate breakfast by the sea." },
+            { "id": 3, "value": "Explored forests." },
+            { "id": 4, "value": "Talked to tourists." }
+          ],
+          "correct_answers": [2],
+          "explanation": {
+            "english": "The writer enjoyed a regular breakfast of fresh fruit and bread by the sea every morning.",
+            "vietnamese": "Người viết thưởng thức bữa sáng đều đặn với trái cây tươi và bánh mì bên bờ biển mỗi sáng."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why did the writer enjoy meeting tourists from the United States?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Because they shared stories and exchanged travel ideas."
+            },
+            {
+              "id": 2,
+              "value": "Because they showed the writer how to kayak."
+            },
+            { "id": 3, "value": "Because they were from a peaceful island." },
+            {
+              "id": 4,
+              "value": "Because they helped the writer feel safe on the trip."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The writer enjoyed learning about their stories and sharing travel ideas, which made the experience memorable.",
+            "vietnamese": "Người viết thích học hỏi các câu chuyện của họ và chia sẻ ý tưởng du lịch, điều này khiến trải nghiệm trở nên đáng nhớ."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word/Phrase",
+          "question_name": "What is the role of the word 'quietly' in the sentence, 'Every morning, we enjoyed a regular breakfast of fresh fruit and bread while sitting quietly by the sea'?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It shows the peaceful and relaxing way they spent their mornings."
+            },
+            { "id": 2, "value": "It explains how noisy the island was." },
+            { "id": 3, "value": "It describes the type of food they ate." },
+            {
+              "id": 4,
+              "value": "It highlights the excitement of the vacation."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The word 'quietly' emphasizes the calm and relaxing atmosphere of their mornings by the sea.",
+            "vietnamese": "Từ 'quietly' nhấn mạnh bầu không khí yên tĩnh và thư giãn của buổi sáng bên bờ biển."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 10,
+    "data": {
+      "passage": "Yesterday, I decided to spend a whole day without my phone. It was not an easy choice, but I wanted to see how it would differ from my usual routine. Normally, I depend on my phone for everything—checking the weather, chatting with friends, and even reading the latest news about my favorite celebrity. Without my phone, I started the day with a book. It was a work of fiction about a boy who climbs a high mountain to find treasure. Reading was a good way to relax, and I found it very helpful to focus on something other than screens. Later, I went for a walk in the park. I noticed small features of nature, like the colorful leaves and the sound of birds, which I usually miss. In the afternoon, I helped my mom bake a cake. We laughed when we accidentally added too much butter, making it a little too fat! At the end of the day, I realized that while phones are helpful, it’s good to take a break sometimes and enjoy life offline.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "The writer spent a day without a phone and enjoyed offline activities."
+            },
+            {
+              "id": 2,
+              "value": "The writer missed their phone and struggled to stay offline."
+            },
+            {
+              "id": 3,
+              "value": "The writer baked a cake with their mom all day."
+            },
+            {
+              "id": 4,
+              "value": "The writer read a story about a boy climbing a mountain."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains how the writer chose to spend a day without their phone, engaging in various offline activities like reading, walking, and baking.",
+            "vietnamese": "Đoạn văn giải thích cách người viết chọn dành một ngày không dùng điện thoại, tham gia các hoạt động ngoại tuyến như đọc sách, đi bộ, và làm bánh."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does the word 'feature' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Detail" },
+            { "id": 2, "value": "Problem" },
+            { "id": 3, "value": "Tool" },
+            { "id": 4, "value": "Activity" }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'feature' refers to small details of nature, like colorful leaves and bird sounds.",
+            "vietnamese": "Trong đoạn văn, 'feature' chỉ các chi tiết nhỏ của thiên nhiên, như lá cây đầy màu sắc và âm thanh của chim."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "What was the writer's favorite activity in the morning?",
+          "answers": [
+            { "id": 1, "value": "Walking in the park." },
+            { "id": 2, "value": "Baking a cake." },
+            { "id": 3, "value": "Reading a book." },
+            { "id": 4, "value": "Checking the weather." }
+          ],
+          "correct_answers": [3],
+          "explanation": {
+            "english": "The writer enjoyed reading a book in the morning as it helped them relax and focus.",
+            "vietnamese": "Người viết thích đọc sách vào buổi sáng vì nó giúp họ thư giãn và tập trung."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "What can we infer about the writer's experience without their phone?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "The writer found new ways to enjoy their day without their phone."
+            },
+            {
+              "id": 2,
+              "value": "The writer felt bored and wanted their phone back quickly."
+            },
+            {
+              "id": 3,
+              "value": "The writer only focused on household chores without their phone."
+            },
+            {
+              "id": 4,
+              "value": "The writer decided to never use their phone again."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The writer discovered they could enjoy offline activities and appreciate moments in nature.",
+            "vietnamese": "Người viết nhận ra họ có thể tận hưởng các hoạt động ngoại tuyến và trân trọng những khoảnh khắc trong thiên nhiên."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word/Phrase",
+          "question_name": "What is the role of the word 'depend' in the sentence, 'Normally, I depend on my phone for everything'?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It shows how important the phone is in the writer's daily life."
+            },
+            {
+              "id": 2,
+              "value": "It explains why the writer dislikes using a phone."
+            },
+            {
+              "id": 3,
+              "value": "It highlights the features of the writer's phone."
+            },
+            {
+              "id": 4,
+              "value": "It means the writer only uses their phone for fun."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The word 'depend' emphasizes the writer's reliance on their phone for many daily tasks.",
+            "vietnamese": "Từ 'depend' nhấn mạnh sự phụ thuộc của người viết vào điện thoại trong nhiều công việc hàng ngày."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 11,
+    "data": {
+      "passage": "Recycling is an important way for every individual to help the environment. When we recycle, we reduce waste and give old materials a new purpose. For example, a businessman might recycle paper from his office to benefit the planet. Recycling can also protect nature. It prevents pollution that harms animals and even damages human skin through chemicals in the air or water. Recycling is simple, but it requires effort. Unlike the usual habits of throwing everything away, it encourages people to be active in making a difference. A good recipe for success is to start small—perhaps by recycling cans or bottles—and slowly build better habits. Communities can lock in these habits by providing bins and making it easy for people to recycle. The benefits of recycling go beyond the environment. It can save energy and create jobs, supporting a better lifestyle for everyone. Whether you are a student, a parent, or a worker, recycling is a step toward a healthier and cleaner world.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Recycling is important for protecting the environment and improving lives."
+            },
+            { "id": 2, "value": "Recycling is only useful for businesses." },
+            {
+              "id": 3,
+              "value": "Recycling damages human skin with chemicals."
+            },
+            {
+              "id": 4,
+              "value": "Recycling requires a lot of money and effort."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains how recycling helps the environment and benefits people by reducing waste and pollution.",
+            "vietnamese": "Đoạn văn giải thích cách tái chế giúp bảo vệ môi trường và mang lại lợi ích cho con người bằng cách giảm rác thải và ô nhiễm."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does the word 'benefit' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Advantage" },
+            { "id": 2, "value": "Problem" },
+            { "id": 3, "value": "Cost" },
+            { "id": 4, "value": "Burden" }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "'Benefit' means an advantage or a positive result, such as the advantages of recycling for the environment and people.",
+            "vietnamese": "'Benefit' có nghĩa là một lợi ích hoặc kết quả tích cực, như lợi ích của tái chế đối với môi trường và con người."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "How can recycling protect human skin?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "By reducing pollution from chemicals in air and water."
+            },
+            { "id": 2, "value": "By creating new beauty products." },
+            { "id": 3, "value": "By locking up dangerous animals." },
+            { "id": 4, "value": "By slowly changing waste into energy." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage states that recycling prevents pollution that can harm human skin through chemicals in the environment.",
+            "vietnamese": "Đoạn văn nói rằng tái chế ngăn chặn ô nhiễm có thể gây hại cho da người thông qua các hóa chất trong môi trường."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why is it important to start recycling slowly?",
+          "answers": [
+            { "id": 1, "value": "It helps build good habits over time." },
+            { "id": 2, "value": "It prevents people from making mistakes." },
+            { "id": 3, "value": "It allows businesses to save money first." },
+            { "id": 4, "value": "It makes recycling unnecessary later." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage suggests starting small, like recycling cans or bottles, to gradually develop better recycling habits.",
+            "vietnamese": "Đoạn văn gợi ý bắt đầu từ những việc nhỏ, như tái chế lon hoặc chai, để dần dần phát triển thói quen tái chế tốt hơn."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word/Phrase",
+          "question_name": "What is the role of the word 'lock' in the sentence, 'Communities can lock in these habits by providing bins and making it easy for people to recycle'?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It means to secure or make something permanent."
+            },
+            { "id": 2, "value": "It describes a type of recycling bin." },
+            { "id": 3, "value": "It shows how to close something tightly." },
+            { "id": 4, "value": "It refers to building new recycling centers." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The word 'lock' in this context means to secure or make recycling habits permanent by providing support like bins.",
+            "vietnamese": "Từ 'lock' trong ngữ cảnh này có nghĩa là cố định hoặc làm cho thói quen tái chế trở nên lâu dài bằng cách cung cấp hỗ trợ như thùng rác."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 12,
+    "data": {
+      "passage": "Last weekend, my family and I went on a picnic by the coast. The weather was perfect, and we brought everything we needed to stay comfortable. We packed blankets, food, and even a small bottle of soap to wash our hands before eating. When we arrived, we found a spot near the water where the waves were calm and peaceful. While exploring the area, we saw some wild animals, including birds and small crabs. My dad reminded us to protect nature by not leaving any trash behind. He said pollution can destroy the beautiful environment and harm animals. We also used bug spray to keep insects away and avoid any bites that could spread disease. During lunch, we enjoyed sandwiches and fresh fruit while listening to the sound of the waves. It was a relaxing and fun day, and we promised to take care of the coast so future picnics could be just as enjoyable.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "The writer and their family had a fun and relaxing picnic by the coast."
+            },
+            {
+              "id": 2,
+              "value": "The writer's family saw many wild animals and caught some crabs."
+            },
+            {
+              "id": 3,
+              "value": "The writer's picnic was ruined by insects and pollution."
+            },
+            {
+              "id": 4,
+              "value": "The writer's family used soap to clean the coast."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage describes a fun and peaceful picnic where the family enjoyed nature and took care to protect the environment.",
+            "vietnamese": "Đoạn văn mô tả một buổi dã ngoại vui vẻ và yên bình, nơi gia đình tận hưởng thiên nhiên và chú ý bảo vệ môi trường."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does the word 'protect' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Take care of" },
+            { "id": 2, "value": "Throw away" },
+            { "id": 3, "value": "Ignore" },
+            { "id": 4, "value": "Destroy" }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'protect' means to take care of nature by not leaving trash or harming the environment.",
+            "vietnamese": "Trong đoạn văn, 'protect' có nghĩa là chăm sóc thiên nhiên bằng cách không để lại rác hoặc gây hại cho môi trường."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "What did the family do to avoid insect bites?",
+          "answers": [
+            { "id": 1, "value": "Used bug spray." },
+            { "id": 2, "value": "Stayed away from the water." },
+            { "id": 3, "value": "Covered themselves with blankets." },
+            { "id": 4, "value": "Cleaned the area with soap." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage states that the family used bug spray to keep insects away and avoid bites.",
+            "vietnamese": "Đoạn văn nói rằng gia đình đã sử dụng thuốc chống côn trùng để tránh bị cắn."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why did the family choose to clean up after their picnic?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "To prevent pollution and protect the environment."
+            },
+            { "id": 2, "value": "To avoid insect bites." },
+            { "id": 3, "value": "To stop wild animals from coming near." },
+            { "id": 4, "value": "To make space for another family." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage explains that the family wanted to prevent pollution and protect nature for future picnics.",
+            "vietnamese": "Đoạn văn giải thích rằng gia đình muốn ngăn chặn ô nhiễm và bảo vệ thiên nhiên cho những buổi dã ngoại sau này."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word/Phrase",
+          "question_name": "What is the role of the word 'destroy' in the sentence, 'pollution can destroy the beautiful environment and harm animals'?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It explains the harmful effects of pollution."
+            },
+            {
+              "id": 2,
+              "value": "It describes what the family did during the picnic."
+            },
+            { "id": 3, "value": "It shows how to clean up trash." },
+            { "id": 4, "value": "It refers to the animals at the coast." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The word 'destroy' is used to explain how pollution negatively affects the environment and animals.",
+            "vietnamese": "Từ 'destroy' được sử dụng để giải thích cách ô nhiễm ảnh hưởng tiêu cực đến môi trường và động vật."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 13,
+    "data": {
+      "passage": "School clubs and activities are a great way for students to learn new skills and have fun. At my school, many clubs exist, and they offer something for everyone. For example, the Eco Club teaches students how to recycle and reduce waste. They placed recycling bins around the school to collect items like paper and plastic. The Art Club helps students look at the world creatively by teaching them how to draw and paint. In the Cooking Club, we learn how to bake cakes and cook meals. Last week, we used the school oven to bake cookies, and everyone enjoyed them. The Debate Club focuses on improving speaking skills and confidence. Members of this club practice debating topics, such as whether schools should contain more outdoor activities. There is even a Travel Club that dreams about visiting places, including how airlines work to bring people to exciting destinations. School clubs not only make learning fun but also help students make friends and explore their interests.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "School clubs help students learn new skills, have fun, and explore their interests."
+            },
+            {
+              "id": 2,
+              "value": "The Cooking Club is the most popular activity at the school."
+            },
+            {
+              "id": 3,
+              "value": "The Debate Club focuses on helping students speak better."
+            },
+            {
+              "id": 4,
+              "value": "School clubs are only for students who enjoy traveling."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage describes how school clubs offer various activities for students to learn, have fun, and discover new interests.",
+            "vietnamese": "Đoạn văn mô tả cách các câu lạc bộ trường học cung cấp các hoạt động đa dạng để học sinh học hỏi, vui chơi và khám phá sở thích mới."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does the word 'bin' mean in the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "A container for holding waste or recycling items."
+            },
+            { "id": 2, "value": "A type of oven used for baking." },
+            { "id": 3, "value": "A box for carrying school supplies." },
+            { "id": 4, "value": "A place where students keep their books." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "'Bin' refers to containers placed around the school by the Eco Club to collect recyclable items like paper and plastic.",
+            "vietnamese": "'Bin' chỉ các thùng được đặt quanh trường bởi Câu lạc bộ Sinh thái để thu gom các vật liệu có thể tái chế như giấy và nhựa."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "What activity did the Cooking Club do last week?",
+          "answers": [
+            { "id": 1, "value": "Baked cookies using the school oven." },
+            { "id": 2, "value": "Recycled paper and plastic." },
+            { "id": 3, "value": "Practiced debating topics." },
+            { "id": 4, "value": "Painted pictures for an art show." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage mentions that the Cooking Club baked cookies using the school oven last week.",
+            "vietnamese": "Đoạn văn đề cập rằng Câu lạc bộ Nấu ăn đã nướng bánh quy bằng lò nướng của trường vào tuần trước."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why does the Eco Club place recycling bins around the school?",
+          "answers": [
+            { "id": 1, "value": "To reduce waste and encourage recycling." },
+            { "id": 2, "value": "To store supplies for the Art Club." },
+            { "id": 3, "value": "To collect trash and empty it every day." },
+            { "id": 4, "value": "To hold items used in cooking activities." }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The Eco Club places bins to collect recyclable items and help reduce waste, as explained in the passage.",
+            "vietnamese": "Câu lạc bộ Sinh thái đặt thùng để thu gom các vật liệu tái chế và giúp giảm rác thải, như được giải thích trong đoạn văn."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word/Phrase",
+          "question_name": "What is the role of the word 'offer' in the sentence, 'They offer something for everyone'?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It shows that school clubs provide a variety of activities for students."
+            },
+            {
+              "id": 2,
+              "value": "It explains why some students do not join clubs."
+            },
+            { "id": 3, "value": "It describes the rules for joining a club." },
+            {
+              "id": 4,
+              "value": "It means students need to pay to join a club."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The word 'offer' indicates that school clubs provide various options to match different students' interests.",
+            "vietnamese": "Từ 'offer' chỉ rằng các câu lạc bộ trường học cung cấp nhiều lựa chọn phù hợp với sở thích khác nhau của học sinh."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "day": 14,
+    "data": {
+      "passage": "Last Saturday, my family and I went to the zoo. At the entrance, we had to check our tickets before going inside. We were surprised to see a big advertising board with a map of all the animal enclosures. Our first stop was the underground reptile house, where we saw snakes and lizards. My younger brother loved the lion exhibit the most, while I enjoyed watching the elephants. We noticed that the zoo had set up special bins for rubbish to keep the area clean. They even had a sign asking visitors to refuse plastic bags and use eco-friendly options instead. Near the food court, a survey was being conducted to ask visitors about their favorite animals. The zookeepers also showed us how they wash and feed the animals every day. Before leaving, we visited the gift shop, where my mom paid in cash for a T-shirt with a tiger design. My dad, on the other hand, decided to buy a book about animals using his credit card. As we walked back to the car, my brother got to ride in a stroller with big wheels because he was tired. It was a fun and educational day for all of us.",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Main Idea",
+          "question_name": "What is the main idea of the passage?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "The writer and their family had an enjoyable and educational visit to the zoo."
+            },
+            {
+              "id": 2,
+              "value": "The family spent the day shopping for souvenirs at the zoo."
+            },
+            {
+              "id": 3,
+              "value": "The family helped clean rubbish around the zoo."
+            },
+            {
+              "id": 4,
+              "value": "The visit to the underground reptile house was the best part of the trip."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The passage describes a fun day at the zoo where the family learned about animals and enjoyed various activities.",
+            "vietnamese": "Đoạn văn mô tả một ngày vui tại sở thú, nơi gia đình học hỏi về động vật và tham gia các hoạt động khác nhau."
+          }
+        },
+        {
+          "id": 2,
+          "type": "Vocabulary",
+          "question_name": "What does the word 'rubbish' mean in the passage?",
+          "answers": [
+            { "id": 1, "value": "Trash or waste" },
+            { "id": 2, "value": "Reptiles and animals" },
+            { "id": 3, "value": "Eco-friendly items" },
+            { "id": 4, "value": "Bins and containers" }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "In the passage, 'rubbish' refers to trash or waste that visitors are encouraged to dispose of in special bins.",
+            "vietnamese": "Trong đoạn văn, 'rubbish' chỉ rác thải mà khách được khuyến khích bỏ vào thùng đặc biệt."
+          }
+        },
+        {
+          "id": 3,
+          "type": "Details",
+          "question_name": "What did the zoo ask visitors to do to help the environment?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "Refuse plastic bags and use eco-friendly options."
+            },
+            { "id": 2, "value": "Clean the animal enclosures." },
+            { "id": 3, "value": "Pay with cash instead of credit cards." },
+            {
+              "id": 4,
+              "value": "Ride bicycles with wheels instead of driving cars."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The zoo encouraged visitors to refuse plastic bags and choose eco-friendly alternatives to reduce waste.",
+            "vietnamese": "Sở thú khuyến khích khách từ chối túi nhựa và chọn các lựa chọn thân thiện với môi trường để giảm rác thải."
+          }
+        },
+        {
+          "id": 4,
+          "type": "Inference",
+          "question_name": "Why did the zoo conduct a survey near the food court?",
+          "answers": [
+            { "id": 1, "value": "To learn about visitors' favorite animals." },
+            { "id": 2, "value": "To check if the food was good." },
+            {
+              "id": 3,
+              "value": "To find out how many people used cash to pay."
+            },
+            {
+              "id": 4,
+              "value": "To understand which underground exhibits were most popular."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The survey was meant to gather information about visitors' favorite animals, as mentioned in the passage.",
+            "vietnamese": "Khảo sát nhằm thu thập thông tin về động vật yêu thích của khách tham quan, như được đề cập trong đoạn văn."
+          }
+        },
+        {
+          "id": 5,
+          "type": "Role of Word/Phrase",
+          "question_name": "What is the role of the word 'wheel' in the sentence, 'My brother got to ride in a stroller with big wheels because he was tired'?",
+          "answers": [
+            {
+              "id": 1,
+              "value": "It describes the stroller that made it easy for the brother to move."
+            },
+            { "id": 2, "value": "It shows why the stroller was underground." },
+            { "id": 3, "value": "It explains why the brother felt tired." },
+            {
+              "id": 4,
+              "value": "It refers to the type of animals seen at the zoo."
+            }
+          ],
+          "correct_answers": [1],
+          "explanation": {
+            "english": "The word 'wheel' highlights the stroller's feature that made it easier to push and transport the brother.",
+            "vietnamese": "Từ 'wheel' nhấn mạnh đặc điểm của xe đẩy giúp dễ dàng đẩy và vận chuyển em trai."
+          }
+        }
+      ]
+    }
+  }
+]

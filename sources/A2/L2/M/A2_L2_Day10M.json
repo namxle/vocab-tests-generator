@@ -1,0 +1,173 @@
+[
+    {
+      "word": "celebrity",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The _______ arrived at the red carpet and waved to her fans.",
+          "answers": [
+            { "id": 1, "value": "celebrity" },
+            { "id": 2, "value": "teacher" },
+            { "id": 3, "value": "driver" },
+            { "id": 4, "value": "child" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "depend",
+      "questions": [
+        {
+          "id": 2,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "Whether we go to the beach will _______ on the weather.",
+          "answers": [
+            { "id": 1, "value": "depend" },
+            { "id": 2, "value": "stay" },
+            { "id": 3, "value": "change" },
+            { "id": 4, "value": "know" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "choice",
+      "questions": [
+        {
+          "id": 3,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "She had to make a difficult _______ between two job offers.",
+          "answers": [
+            { "id": 1, "value": "choice" },
+            { "id": 2, "value": "mistake" },
+            { "id": 3, "value": "promise" },
+            { "id": 4, "value": "opinion" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "differ",
+      "questions": [
+        {
+          "id": 4,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The two sisters _______ in their taste in music, but they both love movies.",
+          "answers": [
+            { "id": 1, "value": "differ" },
+            { "id": 2, "value": "agree" },
+            { "id": 3, "value": "compete" },
+            { "id": 4, "value": "follow" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "feature",
+      "questions": [
+        {
+          "id": 5,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "A special _______ of this phone is its long-lasting battery.",
+          "answers": [
+            { "id": 1, "value": "feature" },
+            { "id": 2, "value": "problem" },
+            { "id": 3, "value": "sound" },
+            { "id": 4, "value": "color" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "fiction",
+      "questions": [
+        {
+          "id": 6,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "She prefers to read _______ because she loves made-up stories.",
+          "answers": [
+            { "id": 1, "value": "fiction" },
+            { "id": 2, "value": "history" },
+            { "id": 3, "value": "science" },
+            { "id": 4, "value": "biography" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "fat",
+      "questions": [
+        {
+          "id": 7,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The doctor said that too much _______ in your diet is not healthy.",
+          "answers": [
+            { "id": 1, "value": "fat" },
+            { "id": 2, "value": "sugar" },
+            { "id": 3, "value": "water" },
+            { "id": 4, "value": "protein" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "helpful",
+      "questions": [
+        {
+          "id": 8,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The librarian was very _______ and showed me where to find the books.",
+          "answers": [
+            { "id": 1, "value": "helpful" },
+            { "id": 2, "value": "lazy" },
+            { "id": 3, "value": "quiet" },
+            { "id": 4, "value": "rude" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "good",
+      "questions": [
+        {
+          "id": 9,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The cake tastes really _______ because it was made with fresh ingredients.",
+          "answers": [
+            { "id": 1, "value": "good" },
+            { "id": 2, "value": "bad" },
+            { "id": 3, "value": "strange" },
+            { "id": 4, "value": "dry" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "high",
+      "questions": [
+        {
+          "id": 10,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The airplane flew _______ above the clouds during the flight.",
+          "answers": [
+            { "id": 1, "value": "high" },
+            { "id": 2, "value": "low" },
+            { "id": 3, "value": "fast" },
+            { "id": 4, "value": "slow" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    }
+  ]
+  

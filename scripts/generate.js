@@ -1,53 +1,207 @@
+const readline = require('readline');
+const inquirer = require('inquirer');
+const path = require('path');
 const fs = require('fs');
-const crypto = require('crypto');
 
-// const DB = 'Meaning';
-const DB = 'Logic';
-const LEVEL = 'A1';
+// Import scripts
+const helperScript = require('./helper');
+const meaningScript = require('./meaning');
+const logicScript = require('./logic');
+const readingScript = require('./reading');
+
+// Fixed constants
 const CWD = process.cwd();
+const tests = {
+  daily: 'Daily',
+  weekly: 'Weekly',
+  unit: 'Unit',
+};
+const weeks = {
+  week1: 'Week 1',
+  week2: 'Week 2',
+};
 
-const noWordsInTest = 60;
+const dataDir = `${CWD}/data`;
+const exportsDir = `${CWD}/exports`;
 
-const databaseDir = `${CWD}/databases/${DB}/${LEVEL}`;
+// Dynamic constants
+const possibleLevels = getDirectories(dataDir);
+// console.log(possibleLevels);
 
-const wordsDataFilePath = `${databaseDir}/result.json`;
+// Questions
+const mainQuestion = [
+  {
+    type: 'input',
+    name: 'outfile',
+    message: 'Enter output file name:',
+    validate: (value) => {
+      if (value && value.trim() != '') {
+        return true;
+      }
+      return 'Output file name cannot be empty or just spaces.';
+    },
+  },
+  {
+    type: 'list',
+    name: 'inputTest',
+    message: 'Select type of test to be generated:',
+    choices: Object.values(tests),
+  },
+  {
+    type: 'list',
+    name: 'inputLevel',
+    message: 'Select level:',
+    choices: possibleLevels,
+  },
+];
 
-const testFile = `test.txt`;
+async function run() {
+  const { inputTest, inputLevel, outfile } = await inquirer.prompt(
+    mainQuestion,
+  );
+  const levelDir = path.join(dataDir, inputLevel);
+  const { inputSubLevel } = await inquirer.prompt([
+    {
+      type: 'list',
+      name: 'inputSubLevel',
+      message: 'Select sub level:',
+      choices: getDirectories(levelDir),
+    },
+  ]);
 
-// Function to convert the JSON structure to the specified test file format
-function convertToTestFormat(questions) {
-  let output = '';
+  const meaningData = loadMeaningData(levelDir, inputSubLevel);
+  const logicData = loadLogicData(levelDir, inputSubLevel);
+  const readingData = loadReadingData(levelDir, inputSubLevel);
 
-  questions.forEach((question, index) => {
-    // Append question number and question text
-    output += `${index + 1}. ${question.question_name}\n`;
+  const outputFile = `${exportsDir}/${outfile}`;
 
-    // Append answers with options (a), (b), etc., marking correct answers with "*"
-    question.answers.forEach((answer, answerIndex) => {
-      const option = String.fromCharCode(97 + answerIndex); // 'a', 'b', 'c', etc.
-      const isCorrect = question.correct_answers.includes(answer.id) ? '*' : '';
-      output += `${isCorrect}${option}) ${answer.value}\n`;
-    });
+  const days = meaningData.map((item) => Number(item.day));
 
-    // Add a newline after each question block
-    output += '\n';
-  });
+  const startDayFirstWeek = 1;
+  const endDayFirstWeek = 7;
+  const startDaySecondWeek = 8;
+  const endDaySecondWeek = 14;
 
-  return output;
+  let finalResult = null;
+  let formatedTest = null;
+
+  switch (inputTest) {
+    case tests.daily:
+      const start = Math.min(...days);
+      const end = Math.max(...days);
+      const { inputDay, inputTotalWords } = await inquirer.prompt([
+        {
+          type: 'input',
+          name: 'inputDay',
+          message: `Enter a day between ${start} and ${end}:`,
+          validate: (value) => {
+            const num = parseInt(value);
+            if (isNaN(num) || num < start || num > end) {
+              return `Please enter a valid day between ${start} and ${end}.`;
+            }
+            return true;
+          },
+        },
+      ]);
+
+      const meaningDayData = meaningData.find((item) => item.day == inputDay)[
+        'data'
+      ];
+      console.log();
+      console.log(
+        'Words: ',
+        meaningDayData.map((item) => item.word).join(', '),
+      );
+
+      // Generate test
+      finalResult = meaningScript.generateMeaningTestData(meaningDayData);
+
+      // Convert to Canvas test format
+      formatedTest = meaningScript.convertToTestFormat(finalResult.testData);
+      fs.writeFileSync(outputFile, formatedTest, 'utf-8');
+      break;
+    case tests.weekly:
+      const { inputWeek } = await inquirer.prompt([
+        {
+          type: 'list',
+          name: 'inputWeek',
+          message: 'Select week:',
+          choices: Object.values(weeks),
+        },
+      ]);
+      const weekDayStart =
+        inputWeek == weeks.week1 ? startDayFirstWeek : startDaySecondWeek;
+      const weekDayEnd =
+        inputWeek == weeks.week1 ? endDayFirstWeek : endDaySecondWeek;
+
+      // Meaning data
+      const meaningWeekData = meaningData
+        .filter((datum) => datum.day >= weekDayStart && datum.day <= weekDayEnd)
+        .reduce((mergedArray, datum) => {
+          return mergedArray.concat(datum.data);
+        }, []);
+      const meaningResult =
+        meaningScript.generateMeaningTestData(meaningWeekData);
+
+      // Logic data
+      const logicWeekData = logicData.filter(
+        (datum) => datum.day >= weekDayStart && datum.day <= weekDayEnd,
+      );
+      const logicResult = logicScript.generateLogicTestData(logicWeekData, 2);
+
+      // Reading data
+      const readingWeekData = readingData.filter(
+        (datum) => datum.day >= weekDayStart && datum.day <= weekDayEnd,
+      );
+      const readingResult = readingScript.generateReadingTestData(
+        readingWeekData,
+        3,
+      );
+
+      // Generate combine results
+      formatedTest = helperScript.generateCombinedTestFormat(
+        meaningResult,
+        logicResult,
+        readingResult,
+      );
+      fs.writeFileSync(outputFile, formatedTest, 'utf-8');
+      break;
+
+    case tests.unit:
+      break;
+  }
+  console.log();
+  console.log('Done!');
 }
 
-function shuffle(array) {
-  const shuffledArray = array.slice(); // Create a copy of the array
-  const n = shuffledArray.length;
-
-  for (let i = n - 1; i > 0; i--) {
-    // Generate a secure random index between 0 and i
-    const j = crypto.randomInt(0, i + 1);
-    // Swap elements at indices i and j
-    [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]];
+function getDirectories(dir) {
+  try {
+    return fs
+      .readdirSync(dir, { withFileTypes: true }) // Read directory contents
+      .filter((dirent) => dirent.isDirectory()) // Filter only directories
+      .map((dirent) => dirent.name); // Get directory names
+  } catch (err) {
+    console.error(`Error reading directory: ${err.message}`);
+    return [];
   }
+}
 
-  return shuffledArray; // Return the shuffled array
+function loadMeaningData(dir, sublevel) {
+  return JSON.parse(
+    fs.readFileSync(path.join(dir, sublevel, 'M.json'), 'utf8'),
+  );
+}
+
+function loadLogicData(dir, sublevel) {
+  return JSON.parse(
+    fs.readFileSync(path.join(dir, sublevel, 'L.json'), 'utf8'),
+  );
+}
+
+function loadReadingData(dir, sublevel) {
+  return JSON.parse(
+    fs.readFileSync(path.join(dir, sublevel, 'R.json'), 'utf8'),
+  );
 }
 
 function countOccurrences(array) {
@@ -60,72 +214,4 @@ function countOccurrences(array) {
   return count; // Return the count object
 }
 
-// Get random words
-function getRandomElements(a, n) {
-  if (n == 0) {
-    n = a.length;
-  }
-  const result = [];
-  const usedIndices = new Set();
-
-  while (result.length < n) {
-    const randomIndex = Math.floor(Math.random() * a.length);
-
-    if (!usedIndices.has(randomIndex)) {
-      usedIndices.add(randomIndex);
-      result.push(a[randomIndex]);
-    }
-  }
-
-  return result;
-}
-
-function loadWordsData() {
-  return JSON.parse(fs.readFileSync(wordsDataFilePath, 'utf8'));
-}
-
-// Load all words
-const wordsData = loadWordsData();
-
-// Get random words
-const randomWords = getRandomElements(
-  wordsData.map((wordsDatum) => wordsDatum.word),
-  noWordsInTest,
-);
-console.log('Random words:', randomWords);
-
-// Load words data
-const filteredWordsData = wordsData.filter(
-  (datum) => randomWords.indexOf(datum.word) != -1,
-);
-console.log('Word selected: ', filteredWordsData.length);
-
-const totalAnswers = [];
-
-// Shuffle words 2 times
-const shuffledWords = shuffle(shuffle(filteredWordsData))
-
-// Get random questions from words
-const testData = shuffledWords.map((datum) => {
-  // Get random 1 question for each word
-  const question = getRandomElements(datum.questions, 1)[0];
-  // Shuffle answers of that question 3 times
-  for (let i = 0; i < 3; i++) {
-    question.answers = shuffle(question.answers);
-  }
-  totalAnswers.push(
-    question.answers.findIndex(
-      (answer) => answer.id == question.correct_answers[0],
-    ),
-  );
-  return question;
-});
-// console.log(testData);
-console.log(countOccurrences(totalAnswers));
-
-// Generate the Canvas output
-const formattedOutput = convertToTestFormat(testData);
-// console.log(formattedOutput);
-
-// Write the test formated results
-fs.writeFileSync(testFile, formattedOutput, 'utf-8');
+run();

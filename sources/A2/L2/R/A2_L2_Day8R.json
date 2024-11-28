@@ -1,0 +1,87 @@
+{
+  "topic": "A Day in the Life of a Teenager",
+  "provided_words": ["identify", "informal", "lazy", "likely", "little", "clever", "least", "lovely", "material", "marry"],
+  "passage": "Emily is a teenager who enjoys a busy but exciting life. Every morning, she wakes up early to prepare for school. Emily is very clever and always finishes her homework on time. At school, she loves her science class the most because she can identify how things work in the natural world. During lunch, Emily spends time with her friends. They prefer an informal setting, so they often sit under a lovely tree in the schoolyard. After school, Emily likes to relax a little. She sometimes feels lazy, but she knows she needs to complete her chores. In the evening, Emily helps her mother with cooking. They talk about the day while preparing a meal with fresh material from the garden. Emily also enjoys reading books. Her favorite stories are about characters who are brave and clever. On weekends, Emily is likely to meet her friends at the park. They talk, laugh, and imagine their futures. Emily dreams of becoming a doctor, while her best friend plans to marry and travel the world. No matter what they choose, they believe even the least exciting days can be special if spent with people they love.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "Emily’s daily life is busy, but she enjoys spending time with friends and family." },
+        { "id": 2, "value": "Emily spends all her time studying and doing homework." },
+        { "id": 3, "value": "Emily prefers weekends because she can relax all day." },
+        { "id": 4, "value": "Emily does not enjoy her school life." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage describes Emily’s daily life, including her school, family, and weekend activities, showing she balances responsibilities and fun.",
+        "vietnamese": "Đoạn văn mô tả cuộc sống hàng ngày của Emily, bao gồm việc học, gia đình, và các hoạt động cuối tuần, cho thấy cô ấy cân bằng giữa trách nhiệm và niềm vui."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'informal' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Casual" },
+        { "id": 2, "value": "Strict" },
+        { "id": 3, "value": "Exciting" },
+        { "id": 4, "value": "Complex" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Informal' means casual or relaxed, which matches how Emily and her friends spend their lunch.",
+        "vietnamese": "'Informal' có nghĩa là giản dị hoặc thoải mái, phù hợp với cách Emily và bạn bè dành thời gian ăn trưa."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Where do Emily and her friends sit during lunch?",
+      "answers": [
+        { "id": 1, "value": "In the science lab" },
+        { "id": 2, "value": "Under a lovely tree in the schoolyard" },
+        { "id": 3, "value": "At a restaurant near school" },
+        { "id": 4, "value": "In the classroom" }
+      ],
+      "correct_answers": [2],
+      "explanation": {
+        "english": "The passage states that Emily and her friends prefer sitting under a lovely tree during lunch.",
+        "vietnamese": "Đoạn văn nói rằng Emily và bạn bè thích ngồi dưới gốc cây đẹp vào giờ ăn trưa."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why does Emily enjoy science class?",
+      "answers": [
+        { "id": 1, "value": "She likes to learn about how things work." },
+        { "id": 2, "value": "She thinks it is the easiest subject." },
+        { "id": 3, "value": "Her friends also love science." },
+        { "id": 4, "value": "She wants to become a scientist." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Emily loves science because she enjoys learning how things work in the natural world.",
+        "vietnamese": "Emily thích môn khoa học vì cô thích tìm hiểu cách mọi thứ hoạt động trong thế giới tự nhiên."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'likely' in the sentence, 'Emily is likely to meet her friends at the park'?",
+      "answers": [
+        { "id": 1, "value": "It describes Emily's regular habit." },
+        { "id": 2, "value": "It shows Emily’s feelings about her friends." },
+        { "id": 3, "value": "It means Emily is uncertain about meeting her friends." },
+        { "id": 4, "value": "It highlights Emily's plans to marry in the future." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'likely' explains that meeting her friends is a common part of Emily’s weekend routine.",
+        "vietnamese": "Từ 'likely' giải thích rằng việc gặp bạn bè là một phần thường xuyên trong thói quen cuối tuần của Emily."
+      }
+    }
+  ]
+}

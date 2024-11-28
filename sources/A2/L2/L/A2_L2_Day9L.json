@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "Teamwork is important because it allows people to combine their skills and achieve goals more effectively.",
+    "shuffled_sentences": [
+      "When team members work together, they can share ideas and find better solutions to problems.",
+      "If everyone communicates and supports each other, the results are usually more satisfying and successful.",
+      "Teamwork also helps people build trust and form strong relationships, which are important for long-term success."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "In the end, teamwork makes it easier to achieve great results and build a united group." },
+      { "id": 2, "value": "Teamwork is only useful for certain kinds of jobs and not for everyone." },
+      { "id": 3, "value": "Without teamwork, it is impossible to achieve anything in life." },
+      { "id": 4, "value": "Working alone can sometimes be better than teamwork." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order starts with explaining how teamwork helps solve problems by sharing ideas (Sentence 1), followed by the importance of communication and support for successful results (Sentence 2). Finally, the third sentence (Sentence 3) discusses the long-term benefits of teamwork, wrapping up the passage logically.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc giải thích cách làm việc nhóm giúp giải quyết vấn đề bằng cách chia sẻ ý tưởng (Câu 1), sau đó là tầm quan trọng của giao tiếp và hỗ trợ để đạt kết quả thành công (Câu 2). Cuối cùng, câu thứ ba (Câu 3) thảo luận về lợi ích lâu dài của làm việc nhóm, kết thúc đoạn văn một cách hợp lý."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "In the end, teamwork makes it easier to achieve great results and build a united group." },
+        { "id": 2, "value": "Teamwork is only useful for certain kinds of jobs and not for everyone." },
+        { "id": 3, "value": "Without teamwork, it is impossible to achieve anything in life." },
+        { "id": 4, "value": "Working alone can sometimes be better than teamwork." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it summarizes the key points of the passage, emphasizing the effectiveness of teamwork and its ability to bring people together. Option 2 is incorrect because it limits the usefulness of teamwork, which is not supported by the passage. Option 3 exaggerates the importance of teamwork by claiming nothing can be achieved without it, which is not accurate. Option 4 contradicts the message of the passage by suggesting working alone is better, which goes against the positive focus on teamwork.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó tóm tắt các điểm chính của đoạn văn, nhấn mạnh hiệu quả của làm việc nhóm và khả năng kết nối mọi người. Lựa chọn 2 sai vì nó giới hạn tính hữu ích của làm việc nhóm, điều này không được đoạn văn hỗ trợ. Lựa chọn 3 phóng đại tầm quan trọng của làm việc nhóm khi tuyên bố rằng không thể đạt được gì nếu không có nó, điều này không chính xác. Lựa chọn 4 mâu thuẫn với thông điệp của đoạn văn bằng cách cho rằng làm việc một mình tốt hơn, đi ngược lại trọng tâm tích cực về làm việc nhóm."
+      }
+    }
+  ]
+}

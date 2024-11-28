@@ -1,0 +1,87 @@
+{
+  "topic": "Why Recycling Matters",
+  "provided_words": ["individual", "skin", "slowly", "recipe", "lock", "usual", "active", "businessman", "benefit", "lifestyle"],
+  "passage": "Recycling is an important way for every individual to help the environment. When we recycle, we reduce waste and give old materials a new purpose. For example, a businessman might recycle paper from his office to benefit the planet. Recycling can also protect nature. It prevents pollution that harms animals and even damages human skin through chemicals in the air or water. Recycling is simple, but it requires effort. Unlike the usual habits of throwing everything away, it encourages people to be active in making a difference. A good recipe for success is to start small—perhaps by recycling cans or bottles—and slowly build better habits. Communities can lock in these habits by providing bins and making it easy for people to recycle. The benefits of recycling go beyond the environment. It can save energy and create jobs, supporting a better lifestyle for everyone. Whether you are a student, a parent, or a worker, recycling is a step toward a healthier and cleaner world.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "Recycling is important for protecting the environment and improving lives." },
+        { "id": 2, "value": "Recycling is only useful for businesses." },
+        { "id": 3, "value": "Recycling damages human skin with chemicals." },
+        { "id": 4, "value": "Recycling requires a lot of money and effort." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains how recycling helps the environment and benefits people by reducing waste and pollution.",
+        "vietnamese": "Đoạn văn giải thích cách tái chế giúp bảo vệ môi trường và mang lại lợi ích cho con người bằng cách giảm rác thải và ô nhiễm."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'benefit' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Advantage" },
+        { "id": 2, "value": "Problem" },
+        { "id": 3, "value": "Cost" },
+        { "id": 4, "value": "Burden" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Benefit' means an advantage or a positive result, such as the advantages of recycling for the environment and people.",
+        "vietnamese": "'Benefit' có nghĩa là một lợi ích hoặc kết quả tích cực, như lợi ích của tái chế đối với môi trường và con người."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "How can recycling protect human skin?",
+      "answers": [
+        { "id": 1, "value": "By reducing pollution from chemicals in air and water." },
+        { "id": 2, "value": "By creating new beauty products." },
+        { "id": 3, "value": "By locking up dangerous animals." },
+        { "id": 4, "value": "By slowly changing waste into energy." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that recycling prevents pollution that can harm human skin through chemicals in the environment.",
+        "vietnamese": "Đoạn văn nói rằng tái chế ngăn chặn ô nhiễm có thể gây hại cho da người thông qua các hóa chất trong môi trường."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why is it important to start recycling slowly?",
+      "answers": [
+        { "id": 1, "value": "It helps build good habits over time." },
+        { "id": 2, "value": "It prevents people from making mistakes." },
+        { "id": 3, "value": "It allows businesses to save money first." },
+        { "id": 4, "value": "It makes recycling unnecessary later." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage suggests starting small, like recycling cans or bottles, to gradually develop better recycling habits.",
+        "vietnamese": "Đoạn văn gợi ý bắt đầu từ những việc nhỏ, như tái chế lon hoặc chai, để dần dần phát triển thói quen tái chế tốt hơn."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'lock' in the sentence, 'Communities can lock in these habits by providing bins and making it easy for people to recycle'?",
+      "answers": [
+        { "id": 1, "value": "It means to secure or make something permanent." },
+        { "id": 2, "value": "It describes a type of recycling bin." },
+        { "id": 3, "value": "It shows how to close something tightly." },
+        { "id": 4, "value": "It refers to building new recycling centers." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'lock' in this context means to secure or make recycling habits permanent by providing support like bins.",
+        "vietnamese": "Từ 'lock' trong ngữ cảnh này có nghĩa là cố định hoặc làm cho thói quen tái chế trở nên lâu dài bằng cách cung cấp hỗ trợ như thùng rác."
+      }
+    }
+  ]
+}

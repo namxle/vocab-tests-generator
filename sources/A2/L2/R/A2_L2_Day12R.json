@@ -1,0 +1,87 @@
+{
+  "topic": "Going on a Picnic",
+  "provided_words": ["comfortable", "soap", "destroy", "disease", "insect", "coast", "protect", "water", "pollution", "wild"],
+  "passage": "Last weekend, my family and I went on a picnic by the coast. The weather was perfect, and we brought everything we needed to stay comfortable. We packed blankets, food, and even a small bottle of soap to wash our hands before eating. When we arrived, we found a spot near the water where the waves were calm and peaceful. While exploring the area, we saw some wild animals, including birds and small crabs. My dad reminded us to protect nature by not leaving any trash behind. He said pollution can destroy the beautiful environment and harm animals. We also used bug spray to keep insects away and avoid any bites that could spread disease. During lunch, we enjoyed sandwiches and fresh fruit while listening to the sound of the waves. It was a relaxing and fun day, and we promised to take care of the coast so future picnics could be just as enjoyable.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "The writer and their family had a fun and relaxing picnic by the coast." },
+        { "id": 2, "value": "The writer's family saw many wild animals and caught some crabs." },
+        { "id": 3, "value": "The writer's picnic was ruined by insects and pollution." },
+        { "id": 4, "value": "The writer's family used soap to clean the coast." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage describes a fun and peaceful picnic where the family enjoyed nature and took care to protect the environment.",
+        "vietnamese": "Đoạn văn mô tả một buổi dã ngoại vui vẻ và yên bình, nơi gia đình tận hưởng thiên nhiên và chú ý bảo vệ môi trường."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'protect' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Take care of" },
+        { "id": 2, "value": "Throw away" },
+        { "id": 3, "value": "Ignore" },
+        { "id": 4, "value": "Destroy" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'protect' means to take care of nature by not leaving trash or harming the environment.",
+        "vietnamese": "Trong đoạn văn, 'protect' có nghĩa là chăm sóc thiên nhiên bằng cách không để lại rác hoặc gây hại cho môi trường."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What did the family do to avoid insect bites?",
+      "answers": [
+        { "id": 1, "value": "Used bug spray." },
+        { "id": 2, "value": "Stayed away from the water." },
+        { "id": 3, "value": "Covered themselves with blankets." },
+        { "id": 4, "value": "Cleaned the area with soap." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that the family used bug spray to keep insects away and avoid bites.",
+        "vietnamese": "Đoạn văn nói rằng gia đình đã sử dụng thuốc chống côn trùng để tránh bị cắn."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why did the family choose to clean up after their picnic?",
+      "answers": [
+        { "id": 1, "value": "To prevent pollution and protect the environment." },
+        { "id": 2, "value": "To avoid insect bites." },
+        { "id": 3, "value": "To stop wild animals from coming near." },
+        { "id": 4, "value": "To make space for another family." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that the family wanted to prevent pollution and protect nature for future picnics.",
+        "vietnamese": "Đoạn văn giải thích rằng gia đình muốn ngăn chặn ô nhiễm và bảo vệ thiên nhiên cho những buổi dã ngoại sau này."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'destroy' in the sentence, 'pollution can destroy the beautiful environment and harm animals'?",
+      "answers": [
+        { "id": 1, "value": "It explains the harmful effects of pollution." },
+        { "id": 2, "value": "It describes what the family did during the picnic." },
+        { "id": 3, "value": "It shows how to clean up trash." },
+        { "id": 4, "value": "It refers to the animals at the coast." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'destroy' is used to explain how pollution negatively affects the environment and animals.",
+        "vietnamese": "Từ 'destroy' được sử dụng để giải thích cách ô nhiễm ảnh hưởng tiêu cực đến môi trường và động vật."
+      }
+    }
+  ]
+}

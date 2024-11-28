@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "An architect designed a unique building that combined ancient and modern styles.",
+    "shuffled_sentences": [
+      "The narrow streets near the site made it hard for trucks to deliver materials to the top of the hill.",
+      "Even with these problems, the team managed to complete the project successfully and kept the site organized.",
+      "Its distinctive architecture gained global recognition and was admired for blending two contrasting styles."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "People appreciated how the building's ancient and modern elements were perfectly balanced across every level." },
+      { "id": 2, "value": "The architect decided to write a novel about designing unique buildings." },
+      { "id": 3, "value": "The team tried to keep the site tidy but faced many delays during construction." },
+      { "id": 4, "value": "The narrow streets caused problems for many years after the project." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct sequence starts with the narrow streets causing problems (Sentence 1), setting up the project's challenges. Then, the team's success in completing the project and keeping the site organized (Sentence 2) follows logically. Finally, the distinctive architecture gaining recognition for blending styles (Sentence 3) concludes the story with a positive impact.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc các con đường hẹp gây khó khăn (Câu 1), giới thiệu thử thách của dự án. Sau đó, sự thành công của đội trong việc hoàn thành dự án và giữ công trường ngăn nắp (Câu 2) diễn ra hợp lý. Cuối cùng, kiến trúc độc đáo nhận được sự công nhận vì sự hòa hợp giữa các phong cách (Câu 3) kết thúc câu chuyện với tác động tích cực."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "People appreciated how the building's ancient and modern elements were perfectly balanced across every level." },
+        { "id": 2, "value": "The architect decided to write a novel about designing unique buildings." },
+        { "id": 3, "value": "The team tried to keep the site tidy but faced many delays during construction." },
+        { "id": 4, "value": "The narrow streets caused problems for many years after the project." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it aligns with the positive tone of the passage, highlighting how people admired the harmonious blend of ancient and modern styles. Option 2 introduces a novel, which is unrelated to the building's success. Option 3 mentions 'tidy,' but the focus on delays does not match the passage's conclusion. Option 4 shifts back to narrow streets, which is irrelevant at this stage.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó phù hợp với giọng văn tích cực của đoạn văn, nhấn mạnh cách mọi người ngưỡng mộ sự hòa hợp giữa phong cách cổ điển và hiện đại. Lựa chọn 2 đề cập đến tiểu thuyết, điều này không liên quan đến thành công của tòa nhà. Lựa chọn 3 nhắc đến 'tidy', nhưng tập trung vào sự chậm trễ lại không phù hợp với kết luận của đoạn văn. Lựa chọn 4 quay lại vấn đề con đường hẹp, điều này không liên quan ở giai đoạn này."
+      }
+    }
+  ]
+}

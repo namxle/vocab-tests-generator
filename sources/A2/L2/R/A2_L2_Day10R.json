@@ -1,0 +1,87 @@
+{
+  "topic": "A Day Without My Phone",
+  "provided_words": ["celebrity", "depend", "choice", "differ", "feature", "fiction", "fat", "helpful", "good", "high"],
+  "passage": "Yesterday, I decided to spend a whole day without my phone. It was not an easy choice, but I wanted to see how it would differ from my usual routine. Normally, I depend on my phone for everything—checking the weather, chatting with friends, and even reading the latest news about my favorite celebrity. Without my phone, I started the day with a book. It was a work of fiction about a boy who climbs a high mountain to find treasure. Reading was a good way to relax, and I found it very helpful to focus on something other than screens. Later, I went for a walk in the park. I noticed small features of nature, like the colorful leaves and the sound of birds, which I usually miss. In the afternoon, I helped my mom bake a cake. We laughed when we accidentally added too much butter, making it a little too fat! At the end of the day, I realized that while phones are helpful, it’s good to take a break sometimes and enjoy life offline.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "The writer spent a day without a phone and enjoyed offline activities." },
+        { "id": 2, "value": "The writer missed their phone and struggled to stay offline." },
+        { "id": 3, "value": "The writer baked a cake with their mom all day." },
+        { "id": 4, "value": "The writer read a story about a boy climbing a mountain." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains how the writer chose to spend a day without their phone, engaging in various offline activities like reading, walking, and baking.",
+        "vietnamese": "Đoạn văn giải thích cách người viết chọn dành một ngày không dùng điện thoại, tham gia các hoạt động ngoại tuyến như đọc sách, đi bộ, và làm bánh."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'feature' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Detail" },
+        { "id": 2, "value": "Problem" },
+        { "id": 3, "value": "Tool" },
+        { "id": 4, "value": "Activity" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'feature' refers to small details of nature, like colorful leaves and bird sounds.",
+        "vietnamese": "Trong đoạn văn, 'feature' chỉ các chi tiết nhỏ của thiên nhiên, như lá cây đầy màu sắc và âm thanh của chim."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What was the writer's favorite activity in the morning?",
+      "answers": [
+        { "id": 1, "value": "Walking in the park." },
+        { "id": 2, "value": "Baking a cake." },
+        { "id": 3, "value": "Reading a book." },
+        { "id": 4, "value": "Checking the weather." }
+      ],
+      "correct_answers": [3],
+      "explanation": {
+        "english": "The writer enjoyed reading a book in the morning as it helped them relax and focus.",
+        "vietnamese": "Người viết thích đọc sách vào buổi sáng vì nó giúp họ thư giãn và tập trung."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "What can we infer about the writer's experience without their phone?",
+      "answers": [
+        { "id": 1, "value": "The writer found new ways to enjoy their day without their phone." },
+        { "id": 2, "value": "The writer felt bored and wanted their phone back quickly." },
+        { "id": 3, "value": "The writer only focused on household chores without their phone." },
+        { "id": 4, "value": "The writer decided to never use their phone again." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The writer discovered they could enjoy offline activities and appreciate moments in nature.",
+        "vietnamese": "Người viết nhận ra họ có thể tận hưởng các hoạt động ngoại tuyến và trân trọng những khoảnh khắc trong thiên nhiên."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'depend' in the sentence, 'Normally, I depend on my phone for everything'?",
+      "answers": [
+        { "id": 1, "value": "It shows how important the phone is in the writer's daily life." },
+        { "id": 2, "value": "It explains why the writer dislikes using a phone." },
+        { "id": 3, "value": "It highlights the features of the writer's phone." },
+        { "id": 4, "value": "It means the writer only uses their phone for fun." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'depend' emphasizes the writer's reliance on their phone for many daily tasks.",
+        "vietnamese": "Từ 'depend' nhấn mạnh sự phụ thuộc của người viết vào điện thoại trong nhiều công việc hàng ngày."
+      }
+    }
+  ]
+}

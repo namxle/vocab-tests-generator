@@ -1,0 +1,89 @@
+{
+  "topic": "Life Lessons from a Mirror",
+  "provided_words": ["mirror", "home", "smile", "service", "against", "allow", "actually", "able", "careful", "behave"],
+  "passage_and_questions": {
+    "passage": "A mirror is something we all have at home, but have you ever thought about the lessons it can teach us? When you look in a mirror, it shows you your reflection exactly as it is, which helps you see yourself clearly. If you smile, the mirror smiles back, but if you frown, it does the same, showing how life often reflects our actions. This is just like how people behave towards us in real life: if we are kind and polite, they will usually respond with kindness, but if we are rude, they might act against us. A mirror doesn’t allow you to lie about how you look, reminding us that we should be honest about our actions and words. Actually, being honest and kind is one of the most important lessons in life, because it helps us build good relationships with others. In some situations, you need to be careful about how you behave, especially if you are providing a service to others, since your behavior can affect how people see you. For example, a good waiter is able to stay calm and polite, even if a customer is upset, which not only helps solve problems but also shows professionalism. Life, like a mirror, reflects what you give it, so if you take care of others, they will take care of you in return.",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Main Idea",
+        "question_name": "What is the main idea of the passage?",
+        "answers": [
+          { "id": 1, "value": "Life is like a mirror; it reflects how we behave towards others." },
+          { "id": 2, "value": "A mirror is an important tool in every home." },
+          { "id": 3, "value": "Good waiters must always be polite to customers." },
+          { "id": 4, "value": "Being rude will make people behave kindly towards you." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage compares life to a mirror, explaining how our actions and behavior are reflected back to us by others.",
+          "vietnamese": "Đoạn văn so sánh cuộc sống với một chiếc gương, giải thích cách hành động và cách cư xử của chúng ta được phản ánh lại từ người khác."
+        }
+      },
+      {
+        "id": 2,
+        "type": "Vocabulary",
+        "question_name": "What does 'careful' mean in the passage?",
+        "answers": [
+          { "id": 1, "value": "Quick" },
+          { "id": 2, "value": "Honest" },
+          { "id": 3, "value": "Paying attention to what you do" },
+          { "id": 4, "value": "Rude" }
+        ],
+        "correct_answers": [3],
+        "explanation": {
+          "english": "In the passage, 'careful' means being thoughtful about how you behave, especially when providing a service to others.",
+          "vietnamese": "Trong đoạn văn, 'careful' nghĩa là cẩn thận trong cách bạn hành xử, đặc biệt khi phục vụ người khác."
+        }
+      },
+      {
+        "id": 3,
+        "type": "Details",
+        "question_name": "What happens if you smile at the mirror?",
+        "answers": [
+          { "id": 1, "value": "The mirror smiles back." },
+          { "id": 2, "value": "The mirror frowns." },
+          { "id": 3, "value": "The mirror doesn’t change." },
+          { "id": 4, "value": "The mirror breaks." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage explains that a mirror reflects your expression, so if you smile, the mirror smiles back.",
+          "vietnamese": "Đoạn văn giải thích rằng gương phản chiếu biểu cảm của bạn, vì vậy nếu bạn cười, gương sẽ phản chiếu lại nụ cười."
+        }
+      },
+      {
+        "id": 4,
+        "type": "Inference",
+        "question_name": "Why is being polite important when providing a service?",
+        "answers": [
+          { "id": 1, "value": "It helps solve problems and shows professionalism." },
+          { "id": 2, "value": "It allows customers to behave rudely." },
+          { "id": 3, "value": "It makes you look better in the mirror." },
+          { "id": 4, "value": "It helps you avoid making mistakes." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage suggests that being polite helps solve problems and reflects professionalism in service roles.",
+          "vietnamese": "Đoạn văn gợi ý rằng lịch sự giúp giải quyết vấn đề và thể hiện sự chuyên nghiệp trong các vai trò phục vụ."
+        }
+      },
+      {
+        "id": 5,
+        "type": "Role of Word",
+        "question_name": "What is the role of the word 'actually' in the passage?",
+        "answers": [
+          { "id": 1, "value": "It emphasizes the importance of honesty and kindness." },
+          { "id": 2, "value": "It shows that being rude is acceptable." },
+          { "id": 3, "value": "It explains how mirrors work." },
+          { "id": 4, "value": "It introduces a negative idea about behavior." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "In the passage, 'actually' is used to stress that being honest and kind is one of the most important life lessons.",
+          "vietnamese": "Trong đoạn văn, 'actually' được dùng để nhấn mạnh rằng trung thực và tử tế là một trong những bài học quan trọng nhất của cuộc sống."
+        }
+      }
+    ]
+  }
+}

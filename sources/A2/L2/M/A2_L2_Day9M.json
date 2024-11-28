@@ -1,0 +1,172 @@
+[
+  {
+    "word": "owner",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ of the house decided to sell it after living there for ten years.",
+        "answers": [
+          { "id": 1, "value": "owner" },
+          { "id": 2, "value": "neighbor" },
+          { "id": 3, "value": "guest" },
+          { "id": 4, "value": "worker" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "regular",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He is a _______ customer at the café and visits every morning.",
+        "answers": [
+          { "id": 1, "value": "regular" },
+          { "id": 2, "value": "new" },
+          { "id": 3, "value": "strange" },
+          { "id": 4, "value": "special" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "satisfied",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She was _______ with the service and decided to leave a tip for the waiter.",
+        "answers": [
+          { "id": 1, "value": "satisfied" },
+          { "id": 2, "value": "angry" },
+          { "id": 3, "value": "confused" },
+          { "id": 4, "value": "bored" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "quietly",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The baby was sleeping, so they spoke _______ to avoid waking her up.",
+        "answers": [
+          { "id": 1, "value": "quietly" },
+          { "id": 2, "value": "loudly" },
+          { "id": 3, "value": "quickly" },
+          { "id": 4, "value": "clearly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "standard",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This hotel room comes with a _______ bed, but you can upgrade to a larger one.",
+        "answers": [
+          { "id": 1, "value": "standard" },
+          { "id": 2, "value": "tiny" },
+          { "id": 3, "value": "broken" },
+          { "id": 4, "value": "comfortable" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "safe",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is important to wear a seatbelt to stay _______ while driving.",
+        "answers": [
+          { "id": 1, "value": "safe" },
+          { "id": 2, "value": "quick" },
+          { "id": 3, "value": "busy" },
+          { "id": 4, "value": "lucky" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "stay",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We decided to _______ at a hotel instead of driving home late at night.",
+        "answers": [
+          { "id": 1, "value": "stay" },
+          { "id": 2, "value": "leave" },
+          { "id": 3, "value": "visit" },
+          { "id": 4, "value": "travel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "typical",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "A _______ breakfast in this country includes bread, cheese, and coffee.",
+        "answers": [
+          { "id": 1, "value": "typical" },
+          { "id": 2, "value": "strange" },
+          { "id": 3, "value": "rare" },
+          { "id": 4, "value": "unusual" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "united",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The group worked together as a _______ team to finish the project on time.",
+        "answers": [
+          { "id": 1, "value": "united" },
+          { "id": 2, "value": "divided" },
+          { "id": 3, "value": "confused" },
+          { "id": 4, "value": "slow" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "among",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She shared the candies _______ the children at the party.",
+        "answers": [
+          { "id": 1, "value": "among" },
+          { "id": 2, "value": "near" },
+          { "id": 3, "value": "beside" },
+          { "id": 4, "value": "under" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

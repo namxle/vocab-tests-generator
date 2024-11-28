@@ -1,0 +1,87 @@
+{
+  "topic": "My Dream Vacation",
+  "provided_words": ["owner", "regular", "satisfied", "quietly", "standard", "safe", "stay", "typical", "united", "among"],
+  "passage": "Last summer, I had a dream vacation with my family. We decided to visit a small island that is not a typical tourist destination. The island was quiet and peaceful, and we felt safe exploring its beaches and forests. The hotel we chose had a friendly owner who welcomed us warmly. It wasn’t a luxury hotel, but it met all the standard needs for a comfortable stay. Every morning, we enjoyed a regular breakfast of fresh fruit and bread while sitting quietly by the sea. One of the highlights of the trip was kayaking. We paddled among the calm, blue waters, surrounded by beautiful fish and coral. In the evenings, we talked about our day and felt satisfied with all the fun and relaxation. My favorite part was meeting a group of tourists from the United States. They shared stories about their home, and we exchanged ideas about the best travel destinations. This vacation showed me how wonderful it is to connect with nature and people from different places.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "The writer’s dream vacation was on a peaceful island with fun activities and new friends." },
+        { "id": 2, "value": "The writer stayed at a luxury hotel on a busy island." },
+        { "id": 3, "value": "The writer’s favorite part of the vacation was eating breakfast by the sea." },
+        { "id": 4, "value": "The writer enjoyed kayaking the most on the trip." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage describes the writer’s vacation on a peaceful island with activities like kayaking and meeting new people.",
+        "vietnamese": "Đoạn văn mô tả kỳ nghỉ của người viết trên một hòn đảo yên bình với các hoạt động như chèo thuyền kayak và gặp gỡ những người mới."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'standard' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Basic" },
+        { "id": 2, "value": "Luxury" },
+        { "id": 3, "value": "Difficult" },
+        { "id": 4, "value": "Special" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'standard' refers to basic needs being met, such as comfort and safety.",
+        "vietnamese": "Trong đoạn văn, 'standard' chỉ các nhu cầu cơ bản được đáp ứng, như sự thoải mái và an toàn."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What did the writer do during the mornings on the island?",
+      "answers": [
+        { "id": 1, "value": "Kayaked in the ocean." },
+        { "id": 2, "value": "Ate breakfast by the sea." },
+        { "id": 3, "value": "Explored forests." },
+        { "id": 4, "value": "Talked to tourists." }
+      ],
+      "correct_answers": [2],
+      "explanation": {
+        "english": "The writer enjoyed a regular breakfast of fresh fruit and bread by the sea every morning.",
+        "vietnamese": "Người viết thưởng thức bữa sáng đều đặn với trái cây tươi và bánh mì bên bờ biển mỗi sáng."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why did the writer enjoy meeting tourists from the United States?",
+      "answers": [
+        { "id": 1, "value": "Because they shared stories and exchanged travel ideas." },
+        { "id": 2, "value": "Because they showed the writer how to kayak." },
+        { "id": 3, "value": "Because they were from a peaceful island." },
+        { "id": 4, "value": "Because they helped the writer feel safe on the trip." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The writer enjoyed learning about their stories and sharing travel ideas, which made the experience memorable.",
+        "vietnamese": "Người viết thích học hỏi các câu chuyện của họ và chia sẻ ý tưởng du lịch, điều này khiến trải nghiệm trở nên đáng nhớ."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'quietly' in the sentence, 'Every morning, we enjoyed a regular breakfast of fresh fruit and bread while sitting quietly by the sea'?",
+      "answers": [
+        { "id": 1, "value": "It shows the peaceful and relaxing way they spent their mornings." },
+        { "id": 2, "value": "It explains how noisy the island was." },
+        { "id": 3, "value": "It describes the type of food they ate." },
+        { "id": 4, "value": "It highlights the excitement of the vacation." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'quietly' emphasizes the calm and relaxing atmosphere of their mornings by the sea.",
+        "vietnamese": "Từ 'quietly' nhấn mạnh bầu không khí yên tĩnh và thư giãn của buổi sáng bên bờ biển."
+      }
+    }
+  ]
+}

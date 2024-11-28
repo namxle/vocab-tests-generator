@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "Being kind is important because it helps people feel valued and creates a better world for everyone.",
+    "shuffled_sentences": [
+      "Small acts of kindness, like a smile or a kind word, can change someone's entire day and make them feel less lonely.",
+      "When people experience kindness, they are more likely to act kindly toward others, creating a positive cycle.",
+      "Kindness not only helps others, but it also makes you feel happier and builds stronger relationships."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "In the end, kindness has the power to connect people and make communities stronger." },
+      { "id": 2, "value": "Kindness is something everyone should think about every day, even if it seems difficult." },
+      { "id": 3, "value": "Helping others is important, but kindness isn't always easy to practice." },
+      { "id": 4, "value": "Kindness is a quality that only a few people have naturally." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct sequence begins with small acts of kindness (Sentence 1), as it introduces a specific example of kindness in action. Then, the idea that kindness encourages more kindness (Sentence 2) logically follows, showing the broader impact. Finally, the third sentence (Sentence 3) discusses the benefits of kindness for both the giver and receiver, providing a conclusion to the passage.",
+        "vietnamese": "Trật tự đúng bắt đầu bằng các hành động nhỏ của lòng tốt (Câu 1), vì nó giới thiệu một ví dụ cụ thể về lòng tốt. Sau đó, ý tưởng rằng lòng tốt khuyến khích lòng tốt khác (Câu 2) được tiếp nối một cách logic, cho thấy tác động rộng hơn. Cuối cùng, câu thứ ba (Câu 3) thảo luận về lợi ích của lòng tốt đối với cả người cho và người nhận, cung cấp một kết luận cho đoạn văn."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "In the end, kindness has the power to connect people and make communities stronger." },
+        { "id": 2, "value": "Kindness is something everyone should think about every day, even if it seems difficult." },
+        { "id": 3, "value": "Helping others is important, but kindness isn't always easy to practice." },
+        { "id": 4, "value": "Kindness is a quality that only a few people have naturally." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it ties together the key themes of the passage, emphasizing how kindness connects people and strengthens communities. Option 2 introduces a new idea about the difficulty of kindness, which is not discussed in the passage. Option 3 shifts focus to the challenges of practicing kindness, which does not align with the passage's positive tone. Option 4 incorrectly limits kindness to only a few people, contradicting the inclusive message of the passage.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết nối các chủ đề chính của đoạn văn, nhấn mạnh cách lòng tốt kết nối mọi người và củng cố cộng đồng. Lựa chọn 2 đưa ra một ý tưởng mới về khó khăn của lòng tốt, điều này không được thảo luận trong đoạn văn. Lựa chọn 3 chuyển sự chú ý sang những thách thức của việc thực hành lòng tốt, không phù hợp với giọng điệu tích cực của đoạn văn. Lựa chọn 4 sai khi giới hạn lòng tốt chỉ dành cho một số người, trái ngược với thông điệp bao quát của đoạn văn."
+      }
+    }
+  ]
+}

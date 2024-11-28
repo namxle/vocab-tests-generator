@@ -1,0 +1,172 @@
+[
+  {
+    "word": "refuse",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He had to _______ the offer because it wasn’t good enough.",
+        "answers": [
+          { "id": 1, "value": "refuse" },
+          { "id": 2, "value": "accept" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "offer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rubbish",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please put the _______ in the bin outside.",
+        "answers": [
+          { "id": 1, "value": "rubbish" },
+          { "id": 2, "value": "dishes" },
+          { "id": 3, "value": "clothes" },
+          { "id": 4, "value": "food" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "survey",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We conducted a _______ to find out what customers think about our service.",
+        "answers": [
+          { "id": 1, "value": "survey" },
+          { "id": 2, "value": "game" },
+          { "id": 3, "value": "meeting" },
+          { "id": 4, "value": "party" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wheel",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The car stopped because one _______ was flat.",
+        "answers": [
+          { "id": 1, "value": "wheel" },
+          { "id": 2, "value": "door" },
+          { "id": 3, "value": "seat" },
+          { "id": 4, "value": "mirror" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "underground",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "London’s _______ is one of the oldest and busiest train systems in the world..",
+        "answers": [
+          { "id": 1, "value": "underground" },
+          { "id": 2, "value": "bus" },
+          { "id": 3, "value": "bicycle" },
+          { "id": 4, "value": "boat" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wash",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Don’t forget to _______ your hands before eating.",
+        "answers": [
+          { "id": 1, "value": "wash" },
+          { "id": 2, "value": "dry" },
+          { "id": 3, "value": "touch" },
+          { "id": 4, "value": "clean" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "clothing",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The store sells a wide range of _______ for men and women.",
+        "answers": [
+          { "id": 1, "value": "clothing" },
+          { "id": 2, "value": "furniture" },
+          { "id": 3, "value": "electronics" },
+          { "id": 4, "value": "food" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "advertising",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company spent a lot of money on _______ to promote their new product.",
+        "answers": [
+          { "id": 1, "value": "advertising" },
+          { "id": 2, "value": "packing" },
+          { "id": 3, "value": "cleaning" },
+          { "id": 4, "value": "repairing" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cash",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You need to pay for the tickets in _______ because cards are not accepted.",
+        "answers": [
+          { "id": 1, "value": "cash" },
+          { "id": 2, "value": "cheques" },
+          { "id": 3, "value": "gold" },
+          { "id": 4, "value": "gifts" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "check",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please _______ your email to see if you received the invitation.",
+        "answers": [
+          { "id": 1, "value": "check" },
+          { "id": 2, "value": "open" },
+          { "id": 3, "value": "write" },
+          { "id": 4, "value": "close" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

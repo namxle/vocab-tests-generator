@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "An ideal art class was created to help students explore their creativity in a supportive environment.",
+    "shuffled_sentences": [
+      "Each student had a unique character, and the teacher made sure everyone felt they belong.",
+      "The teacher cared deeply about helping students develop their ideas freely.",
+      "Perhaps the most exciting part was when students shared their crazy ideas and projects."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Fortunately, the students learned to improve their confidence through art." },
+      { "id": 2, "value": "Certainly, the teacher ignored the students' creative efforts during the lessons." },
+      { "id": 3, "value": "The class ended because the students were not able to behave properly." },
+      { "id": 4, "value": "The teacher focused only on rules and not on creativity." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order begins with the teacher making every student feel they belong (Sentence 1). Then, the teacher's care for helping students develop their ideas (Sentence 2) logically follows. Finally, the excitement of students sharing their ideas (Sentence 3) concludes the narrative by showing the energy and creativity of the class. Other sequences disrupt the logical flow.",
+        "vietnamese": "Thứ tự đúng bắt đầu với việc giáo viên khiến mỗi học sinh cảm thấy mình thuộc về (Câu 1). Tiếp theo, sự quan tâm của giáo viên đến việc giúp học sinh phát triển ý tưởng của mình (Câu 2) diễn ra hợp lý. Cuối cùng, sự hứng thú khi học sinh chia sẻ ý tưởng (Câu 3) kết thúc câu chuyện, thể hiện năng lượng và sự sáng tạo của lớp học. Các thứ tự khác làm mất mạch ý logic."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Fortunately, the students learned to improve their confidence through art." },
+        { "id": 2, "value": "Certainly, the teacher ignored the students' creative efforts during the lessons." },
+        { "id": 3, "value": "The class ended because the students were not able to behave properly." },
+        { "id": 4, "value": "The teacher focused only on rules and not on creativity." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it concludes the passage positively, highlighting the students' personal growth through art. Options 2, 3, and 4 introduce negative or unrelated details, which do not fit the story’s focus on creativity and support.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết thúc đoạn văn một cách tích cực, nhấn mạnh sự phát triển cá nhân của học sinh thông qua nghệ thuật. Các lựa chọn 2, 3 và 4 đưa ra chi tiết tiêu cực hoặc không liên quan, điều này không phù hợp với nội dung câu chuyện tập trung vào sự sáng tạo và hỗ trợ."
+      }
+    }
+  ]
+}

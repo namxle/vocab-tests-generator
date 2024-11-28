@@ -1,0 +1,173 @@
+[
+    {
+      "word": "comfortable",
+      "questions": [
+        {
+          "id": 1,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The chair is very _______ and perfect for relaxing.",
+          "answers": [
+            { "id": 1, "value": "comfortable" },
+            { "id": 2, "value": "hard" },
+            { "id": 3, "value": "expensive" },
+            { "id": 4, "value": "ugly" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "soap",
+      "questions": [
+        {
+          "id": 2,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "You should use _______ to wash your hands before eating.",
+          "answers": [
+            { "id": 1, "value": "soap" },
+            { "id": 2, "value": "shampoo" },
+            { "id": 3, "value": "water" },
+            { "id": 4, "value": "towel" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "destroy",
+      "questions": [
+        {
+          "id": 3,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The fire will _______ the forest if it is not controlled.",
+          "answers": [
+            { "id": 1, "value": "destroy" },
+            { "id": 2, "value": "save" },
+            { "id": 3, "value": "build" },
+            { "id": 4, "value": "water" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "disease",
+      "questions": [
+        {
+          "id": 4,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "Vaccines can help prevent the spread of a dangerous _______.",
+          "answers": [
+            { "id": 1, "value": "disease" },
+            { "id": 2, "value": "habit" },
+            { "id": 3, "value": "injury" },
+            { "id": 4, "value": "cold" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "insect",
+      "questions": [
+        {
+          "id": 5,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The _______ landed on the flower to collect nectar.",
+          "answers": [
+            { "id": 1, "value": "insect" },
+            { "id": 2, "value": "bird" },
+            { "id": 3, "value": "animal" },
+            { "id": 4, "value": "snake" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "coast",
+      "questions": [
+        {
+          "id": 6,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "They walked along the _______ and enjoyed the sound of the waves.",
+          "answers": [
+            { "id": 1, "value": "coast" },
+            { "id": 2, "value": "mountain" },
+            { "id": 3, "value": "desert" },
+            { "id": 4, "value": "river" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "protect",
+      "questions": [
+        {
+          "id": 7,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "Sunscreen is used to _______ your skin from harmful UV rays.",
+          "answers": [
+            { "id": 1, "value": "protect" },
+            { "id": 2, "value": "damage" },
+            { "id": 3, "value": "clean" },
+            { "id": 4, "value": "expose" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "questions": [
+        {
+          "id": 8,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "Plants need sunlight and _______ to grow.",
+          "answers": [
+            { "id": 1, "value": "water" },
+            { "id": 2, "value": "food" },
+            { "id": 3, "value": "air" },
+            { "id": 4, "value": "soil" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "pollution",
+      "questions": [
+        {
+          "id": 9,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "Factories can cause air and water _______ if they are not properly managed.",
+          "answers": [
+            { "id": 1, "value": "pollution" },
+            { "id": 2, "value": "protection" },
+            { "id": 3, "value": "cleanliness" },
+            { "id": 4, "value": "energy" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    },
+    {
+      "word": "wild",
+      "questions": [
+        {
+          "id": 10,
+          "type": "Fill-in-the-Blanks (MCQ)",
+          "question_name": "The tiger is a _______ animal that lives in the forest.",
+          "answers": [
+            { "id": 1, "value": "wild" },
+            { "id": 2, "value": "pet" },
+            { "id": 3, "value": "calm" },
+            { "id": 4, "value": "domestic" }
+          ],
+          "correct_answers": [1]
+        }
+      ]
+    }
+  ]
+  

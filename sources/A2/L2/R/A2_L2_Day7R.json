@@ -1,0 +1,89 @@
+{
+  "topic": "What Makes an Ideal Day?",
+  "provided_words": ["belong", "certainly", "care", "daily", "perhaps", "crazy", "extremely", "character", "fortunately", "ideal"],
+  "passage_and_questions": {
+    "passage": "Have you ever thought about what makes an ideal day? Perhaps it begins with something simple, like waking up feeling rested and ready for the day. For some people, an ideal day includes time to do something they care about, such as reading, exercising, or spending time with family, which helps them feel connected and happy. Others may dream of a day full of exciting or even crazy adventures, where they feel like they belong in the moment and can forget their daily worries. The character of a person often influences what they see as an ideal day, because someone who enjoys quiet moments may prefer a calm day, while someone adventurous might want something more thrilling. Fortunately, we don’t need everything to be perfect to enjoy the day. What matters most is feeling grateful and being able to appreciate the small things, like a smile from a friend or the beauty of nature, which can make even an ordinary day feel special. While life can certainly be challenging at times, having a positive attitude helps us create moments of joy that last forever. So, whether your ideal day is calm and peaceful or extremely busy and exciting, the key is to find joy in the moment and create memories you can cherish for a lifetime.",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Main Idea",
+        "question_name": "What is the main idea of the passage?",
+        "answers": [
+          { "id": 1, "value": "An ideal day is about finding joy and appreciating small things." },
+          { "id": 2, "value": "Daily routines are the key to happiness." },
+          { "id": 3, "value": "Crazy adventures make every day special." },
+          { "id": 4, "value": "Spending time with family is the only way to have an ideal day." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage emphasizes that an ideal day is about enjoying the moment and appreciating small things, regardless of the type of day.",
+          "vietnamese": "Đoạn văn nhấn mạnh rằng một ngày lý tưởng là tận hưởng khoảnh khắc và trân trọng những điều nhỏ bé, bất kể loại ngày nào."
+        }
+      },
+      {
+        "id": 2,
+        "type": "Vocabulary",
+        "question_name": "What does 'care' mean in the passage?",
+        "answers": [
+          { "id": 1, "value": "To worry about something" },
+          { "id": 2, "value": "To do something with love or attention" },
+          { "id": 3, "value": "To forget about something" },
+          { "id": 4, "value": "To belong to someone" }
+        ],
+        "correct_answers": [2],
+        "explanation": {
+          "english": "In the passage, 'care' refers to doing something with love or attention, like spending time on hobbies or with family.",
+          "vietnamese": "Trong đoạn văn, 'care' ám chỉ làm điều gì đó với tình yêu hoặc sự chú ý, như dành thời gian cho sở thích hoặc gia đình."
+        }
+      },
+      {
+        "id": 3,
+        "type": "Details",
+        "question_name": "What does the passage suggest about an ideal day?",
+        "answers": [
+          { "id": 1, "value": "It must be perfect to be enjoyable." },
+          { "id": 2, "value": "It is different for everyone based on their preferences." },
+          { "id": 3, "value": "It should include crazy adventures." },
+          { "id": 4, "value": "It must be calm and peaceful." }
+        ],
+        "correct_answers": [2],
+        "explanation": {
+          "english": "The passage states that the character of an ideal day is different for everyone because people have unique lifestyles and preferences.",
+          "vietnamese": "Đoạn văn nói rằng tính chất của một ngày lý tưởng khác nhau đối với mỗi người vì mọi người có lối sống và sở thích riêng."
+        }
+      },
+      {
+        "id": 4,
+        "type": "Inference",
+        "question_name": "Why is a positive attitude important, according to the passage?",
+        "answers": [
+          { "id": 1, "value": "It makes even ordinary days feel special." },
+          { "id": 2, "value": "It helps people plan their daily routines." },
+          { "id": 3, "value": "It ensures every day is extremely exciting." },
+          { "id": 4, "value": "It allows people to forget challenges." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage explains that a positive attitude helps people find joy, even on ordinary days, making them feel special.",
+          "vietnamese": "Đoạn văn giải thích rằng thái độ tích cực giúp mọi người tìm thấy niềm vui, ngay cả trong những ngày bình thường, làm cho chúng trở nên đặc biệt."
+        }
+      },
+      {
+        "id": 5,
+        "type": "Role of Word",
+        "question_name": "What is the role of the word 'character' in the passage?",
+        "answers": [
+          { "id": 1, "value": "It explains how personality influences what someone sees as an ideal day." },
+          { "id": 2, "value": "It refers to the events that happen during an ideal day." },
+          { "id": 3, "value": "It describes the importance of daily routines." },
+          { "id": 4, "value": "It means spending time with family." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "In the passage, 'character' refers to someone's personality, which influences what they consider an ideal day.",
+          "vietnamese": "Trong đoạn văn, 'character' ám chỉ tính cách của một người, điều này ảnh hưởng đến cách họ nhìn nhận một ngày lý tưởng."
+        }
+      }
+    ]
+  }
+}

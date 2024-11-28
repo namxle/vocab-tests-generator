@@ -1,0 +1,172 @@
+[
+  {
+    "word": "airline",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ canceled all flights due to bad weather conditions.",
+        "answers": [
+          { "id": 1, "value": "airline" },
+          { "id": 2, "value": "train" },
+          { "id": 3, "value": "bus" },
+          { "id": 4, "value": "taxi" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "contain",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Does this box _______ all the tools we need for the project?",
+        "answers": [
+          { "id": 1, "value": "contain" },
+          { "id": 2, "value": "throw" },
+          { "id": 3, "value": "make" },
+          { "id": 4, "value": "hold" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bin",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please throw your trash into the _______ near the door.",
+        "answers": [
+          { "id": 1, "value": "bin" },
+          { "id": 2, "value": "bag" },
+          { "id": 3, "value": "bottle" },
+          { "id": 4, "value": "box" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "recycle",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It’s important to _______ plastic bottles instead of throwing them away.",
+        "answers": [
+          { "id": 1, "value": "recycle" },
+          { "id": 2, "value": "buy" },
+          { "id": 3, "value": "break" },
+          { "id": 4, "value": "lose" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "empty",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The glass is _______ because someone drank all the water.",
+        "answers": [
+          { "id": 1, "value": "empty" },
+          { "id": 2, "value": "full" },
+          { "id": 3, "value": "wet" },
+          { "id": 4, "value": "broken" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "exist",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Do you think life can _______ on other planets?",
+        "answers": [
+          { "id": 1, "value": "exist" },
+          { "id": 2, "value": "end" },
+          { "id": 3, "value": "work" },
+          { "id": 4, "value": "start" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "reduce",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We need to _______ the amount of waste we produce every day.",
+        "answers": [
+          { "id": 1, "value": "reduce" },
+          { "id": 2, "value": "increase" },
+          { "id": 3, "value": "create" },
+          { "id": 4, "value": "collect" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "offer",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company decided to _______ a discount to attract more customers.",
+        "answers": [
+          { "id": 1, "value": "offer" },
+          { "id": 2, "value": "refuse" },
+          { "id": 3, "value": "take" },
+          { "id": 4, "value": "sell" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "look",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He asked me to _______ at the stars through the telescope.",
+        "answers": [
+          { "id": 1, "value": "look" },
+          { "id": 2, "value": "take" },
+          { "id": 3, "value": "see" },
+          { "id": 4, "value": "hold" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "oven",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She baked the cake in the _______ for 30 minutes.",
+        "answers": [
+          { "id": 1, "value": "oven" },
+          { "id": 2, "value": "fridge" },
+          { "id": 3, "value": "pan" },
+          { "id": 4, "value": "dishwasher" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

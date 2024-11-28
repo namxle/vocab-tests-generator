@@ -1,0 +1,69 @@
+{
+  "passage": {
+    "first_sentence": "A thief made a decision to change his life after years of committing crime, and he wanted to do something better with his time.",
+    "shuffled_sentences": [
+      "He found an employer who believed in giving people a second chance, which made him feel hopeful.",
+      "Using his creative skills, he started making furniture, and he even decided to teach others.",
+      "As he gained more knowledge about his work, he realized how important it was to stay free from crime."
+    ],
+    "sentence_completion_options": [
+      {
+        "id": 1,
+        "value": "This change helped him lift his confidence and live a better life."
+      },
+      {
+        "id": 2,
+        "value": "He thought about going back to crime because it was easier."
+      },
+      {
+        "id": 3,
+        "value": "The employer decided to fire him after a few weeks."
+      },
+      {
+        "id": 4,
+        "value": "Curly hair became a symbol of his new creative projects."
+      }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct sequence starts with finding an employer who gave the thief hope (Sentence 1) because it sets the foundation for his change. Next, he uses his creative skills and teaches others (Sentence 2), showing his personal growth. Finally, gaining knowledge about his work (Sentence 3) emphasizes the importance of staying free from crime. Other sequences disrupt this logical progression.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc tìm một người chủ tin tưởng anh ta (Câu 1), vì nó đặt nền móng cho sự thay đổi. Tiếp theo, anh ta dùng kỹ năng sáng tạo của mình để dạy người khác (Câu 2), thể hiện sự phát triển cá nhân. Cuối cùng, việc đạt được kiến thức về công việc của mình (Câu 3) nhấn mạnh tầm quan trọng của việc tránh xa tội phạm. Các trật tự khác sẽ làm mất đi dòng ý nghĩa hợp lý."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        {
+          "id": 1,
+          "value": "This change helped him lift his confidence and live a better life."
+        },
+        {
+          "id": 2,
+          "value": "He thought about going back to crime because it was easier."
+        },
+        {
+          "id": 3,
+          "value": "The employer decided to fire him after a few weeks."
+        },
+        {
+          "id": 4,
+          "value": "Curly hair became a symbol of his new creative projects."
+        }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it logically concludes the passage by showing the result of his positive transformation. Option 2 contradicts the theme of change and improvement. Option 3 does not align with the idea of him succeeding in his new job. Option 4 introduces an irrelevant detail about curly hair, which does not fit the context.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết luận hợp lý đoạn văn bằng cách chỉ ra kết quả của sự thay đổi tích cực. Lựa chọn 2 mâu thuẫn với chủ đề thay đổi và cải thiện. Lựa chọn 3 không phù hợp với ý tưởng về sự thành công trong công việc mới của anh ta. Lựa chọn 4 giới thiệu một chi tiết không liên quan về tóc xoăn, điều này không phù hợp với bối cảnh."
+      }
+    }
+  ]
+}

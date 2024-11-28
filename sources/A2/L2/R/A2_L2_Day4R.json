@@ -1,0 +1,89 @@
+{
+  "topic": "Ancient Ceremonies",
+  "provided_words": ["award", "invite", "arrangement", "celebrate", "classical", "ceremony", "god", "king", "queen", "invitation"],
+  "passage_and_questions": {
+    "passage": "In ancient times, ceremonies were a way to celebrate important events and honor gods or rulers. For example, in Greece, people organized classical festivals to honor Zeus, the king of the gods, because they believed these ceremonies brought them closer to the divine. These festivals included grand arrangements of food, music, and athletic games, which attracted people from far and wide. Winners of the games were awarded olive wreaths, which symbolized victory and respect, while participants felt proud to compete in honor of their gods. Invitations were often sent to noble families and rulers from other regions, inviting them to join the celebration and strengthen political ties. In Egypt, ceremonies for the coronation of a new king or queen were equally impressive, as they included prayers to the gods and a procession where the king or queen was carried through the streets to show their connection to the divine. The arrangement of these events required careful planning to ensure everything went smoothly, since any mistake could be seen as a sign of disrespect to the gods. People believed that celebrating these moments not only brought blessings from the gods but also strengthened the bond between rulers and their people. Even today, modern ceremonies, which often reflect the traditions of ancient times, remind us of the importance of celebration and community.",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Main Idea",
+        "question_name": "What is the main idea of the passage?",
+        "answers": [
+          { "id": 1, "value": "Ancient ceremonies celebrated important events and honored gods or rulers." },
+          { "id": 2, "value": "Kings and queens always sent invitations to noble families." },
+          { "id": 3, "value": "Athletic games were the main focus of all ancient ceremonies." },
+          { "id": 4, "value": "Modern ceremonies are more important than ancient ones." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage explains that ancient ceremonies were organized to celebrate events and honor gods or rulers.",
+          "vietnamese": "Đoạn văn giải thích rằng các nghi lễ cổ đại được tổ chức để kỷ niệm các sự kiện và tôn vinh các vị thần hoặc vua chúa."
+        }
+      },
+      {
+        "id": 2,
+        "type": "Vocabulary",
+        "question_name": "What does 'arrangement' mean in the passage?",
+        "answers": [
+          { "id": 1, "value": "Decoration" },
+          { "id": 2, "value": "Preparation and planning" },
+          { "id": 3, "value": "Music and games" },
+          { "id": 4, "value": "Invitation" }
+        ],
+        "correct_answers": [2],
+        "explanation": {
+          "english": "In the passage, 'arrangement' refers to the careful planning and preparation of the ceremonies.",
+          "vietnamese": "Trong đoạn văn, 'arrangement' ám chỉ việc chuẩn bị và lên kế hoạch cẩn thận cho các nghi lễ."
+        }
+      },
+      {
+        "id": 3,
+        "type": "Details",
+        "question_name": "What were winners of the games in Greece awarded?",
+        "answers": [
+          { "id": 1, "value": "Golden crowns" },
+          { "id": 2, "value": "Olive wreaths" },
+          { "id": 3, "value": "Silver coins" },
+          { "id": 4, "value": "Invitations to other ceremonies" }
+        ],
+        "correct_answers": [2],
+        "explanation": {
+          "english": "The passage mentions that winners of the games in Greece were awarded olive wreaths as a symbol of victory and respect.",
+          "vietnamese": "Đoạn văn đề cập rằng những người chiến thắng trong các trò chơi ở Hy Lạp được trao vòng hoa ô liu như một biểu tượng của chiến thắng và sự tôn trọng."
+        }
+      },
+      {
+        "id": 4,
+        "type": "Inference",
+        "question_name": "Why did people believe in celebrating these ceremonies?",
+        "answers": [
+          { "id": 1, "value": "They thought it brought blessings from the gods." },
+          { "id": 2, "value": "They wanted to show their wealth to others." },
+          { "id": 3, "value": "They needed to strengthen their military power." },
+          { "id": 4, "value": "They wished to invite more people to their cities." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage suggests that people believed celebrating ceremonies brought blessings from the gods and strengthened their bond with rulers.",
+          "vietnamese": "Đoạn văn gợi ý rằng người ta tin rằng việc tổ chức các nghi lễ mang lại phước lành từ các vị thần và củng cố mối liên kết với các vị vua."
+        }
+      },
+      {
+        "id": 5,
+        "type": "Role of Word",
+        "question_name": "What is the role of the word 'invitation' in the passage?",
+        "answers": [
+          { "id": 1, "value": "It shows that people were invited to join celebrations." },
+          { "id": 2, "value": "It describes the decoration of the ceremonies." },
+          { "id": 3, "value": "It refers to the award given to winners of games." },
+          { "id": 4, "value": "It explains how gods were honored." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "In the passage, 'invitation' refers to how noble families and rulers were invited to join ancient ceremonies.",
+          "vietnamese": "Trong đoạn văn, 'invitation' ám chỉ cách các gia đình quý tộc và các vị vua được mời tham gia các nghi lễ cổ đại."
+        }
+      }
+    ]
+  }
+}

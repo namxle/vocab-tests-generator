@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "Visiting a farm can be both fun and educational, as it helps people learn how to protect the environment and understand where their food comes from.",
+    "shuffled_sentences": [
+      "On the farm, clean water is important to grow healthy crops and keep animals safe from disease.",
+      "Farmers often use natural methods to protect plants from insects without using chemicals that could cause pollution.",
+      "Near the coast, some farms focus on growing wild plants or raising fish, making the visit even more exciting and unique."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Overall, visiting a farm teaches people how to live comfortably while caring for nature." },
+      { "id": 2, "value": "Visiting farms is fun, but it can destroy the natural balance of the environment." },
+      { "id": 3, "value": "Farms are helpful, but they are not as interesting as city attractions." },
+      { "id": 4, "value": "In the end, farms are only important for producing food and not for protecting nature." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct sequence starts with the importance of water for healthy crops and animals (Sentence 1), setting the stage for the farm's role in maintaining safety. Next, protecting plants from insects without causing pollution (Sentence 2) connects directly to environmental care. Finally, coastal farms (Sentence 3) highlight a unique and exciting aspect, providing a satisfying conclusion.",
+        "vietnamese": "Trật tự đúng bắt đầu với tầm quan trọng của nước sạch cho cây trồng và vật nuôi khỏe mạnh (Câu 1), thiết lập vai trò của trang trại trong việc duy trì an toàn. Tiếp theo, việc bảo vệ cây trồng khỏi côn trùng mà không gây ô nhiễm (Câu 2) liên kết trực tiếp với việc bảo vệ môi trường. Cuối cùng, các trang trại ven biển (Câu 3) làm nổi bật một khía cạnh độc đáo và thú vị, mang lại kết luận hài lòng."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Overall, visiting a farm teaches people how to live comfortably while caring for nature." },
+        { "id": 2, "value": "Visiting farms is fun, but it can destroy the natural balance of the environment." },
+        { "id": 3, "value": "Farms are helpful, but they are not as interesting as city attractions." },
+        { "id": 4, "value": "In the end, farms are only important for producing food and not for protecting nature." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it reflects the educational and positive experience of visiting a farm while emphasizing care for the environment. Option 2 is incorrect because it contradicts the passage's focus on protecting nature. Option 3 shifts the focus to city attractions, which is unrelated. Option 4 undervalues the role of farms in protecting nature, which goes against the main theme of the passage.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó phản ánh trải nghiệm giáo dục và tích cực khi thăm trang trại, đồng thời nhấn mạnh việc chăm sóc môi trường. Lựa chọn 2 sai vì nó mâu thuẫn với nội dung tập trung vào việc bảo vệ thiên nhiên. Lựa chọn 3 chuyển sự chú ý đến các điểm thu hút ở thành phố, điều này không liên quan. Lựa chọn 4 đánh giá thấp vai trò của các trang trại trong việc bảo vệ thiên nhiên, đi ngược lại chủ đề chính của đoạn văn."
+      }
+    }
+  ]
+}

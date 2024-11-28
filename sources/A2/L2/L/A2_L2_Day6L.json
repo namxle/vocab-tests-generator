@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "A customer entered a small shop offering a special mirror cleaning service for homes.",
+    "shuffled_sentences": [
+      "The shopkeeper greeted the customer with a warm smile and explained the service.",
+      "The mirror had stains that were hard to clean, but the service was actually able to remove them.",
+      "The customer was careful to check the work, and she was happy with how the mirror looked."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "She decided to recommend the service to her friends at home." },
+      { "id": 2, "value": "The shop refused to allow any cleaning against old mirrors." },
+      { "id": 3, "value": "She behaved rudely when the service did not meet her expectations." },
+      { "id": 4, "value": "The shopkeeper was not able to finish the cleaning in time." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order begins with the shopkeeper greeting the customer and explaining the service (Sentence 1). Then, the actual process of cleaning the mirror and its success (Sentence 2) follows logically. Finally, the customer checks the work and is happy with the result (Sentence 3), which completes the narrative. Other sequences disrupt the logical flow.",
+        "vietnamese": "Thứ tự đúng bắt đầu với việc chủ cửa hàng chào đón khách và giải thích dịch vụ (Câu 1). Tiếp theo, quá trình làm sạch gương và kết quả thành công (Câu 2) diễn ra hợp lý. Cuối cùng, khách hàng kiểm tra công việc và hài lòng với kết quả (Câu 3), hoàn tất câu chuyện. Các thứ tự khác sẽ làm mất mạch logic."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "She decided to recommend the service to her friends at home." },
+        { "id": 2, "value": "The shop refused to allow any cleaning against old mirrors." },
+        { "id": 3, "value": "She behaved rudely when the service did not meet her expectations." },
+        { "id": 4, "value": "The shopkeeper was not able to finish the cleaning in time." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it logically follows the customer’s satisfaction with the service. Options 2 and 4 contradict the narrative by suggesting refusal or delay, and option 3 introduces negativity, which does not fit the positive tone of the passage.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó hợp lý sau khi khách hàng hài lòng với dịch vụ. Lựa chọn 2 và 4 mâu thuẫn với câu chuyện vì gợi ý sự từ chối hoặc chậm trễ, còn lựa chọn 3 đưa ra ý tiêu cực, không phù hợp với giọng văn tích cực của đoạn văn."
+      }
+    }
+  ]
+}

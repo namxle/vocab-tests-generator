@@ -1,84 +1,135 @@
 const fs = require('fs');
 
-// Get current working directory
+// Import scripts
+const logicScript = require('./logic');
+const helperScript = require('./helper');
+
+// Constants
 const CWD = process.cwd();
-// const DB = 'Meaning';
-const DB = 'Logic';
-const LEVEL = 'A1';
+
+const LEVEL = 'A2';
+const SUB_LEVEL = 'L2';
+const GROUP = 'R';
+const DAY = 'Day';
 
 // Get all required directories
-const gptResultsDir = `${CWD}/gpt-results/${DB}`;
-const databaseDir = `${CWD}/databases/${DB}/${LEVEL}`;
+const sourcesDir = `${CWD}/sources/${LEVEL}/${SUB_LEVEL}/${GROUP}`;
+const dataDir = `${CWD}/data/${LEVEL}/${SUB_LEVEL}`;
 
-/********* Files *********/
-const newDatabaseFile = `${databaseDir}/result.json`;
-console.info(`GPT results directory: ${gptResultsDir}`);
-
-/********* Constants *********/
-
-/********* Helper *********/
-
-/********* Words Section *********/
-
-/********* Stat Section *********/
-
-/********* Database Section *********/
-function writeNewDatabase(data) {
-  fs.writeFileSync(newDatabaseFile, JSON.stringify(data), 'utf-8');
+// Helper function
+function writeData(data) {
+  const resultPath = `${dataDir}/${GROUP}.json`;
+  fs.writeFileSync(resultPath, JSON.stringify(data), 'utf-8');
 }
 
-/********* GPT Section *********/
-function getGptJsonFiles() {
-  const jsonFiles = fs.readdirSync(gptResultsDir, 'utf-8');
-  return jsonFiles;
+function getSourceFiles() {
+  const files = fs.readdirSync(sourcesDir, 'utf-8');
+  return files;
 }
 
-function processGptJsonFiles(jsonFiles) {
-  const words = [];
-  const wordsInfo = [];
+function processLogicData(datum) {
+  const result = {};
+  result.sentence = datum.passage.first_sentence;
+  result.questions = datum.questions.map((question) => {
+    const item = {
+      id: question.id,
+      question_name: question.question_name,
+      sequence: null,
+      answers: null,
+      correct_answers: null,
+    };
+    if (question.type == 'Rearrange (MCQ)') {
+      const sequence = datum.passage.shuffled_sentences.map(
+        (sentence, index) => {
+          return {
+            id: index + 1,
+            value: sentence,
+          };
+        },
+      );
+      const shuffledSequence = helperScript.shuffle(sequence);
+      const shuffledIds = shuffledSequence.map((e) => e.id);
+      const correctOrder = question.correct_order.map((id) => {
+        return shuffledIds.indexOf(id) + 1;
+      });
+      item.correct_answers = [1];
+      item.sequence = shuffledSequence.map((e) => e.value);
+      item.answers = [
+        { id: 1, value: correctOrder },
+        ...logicScript
+          .getRandomOrders(
+            sequence.map((seq) => seq.id),
+            3,
+            correctOrder,
+          )
+          .map((answer, index) => {
+            return { id: index + 2, value: answer };
+          }),
+      ];
+    } else {
+      item.correct_answers = [question.correct_answer];
+      item.answers = question.answers;
+    }
+    return item;
+  });
+  return result;
+}
+
+function processReadingData(datum) {
+  const result = {};
+  if (datum.passage_and_questions) {
+    result.passage = datum.passage_and_questions.passage;
+    result.questions = datum.passage_and_questions.questions;
+  } else {
+    result.passage = datum.passage;
+    result.questions = datum.questions;
+  }
+  return result;
+}
+
+function processSourceFiles(files) {
   const data = [];
 
-  // Get only specific type of
-  const jsonFilesFiltered = jsonFiles.filter((jsonFile) => {
-    const level = jsonFile.split('_')[0];
-    return level == LEVEL;
-  });
+  console.log('Files found:', files.length);
 
-  console.log('JSON file found:', jsonFiles.length);
-  console.log('JSON file filtered:', jsonFilesFiltered.length);
+  files.forEach((fileName) => {
+    const elements = fileName.split('.json')[0].split('_');
+    const fileLevel = elements[0];
+    const fileSubLevel = elements[1];
+    const fileDay = Number(elements[2].split(GROUP)[0].split(DAY)[1]);
 
-  jsonFilesFiltered.forEach((jsonFile) => {
     // Read data
-    const jsonPath = `${gptResultsDir}/${jsonFile}`;
-    const jsonData = JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
+    const filePath = `${sourcesDir}/${fileName}`;
+    const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-    // Process data
-    jsonData.forEach((jsonDatum) => {
-      words.push(jsonDatum.word);
-      wordsInfo.push({
-        word: jsonDatum.word,
-        questionIds: jsonDatum.questions.map((question) => question.id),
-      });
-      data.push(jsonDatum);
+    const finalData =
+      GROUP == 'L'
+        ? processLogicData(fileData)
+        : GROUP == 'R'
+        ? processReadingData(fileData)
+        : fileData;
+
+    data.push({
+      day: fileDay,
+      data: finalData,
     });
   });
-  return { words, data, wordsInfo };
+  data.sort((a, b) => a.day - b.day);
+  return data;
 }
 
-/********* Main *********/
 function main() {
   // Process GPT results
-  const gptJsonFiles = getGptJsonFiles();
+  const sourceFiles = getSourceFiles();
+  const processedData = processSourceFiles(sourceFiles);
+  // console.log(processedData);
 
-  const gptResult = processGptJsonFiles(gptJsonFiles);
-  console.log(gptResult);
-
-  // Export the results to database folder
-  writeNewDatabase(gptResult.data);
+  // Write the results to data folder
+  writeData(processedData);
 
   console.log(`Level: ${LEVEL}`);
-  console.log(`DB: ${DB}`);
-  console.log(`Total words: ${gptResult.words.length}`);
+  console.log(`Sub Level: ${SUB_LEVEL}`);
+  console.log(`Total tests: ${processedData.length}`);
 }
 
 main();

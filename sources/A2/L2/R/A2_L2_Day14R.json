@@ -1,0 +1,87 @@
+{
+  "topic": "A Visit to the Zoo",
+  "provided_words": ["refuse", "rubbish", "survey", "wheel", "underground", "wash", "clothing", "advertising", "cash", "check"],
+  "passage": "Last Saturday, my family and I went to the zoo. At the entrance, we had to check our tickets before going inside. We were surprised to see a big advertising board with a map of all the animal enclosures. Our first stop was the underground reptile house, where we saw snakes and lizards. My younger brother loved the lion exhibit the most, while I enjoyed watching the elephants. We noticed that the zoo had set up special bins for rubbish to keep the area clean. They even had a sign asking visitors to refuse plastic bags and use eco-friendly options instead. Near the food court, a survey was being conducted to ask visitors about their favorite animals. The zookeepers also showed us how they wash and feed the animals every day. Before leaving, we visited the gift shop, where my mom paid in cash for a T-shirt with a tiger design. My dad, on the other hand, decided to buy a book about animals using his credit card. As we walked back to the car, my brother got to ride in a stroller with big wheels because he was tired. It was a fun and educational day for all of us.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "The writer and their family had an enjoyable and educational visit to the zoo." },
+        { "id": 2, "value": "The family spent the day shopping for souvenirs at the zoo." },
+        { "id": 3, "value": "The family helped clean rubbish around the zoo." },
+        { "id": 4, "value": "The visit to the underground reptile house was the best part of the trip." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage describes a fun day at the zoo where the family learned about animals and enjoyed various activities.",
+        "vietnamese": "Đoạn văn mô tả một ngày vui tại sở thú, nơi gia đình học hỏi về động vật và tham gia các hoạt động khác nhau."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'rubbish' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Trash or waste" },
+        { "id": 2, "value": "Reptiles and animals" },
+        { "id": 3, "value": "Eco-friendly items" },
+        { "id": 4, "value": "Bins and containers" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'rubbish' refers to trash or waste that visitors are encouraged to dispose of in special bins.",
+        "vietnamese": "Trong đoạn văn, 'rubbish' chỉ rác thải mà khách được khuyến khích bỏ vào thùng đặc biệt."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What did the zoo ask visitors to do to help the environment?",
+      "answers": [
+        { "id": 1, "value": "Refuse plastic bags and use eco-friendly options." },
+        { "id": 2, "value": "Clean the animal enclosures." },
+        { "id": 3, "value": "Pay with cash instead of credit cards." },
+        { "id": 4, "value": "Ride bicycles with wheels instead of driving cars." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The zoo encouraged visitors to refuse plastic bags and choose eco-friendly alternatives to reduce waste.",
+        "vietnamese": "Sở thú khuyến khích khách từ chối túi nhựa và chọn các lựa chọn thân thiện với môi trường để giảm rác thải."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why did the zoo conduct a survey near the food court?",
+      "answers": [
+        { "id": 1, "value": "To learn about visitors' favorite animals." },
+        { "id": 2, "value": "To check if the food was good." },
+        { "id": 3, "value": "To find out how many people used cash to pay." },
+        { "id": 4, "value": "To understand which underground exhibits were most popular." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The survey was meant to gather information about visitors' favorite animals, as mentioned in the passage.",
+        "vietnamese": "Khảo sát nhằm thu thập thông tin về động vật yêu thích của khách tham quan, như được đề cập trong đoạn văn."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'wheel' in the sentence, 'My brother got to ride in a stroller with big wheels because he was tired'?",
+      "answers": [
+        { "id": 1, "value": "It describes the stroller that made it easy for the brother to move." },
+        { "id": 2, "value": "It shows why the stroller was underground." },
+        { "id": 3, "value": "It explains why the brother felt tired." },
+        { "id": 4, "value": "It refers to the type of animals seen at the zoo." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'wheel' highlights the stroller's feature that made it easier to push and transport the brother.",
+        "vietnamese": "Từ 'wheel' nhấn mạnh đặc điểm của xe đẩy giúp dễ dàng đẩy và vận chuyển em trai."
+      }
+    }
+  ]
+}

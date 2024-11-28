@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "Helping my parents at home is a great way to show I care, and it also makes our home more organized and comfortable.",
+    "shuffled_sentences": [
+      "One of my tasks is to take out the trash and make sure the recycling bin only contains items that can be reused or recycled.",
+      "I also help reduce waste in the kitchen by checking the oven and fridge to ensure we only cook or store what we need, keeping everything fresh.",
+      "Sometimes, I look for creative ways to organize things, like emptying old boxes and finding new uses for them instead of throwing them away."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Overall, helping at home teaches me responsibility and offers ways to make life easier for everyone." },
+      { "id": 2, "value": "Helping at home is difficult because it feels like too much work and offers no reward." },
+      { "id": 3, "value": "In the end, helping at home is only useful when my parents ask for help directly." },
+      { "id": 4, "value": "Helping at home is only about cleaning, and it doesn't teach me anything new." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct sequence begins with taking out the trash and managing recycling (Sentence 1), as this introduces a specific chore. Next, reducing waste in the kitchen (Sentence 2) follows logically because it is another way of helping with household organization. Finally, creatively reusing old items (Sentence 3) adds a positive and resourceful conclusion to the passage.",
+        "vietnamese": "Trật tự đúng bắt đầu với việc đổ rác và quản lý tái chế (Câu 1), vì đây là một công việc cụ thể. Tiếp theo, giảm lãng phí trong nhà bếp (Câu 2) hợp lý vì nó là một cách khác để giúp tổ chức nhà cửa. Cuối cùng, tái sử dụng sáng tạo các đồ cũ (Câu 3) mang lại kết thúc tích cực và sáng tạo cho đoạn văn."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Overall, helping at home teaches me responsibility and offers ways to make life easier for everyone." },
+        { "id": 2, "value": "Helping at home is difficult because it feels like too much work and offers no reward." },
+        { "id": 3, "value": "In the end, helping at home is only useful when my parents ask for help directly." },
+        { "id": 4, "value": "Helping at home is only about cleaning, and it doesn't teach me anything new." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it reflects the positive and educational aspects of helping at home, which aligns with the examples in the passage. Option 2 contradicts the passage's tone by emphasizing difficulty and lack of reward. Option 3 incorrectly limits helping to specific instructions from parents, while the passage highlights self-initiative. Option 4 reduces helping to just cleaning, ignoring the creativity and learning aspects mentioned.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó phản ánh các khía cạnh tích cực và giáo dục của việc giúp đỡ ở nhà, phù hợp với các ví dụ trong đoạn văn. Lựa chọn 2 mâu thuẫn với giọng văn của đoạn văn khi nhấn mạnh sự khó khăn và không có phần thưởng. Lựa chọn 3 sai khi giới hạn việc giúp đỡ chỉ dựa vào hướng dẫn cụ thể từ cha mẹ, trong khi đoạn văn nhấn mạnh sự chủ động. Lựa chọn 4 giảm việc giúp đỡ chỉ thành việc dọn dẹp, bỏ qua khía cạnh sáng tạo và học hỏi đã đề cập."
+      }
+    }
+  ]
+}

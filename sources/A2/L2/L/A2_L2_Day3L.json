@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "The architecture of a famous building in the region reflects both modern and traditional styles.",
+    "shuffled_sentences": [
+      "The unique shape of the building shows its creative and innovative design.",
+      "Many people suggest that it represents the birth of a new cultural identity for the region.",
+      "The building became a regional icon, hosting events and drawing global attention."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "Visitors say the building inspires a sense of wonder and fulfills their wish to see something extraordinary." },
+      { "id": 2, "value": "The building was considered a sign of outdated traditions." },
+      { "id": 3, "value": "Many people believed the building gave a voice to forgotten communities." },
+      { "id": 4, "value": "The building was never finished because of low funding." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order starts with the unique shape of the building (Sentence 1), introducing its creative design. Next, people suggest that it represents the birth of a new cultural identity (Sentence 2). Finally, the building becoming a regional icon (Sentence 3) concludes the story by highlighting its success and global impact. Other orders disrupt the logical progression.",
+        "vietnamese": "Thứ tự đúng bắt đầu với hình dạng độc đáo của tòa nhà (Câu 1), giới thiệu thiết kế sáng tạo của nó. Tiếp theo, nhận định rằng nó đại diện cho sự ra đời của một bản sắc văn hóa mới (Câu 2). Cuối cùng, việc tòa nhà trở thành biểu tượng của vùng (Câu 3) kết thúc câu chuyện bằng cách nhấn mạnh thành công và tác động toàn cầu của nó. Các thứ tự khác làm mất đi mạch ý logic."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "Visitors say the building inspires a sense of wonder and fulfills their wish to see something extraordinary." },
+        { "id": 2, "value": "The building was considered a sign of outdated traditions." },
+        { "id": 3, "value": "Many people believed the building gave a voice to forgotten communities." },
+        { "id": 4, "value": "The building was never finished because of low funding." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it ends the passage with a positive tone, highlighting the success and impact of the building. Options 2, 3, and 4 introduce negative or unrelated ideas, which do not match the passage’s focus on the building’s achievements.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết thúc đoạn văn với giọng văn tích cực, nhấn mạnh sự thành công và tác động của tòa nhà. Các lựa chọn 2, 3 và 4 đưa ra ý tưởng tiêu cực hoặc không liên quan, điều này không phù hợp với nội dung nhấn mạnh thành tựu của tòa nhà."
+      }
+    }
+  ]
+}

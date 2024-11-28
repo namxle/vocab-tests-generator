@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "A trip to the beach is always exciting because there are so many activities to enjoy and things to explore.",
+    "shuffled_sentences": [
+      "Before we left, we made sure to check the weather and pack clothing suitable for a day in the sun and water.",
+      "When we arrived, we found a wheel cart to carry our bags, which made it easier to move everything across the sand.",
+      "Later, we did a quick survey of the area to find a clean spot, and we even picked up some rubbish to help keep the beach beautiful."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "In the end, the trip was memorable because we enjoyed the beach and helped care for the environment." },
+      { "id": 2, "value": "The trip was fun, but we refused to try anything new while we were there." },
+      { "id": 3, "value": "We realized that a trip to the beach is only enjoyable if you have enough cash for expensive activities." },
+      { "id": 4, "value": "The trip was exciting, but the advertising for the beach was better than the real experience." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order begins with checking the weather and packing appropriate clothing (Sentence 1), as this is preparation for the trip. Next, using a wheel cart to carry bags (Sentence 2) logically follows as an activity upon arrival. Finally, surveying the area and picking up rubbish (Sentence 3) concludes the story with a focus on environmental care and enjoying the beach.",
+        "vietnamese": "Trật tự đúng bắt đầu bằng việc kiểm tra thời tiết và chuẩn bị quần áo phù hợp (Câu 1), vì đây là bước chuẩn bị cho chuyến đi. Tiếp theo, sử dụng xe đẩy để mang đồ (Câu 2) là một hoạt động hợp lý khi vừa đến. Cuối cùng, khảo sát khu vực và nhặt rác (Câu 3) kết thúc câu chuyện với sự tập trung vào việc bảo vệ môi trường và tận hưởng bãi biển."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "In the end, the trip was memorable because we enjoyed the beach and helped care for the environment." },
+        { "id": 2, "value": "The trip was fun, but we refused to try anything new while we were there." },
+        { "id": 3, "value": "We realized that a trip to the beach is only enjoyable if you have enough cash for expensive activities." },
+        { "id": 4, "value": "The trip was exciting, but the advertising for the beach was better than the real experience." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it summarizes the key events of the trip and aligns with the positive tone of the passage. Option 2 is incorrect because it introduces a refusal to try new things, which is not mentioned in the passage. Option 3 shifts focus to money, which is irrelevant to the described events. Option 4 introduces criticism about advertising, which contradicts the positive experience highlighted in the passage.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó tóm tắt các sự kiện chính của chuyến đi và phù hợp với giọng văn tích cực của đoạn văn. Lựa chọn 2 sai vì nó đề cập đến việc từ chối thử những điều mới, điều này không được nhắc đến trong đoạn văn. Lựa chọn 3 chuyển sự chú ý đến vấn đề tiền bạc, không liên quan đến các sự kiện được mô tả. Lựa chọn 4 đưa ra lời phê bình về quảng cáo, mâu thuẫn với trải nghiệm tích cực được nhấn mạnh trong đoạn văn."
+      }
+    }
+  ]
+}

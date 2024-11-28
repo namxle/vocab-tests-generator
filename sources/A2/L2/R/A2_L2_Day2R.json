@@ -1,0 +1,87 @@
+{
+  "topic": "Ancient Architecture",
+  "provided_words": ["tidy", "truck", "sail", "narrow", "manage", "top", "architect", "level", "ancient", "novel"],
+  "passage": "Many ancient buildings around the world show how creative and skilled architects were in the past. For example, the Great Pyramid of Giza, which is located in Egypt, has stood for thousands of years and remains one of the wonders of the ancient world. It has a narrow entrance that leads to many hidden rooms, which were carefully designed to protect treasures. The architects had to manage the construction with great care, as they did not have modern tools to help them. At the top of the pyramid, there was once a shiny stone that reflected sunlight so brightly that it could be seen from far away. In ancient Greece, architects built the Parthenon, which is a temple dedicated to the goddess Athena. This temple was constructed on a high level of ground to show its importance, and its design included many details that symbolized strength and beauty. Since there were no trucks or cranes in ancient times, materials like stone had to be sailed across the sea, and workers had to lift heavy blocks using simple tools. Unlike modern architects, who sometimes get ideas from novels, ancient architects focused on making buildings that were strong and long-lasting. These incredible structures teach us about the creativity and intelligence of ancient people, whose designs continue to inspire us today.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "Ancient buildings show the creativity and skill of architects in the past." },
+        { "id": 2, "value": "The Parthenon is the most famous ancient building." },
+        { "id": 3, "value": "Modern architects are more creative than ancient architects." },
+        { "id": 4, "value": "Ancient people used trucks to build large buildings." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage highlights how ancient architects built creative and skillful structures, such as the Great Pyramid and the Parthenon.",
+        "vietnamese": "Đoạn văn nhấn mạnh cách các kiến trúc sư cổ đại xây dựng những công trình sáng tạo và khéo léo, như Kim tự tháp lớn và Parthenon."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'narrow' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Wide" },
+        { "id": 2, "value": "Small and thin" },
+        { "id": 3, "value": "Tall" },
+        { "id": 4, "value": "Bright" }
+      ],
+      "correct_answers": [2],
+      "explanation": {
+        "english": "In the passage, 'narrow' describes the small entrance to the Great Pyramid, which is not wide.",
+        "vietnamese": "Trong đoạn văn, 'narrow' mô tả lối vào nhỏ của Kim tự tháp lớn, không rộng."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Why did architects build the Parthenon on a high level of ground?",
+      "answers": [
+        { "id": 1, "value": "To show its importance." },
+        { "id": 2, "value": "To keep it safe from animals." },
+        { "id": 3, "value": "To make it easier to build." },
+        { "id": 4, "value": "To protect it from floods." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that the Parthenon was built on a high level of ground to show its importance.",
+        "vietnamese": "Đoạn văn giải thích rằng Parthenon được xây dựng trên nền đất cao để thể hiện tầm quan trọng của nó."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why did ancient architects need to sail materials across the sea?",
+      "answers": [
+        { "id": 1, "value": "Because they didn’t have trucks or cranes to transport materials." },
+        { "id": 2, "value": "Because the sea was the only place to find materials." },
+        { "id": 3, "value": "Because their cities were all near the ocean." },
+        { "id": 4, "value": "Because they wanted to test their skills." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that ancient architects needed to sail materials because they did not have modern tools like trucks or cranes.",
+        "vietnamese": "Đoạn văn giải thích rằng các kiến trúc sư cổ đại phải vận chuyển vật liệu qua biển vì họ không có công cụ hiện đại như xe tải hoặc cần cẩu."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'novel' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It refers to books that sometimes inspire modern architects." },
+        { "id": 2, "value": "It describes the size of ancient buildings." },
+        { "id": 3, "value": "It explains the tools used in ancient times." },
+        { "id": 4, "value": "It means the building was narrow and small." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'novel' refers to books that inspire modern architects to design unique buildings.",
+        "vietnamese": "Trong đoạn văn, 'novel' ám chỉ những cuốn sách truyền cảm hứng cho các kiến trúc sư hiện đại thiết kế các tòa nhà độc đáo."
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "A formal event was held at a famous palace to celebrate a local tradition.",
+    "shuffled_sentences": [
+      "Before the event started, visitors had a chance to explore the church close to the palace.",
+      "During the event, traditional music was performed, and all the listeners enjoyed it.",
+      "The event ended with warm applause, showing appreciation for the performers."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "It highlighted the importance of traditional culture in bringing people together." },
+      { "id": 2, "value": "Only a small percent of guests were polite during the event." },
+      { "id": 3, "value": "The event could not start because the venue was too close to the church." },
+      { "id": 4, "value": "Many people felt the event was too formal and not enjoyable." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct order begins with visitors exploring the church close to the palace before the event (Sentence 1). Then, the traditional music performance during the event (Sentence 2) follows logically. Finally, the event concluded with warm applause (Sentence 3), marking a successful end and showing appreciation for the performers. Other sequences disrupt the logical flow.",
+        "vietnamese": "Thứ tự đúng bắt đầu với việc khách tham quan nhà thờ gần cung điện trước sự kiện (Câu 1). Tiếp theo, buổi biểu diễn nhạc truyền thống trong sự kiện (Câu 2) diễn ra như hoạt động chính. Cuối cùng, sự kiện kết thúc với tiếng vỗ tay nồng nhiệt (Câu 3), đánh dấu một cái kết thành công và thể hiện sự cảm kích đối với người biểu diễn. Các thứ tự khác làm mất mạch ý logic."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "It highlighted the importance of traditional culture in bringing people together." },
+        { "id": 2, "value": "Only a small percent of guests were polite during the event." },
+        { "id": 3, "value": "The event could not start because the venue was too close to the church." },
+        { "id": 4, "value": "Many people felt the event was too formal and not enjoyable." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it concludes the passage with a positive note, emphasizing the role of traditional culture in uniting people and preserving shared values. Options 2, 3, and 4 introduce negative or irrelevant details, which do not fit the story’s focus on celebrating the event and tradition.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết thúc đoạn văn với giọng văn tích cực, nhấn mạnh vai trò của văn hóa truyền thống trong việc kết nối mọi người và bảo tồn các giá trị chung. Các lựa chọn 2, 3 và 4 đưa ra chi tiết tiêu cực hoặc không liên quan, điều này không phù hợp với nội dung câu chuyện tập trung vào việc kỷ niệm sự kiện và truyền thống."
+      }
+    }
+  ]
+}

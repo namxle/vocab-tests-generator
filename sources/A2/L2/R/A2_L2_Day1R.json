@@ -1,0 +1,87 @@
+{
+  "topic": "Creativity and Employment",
+  "provided_words": ["thief", "decision", "crime", "curly", "employ", "employer", "creative", "free", "knowledge", "lift"],
+  "passage": "Anna is a creative girl who loves art and has many great ideas. She works in a small art shop where her employer, Mr. Lewis, is kind and supportive. Not only does he teach her new skills, but he also encourages her to be free in expressing her creativity. Every day, Anna enjoys painting, designing, and making decorations for the shop, which she finds exciting and fulfilling. One morning, while arranging some new paintings, Anna noticed a man with curly hair entering the shop. Although he smiled at first, he looked around nervously and acted strangely. When Anna was helping another customer, she saw the man trying to lift a small but expensive painting without paying. Realizing that something was wrong, Anna made a quick decision to call Mr. Lewis. They worked together to stop the man, who turned out to be a thief. After the incident, the police arrived and praised Anna for her quick thinking and courage. They explained that stealing is a serious crime, and they were glad Anna acted so fast. Later, Mr. Lewis told Anna that she had done an excellent job and that her knowledge and bravery were impressive. Although the situation was scary, Anna felt proud of herself and knew she had made a positive difference. She continues to work hard at the shop, feeling even more motivated to learn and grow each day.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "Anna works in an art shop and bravely stops a thief from stealing a painting." },
+        { "id": 2, "value": "Anna becomes a famous artist at the shop." },
+        { "id": 3, "value": "Mr. Lewis opens a new art shop." },
+        { "id": 4, "value": "A man with curly hair buys a painting." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage highlights Anna's creativity, her job at the shop, and her bravery in stopping a thief.",
+        "vietnamese": "Đoạn văn nhấn mạnh sự sáng tạo, công việc của Anna tại cửa hàng và lòng dũng cảm của cô khi ngăn chặn tên trộm."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'decision' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "A quick choice to act." },
+        { "id": 2, "value": "A type of painting." },
+        { "id": 3, "value": "A mistake." },
+        { "id": 4, "value": "A crime." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'decision' refers to Anna's quick choice to act when she saw the thief.",
+        "vietnamese": "Trong đoạn văn, 'decision' ám chỉ sự lựa chọn nhanh chóng của Anna khi thấy tên trộm."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Why did Anna feel proud after the incident?",
+      "answers": [
+        { "id": 1, "value": "She used her knowledge and courage to stop a thief." },
+        { "id": 2, "value": "She sold a painting to a customer." },
+        { "id": 3, "value": "She learned a new painting skill." },
+        { "id": 4, "value": "She opened a new shop." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Anna felt proud because her knowledge and courage helped prevent a crime.",
+        "vietnamese": "Anna cảm thấy tự hào vì kiến thức và lòng dũng cảm của cô đã giúp ngăn chặn một vụ phạm tội."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why did Anna call Mr. Lewis when she saw the man stealing?",
+      "answers": [
+        { "id": 1, "value": "She trusted him to help solve the problem." },
+        { "id": 2, "value": "She wanted him to talk to the man." },
+        { "id": 3, "value": "She was afraid to speak to the customer." },
+        { "id": 4, "value": "She thought the man wanted to buy the painting." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Anna knew Mr. Lewis would know what to do, so she called him for help.",
+        "vietnamese": "Anna biết rằng ông Lewis sẽ biết cách xử lý, nên cô đã gọi ông ấy giúp đỡ."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'crime' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It shows that stealing is wrong." },
+        { "id": 2, "value": "It describes Anna's creativity." },
+        { "id": 3, "value": "It explains why the thief entered the shop." },
+        { "id": 4, "value": "It is not important to the story." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Crime' is used to show that the thief's actions were illegal and wrong.",
+        "vietnamese": "'Crime' được dùng để chỉ rằng hành động của tên trộm là bất hợp pháp và sai trái."
+      }
+    }
+  ]
+}

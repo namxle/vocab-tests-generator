@@ -1,0 +1,87 @@
+{
+  "topic": "School Clubs and Activities",
+  "provided_words": ["airline", "contain", "bin", "recycle", "empty", "exist", "reduce", "offer", "look", "oven"],
+  "passage": "School clubs and activities are a great way for students to learn new skills and have fun. At my school, many clubs exist, and they offer something for everyone. For example, the Eco Club teaches students how to recycle and reduce waste. They placed recycling bins around the school to collect items like paper and plastic. The Art Club helps students look at the world creatively by teaching them how to draw and paint. In the Cooking Club, we learn how to bake cakes and cook meals. Last week, we used the school oven to bake cookies, and everyone enjoyed them. The Debate Club focuses on improving speaking skills and confidence. Members of this club practice debating topics, such as whether schools should contain more outdoor activities. There is even a Travel Club that dreams about visiting places, including how airlines work to bring people to exciting destinations. School clubs not only make learning fun but also help students make friends and explore their interests.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        { "id": 1, "value": "School clubs help students learn new skills, have fun, and explore their interests." },
+        { "id": 2, "value": "The Cooking Club is the most popular activity at the school." },
+        { "id": 3, "value": "The Debate Club focuses on helping students speak better." },
+        { "id": 4, "value": "School clubs are only for students who enjoy traveling." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage describes how school clubs offer various activities for students to learn, have fun, and discover new interests.",
+        "vietnamese": "Đoạn văn mô tả cách các câu lạc bộ trường học cung cấp các hoạt động đa dạng để học sinh học hỏi, vui chơi và khám phá sở thích mới."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'bin' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "A container for holding waste or recycling items." },
+        { "id": 2, "value": "A type of oven used for baking." },
+        { "id": 3, "value": "A box for carrying school supplies." },
+        { "id": 4, "value": "A place where students keep their books." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Bin' refers to containers placed around the school by the Eco Club to collect recyclable items like paper and plastic.",
+        "vietnamese": "'Bin' chỉ các thùng được đặt quanh trường bởi Câu lạc bộ Sinh thái để thu gom các vật liệu có thể tái chế như giấy và nhựa."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What activity did the Cooking Club do last week?",
+      "answers": [
+        { "id": 1, "value": "Baked cookies using the school oven." },
+        { "id": 2, "value": "Recycled paper and plastic." },
+        { "id": 3, "value": "Practiced debating topics." },
+        { "id": 4, "value": "Painted pictures for an art show." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that the Cooking Club baked cookies using the school oven last week.",
+        "vietnamese": "Đoạn văn đề cập rằng Câu lạc bộ Nấu ăn đã nướng bánh quy bằng lò nướng của trường vào tuần trước."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why does the Eco Club place recycling bins around the school?",
+      "answers": [
+        { "id": 1, "value": "To reduce waste and encourage recycling." },
+        { "id": 2, "value": "To store supplies for the Art Club." },
+        { "id": 3, "value": "To collect trash and empty it every day." },
+        { "id": 4, "value": "To hold items used in cooking activities." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The Eco Club places bins to collect recyclable items and help reduce waste, as explained in the passage.",
+        "vietnamese": "Câu lạc bộ Sinh thái đặt thùng để thu gom các vật liệu tái chế và giúp giảm rác thải, như được giải thích trong đoạn văn."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'offer' in the sentence, 'They offer something for everyone'?",
+      "answers": [
+        { "id": 1, "value": "It shows that school clubs provide a variety of activities for students." },
+        { "id": 2, "value": "It explains why some students do not join clubs." },
+        { "id": 3, "value": "It describes the rules for joining a club." },
+        { "id": 4, "value": "It means students need to pay to join a club." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'offer' indicates that school clubs provide various options to match different students' interests.",
+        "vietnamese": "Từ 'offer' chỉ rằng các câu lạc bộ trường học cung cấp nhiều lựa chọn phù hợp với sở thích khác nhau của học sinh."
+      }
+    }
+  ]
+}

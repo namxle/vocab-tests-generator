@@ -1,0 +1,45 @@
+{
+  "passage": {
+    "first_sentence": "An award ceremony was held to celebrate a classical musician's success.",
+    "shuffled_sentences": [
+      "The venue was arranged with beautiful flowers and lights for the celebration.",
+      "The king gave a speech to honor the musician's achievements.",
+      "The queen presented the musician with a medal as a symbol of appreciation for his talent."
+    ],
+    "sentence_completion_options": [
+      { "id": 1, "value": "The ceremony ended with the musician thanking everyone for their support." },
+      { "id": 2, "value": "Many people believed the musician’s talent was a gift from the gods." },
+      { "id": 3, "value": "The musician decided not to attend the award ceremony." },
+      { "id": 4, "value": "The invitations were lost, and many guests missed the event." }
+    ],
+    "correct_answer": 1
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "Rearrange (MCQ)",
+      "question_name": "Rearrange the sentences to reflect the correct sequence based on their logical roles:",
+      "correct_order": [1, 2, 3],
+      "explanation": {
+        "english": "The correct sequence starts with the venue’s decoration (Sentence 1), setting the stage for the celebration. Next, the king’s speech (Sentence 2) honors the musician's achievements. Finally, the queen presenting the medal to the musician (Sentence 3) concludes the story by showing appreciation for his talent. Other sequences disrupt the flow of ideas.",
+        "vietnamese": "Trật tự đúng bắt đầu với sự trang trí của địa điểm (Câu 1), tạo bối cảnh cho buổi lễ. Tiếp theo, bài phát biểu của nhà vua (Câu 2) tôn vinh thành tựu của nghệ sĩ. Cuối cùng, việc nữ hoàng trao tặng huân chương cho nghệ sĩ (Câu 3) kết thúc câu chuyện, thể hiện sự trân trọng dành cho tài năng của anh ấy. Các trật tự khác sẽ phá vỡ mạch ý tưởng."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Completion (MCQ)",
+      "question_name": "Choose the sentence that best completes the passage:",
+      "answers": [
+        { "id": 1, "value": "The ceremony ended with the musician thanking everyone for their support." },
+        { "id": 2, "value": "Many people believed the musician’s talent was a gift from the gods." },
+        { "id": 3, "value": "The musician decided not to attend the award ceremony." },
+        { "id": 4, "value": "The invitations were lost, and many guests missed the event." }
+      ],
+      "correct_answer": 1,
+      "explanation": {
+        "english": "Option 1 is correct because it ends the passage on a positive note, highlighting the success of the event. Option 2 introduces an unrelated idea about gods, which is not relevant to the context. Option 3 suggests the musician did not attend, which contradicts the passage. Option 4 adds a problem with the invitations, which is not mentioned in the narrative.",
+        "vietnamese": "Lựa chọn 1 là đúng vì nó kết thúc đoạn văn với giọng văn tích cực, nhấn mạnh sự thành công của sự kiện. Lựa chọn 2 đưa ra một ý không liên quan về các vị thần, điều này không phù hợp với ngữ cảnh. Lựa chọn 3 cho rằng nghệ sĩ không tham dự, điều này mâu thuẫn với đoạn văn. Lựa chọn 4 thêm một vấn đề về lời mời, điều này không được đề cập trong câu chuyện."
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "word": "individual",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Each _______ in the group has their own responsibilities.",
+        "answers": [
+          { "id": 1, "value": "individual" },
+          { "id": 2, "value": "team" },
+          { "id": 3, "value": "plan" },
+          { "id": 4, "value": "rule" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "skin",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She used a cream to protect her _______ from the sun.",
+        "answers": [
+          { "id": 1, "value": "skin" },
+          { "id": 2, "value": "hair" },
+          { "id": 3, "value": "eyes" },
+          { "id": 4, "value": "teeth" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "slowly",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He walked _______ because his leg was hurting.",
+        "answers": [
+          { "id": 1, "value": "slowly" },
+          { "id": 2, "value": "quickly" },
+          { "id": 3, "value": "loudly" },
+          { "id": 4, "value": "happily" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "recipe",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She followed the _______ to bake the perfect chocolate cake.",
+        "answers": [
+          { "id": 1, "value": "recipe" },
+          { "id": 2, "value": "map" },
+          { "id": 3, "value": "menu" },
+          { "id": 4, "value": "plan" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lock",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Don’t forget to _______ the door before leaving the house.",
+        "answers": [
+          { "id": 1, "value": "lock" },
+          { "id": 2, "value": "open" },
+          { "id": 3, "value": "fix" },
+          { "id": 4, "value": "push" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "usual",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It was a very quiet day, with nothing different from the _______.",
+        "answers": [
+          { "id": 1, "value": "usual" },
+          { "id": 2, "value": "special" },
+          { "id": 3, "value": "new" },
+          { "id": 4, "value": "old" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "active",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is very _______ and enjoys running, swimming, and hiking.",
+        "answers": [
+          { "id": 1, "value": "active" },
+          { "id": 2, "value": "lazy" },
+          { "id": 3, "value": "quiet" },
+          { "id": 4, "value": "tired" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "businessman",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ traveled to different countries to meet his clients.",
+        "answers": [
+          { "id": 1, "value": "businessman" },
+          { "id": 2, "value": "teacher" },
+          { "id": 3, "value": "student" },
+          { "id": 4, "value": "artist" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "benefit",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "A good diet and regular exercise will _______ your health.",
+        "answers": [
+          { "id": 1, "value": "benefit" },
+          { "id": 2, "value": "hurt" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "stop" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lifestyle",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He enjoys a healthy _______ that includes plenty of exercise and good food.",
+        "answers": [
+          { "id": 1, "value": "lifestyle" },
+          { "id": 2, "value": "diet" },
+          { "id": 3, "value": "habit" },
+          { "id": 4, "value": "routine" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

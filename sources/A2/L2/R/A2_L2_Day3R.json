@@ -1,0 +1,89 @@
+{
+  "topic": "Architecture and Culture",
+  "provided_words": ["architecture", "region", "suggest", "shape", "sign", "birth", "towards", "sense", "wish", "voice"],
+  "passage_and_questions": {
+    "passage": "Architecture is a way to express ideas and culture. In different regions of the world, buildings often have unique shapes and designs, which reflect the traditions of their people. For example, in Egypt, the pyramids are shaped like triangles and are signs of the pharaohs’ power and greatness. In Japan, people often build houses with wooden structures that can move slightly during earthquakes, which shows a strong sense of safety and preparation. Sometimes, buildings are created to celebrate important events or achievements. The Eiffel Tower in France, which was built during a world fair, marks the birth of modern engineering and has become a global symbol of innovation. Architects often suggest ideas that are both creative and practical, aiming to meet the needs of the people who will use their buildings. For instance, they might design a school where children can learn towards a brighter future, or a hospital that brings comfort to patients while also being energy-efficient. Many architects wish to create places where people feel happy, safe, and inspired. When you look at a building, it feels like it has its own voice, telling the story of why it was built and who it was built for. This is why architecture is so important; it connects us to the past, the present, and the future.",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Main Idea",
+        "question_name": "What is the main idea of the passage?",
+        "answers": [
+          { "id": 1, "value": "Architecture connects people to history and culture." },
+          { "id": 2, "value": "Architects only build homes for people." },
+          { "id": 3, "value": "Modern buildings are better than ancient ones." },
+          { "id": 4, "value": "Regions all build in the same way." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage explains how architecture reflects culture and connects us to the past, present, and future.",
+          "vietnamese": "Đoạn văn giải thích cách kiến trúc phản ánh văn hóa và kết nối chúng ta với quá khứ, hiện tại và tương lai."
+        }
+      },
+      {
+        "id": 2,
+        "type": "Vocabulary",
+        "question_name": "What does 'shape' mean in the passage?",
+        "answers": [
+          { "id": 1, "value": "Color" },
+          { "id": 2, "value": "Form or outline" },
+          { "id": 3, "value": "Material" },
+          { "id": 4, "value": "Weight" }
+        ],
+        "correct_answers": [2],
+        "explanation": {
+          "english": "In the passage, 'shape' refers to the form or outline of buildings, like the triangular shape of pyramids.",
+          "vietnamese": "Trong đoạn văn, 'shape' chỉ hình dạng hoặc đường viền của các tòa nhà, như hình tam giác của kim tự tháp."
+        }
+      },
+      {
+        "id": 3,
+        "type": "Details",
+        "question_name": "Why was the Eiffel Tower built?",
+        "answers": [
+          { "id": 1, "value": "To mark the birth of modern engineering." },
+          { "id": 2, "value": "To show the power of France." },
+          { "id": 3, "value": "To celebrate a pharaoh." },
+          { "id": 4, "value": "To protect people from earthquakes." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage states that the Eiffel Tower was built to celebrate the birth of modern engineering during a world fair.",
+          "vietnamese": "Đoạn văn nói rằng Tháp Eiffel được xây dựng để đánh dấu sự ra đời của kỹ thuật hiện đại trong một hội chợ thế giới."
+        }
+      },
+      {
+        "id": 4,
+        "type": "Inference",
+        "question_name": "Why do architects design schools and hospitals?",
+        "answers": [
+          { "id": 1, "value": "To meet people’s needs and improve their lives." },
+          { "id": 2, "value": "To make places look more colorful." },
+          { "id": 3, "value": "To celebrate history and culture." },
+          { "id": 4, "value": "To make buildings last longer." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "The passage suggests that architects design schools and hospitals to meet people's needs and make their lives better.",
+          "vietnamese": "Đoạn văn gợi ý rằng các kiến trúc sư thiết kế trường học và bệnh viện để đáp ứng nhu cầu của con người và cải thiện cuộc sống của họ."
+        }
+      },
+      {
+        "id": 5,
+        "type": "Role of Word",
+        "question_name": "What is the role of the word 'voice' in the passage?",
+        "answers": [
+          { "id": 1, "value": "It means buildings can tell a story about their purpose." },
+          { "id": 2, "value": "It describes the sound of a building." },
+          { "id": 3, "value": "It explains why people talk about architecture." },
+          { "id": 4, "value": "It refers to the sound made by architects." }
+        ],
+        "correct_answers": [1],
+        "explanation": {
+          "english": "In the passage, 'voice' refers to the way buildings can tell a story about their purpose and history.",
+          "vietnamese": "Trong đoạn văn, 'voice' ám chỉ cách các tòa nhà có thể kể câu chuyện về mục đích và lịch sử của chúng."
+        }
+      }
+    ]
+  }
+}
