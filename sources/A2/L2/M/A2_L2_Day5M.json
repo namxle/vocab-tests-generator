@@ -1,0 +1,172 @@
+[
+  {
+    "word": "church",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They got married in a small _______ in the countryside.",
+        "answers": [
+          { "id": 1, "value": "church" },
+          { "id": 2, "value": "house" },
+          { "id": 3, "value": "school" },
+          { "id": 4, "value": "office" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "palace",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The king and queen lived in a grand _______ surrounded by gardens.",
+        "answers": [
+          { "id": 1, "value": "palace" },
+          { "id": 2, "value": "castle" },
+          { "id": 3, "value": "tower" },
+          { "id": 4, "value": "cottage" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "tradition",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In our country, it is a _______ to have a big family meal during holidays.",
+        "answers": [
+          { "id": 1, "value": "tradition" },
+          { "id": 2, "value": "habit" },
+          { "id": 3, "value": "custom" },
+          { "id": 4, "value": "plan" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "before",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She always reviews her notes _______ an exam.",
+        "answers": [
+          { "id": 1, "value": "before" },
+          { "id": 2, "value": "after" },
+          { "id": 3, "value": "during" },
+          { "id": 4, "value": "between" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "traditional",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We wore _______ clothes for the festival to honor our culture.",
+        "answers": [
+          { "id": 1, "value": "traditional" },
+          { "id": 2, "value": "modern" },
+          { "id": 3, "value": "formal" },
+          { "id": 4, "value": "old-fashioned" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "close",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There is a library _______ to my house, so I can walk there easily.",
+        "answers": [
+          { "id": 1, "value": "close" },
+          { "id": 2, "value": "far" },
+          { "id": 3, "value": "next" },
+          { "id": 4, "value": "above" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "formal",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The meeting was very _______ with everyone wearing suits and ties.",
+        "answers": [
+          { "id": 1, "value": "formal" },
+          { "id": 2, "value": "casual" },
+          { "id": 3, "value": "relaxed" },
+          { "id": 4, "value": "funny" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "listener",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher was a good _______ and always paid attention to the students.",
+        "answers": [
+          { "id": 1, "value": "listener" },
+          { "id": 2, "value": "speaker" },
+          { "id": 3, "value": "talker" },
+          { "id": 4, "value": "observer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "percent",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Only ten _______ of the students completed the homework on time.",
+        "answers": [
+          { "id": 1, "value": "percent" },
+          { "id": 2, "value": "times" },
+          { "id": 3, "value": "numbers" },
+          { "id": 4, "value": "marks" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "polite",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is important to be _______ when speaking to older people.",
+        "answers": [
+          { "id": 1, "value": "polite" },
+          { "id": 2, "value": "quiet" },
+          { "id": 3, "value": "friendly" },
+          { "id": 4, "value": "formal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

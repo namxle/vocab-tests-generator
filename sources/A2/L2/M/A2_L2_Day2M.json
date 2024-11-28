@@ -1,0 +1,172 @@
+[
+  {
+    "word": "tidy",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She spent the morning cleaning her room to make it _______.",
+        "answers": [
+          { "id": 1, "value": "tidy" },
+          { "id": 2, "value": "dirty" },
+          { "id": 3, "value": "messy" },
+          { "id": 4, "value": "noisy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "truck",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The workers used a large _______ to move the furniture to the new house.",
+        "answers": [
+          { "id": 1, "value": "truck" },
+          { "id": 2, "value": "car" },
+          { "id": 3, "value": "bicycle" },
+          { "id": 4, "value": "boat" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sail",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They decided to _______ across the lake on a sunny afternoon.",
+        "answers": [
+          { "id": 1, "value": "sail" },
+          { "id": 2, "value": "swim" },
+          { "id": 3, "value": "walk" },
+          { "id": 4, "value": "drive" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "narrow",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The car could barely fit through the _______ street in the old town.",
+        "answers": [
+          { "id": 1, "value": "narrow" },
+          { "id": 2, "value": "wide" },
+          { "id": 3, "value": "empty" },
+          { "id": 4, "value": "long" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "manage",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It was difficult to _______ all the tasks in one day, but she did it.",
+        "answers": [
+          { "id": 1, "value": "manage" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "forget" },
+          { "id": 4, "value": "stop" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "top",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "From the _______ of the mountain, we could see the whole valley.",
+        "answers": [
+          { "id": 1, "value": "top" },
+          { "id": 2, "value": "bottom" },
+          { "id": 3, "value": "side" },
+          { "id": 4, "value": "edge" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "architect",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ designed a modern building for the new library.",
+        "answers": [
+          { "id": 1, "value": "architect" },
+          { "id": 2, "value": "builder" },
+          { "id": 3, "value": "doctor" },
+          { "id": 4, "value": "artist" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "level",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The water in the lake reached a high _______ after the heavy rain.",
+        "answers": [
+          { "id": 1, "value": "level" },
+          { "id": 2, "value": "temperature" },
+          { "id": 3, "value": "speed" },
+          { "id": 4, "value": "amount" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ancient",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The museum displayed _______ artifacts from thousands of years ago.",
+        "answers": [
+          { "id": 1, "value": "ancient" },
+          { "id": 2, "value": "modern" },
+          { "id": 3, "value": "new" },
+          { "id": 4, "value": "temporary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "novel",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She spent the weekend reading an exciting _______ about a mystery on a train.",
+        "answers": [
+          { "id": 1, "value": "novel" },
+          { "id": 2, "value": "magazine" },
+          { "id": 3, "value": "poem" },
+          { "id": 4, "value": "newspaper" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

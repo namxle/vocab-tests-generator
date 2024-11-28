@@ -1,0 +1,172 @@
+[
+  {
+    "word": "identify",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The police worked hard to _______ the suspect using the evidence they found.",
+        "answers": [
+          { "id": 1, "value": "identify" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "lose" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "informal",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The party was very _______, so you didn’t need to wear a suit or dress.",
+        "answers": [
+          { "id": 1, "value": "informal" },
+          { "id": 2, "value": "formal" },
+          { "id": 3, "value": "strict" },
+          { "id": 4, "value": "serious" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lazy",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He didn’t finish his homework because he was feeling too _______.",
+        "answers": [
+          { "id": 1, "value": "lazy" },
+          { "id": 2, "value": "busy" },
+          { "id": 3, "value": "tired" },
+          { "id": 4, "value": "excited" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "likely",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is _______ to rain tomorrow, so don’t forget your umbrella.",
+        "answers": [
+          { "id": 1, "value": "likely" },
+          { "id": 2, "value": "unlikely" },
+          { "id": 3, "value": "impossible" },
+          { "id": 4, "value": "unlikely" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "little",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The puppy was so _______, it could fit in the palm of her hand.",
+        "answers": [
+          { "id": 1, "value": "little" },
+          { "id": 2, "value": "big" },
+          { "id": 3, "value": "large" },
+          { "id": 4, "value": "huge" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "clever",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She came up with a _______ idea to solve the problem quickly.",
+        "answers": [
+          { "id": 1, "value": "clever" },
+          { "id": 2, "value": "silly" },
+          { "id": 3, "value": "boring" },
+          { "id": 4, "value": "slow" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "least",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This task is the _______ important, so you can do it last.",
+        "answers": [
+          { "id": 1, "value": "least" },
+          { "id": 2, "value": "most" },
+          { "id": 3, "value": "more" },
+          { "id": 4, "value": "very" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lovely",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The garden was so _______, with flowers blooming everywhere.",
+        "answers": [
+          { "id": 1, "value": "lovely" },
+          { "id": 2, "value": "ugly" },
+          { "id": 3, "value": "plain" },
+          { "id": 4, "value": "boring" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "material",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The workers used a strong _______ to build the new bridge.",
+        "answers": [
+          { "id": 1, "value": "material" },
+          { "id": 2, "value": "idea" },
+          { "id": 3, "value": "color" },
+          { "id": 4, "value": "toy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "marry",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They decided to _______ after being together for five years.",
+        "answers": [
+          { "id": 1, "value": "marry" },
+          { "id": 2, "value": "divorce" },
+          { "id": 3, "value": "argue" },
+          { "id": 4, "value": "wait" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "word": "award",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She received an _______ for her excellent work in science.",
+        "answers": [
+          { "id": 1, "value": "award" },
+          { "id": 2, "value": "opinion" },
+          { "id": 3, "value": "speech" },
+          { "id": 4, "value": "applause" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "invite",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Did you _______ your friends to the birthday party?",
+        "answers": [
+          { "id": 1, "value": "invite" },
+          { "id": 2, "value": "call" },
+          { "id": 3, "value": "ask" },
+          { "id": 4, "value": "send" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "arrangement",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hotel staff made an _______ for us to have dinner by the beach.",
+        "answers": [
+          { "id": 1, "value": "arrangement" },
+          { "id": 2, "value": "idea" },
+          { "id": 3, "value": "appointment" },
+          { "id": 4, "value": "agreement" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "celebrate",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We will _______ her graduation with a big party.",
+        "answers": [
+          { "id": 1, "value": "celebrate" },
+          { "id": 2, "value": "mention" },
+          { "id": 3, "value": "imagine" },
+          { "id": 4, "value": "observe" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "classical",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She enjoys listening to _______ music, especially Mozart and Beethoven.",
+        "answers": [
+          { "id": 1, "value": "classical" },
+          { "id": 2, "value": "modern" },
+          { "id": 3, "value": "pop" },
+          { "id": 4, "value": "rock" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ceremony",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The wedding _______ was held in a beautiful garden.",
+        "answers": [
+          { "id": 1, "value": "ceremony" },
+          { "id": 2, "value": "party" },
+          { "id": 3, "value": "meeting" },
+          { "id": 4, "value": "session" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "god",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In many ancient stories, people prayed to their _______ for protection.",
+        "answers": [
+          { "id": 1, "value": "god" },
+          { "id": 2, "value": "leader" },
+          { "id": 3, "value": "hero" },
+          { "id": 4, "value": "teacher" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "king",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ lived in a grand palace and led his army to victory in the war.",
+        "answers": [
+          { "id": 1, "value": "king" },
+          { "id": 2, "value": "general" },
+          { "id": 3, "value": "minister" },
+          { "id": 4, "value": "guard" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "word": "belong",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "These books _______ to the school library, so you must return them.",
+        "answers": [
+          { "id": 1, "value": "belong" },
+          { "id": 2, "value": "fit" },
+          { "id": 3, "value": "stay" },
+          { "id": 4, "value": "show" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "certainly",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I will _______ help you with your project if you need it.",
+        "answers": [
+          { "id": 1, "value": "certainly" },
+          { "id": 2, "value": "rarely" },
+          { "id": 3, "value": "probably" },
+          { "id": 4, "value": "maybe" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "care",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You should take good _______ of your plants so they grow well.",
+        "answers": [
+          { "id": 1, "value": "care" },
+          { "id": 2, "value": "time" },
+          { "id": 3, "value": "look" },
+          { "id": 4, "value": "attention" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "daily",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I go for a _______ walk every morning before breakfast.",
+        "answers": [
+          { "id": 1, "value": "daily" },
+          { "id": 2, "value": "yearly" },
+          { "id": 3, "value": "monthly" },
+          { "id": 4, "value": "hourly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "perhaps",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It’s cloudy today, so _______ it will rain in the afternoon.",
+        "answers": [
+          { "id": 1, "value": "perhaps" },
+          { "id": 2, "value": "always" },
+          { "id": 3, "value": "never" },
+          { "id": 4, "value": "certainly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "crazy",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children went _______ with excitement when they saw the balloons.",
+        "answers": [
+          { "id": 1, "value": "crazy" },
+          { "id": 2, "value": "calm" },
+          { "id": 3, "value": "serious" },
+          { "id": 4, "value": "bored" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "extremely",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It was an _______ hot day, so we stayed inside to avoid the sun.",
+        "answers": [
+          { "id": 1, "value": "extremely" },
+          { "id": 2, "value": "slightly" },
+          { "id": 3, "value": "hardly" },
+          { "id": 4, "value": "barely" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "character",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The main _______ in the story is a brave young girl who saves her village.",
+        "answers": [
+          { "id": 1, "value": "character" },
+          { "id": 2, "value": "author" },
+          { "id": 3, "value": "reader" },
+          { "id": 4, "value": "actor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fortunately",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I forgot my umbrella, but _______ it didn’t rain during my walk.",
+        "answers": [
+          { "id": 1, "value": "fortunately" },
+          { "id": 2, "value": "unfortunately" },
+          { "id": 3, "value": "rarely" },
+          { "id": 4, "value": "sadly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ideal",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This park is an _______ place for a picnic because it’s quiet and beautiful.",
+        "answers": [
+          { "id": 1, "value": "ideal" },
+          { "id": 2, "value": "difficult" },
+          { "id": 3, "value": "poor" },
+          { "id": 4, "value": "crowded" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

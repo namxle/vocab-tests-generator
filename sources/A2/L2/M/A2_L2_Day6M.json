@@ -1,0 +1,172 @@
+[
+  {
+    "word": "mirror",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She looked at herself in the _______ before leaving the house.",
+        "answers": [
+          { "id": 1, "value": "mirror" },
+          { "id": 2, "value": "window" },
+          { "id": 3, "value": "picture" },
+          { "id": 4, "value": "glass" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "home",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After a long day at work, he was happy to return _______.",
+        "answers": [
+          { "id": 1, "value": "home" },
+          { "id": 2, "value": "office" },
+          { "id": 3, "value": "school" },
+          { "id": 4, "value": "park" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "smile",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her warm _______ made everyone feel welcome at the party.",
+        "answers": [
+          { "id": 1, "value": "smile" },
+          { "id": 2, "value": "frown" },
+          { "id": 3, "value": "voice" },
+          { "id": 4, "value": "laugh" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "service",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The restaurant is known for its excellent customer _______.",
+        "answers": [
+          { "id": 1, "value": "service" },
+          { "id": 2, "value": "food" },
+          { "id": 3, "value": "menu" },
+          { "id": 4, "value": "prices" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "against",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They leaned the ladder _______ the wall to paint the ceiling.",
+        "answers": [
+          { "id": 1, "value": "against" },
+          { "id": 2, "value": "beside" },
+          { "id": 3, "value": "under" },
+          { "id": 4, "value": "behind" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "allow",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher did not _______ students to use their phones in class.",
+        "answers": [
+          { "id": 1, "value": "allow" },
+          { "id": 2, "value": "ask" },
+          { "id": 3, "value": "help" },
+          { "id": 4, "value": "force" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "actually",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I thought the test would be hard, but it was _______ very easy.",
+        "answers": [
+          { "id": 1, "value": "actually" },
+          { "id": 2, "value": "only" },
+          { "id": 3, "value": "rarely" },
+          { "id": 4, "value": "totally" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "able",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She was _______ to finish her homework before dinner.",
+        "answers": [
+          { "id": 1, "value": "able" },
+          { "id": 2, "value": "willing" },
+          { "id": 3, "value": "ready" },
+          { "id": 4, "value": "sure" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "careful",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Be _______ when carrying the glass vase so it doesn’t break.",
+        "answers": [
+          { "id": 1, "value": "careful" },
+          { "id": 2, "value": "quick" },
+          { "id": 3, "value": "lazy" },
+          { "id": 4, "value": "strong" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "behave",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher reminded the students to _______ properly during the visit to the museum.",
+        "answers": [
+          { "id": 1, "value": "behave" },
+          { "id": 2, "value": "talk" },
+          { "id": 3, "value": "run" },
+          { "id": 4, "value": "shout" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

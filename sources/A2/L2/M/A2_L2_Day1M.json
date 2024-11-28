@@ -1,0 +1,172 @@
+[
+  {
+    "word": "thief",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The police caught the _______ who stole the valuable painting.",
+        "answers": [
+          { "id": 1, "value": "thief" },
+          { "id": 2, "value": "artist" },
+          { "id": 3, "value": "detective" },
+          { "id": 4, "value": "bystander" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "decision",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After thinking carefully, she made the _______ to stay at home.",
+        "answers": [
+          { "id": 1, "value": "decision" },
+          { "id": 2, "value": "mistake" },
+          { "id": 3, "value": "effort" },
+          { "id": 4, "value": "idea" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "crime",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The detective worked hard to solve the _______ that shocked the city.",
+        "answers": [
+          { "id": 1, "value": "crime" },
+          { "id": 2, "value": "story" },
+          { "id": 3, "value": "accident" },
+          { "id": 4, "value": "job" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "curly",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her hair was long and _______ after she removed the rollers.",
+        "answers": [
+          { "id": 1, "value": "curly" },
+          { "id": 2, "value": "straight" },
+          { "id": 3, "value": "short" },
+          { "id": 4, "value": "shiny" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "employ",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company plans to _______ more workers next year.",
+        "answers": [
+          { "id": 1, "value": "employ" },
+          { "id": 2, "value": "fire" },
+          { "id": 3, "value": "train" },
+          { "id": 4, "value": "promote" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "employer",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her _______ offered her a bonus for her hard work.",
+        "answers": [
+          { "id": 1, "value": "employer" },
+          { "id": 2, "value": "employee" },
+          { "id": 3, "value": "manager" },
+          { "id": 4, "value": "client" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "creative",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The artist is very _______ and always comes up with unique ideas.",
+        "answers": [
+          { "id": 1, "value": "creative" },
+          { "id": 2, "value": "serious" },
+          { "id": 3, "value": "lazy" },
+          { "id": 4, "value": "confused" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "free",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children felt _______ to run and play in the park.",
+        "answers": [
+          { "id": 1, "value": "free" },
+          { "id": 2, "value": "tired" },
+          { "id": 3, "value": "scared" },
+          { "id": 4, "value": "angry" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "knowledge",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She gained a lot of _______ about plants after reading the book.",
+        "answers": [
+          { "id": 1, "value": "knowledge" },
+          { "id": 2, "value": "information" },
+          { "id": 3, "value": "advice" },
+          { "id": 4, "value": "imagination" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lift",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Could you help me _______ this heavy box to the table?",
+        "answers": [
+          { "id": 1, "value": "lift" },
+          { "id": 2, "value": "push" },
+          { "id": 3, "value": "drop" },
+          { "id": 4, "value": "throw" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

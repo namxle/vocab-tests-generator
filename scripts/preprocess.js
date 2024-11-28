@@ -9,8 +9,11 @@ const CWD = process.cwd();
 
 const LEVEL = 'A2';
 const SUB_LEVEL = 'L2';
-const GROUP = 'R';
+const GROUP = 'M';
 const DAY = 'Day';
+
+// Total expected questions per GROUP
+const totalMeaningQuestions = 10;
 
 // Get all required directories
 const sourcesDir = `${CWD}/sources/${LEVEL}/${SUB_LEVEL}/${GROUP}`;
@@ -93,6 +96,7 @@ function processSourceFiles(files) {
   console.log('Files found:', files.length);
 
   files.forEach((fileName) => {
+    // console.log('Processing file:', fileName);
     const elements = fileName.split('.json')[0].split('_');
     const fileLevel = elements[0];
     const fileSubLevel = elements[1];
@@ -102,12 +106,24 @@ function processSourceFiles(files) {
     const filePath = `${sourcesDir}/${fileName}`;
     const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-    const finalData =
-      GROUP == 'L'
-        ? processLogicData(fileData)
-        : GROUP == 'R'
-        ? processReadingData(fileData)
-        : fileData;
+    let finalData = null;
+
+    switch (GROUP) {
+      case 'L':
+        finalData = processLogicData(fileData);
+        break;
+      case 'R':
+        finalData = processReadingData(fileData);
+        break;
+      case 'M':
+        finalData = fileData;
+        if (finalData.length != totalMeaningQuestions) {
+          console.log(
+            `Length different in "${fileName}": ${finalData.length} != ${totalMeaningQuestions}`,
+          );
+        }
+        break;
+    }
 
     data.push({
       day: fileDay,
@@ -119,6 +135,9 @@ function processSourceFiles(files) {
 }
 
 function main() {
+  console.log(`Level: ${LEVEL}`);
+  console.log(`Sub Level: ${SUB_LEVEL}`);
+
   // Process GPT results
   const sourceFiles = getSourceFiles();
   const processedData = processSourceFiles(sourceFiles);
@@ -127,9 +146,7 @@ function main() {
   // Write the results to data folder
   writeData(processedData);
 
-  console.log(`Level: ${LEVEL}`);
-  console.log(`Sub Level: ${SUB_LEVEL}`);
-  console.log(`Total tests: ${processedData.length}`);
+  // console.log(`Total tests: ${processedData.length}`);
 }
 
 main();

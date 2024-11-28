@@ -1,0 +1,172 @@
+[
+  {
+    "word": "architecture",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The city is famous for its beautiful modern _______.",
+        "answers": [
+          { "id": 1, "value": "architecture" },
+          { "id": 2, "value": "paintings" },
+          { "id": 3, "value": "clothes" },
+          { "id": 4, "value": "roads" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "region",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The Sahara Desert is the hottest _______ on Earth.",
+        "answers": [
+          { "id": 1, "value": "region" },
+          { "id": 2, "value": "continent" },
+          { "id": 3, "value": "island" },
+          { "id": 4, "value": "forest" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "suggest",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Can you _______ a good book for me to read on vacation?",
+        "answers": [
+          { "id": 1, "value": "suggest" },
+          { "id": 2, "value": "demand" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "explain" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shape",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The cake was in the _______ of a heart for Valentine’s Day.",
+        "answers": [
+          { "id": 1, "value": "shape" },
+          { "id": 2, "value": "color" },
+          { "id": 3, "value": "size" },
+          { "id": 4, "value": "taste" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sign",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There was a stop _______ at the corner of the street.",
+        "answers": [
+          { "id": 1, "value": "sign" },
+          { "id": 2, "value": "light" },
+          { "id": 3, "value": "car" },
+          { "id": 4, "value": "bench" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "birth",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The family celebrated the _______ of their baby with a party.",
+        "answers": [
+          { "id": 1, "value": "birth" },
+          { "id": 2, "value": "wedding" },
+          { "id": 3, "value": "birthday" },
+          { "id": 4, "value": "graduation" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "towards",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The dog ran _______ its owner when it heard the whistle.",
+        "answers": [
+          { "id": 1, "value": "towards" },
+          { "id": 2, "value": "away" },
+          { "id": 3, "value": "around" },
+          { "id": 4, "value": "beside" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sense",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He has a good _______ of humor and makes everyone laugh.",
+        "answers": [
+          { "id": 1, "value": "sense" },
+          { "id": 2, "value": "skill" },
+          { "id": 3, "value": "habit" },
+          { "id": 4, "value": "choice" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wish",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She made a _______ before blowing out the candles on her cake.",
+        "answers": [
+          { "id": 1, "value": "wish" },
+          { "id": 2, "value": "decision" },
+          { "id": 3, "value": "promise" },
+          { "id": 4, "value": "plan" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "voice",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her singing _______ was so beautiful that everyone clapped.",
+        "answers": [
+          { "id": 1, "value": "voice" },
+          { "id": 2, "value": "sound" },
+          { "id": 3, "value": "style" },
+          { "id": 4, "value": "tune" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]
