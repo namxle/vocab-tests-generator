@@ -8,8 +8,8 @@ const helperScript = require('./helper');
 const CWD = process.cwd();
 
 const LEVEL = 'A2';
-const SUB_LEVEL = 'L3';
-const GROUP = 'L';
+const SUB_LEVEL = 'L2';
+const GROUP = 'M';
 const DAY = 'Day';
 
 // Total expected questions per GROUP
