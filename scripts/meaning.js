@@ -11,9 +11,16 @@ function convertToTestFormat(questions) {
 
     // Append answers with options (a), (b), etc., marking correct answers with "*"
     question.answers.forEach((answer, answerIndex) => {
-      const option = String.fromCharCode(97 + answerIndex); // 'a', 'b', 'c', etc.
-      const isCorrect = question.correct_answers.includes(answer.id) ? '*' : '';
-      output += `${isCorrect}${option}) ${answer.value}\n`;
+      // If the question has more than 1 correct answer
+      let option = question.correct_answers.includes(answer.id) + ')';
+      let isCorrect;
+      if (question.correct_answers.length > 1) {
+        option = '';
+        isCorrect = question.correct_answers.includes(answer.id) ? '[*]' : '[]';
+      } else {
+        isCorrect = question.correct_answers.includes(answer.id) ? '*' : '';
+      }
+      output += `${isCorrect}${option} ${answer.value}\n`;
     });
 
     // Add a newline after each question block
@@ -33,27 +40,36 @@ function getTestData(data) {
       question.answers = helper.shuffle(question.answers);
     }
 
-    totalAnswers.push(
-      question.answers.findIndex(
-        (answer) => answer.id == question.correct_answers[0],
-      ),
-    );
+    question.correct_answers.forEach((ans) => {
+      totalAnswers.push(
+        question.answers.findIndex((answer) => answer.id == ans),
+      );
+    });
     return question;
   });
   return { totalAnswers, testData };
 }
 
-function generateMeaningTestData(data, totalWords = data.length) {
+function generateMeaningTestData(data, total = data.length) {
   // Count total answers available in each question
   const totalAnswers = [
     ...new Set(data.map((item) => item.questions[0].answers.length)),
   ];
 
   // Get random words
-  const wordsData = helper.getRandomElements(data, totalWords);
+  let wordsData;
+  if (total == data.length) {
+    wordsData = JSON.parse(JSON.stringify(data));
+  } else {
+    wordsData = helper.getRandomElements(data, total);
+  }
 
   let flag = true;
   let finalResult = null;
+
+  if (wordsData.length == 0) {
+    return { totalAnswers: [], testData: [] };
+  }
 
   while (flag) {
     // Flag to mark if continue generate test data
@@ -64,7 +80,7 @@ function generateMeaningTestData(data, totalWords = data.length) {
     finalResult = result;
 
     // If flag is false, then break else check answer counts
-    if (!flag) return flag;
+    if (!flag) return result;
     flag = helper.checkAnswerCounts(result.totalAnswers, totalAnswers[0]);
   }
 
@@ -72,7 +88,7 @@ function generateMeaningTestData(data, totalWords = data.length) {
   //   'Meaning Answers:',
   //   helper.countOccurrences(finalResult.totalAnswers),
   // );
-  //   console.log(finalResult);
+  // console.log(finalResult);
   return finalResult;
 }
 

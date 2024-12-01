@@ -1,0 +1,172 @@
+[
+  {
+    "word": "basis",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team's success was built on a strong _______ of trust and hard work.",
+        "answers": [
+          { "id": 1, "value": "basis" },
+          { "id": 2, "value": "fund" },
+          { "id": 3, "value": "example" },
+          { "id": 4, "value": "idea" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "biology",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In her _______ class, she learned about the structure of plant cells.",
+        "answers": [
+          { "id": 1, "value": "biology" },
+          { "id": 2, "value": "chemistry" },
+          { "id": 3, "value": "physics" },
+          { "id": 4, "value": "geography" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cage",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The bird was kept in a large _______ by the window to ensure its safety.",
+        "answers": [
+          { "id": 1, "value": "cage" },
+          { "id": 2, "value": "bowl" },
+          { "id": 3, "value": "room" },
+          { "id": 4, "value": "box" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "colleague",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She discussed the project with her _______ during the meeting.",
+        "answers": [
+          { "id": 1, "value": "colleague" },
+          { "id": 2, "value": "neighbor" },
+          { "id": 3, "value": "teacher" },
+          { "id": 4, "value": "friend" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "colony",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ants built a large underground _______ to house their queen.",
+        "answers": [
+          { "id": 1, "value": "colony" },
+          { "id": 2, "value": "cage" },
+          { "id": 3, "value": "village" },
+          { "id": 4, "value": "hive" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "debate",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The students had a lively _______ about the pros and cons of technology.",
+        "answers": [
+          { "id": 1, "value": "fight" },
+          { "id": 2, "value": "debate" },
+          { "id": 3, "value": "argument" },
+          { "id": 4, "value": "conversation" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "depart",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The train is scheduled to _______ from the station at 9:00 AM.",
+        "answers": [
+          { "id": 1, "value": "leave" },
+          { "id": 2, "value": "depart" },
+          { "id": 3, "value": "stop" },
+          { "id": 4, "value": "wait" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "depress",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The gloomy weather seemed to _______ everyone in the office.",
+        "answers": [
+          { "id": 1, "value": "depress" },
+          { "id": 2, "value": "cheer" },
+          { "id": 3, "value": "motivate" },
+          { "id": 4, "value": "calm" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "factual",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The article provided _______ information supported by research.",
+        "answers": [
+          { "id": 1, "value": "factual" },
+          { "id": 2, "value": "misleading" },
+          { "id": 3, "value": "fictional" },
+          { "id": 4, "value": "unclear" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fascinate",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The magician's tricks never fail to _______ the audience.",
+        "answers": [
+          { "id": 1, "value": "fascinate" },
+          { "id": 2, "value": "bore" },
+          { "id": 3, "value": "confuse" },
+          { "id": 4, "value": "annoy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

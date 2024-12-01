@@ -49,11 +49,11 @@ function getTestData(data) {
       for (let i = 0; i < 6; i++) {
         question.answers = helper.shuffle(question.answers);
       }
-      totalAnswers.push(
-        question.answers.findIndex(
-          (answer) => answer.id == question.correct_answers[0],
-        ),
-      );
+      question.correct_answers.forEach((ans) => {
+        totalAnswers.push(
+          question.answers.findIndex((answer) => answer.id == ans),
+        );
+      });
       return question;
     });
 
@@ -70,7 +70,14 @@ function generateLogicTestData(data, total = data.length) {
   // Count total answers available in each question
   const totalAnswers = 4;
 
-  const logicData = helper.getRandomElements(data, total);
+  // Get random logic data
+  let logicData;
+  if (total == data.length) {
+    logicData = JSON.parse(JSON.stringify(data));
+  } else {
+    logicData = helper.getRandomElements(data, total);
+  }
+
   console.log(
     'Logic day test: ',
     logicData.map((datum) => datum.day),
@@ -78,6 +85,10 @@ function generateLogicTestData(data, total = data.length) {
 
   let flag = true;
   let finalResult = null;
+
+  if (logicData.length == 0) {
+    return { totalAnswers: [], testData: [] };
+  }
 
   while (flag) {
     // Get test data

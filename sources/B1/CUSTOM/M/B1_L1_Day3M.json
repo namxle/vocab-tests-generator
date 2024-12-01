@@ -1,0 +1,182 @@
+[
+  {
+    "word": "adventure",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They went on an exciting _______ through the jungle.",
+        "answers": [
+          { "id": 1, "value": "adventure" },
+          { "id": 2, "value": "story" },
+          { "id": 3, "value": "plan" },
+          { "id": 4, "value": "game" },
+          { "id": 5, "value": "flight" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "approach",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please _______ the dog slowly so you don’t scare it.",
+        "answers": [
+          { "id": 1, "value": "approach" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "avoid" },
+          { "id": 4, "value": "leave" },
+          { "id": 5, "value": "shout" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "carefully",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The artist painted the details _______ to make it look realistic.",
+        "answers": [
+          { "id": 1, "value": "carefully" },
+          { "id": 2, "value": "quickly" },
+          { "id": 3, "value": "poorly" },
+          { "id": 4, "value": "lazily" },
+          { "id": 5, "value": "suddenly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chemical",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The scientist mixed the _______ in a glass beaker for the experiment.",
+        "answers": [
+          { "id": 1, "value": "chemical" },
+          { "id": 2, "value": "flower" },
+          { "id": 3, "value": "food" },
+          { "id": 4, "value": "air" },
+          { "id": 5, "value": "drink" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "create",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She used her imagination to _______ a beautiful story.",
+        "answers": [
+          { "id": 1, "value": "create" },
+          { "id": 2, "value": "destroy" },
+          { "id": 3, "value": "break" },
+          { "id": 4, "value": "copy" },
+          { "id": 5, "value": "hide" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "evil",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In the story, the _______ wizard tried to take over the kingdom.",
+        "answers": [
+          { "id": 1, "value": "evil" },
+          { "id": 2, "value": "kind" },
+          { "id": 3, "value": "gentle" },
+          { "id": 4, "value": "helpful" },
+          { "id": 5, "value": "friendly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "experiment",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The students conducted an _______ to learn how plants grow.",
+        "answers": [
+          { "id": 1, "value": "experiment" },
+          { "id": 2, "value": "assignment" },
+          { "id": 3, "value": "game" },
+          { "id": 4, "value": "story" },
+          { "id": 5, "value": "lecture" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "kill",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The pesticide is designed to _______ harmful insects.",
+        "answers": [
+          { "id": 1, "value": "kill" },
+          { "id": 2, "value": "feed" },
+          { "id": 3, "value": "catch" },
+          { "id": 4, "value": "help" },
+          { "id": 5, "value": "protect" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "laboratory",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The scientist spent hours working in the _______ to test her ideas.",
+        "answers": [
+          { "id": 1, "value": "laboratory" },
+          { "id": 2, "value": "kitchen" },
+          { "id": 3, "value": "office" },
+          { "id": 4, "value": "library" },
+          { "id": 5, "value": "garden" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "laugh",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The joke was so funny that it made everyone _______ out loud.",
+        "answers": [
+          { "id": 1, "value": "laugh" },
+          { "id": 2, "value": "cry" },
+          { "id": 3, "value": "sigh" },
+          { "id": 4, "value": "yawn" },
+          { "id": 5, "value": "whisper" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

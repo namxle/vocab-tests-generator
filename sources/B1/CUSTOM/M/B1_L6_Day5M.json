@@ -1,0 +1,172 @@
+[
+  {
+    "word": "broad",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The lecture covered a _______ range of topics, from history to science.",
+        "answers": [
+          { "id": 1, "value": "broad" },
+          { "id": 2, "value": "narrow" },
+          { "id": 3, "value": "limited" },
+          { "id": 4, "value": "specific" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bush",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The bird built its nest in a small _______ near the garden.",
+        "answers": [
+          { "id": 1, "value": "bush" },
+          { "id": 2, "value": "sand" },
+          { "id": 3, "value": "rock" },
+          { "id": 4, "value": "flower" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "capable",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is _______ of handling difficult situations with ease.",
+        "answers": [
+          { "id": 1, "value": "capable" },
+          { "id": 2, "value": "afraid" },
+          { "id": 3, "value": "incapable" },
+          { "id": 4, "value": "hesitant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cheat",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It's unfair to _______ during an exam to get better marks.",
+        "answers": [
+          { "id": 1, "value": "cheat" },
+          { "id": 2, "value": "study" },
+          { "id": 3, "value": "focus" },
+          { "id": 4, "value": "prepare" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "concentrate",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He struggled to _______ on his homework because of the noise.",
+        "answers": [
+          { "id": 1, "value": "concentrate" },
+          { "id": 2, "value": "procrastinate" },
+          { "id": 3, "value": "sleep" },
+          { "id": 4, "value": "worry" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "conclude",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We can _______ from the evidence that the theory is correct.",
+        "answers": [
+          { "id": 1, "value": "conclude" },
+          { "id": 2, "value": "assume" },
+          { "id": 3, "value": "question" },
+          { "id": 4, "value": "start" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "confident",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She was _______ about her ability to perform well in the competition, she has trained really hard.",
+        "answers": [
+          { "id": 1, "value": "confident" },
+          { "id": 2, "value": "unsure" },
+          { "id": 3, "value": "nervous" },
+          { "id": 4, "value": "worried" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "considerable",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He invested a _______ amount of time in completing the project.",
+        "answers": [
+          { "id": 1, "value": "considerable" },
+          { "id": 2, "value": "small" },
+          { "id": 3, "value": "limited" },
+          { "id": 4, "value": "short" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "convey",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher tried to _______ the importance of honesty to the students.",
+        "answers": [
+          { "id": 1, "value": "convey" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "prevent" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "definite",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We need a _______ answer before we can proceed with the project.",
+        "answers": [
+          { "id": 1, "value": "definite" },
+          { "id": 2, "value": "possible" },
+          { "id": 3, "value": "unclear" },
+          { "id": 4, "value": "probable" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,323 @@
+{
+  "passage": "The Friendly Ghost A nice woman lived by a large river. She loved children. She wanted to help them in any way. She loved her community, and everyone in the community loved her. She lived a very long time and became very wise. When she died, she became a ghost. She was dead, but every night she returned to her community. She wanted to help children and not to cause them fright. But she had a scary voice. Children were afraid of her, but the ghost was a good one. She only scared them to help them. One night, some children and a dog were playing by the river. They were having fun with their pet. But they were far from home. Then the weather became bad. It rained and rained. The river was rising. It was very dark. The children knew they were lost. They needed to go north, but they didn’t know which direction it was. When the moon came out, they saw a ghost by the river. The ghost said, 'Go away!' The children felt great fright. They knew it was a ghost. Then the ghost moved closer. She yelled again, 'Go away!' The children became very upset. Some of them began to cry. The children knew they had a choice: they could escape, or they could stay and face this scary individual in the dark. The children ran a long distance away. The ghost followed them all the way. Finally, the children reached home. The ghost was very happy. Soon the river rose higher and higher. It was very dangerous. The ghost had helped the children survive! She had saved them from the rising water. She also used her power to lead them home. Sometimes, meeting a ghost has advantages. A ghost can save your life.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Factual",
+      "question_name": "Where did the woman live?",
+      "answers": [
+        { "id": 1, "value": "By a large river." },
+        { "id": 2, "value": "In a small town." },
+        { "id": 3, "value": "On a mountain." },
+        { "id": 4, "value": "In a city." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that the woman lived by a large river, making option 1 correct. The other options are not mentioned in the passage."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Factual",
+      "question_name": "What did the woman do every night after she died?",
+      "answers": [
+        { "id": 1, "value": "She haunted the community." },
+        { "id": 2, "value": "She returned to help her community." },
+        { "id": 3, "value": "She rested by the river." },
+        { "id": 4, "value": "She scared children away for fun." }
+      ],
+      "correct_answers": [2],
+      "explanation": {
+        "english": "The passage explains that the woman returned every night as a ghost to help the community, making option 2 correct. Other options are either not mentioned or contradict the passage."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Factual",
+      "question_name": "Why were the children afraid of the ghost?",
+      "answers": [
+        { "id": 1, "value": "She had a scary voice." },
+        { "id": 2, "value": "She wanted to harm them." },
+        { "id": 3, "value": "She looked terrifying." },
+        { "id": 4, "value": "She chased them aggressively." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The ghost had a scary voice, which frightened the children. Other options are not supported by the text."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Factual",
+      "question_name": "What happened to the weather while the children played by the river?",
+      "answers": [
+        { "id": 1, "value": "It became bad, with heavy rain." },
+        { "id": 2, "value": "It was sunny and bright." },
+        { "id": 3, "value": "A snowstorm started." },
+        { "id": 4, "value": "The wind became calm and quiet." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that the weather turned bad, and it rained heavily, causing the river to rise. Other options are not consistent with the story."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Factual",
+      "question_name": "What did the children need to do when they got lost?",
+      "answers": [
+        { "id": 1, "value": "Find the direction north." },
+        { "id": 2, "value": "Cross the river." },
+        { "id": 3, "value": "Wait for help." },
+        { "id": 4, "value": "Build a shelter." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The children needed to find the direction north to return home, as stated in the passage."
+      }
+    },
+    {
+      "id": 6,
+      "type": "Factual",
+      "question_name": "What did the ghost say to the children when she appeared?",
+      "answers": [
+        { "id": 1, "value": "'Go away!'" },
+        { "id": 2, "value": "'Follow me!'" },
+        { "id": 3, "value": "'Stay here!'" },
+        { "id": 4, "value": "'Run away!'" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The ghost repeatedly said, 'Go away!' to the children, which frightened them but ultimately helped them."
+      }
+    },
+    {
+      "id": 7,
+      "type": "Factual",
+      "question_name": "Why did the ghost follow the children?",
+      "answers": [
+        { "id": 1, "value": "To lead them home." },
+        { "id": 2, "value": "To frighten them for fun." },
+        { "id": 3, "value": "To bring them back to the river." },
+        { "id": 4, "value": "To stop them from running." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The ghost followed the children to ensure they reached home safely, as mentioned in the passage."
+      }
+    },
+    {
+      "id": 8,
+      "type": "Factual",
+      "question_name": "What happened to the river after the children reached home?",
+      "answers": [
+        { "id": 1, "value": "It rose dangerously high." },
+        { "id": 2, "value": "It became calm and peaceful." },
+        { "id": 3, "value": "It dried up." },
+        { "id": 4, "value": "It started to freeze." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that the river rose higher and became very dangerous after the children got home."
+      }
+    },
+    {
+      "id": 9,
+      "type": "Factual",
+      "question_name": "How did the ghost feel after the children were safe?",
+      "answers": [
+        { "id": 1, "value": "Happy." },
+        { "id": 2, "value": "Sad." },
+        { "id": 3, "value": "Angry." },
+        { "id": 4, "value": "Confused." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The ghost felt happy because she had successfully helped the children survive and reach home."
+      }
+    },
+    {
+      "id": 10,
+      "type": "Factual",
+      "question_name": "What did the ghost use her power to do?",
+      "answers": [
+        { "id": 1, "value": "Lead the children home." },
+        { "id": 2, "value": "Make the river rise." },
+        { "id": 3, "value": "Scare the parents." },
+        { "id": 4, "value": "Help the dog escape." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that the ghost used her power to lead the children home and save them from the river."
+      }
+    },
+    {
+      "id": 11,
+      "type": "Inferential",
+      "question_name": "Why did the ghost have a scary voice despite her good intentions?",
+      "answers": [
+        { "id": 1, "value": "It was the nature of being a ghost." },
+        { "id": 2, "value": "She wanted to frighten people." },
+        { "id": 3, "value": "She was angry with the community." },
+        { "id": 4, "value": "She enjoyed scaring children." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The ghost's scary voice was likely a natural characteristic of her ghostly form, not a reflection of her intentions."
+      }
+    },
+    {
+      "id": 12,
+      "type": "Inferential",
+      "question_name": "What might have happened if the children ignored the ghost?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "They might have been caught in the rising river."
+        },
+        { "id": 2, "value": "They would have reached home faster." },
+        { "id": 3, "value": "The ghost would have left them alone." },
+        { "id": 4, "value": "They would have found another way home." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Ignoring the ghost could have led to the children being caught in the rising river, as she guided them to safety."
+      }
+    },
+    {
+      "id": 13,
+      "type": "Inferential",
+      "question_name": "Why is the story titled 'The Friendly Ghost'?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Because the ghost helped the children despite being scary."
+        },
+        { "id": 2, "value": "Because the ghost was cheerful and pleasant." },
+        {
+          "id": 3,
+          "value": "Because the ghost played games with the children."
+        },
+        { "id": 4, "value": "Because the ghost made friends with the dog." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The title reflects the ghost's actions of helping the children despite her scary appearance and voice."
+      }
+    },
+    {
+      "id": 14,
+      "type": "Vocabulary",
+      "question_name": "What does 'fright' mean in the context of the passage?",
+      "answers": [
+        { "id": 1, "value": "Fear or alarm." },
+        { "id": 2, "value": "A friendly feeling." },
+        { "id": 3, "value": "A strong wind." },
+        { "id": 4, "value": "Excitement." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'fright' means fear or alarm, as the children felt scared when they saw the ghost."
+      }
+    },
+    {
+      "id": 15,
+      "type": "Vocabulary",
+      "question_name": "What does 'advantages' mean in the sentence 'Sometimes, meeting a ghost has advantages'?",
+      "answers": [
+        { "id": 1, "value": "Benefits or positive outcomes." },
+        { "id": 2, "value": "Problems or difficulties." },
+        { "id": 3, "value": "Warnings or threats." },
+        { "id": 4, "value": "Challenges or obstacles." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the context, 'advantages' refers to benefits, as the ghost helped save the children's lives."
+      }
+    },
+    {
+      "id": 16,
+      "type": "Vocabulary",
+      "question_name": "What is the meaning of 'scary' in the sentence 'She had a scary voice'?",
+      "answers": [
+        { "id": 1, "value": "Frightening or alarming." },
+        { "id": 2, "value": "Funny or amusing." },
+        { "id": 3, "value": "Beautiful or pleasant." },
+        { "id": 4, "value": "Loud or noisy." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'scary' means frightening, as it caused the children to feel fear."
+      }
+    },
+    {
+      "id": 17,
+      "type": "Vocabulary",
+      "question_name": "What does 'power' mean in 'She also used her power to lead them home'?",
+      "answers": [
+        { "id": 1, "value": "Ability or supernatural strength." },
+        { "id": 2, "value": "Electricity or energy." },
+        { "id": 3, "value": "An object or tool." },
+        { "id": 4, "value": "A command or order." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'power' refers to the ghost's supernatural ability to guide the children."
+      }
+    },
+    {
+      "id": 18,
+      "type": "Critical Thinking",
+      "question_name": "What does this story teach about judging others based on appearances?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Appearances can be misleading, and intentions matter more."
+        },
+        { "id": 2, "value": "It is better to avoid anyone who looks scary." },
+        { "id": 3, "value": "Only friendly-looking people can be trusted." },
+        { "id": 4, "value": "Judging by appearance is always accurate." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The ghost looked scary but had good intentions, teaching that we should not judge others solely by their appearance."
+      }
+    },
+    {
+      "id": 19,
+      "type": "Critical Thinking",
+      "question_name": "How might the story change if the children had not run away?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "The ghost might have directly guided them without frightening them."
+        },
+        { "id": 2, "value": "The river might not have risen as quickly." },
+        { "id": 3, "value": "The children would have stayed by the river." },
+        { "id": 4, "value": "The ghost would have become their friend." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "If the children had not run away, the ghost could have directly guided them, avoiding the fear caused by the chase."
+      }
+    },
+    {
+      "id": 20,
+      "type": "Critical Thinking",
+      "question_name": "Why might the ghost choose to return to the community instead of resting in peace?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "She loved helping others and protecting the children."
+        },
+        { "id": 2, "value": "She was unable to leave the river." },
+        { "id": 3, "value": "She was afraid of resting." },
+        { "id": 4, "value": "She had unfinished tasks to scare people." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The ghost loved helping others, as shown in her actions to protect and guide the children."
+      }
+    }
+  ]
+}

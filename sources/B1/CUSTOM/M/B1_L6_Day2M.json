@@ -1,0 +1,172 @@
+[
+  {
+    "word": "forever",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They promised to love each other _______ and never part ways.",
+        "answers": [
+          { "id": 1, "value": "forever" },
+          { "id": 2, "value": "temporarily" },
+          { "id": 3, "value": "always" },
+          { "id": 4, "value": "occasionally" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "guy",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ with a beard at the counter helped me find the book I was looking for.",
+        "answers": [
+          { "id": 1, "value": "girl" },
+          { "id": 2, "value": "guy" },
+          { "id": 3, "value": "teacher" },
+          { "id": 4, "value": "kid" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "lovely",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She wore a _______ dress to the party, attracting everyone's attention.",
+        "answers": [
+          { "id": 1, "value": "lovely" },
+          { "id": 2, "value": "boring" },
+          { "id": 3, "value": "ugly" },
+          { "id": 4, "value": "dirty" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mood",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "His _______ improved after he heard the good news about his promotion.",
+        "answers": [
+          { "id": 1, "value": "mood" },
+          { "id": 2, "value": "face" },
+          { "id": 3, "value": "appearance" },
+          { "id": 4, "value": "look" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "palace",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The king and queen lived in a magnificent _______ made of marble and gold.",
+        "answers": [
+          { "id": 1, "value": "palace" },
+          { "id": 2, "value": "cottage" },
+          { "id": 3, "value": "hotel" },
+          { "id": 4, "value": "apartment" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "permit",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You need a special _______ from the manager to enter in this area for more than two hours.",
+        "answers": [
+          { "id": 1, "value": "ticket" },
+          { "id": 2, "value": "permit" },
+          { "id": 3, "value": "license" },
+          { "id": 4, "value": "voucher" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "protest",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The citizens gathered in front of the government building to _______ the new law.",
+        "answers": [
+          { "id": 1, "value": "celebrate" },
+          { "id": 2, "value": "protest" },
+          { "id": 3, "value": "support" },
+          { "id": 4, "value": "ignore" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "sculpture",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The museum displayed a famous _______ of a Greek god carved from marble.",
+        "answers": [
+          { "id": 1, "value": "painting" },
+          { "id": 2, "value": "sculpture" },
+          { "id": 3, "value": "photograph" },
+          { "id": 4, "value": "mural" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "tribe",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ had its own distinct language, traditions, and customs.",
+        "answers": [
+          { "id": 1, "value": "family" },
+          { "id": 2, "value": "tribe" },
+          { "id": 3, "value": "community" },
+          { "id": 4, "value": "village" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "youth",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The organization's main focus is the well-being of _______ in the local area.",
+        "answers": [
+          { "id": 1, "value": "adults" },
+          { "id": 2, "value": "youth" },
+          { "id": 3, "value": "children" },
+          { "id": 4, "value": "seniors" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  }
+]

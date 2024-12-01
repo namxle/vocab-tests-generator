@@ -15,10 +15,17 @@ const tests = {
   daily: 'Daily',
   weekly: 'Weekly',
   unit: 'Unit',
+  custom: 'Custom',
 };
 const weeks = {
   week1: 'Week 1',
   week2: 'Week 2',
+};
+
+const databases = {
+  meaning: 'M.json',
+  logic: 'L.json',
+  reading: 'R.json',
 };
 
 const dataDir = `${CWD}/data`;
@@ -69,9 +76,9 @@ async function run() {
     },
   ]);
 
-  const meaningData = loadMeaningData(levelDir, inputSubLevel);
-  const logicData = loadLogicData(levelDir, inputSubLevel);
-  const readingData = loadReadingData(levelDir, inputSubLevel);
+  const meaningData = loadData(levelDir, inputSubLevel, databases.meaning);
+  const logicData = loadData(levelDir, inputSubLevel, databases.logic);
+  const readingData = loadData(levelDir, inputSubLevel, databases.reading);
 
   const outputFile = `${exportsDir}/${outfile}`;
 
@@ -166,8 +173,28 @@ async function run() {
       );
       fs.writeFileSync(outputFile, formatedTest, 'utf-8');
       break;
-
     case tests.unit:
+      break;
+    case tests.custom:
+      const meaningCustomData = meaningData.reduce((mergedArray, datum) => {
+        return mergedArray.concat(datum.data);
+      }, []);
+      const meaningCustomResult =
+        meaningScript.generateMeaningTestData(meaningCustomData);
+
+      const logicCustomResult = logicScript.generateLogicTestData(logicData);
+
+      const readingCustomResult =
+        readingScript.generateReadingTestData(readingData);
+
+      // Generate combine results
+      formatedTest = helperScript.generateCombinedTestFormat(
+        meaningCustomResult,
+        logicCustomResult,
+        readingCustomResult,
+      );
+      fs.writeFileSync(outputFile, formatedTest, 'utf-8');
+
       break;
   }
   console.log();
@@ -186,22 +213,12 @@ function getDirectories(dir) {
   }
 }
 
-function loadMeaningData(dir, sublevel) {
-  return JSON.parse(
-    fs.readFileSync(path.join(dir, sublevel, 'M.json'), 'utf8'),
-  );
-}
-
-function loadLogicData(dir, sublevel) {
-  return JSON.parse(
-    fs.readFileSync(path.join(dir, sublevel, 'L.json'), 'utf8'),
-  );
-}
-
-function loadReadingData(dir, sublevel) {
-  return JSON.parse(
-    fs.readFileSync(path.join(dir, sublevel, 'R.json'), 'utf8'),
-  );
+function loadData(dir, sublevel, db) {
+  const fpath = path.join(dir, sublevel, db);
+  if (fs.existsSync(fpath)) {
+    return JSON.parse(fs.readFileSync(fpath, 'utf8'));
+  }
+  return [];
 }
 
 function countOccurrences(array) {

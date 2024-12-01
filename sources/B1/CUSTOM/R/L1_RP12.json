@@ -1,0 +1,329 @@
+{
+  "passage": "The Crazy Artist Frenhofer was the best artist in the world. Everyone loved him. The quality of his paintings was very high. He always used the best materials. He made a big profit from his paintings. He had delicious meals with his rich neighbors. He taught art classes. Life was good. Then his attitude changed. He stopped selling paintings and teaching. He tried a new method of painting. He stayed alone in his apartment all day. He worked all day and all night, rarely eating. Soon Frenhofer became very thin. But he kept working on the same painting for many years. He worked as hard as he could. Finally, he finished the painting. He was very happy and invited other artists to see it. 'I want your professional opinion,' he said. He wanted them to judge it and compare it to other paintings. Everyone was very excited as they went up the stairs to his apartment. Frenhofer was excited to show his painting, and the artists were excited to see it. 'They’ll love it,' he thought. But they did not. They were surprised by his painting. There was no white anywhere. Frenhofer filled the whole painting with lines and colors. There was no space for a normal picture. It was full of strange shapes. It looked bad to the other artists. He used symbols, and they didn’t understand them. They thought it was terrible. 'Why did you paint this strange picture?' someone asked. They didn’t understand its beauty. But after some time, many people began to like his painting. People wrote articles about it in magazines. They said it was his best work. They loved his strange symbols. They loved his strange colors. Frenhofer’s painting reminded everyone that just because something was new didn’t mean that it was bad. He also helped them to realize that sometimes it takes people a little time to understand great things.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Factual",
+      "question_name": "What was Frenhofer known for before his attitude changed?",
+      "answers": [
+        { "id": 1, "value": "Being the best artist in the world." },
+        { "id": 2, "value": "Inventing a new painting style." },
+        { "id": 3, "value": "Writing articles about art." },
+        { "id": 4, "value": "Living alone in his apartment." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explicitly states that Frenhofer was known as 'the best artist in the world' before his attitude changed."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Factual",
+      "question_name": "What materials did Frenhofer use for his paintings?",
+      "answers": [
+        { "id": 1, "value": "The cheapest materials he could find." },
+        { "id": 2, "value": "Materials borrowed from other artists." },
+        { "id": 3, "value": "The best materials available." },
+        { "id": 4, "value": "Recycled materials." }
+      ],
+      "correct_answers": [3],
+      "explanation": {
+        "english": "The passage mentions that Frenhofer always used the best materials for his paintings."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Factual",
+      "question_name": "Why did Frenhofer stop selling his paintings?",
+      "answers": [
+        { "id": 1, "value": "He wanted to focus on a new method of painting." },
+        { "id": 2, "value": "He decided to retire from art completely." },
+        { "id": 3, "value": "He ran out of materials to paint with." },
+        { "id": 4, "value": "He was no longer interested in painting." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that Frenhofer stopped selling paintings and teaching because he wanted to focus on a new method of painting."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Factual",
+      "question_name": "How long did Frenhofer work on the same painting?",
+      "answers": [
+        { "id": 1, "value": "A few weeks." },
+        { "id": 2, "value": "Several years." },
+        { "id": 3, "value": "A few months." },
+        { "id": 4, "value": "One year." }
+      ],
+      "correct_answers": [2],
+      "explanation": {
+        "english": "The passage specifies that Frenhofer worked on the same painting for many years."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Factual",
+      "question_name": "What was Frenhofer’s physical condition as he worked on his painting?",
+      "answers": [
+        { "id": 1, "value": "He became very thin from rarely eating." },
+        { "id": 2, "value": "He became stronger and healthier." },
+        { "id": 3, "value": "He stayed the same as before." },
+        { "id": 4, "value": "He gained weight from eating rich meals." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that Frenhofer became very thin because he worked all day and night, rarely eating."
+      }
+    },
+    {
+      "id": 6,
+      "type": "Factual",
+      "question_name": "How did the other artists initially react to Frenhofer’s painting?",
+      "answers": [
+        { "id": 1, "value": "They loved it immediately." },
+        { "id": 2, "value": "They thought it was terrible." },
+        { "id": 3, "value": "They refused to look at it." },
+        { "id": 4, "value": "They didn’t give any opinion." }
+      ],
+      "correct_answers": [2],
+      "explanation": {
+        "english": "The passage explains that the other artists thought the painting was terrible when they first saw it."
+      }
+    },
+    {
+      "id": 7,
+      "type": "Factual",
+      "question_name": "What did Frenhofer’s painting remind people of over time?",
+      "answers": [
+        { "id": 1, "value": "That new things can be good." },
+        { "id": 2, "value": "That old techniques are always better." },
+        { "id": 3, "value": "That art should always look realistic." },
+        { "id": 4, "value": "That art is only for professionals." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage concludes by saying that Frenhofer’s painting reminded people that just because something was new didn’t mean it was bad."
+      }
+    },
+    {
+      "id": 8,
+      "type": "Factual",
+      "question_name": "What did Frenhofer ask the other artists to do when they saw his painting?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Compare it to other paintings and give their opinion."
+        },
+        { "id": 2, "value": "Help him finish the painting." },
+        { "id": 3, "value": "Buy the painting from him." },
+        { "id": 4, "value": "Teach him new techniques." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that Frenhofer invited the artists to judge his painting and compare it to others."
+      }
+    },
+    {
+      "id": 9,
+      "type": "Factual",
+      "question_name": "What feature was missing from Frenhofer’s painting?",
+      "answers": [
+        { "id": 1, "value": "The color white." },
+        { "id": 2, "value": "Any use of symbols." },
+        { "id": 3, "value": "Any shapes at all." },
+        { "id": 4, "value": "Lines and colors." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage specifies that there was no white anywhere in Frenhofer’s painting."
+      }
+    },
+    {
+      "id": 10,
+      "type": "Factual",
+      "question_name": "What helped people eventually appreciate Frenhofer’s painting?",
+      "answers": [
+        { "id": 1, "value": "Articles written in magazines." },
+        { "id": 2, "value": "Frenhofer’s explanations about his work." },
+        { "id": 3, "value": "A public exhibition at a gallery." },
+        { "id": 4, "value": "Another artist promoting it." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that articles written in magazines helped people begin to appreciate Frenhofer’s painting."
+      }
+    },
+    {
+      "id": 11,
+      "type": "Inferential",
+      "question_name": "Why might Frenhofer have stopped selling his paintings and teaching?",
+      "answers": [
+        { "id": 1, "value": "He was inspired to focus on a personal vision." },
+        { "id": 2, "value": "He no longer cared about art." },
+        { "id": 3, "value": "He was tired of being successful." },
+        { "id": 4, "value": "He wanted to avoid interacting with others." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage suggests that Frenhofer stopped selling and teaching because he wanted to focus on a new method of painting and pursue his personal vision."
+      }
+    },
+    {
+      "id": 12,
+      "type": "Inferential",
+      "question_name": "Why did the other artists struggle to appreciate Frenhofer’s painting initially?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "They were not familiar with his symbols and style."
+        },
+        { "id": 2, "value": "They disliked him as a person." },
+        { "id": 3, "value": "The painting lacked technical skill." },
+        { "id": 4, "value": "They were expecting a realistic picture." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that the artists didn’t understand Frenhofer’s symbols and style, which made it difficult for them to appreciate the painting initially."
+      }
+    },
+    {
+      "id": 13,
+      "type": "Inferential",
+      "question_name": "What does the story suggest about how people respond to new ideas?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "New ideas are often rejected before they are understood."
+        },
+        { "id": 2, "value": "New ideas are always accepted immediately." },
+        { "id": 3, "value": "People never like new ideas." },
+        { "id": 4, "value": "New ideas are only appreciated by artists." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage highlights how Frenhofer’s painting was initially rejected but later appreciated, suggesting that new ideas often take time to be understood."
+      }
+    },
+    {
+      "id": 14,
+      "type": "Vocabulary",
+      "question_name": "What does 'symbols' most likely mean in the context of the passage?",
+      "answers": [
+        { "id": 1, "value": "Signs or shapes that represent ideas." },
+        { "id": 2, "value": "Mathematical figures." },
+        { "id": 3, "value": "Instructions for painting." },
+        { "id": 4, "value": "Tools used by artists." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the context of the passage, 'symbols' refers to the shapes or elements in Frenhofer’s painting that represented ideas or meanings."
+      }
+    },
+    {
+      "id": 15,
+      "type": "Vocabulary",
+      "question_name": "What does the phrase 'compare it to other paintings' suggest?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Judge its quality by relating it to other works."
+        },
+        { "id": 2, "value": "Find similarities between all paintings." },
+        { "id": 3, "value": "Copy ideas from other paintings." },
+        { "id": 4, "value": "Sell it alongside other paintings." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The phrase suggests evaluating the painting’s quality by considering its similarities and differences to other works."
+      }
+    },
+    {
+      "id": 16,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'method' mean in the sentence 'He tried a new method of painting'?",
+      "answers": [
+        { "id": 1, "value": "A way or technique." },
+        { "id": 2, "value": "A type of material." },
+        { "id": 3, "value": "A famous artist’s style." },
+        { "id": 4, "value": "A specific theme for art." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In this context, 'method' refers to a way or technique of painting."
+      }
+    },
+    {
+      "id": 17,
+      "type": "Vocabulary",
+      "question_name": "What is the meaning of 'rarely' in the sentence 'He worked all day and all night, rarely eating'?",
+      "answers": [
+        { "id": 1, "value": "Occasionally." },
+        { "id": 2, "value": "Frequently." },
+        { "id": 3, "value": "Never." },
+        { "id": 4, "value": "Almost never." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "'Rarely' means 'almost never,' which fits the description of Frenhofer’s behavior in the passage."
+      }
+    },
+    {
+      "id": 18,
+      "type": "Critical Thinking",
+      "question_name": "What lesson can be learned from Frenhofer’s story?",
+      "answers": [
+        { "id": 1, "value": "Innovation is often misunderstood at first." },
+        {
+          "id": 2,
+          "value": "Art must follow traditional rules to be appreciated."
+        },
+        { "id": 3, "value": "Only artists can understand true beauty." },
+        { "id": 4, "value": "Success in art is about making profits." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The story illustrates how Frenhofer’s innovative work was initially rejected but later celebrated, showing that new ideas often face resistance before gaining appreciation."
+      }
+    },
+    {
+      "id": 19,
+      "type": "Critical Thinking",
+      "question_name": "How might Frenhofer’s perseverance have influenced others in the art world?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It showed the importance of staying true to one’s vision."
+        },
+        { "id": 2, "value": "It discouraged others from trying new styles." },
+        { "id": 3, "value": "It made people stop experimenting with art." },
+        {
+          "id": 4,
+          "value": "It convinced people to follow only popular styles."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Frenhofer’s dedication to his unique style demonstrated the value of remaining true to one’s vision, even in the face of criticism."
+      }
+    },
+    {
+      "id": 20,
+      "type": "Critical Thinking",
+      "question_name": "What might have happened if Frenhofer had followed traditional art styles instead of experimenting?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He would not have created something truly unique."
+        },
+        { "id": 2, "value": "He would have gained more fame immediately." },
+        { "id": 3, "value": "He would have been criticized even more." },
+        { "id": 4, "value": "He would have lost all interest in painting." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "By following traditional styles, Frenhofer would not have created the innovative and impactful work that ultimately changed people’s perspectives."
+      }
+    }
+  ]
+}

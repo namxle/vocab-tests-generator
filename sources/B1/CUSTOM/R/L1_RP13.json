@@ -1,0 +1,320 @@
+{
+  "passage": "The Farmer and the Cats Arthur was a responsible farmer, and Maria was a nice lady. But they were poor. They owed the town lord money for their land. One summer, their farm burned. One structure caught fire, and most of the animals ran away. Only the cats stayed. So Arthur and Maria had to bring in their crops without an animal’s help. On a fall day, the lord demanded his money. Arthur asked if the lord could wait until he brought in his crops. The lord was angry. He raised his hands high and yelled, 'Pay me by the end of the week. If you don’t, I will increase the money you have to pay. I might put you in a jail cell.' So Arthur and Maria worked until there was blood on their hands. They finished four lines of corn and went to bed. But the next morning, eight lines were finished! 'Maria, didn’t we stop in this spot here?' Arthur asked. 'Yes, that is correct. And the tools were in a different position, too,' Maria said. They were surprised and happy. That day, they worked hard and finished five lines. But in the morning, ten lines were done! Each day they did a lot of work. Each night, someone else did an equal amount of work. In a week, the whole field was finished. 'Tomorrow I will sell the crops and pay the lord,' Arthur said. But that morning, the crops were gone. A bag was in the middle of the field. It contained money. 'Maria, let’s see who has helped us work.' Through a hole in the wall, they saw a funny sight. The cats were dancing in the field and eating corn! Now Arthur knew what had happened. The cats had worked at night! After that, Arthur was very nice to his cats and fed them lots of corn.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Factual",
+      "question_name": "Why were Arthur and Maria in debt to the town lord?",
+      "answers": [
+        { "id": 1, "value": "They owed money for their land." },
+        { "id": 2, "value": "They borrowed money for their farm." },
+        { "id": 3, "value": "They bought expensive animals." },
+        { "id": 4, "value": "They refused to pay taxes." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that Arthur and Maria owed the town lord money for their land."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Factual",
+      "question_name": "What happened to Arthur and Maria's farm one summer?",
+      "answers": [
+        { "id": 1, "value": "It burned down." },
+        { "id": 2, "value": "It was flooded." },
+        { "id": 3, "value": "It was attacked by animals." },
+        { "id": 4, "value": "It was taken by the lord." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explicitly mentions that their farm burned one summer."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Factual",
+      "question_name": "Which animals stayed with Arthur and Maria after the fire?",
+      "answers": [
+        { "id": 1, "value": "Cats." },
+        { "id": 2, "value": "Dogs." },
+        { "id": 3, "value": "Cows." },
+        { "id": 4, "value": "Horses." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that only the cats stayed after the fire."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Factual",
+      "question_name": "What did the lord threaten to do if Arthur didn’t pay by the end of the week?",
+      "answers": [
+        { "id": 1, "value": "Increase the money owed and possibly jail him." },
+        { "id": 2, "value": "Take his land immediately." },
+        { "id": 3, "value": "Burn their farm again." },
+        { "id": 4, "value": "Sell his crops himself." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that the lord threatened to increase the money owed and might put Arthur in a jail cell."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Factual",
+      "question_name": "How much work did Arthur and Maria complete on the first day?",
+      "answers": [
+        { "id": 1, "value": "Four lines of corn." },
+        { "id": 2, "value": "Eight lines of corn." },
+        { "id": 3, "value": "Five lines of corn." },
+        { "id": 4, "value": "Ten lines of corn." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage specifies that Arthur and Maria finished four lines of corn on the first day."
+      }
+    },
+    {
+      "id": 6,
+      "type": "Factual",
+      "question_name": "What did Arthur and Maria find in the field after the crops were harvested?",
+      "answers": [
+        { "id": 1, "value": "A bag of money." },
+        { "id": 2, "value": "A letter from the lord." },
+        { "id": 3, "value": "More corn to harvest." },
+        { "id": 4, "value": "Tools for farming." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that they found a bag of money in the middle of the field."
+      }
+    },
+    {
+      "id": 7,
+      "type": "Factual",
+      "question_name": "How did Arthur and Maria discover who helped them?",
+      "answers": [
+        { "id": 1, "value": "By looking through a hole in the wall." },
+        { "id": 2, "value": "By catching the helpers in the act." },
+        { "id": 3, "value": "By asking their neighbors." },
+        { "id": 4, "value": "By following tracks in the field." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that Arthur and Maria saw the cats through a hole in the wall."
+      }
+    },
+    {
+      "id": 8,
+      "type": "Factual",
+      "question_name": "What were the cats doing in the field when Arthur and Maria saw them?",
+      "answers": [
+        { "id": 1, "value": "Dancing and eating corn." },
+        { "id": 2, "value": "Sleeping and resting." },
+        { "id": 3, "value": "Planting more crops." },
+        { "id": 4, "value": "Running away." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that the cats were dancing and eating corn in the field."
+      }
+    },
+    {
+      "id": 9,
+      "type": "Factual",
+      "question_name": "How did Arthur treat the cats after discovering their help?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He was very nice to them and fed them lots of corn."
+        },
+        { "id": 2, "value": "He ignored them." },
+        { "id": 3, "value": "He sold them to the lord." },
+        { "id": 4, "value": "He let them stay in the field." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that Arthur became very nice to the cats and fed them lots of corn."
+      }
+    },
+    {
+      "id": 10,
+      "type": "Factual",
+      "question_name": "What did Arthur plan to do after harvesting the field?",
+      "answers": [
+        { "id": 1, "value": "Sell the crops and pay the lord." },
+        { "id": 2, "value": "Expand his farm." },
+        { "id": 3, "value": "Buy new animals for the farm." },
+        { "id": 4, "value": "Give the crops to his neighbors." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage says that Arthur planned to sell the crops and pay the lord."
+      }
+    },
+    {
+      "id": 11,
+      "type": "Inferential",
+      "question_name": "Why might the cats have decided to help Arthur and Maria?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "They wanted to repay the kindness they had received."
+        },
+        { "id": 2, "value": "They were hungry and needed food." },
+        { "id": 3, "value": "They wanted to impress the lord." },
+        { "id": 4, "value": "They were bored and needed work to do." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The story suggests that the cats stayed with Arthur and Maria after the fire and may have helped as a way to repay the couple's kindness."
+      }
+    },
+    {
+      "id": 12,
+      "type": "Inferential",
+      "question_name": "What does the lord's reaction to Arthur's request for more time reveal about him?",
+      "answers": [
+        { "id": 1, "value": "He was strict and unforgiving." },
+        { "id": 2, "value": "He wanted to help but couldn't." },
+        { "id": 3, "value": "He felt sorry for Arthur and Maria." },
+        { "id": 4, "value": "He was afraid of losing money." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The lord's threats to increase the debt and jail Arthur reveal that he was strict and unforgiving."
+      }
+    },
+    {
+      "id": 13,
+      "type": "Inferential",
+      "question_name": "What lesson does the story of the cats teach about unexpected help?",
+      "answers": [
+        { "id": 1, "value": "Help can come from surprising places." },
+        { "id": 2, "value": "You should always rely on animals for farming." },
+        { "id": 3, "value": "People should not expect any help." },
+        { "id": 4, "value": "Only family members will help in hard times." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The story shows how the cats unexpectedly helped Arthur and Maria, teaching that assistance can come from surprising sources."
+      }
+    },
+    {
+      "id": 14,
+      "type": "Vocabulary",
+      "question_name": "What does the phrase 'blood on their hands' most likely mean?",
+      "answers": [
+        { "id": 1, "value": "They worked very hard, causing injuries." },
+        { "id": 2, "value": "They were guilty of something." },
+        { "id": 3, "value": "They fought with each other." },
+        { "id": 4, "value": "They harvested too quickly." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In this context, 'blood on their hands' refers to working so hard that it caused injuries."
+      }
+    },
+    {
+      "id": 15,
+      "type": "Vocabulary",
+      "question_name": "What does 'debt' mean in the sentence 'They owed the town lord money for their land'?",
+      "answers": [
+        { "id": 1, "value": "An amount of money owed to someone." },
+        { "id": 2, "value": "An agreement to sell something." },
+        { "id": 3, "value": "A gift given to someone." },
+        { "id": 4, "value": "An amount of money saved." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Debt' refers to money that is owed to another person or entity."
+      }
+    },
+    {
+      "id": 16,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'responsible' mean in the sentence 'Arthur was a responsible farmer'?",
+      "answers": [
+        { "id": 1, "value": "Dependable and trustworthy." },
+        { "id": 2, "value": "Careless and lazy." },
+        { "id": 3, "value": "Wealthy and powerful." },
+        { "id": 4, "value": "Creative and imaginative." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In this context, 'responsible' means dependable and trustworthy, as Arthur took care of his farm and duties."
+      }
+    },
+    {
+      "id": 17,
+      "type": "Critical Thinking",
+      "question_name": "How might the story have been different if Arthur and Maria had no animals on the farm?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "They might not have been able to finish the harvest."
+        },
+        {
+          "id": 2,
+          "value": "They would have finished the harvest much faster."
+        },
+        { "id": 3, "value": "The lord might have forgiven their debt." },
+        { "id": 4, "value": "They would have planted a different crop." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Without the cats' help, Arthur and Maria might not have been able to finish the harvest on time."
+      }
+    },
+    {
+      "id": 18,
+      "type": "Critical Thinking",
+      "question_name": "What does the story suggest about showing gratitude to those who help you?",
+      "answers": [
+        { "id": 1, "value": "It is important to be kind and appreciative." },
+        { "id": 2, "value": "It is unnecessary to show gratitude." },
+        { "id": 3, "value": "Only humans deserve gratitude." },
+        {
+          "id": 4,
+          "value": "Kindness should only be shown in return for money."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Arthur's kindness to the cats after discovering their help shows the importance of being appreciative to those who support you."
+      }
+    },
+    {
+      "id": 19,
+      "type": "Critical Thinking",
+      "question_name": "What lesson might the lord learn from the story of Arthur and the cats?",
+      "answers": [
+        { "id": 1, "value": "Kindness can inspire unexpected results." },
+        { "id": 2, "value": "Strictness always gets the best results." },
+        { "id": 3, "value": "Farming is an easy job." },
+        { "id": 4, "value": "Animals are not helpful on farms." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The story shows how kindness, like Arthur’s eventual care for the cats, can lead to surprising and positive outcomes."
+      }
+    },
+    {
+      "id": 20,
+      "type": "Critical Thinking",
+      "question_name": "What might Arthur and Maria do differently in the future to avoid being in debt?",
+      "answers": [
+        { "id": 1, "value": "Plan for unexpected events and save money." },
+        { "id": 2, "value": "Stop taking care of animals." },
+        { "id": 3, "value": "Plant fewer crops to reduce their workload." },
+        { "id": 4, "value": "Ask the lord for a longer loan period." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Planning for unexpected events, like saving money for emergencies, might help Arthur and Maria avoid debt in the future."
+      }
+    }
+  ]
+}

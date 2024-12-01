@@ -1,0 +1,182 @@
+[
+  {
+    "word": "alien",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In the movie, the spaceship was piloted by an _______ from another planet.",
+        "answers": [
+          { "id": 1, "value": "alien" },
+          { "id": 2, "value": "engineer" },
+          { "id": 3, "value": "robot" },
+          { "id": 4, "value": "pilot" },
+          { "id": 5, "value": "scientist" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "among",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He found his lost keys hidden _______ the cushions of the sofa.",
+        "answers": [
+          { "id": 1, "value": "among" },
+          { "id": 2, "value": "over" },
+          { "id": 3, "value": "outside" },
+          { "id": 4, "value": "downstairs" },
+          { "id": 5, "value": "middle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chart",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The sales data was presented in a clear _______ to make it easier to understand.",
+        "answers": [
+          { "id": 1, "value": "chart" },
+          { "id": 2, "value": "book" },
+          { "id": 3, "value": "song" },
+          { "id": 4, "value": "painting" },
+          { "id": 5, "value": "map" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cloud",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The sky was covered with a large gray _______ before the rain started.",
+        "answers": [
+          { "id": 1, "value": "cloud" },
+          { "id": 2, "value": "star" },
+          { "id": 3, "value": "sun" },
+          { "id": 4, "value": "shadow" },
+          { "id": 5, "value": "storm" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "comprehend",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He found it difficult to _______ the instructions for the new machine.",
+        "answers": [
+          { "id": 1, "value": "comprehend" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "rewrite" },
+          { "id": 4, "value": "repeat" },
+          { "id": 5, "value": "create" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "describe",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Can you _______ what the thief looked like to the police?",
+        "answers": [
+          { "id": 1, "value": "describe" },
+          { "id": 2, "value": "ask" },
+          { "id": 3, "value": "imagine" },
+          { "id": 4, "value": "hide" },
+          { "id": 5, "value": "show" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ever",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Have you _______ seen a shooting star in the night sky?",
+        "answers": [
+          { "id": 1, "value": "ever" },
+          { "id": 2, "value": "never" },
+          { "id": 3, "value": "always" },
+          { "id": 4, "value": "rarely" },
+          { "id": 5, "value": "often" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fail",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "If you don’t study for the test, you might _______ it.",
+        "answers": [
+          { "id": 1, "value": "fail" },
+          { "id": 2, "value": "pass" },
+          { "id": 3, "value": "skip" },
+          { "id": 4, "value": "complete" },
+          { "id": 5, "value": "forget" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "friendly",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The staff at the hotel were very _______ and made us feel welcome.",
+        "answers": [
+          { "id": 1, "value": "friendly" },
+          { "id": 2, "value": "rude" },
+          { "id": 3, "value": "careless" },
+          { "id": 4, "value": "quiet" },
+          { "id": 5, "value": "lazy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "grade",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She worked hard and received the highest _______ in the class.",
+        "answers": [
+          { "id": 1, "value": "grade" },
+          { "id": 2, "value": "number" },
+          { "id": 3, "value": "student" },
+          { "id": 4, "value": "lesson" },
+          { "id": 5, "value": "book" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "loud",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The music was so _______ that we could hear it from outside.",
+        "answers": [
+          { "id": 1, "value": "loud" },
+          { "id": 2, "value": "quiet" },
+          { "id": 3, "value": "soft" },
+          { "id": 4, "value": "low" },
+          { "id": 5, "value": "calm" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "nervous",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She felt _______ before her speech, but she did very well.",
+        "answers": [
+          { "id": 1, "value": "nervous" },
+          { "id": 2, "value": "confident" },
+          { "id": 3, "value": "calm" },
+          { "id": 4, "value": "excited" },
+          { "id": 5, "value": "happy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "noise",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The loud _______ from the construction site woke everyone up.",
+        "answers": [
+          { "id": 1, "value": "noise" },
+          { "id": 2, "value": "music" },
+          { "id": 3, "value": "whisper" },
+          { "id": 4, "value": "call" },
+          { "id": 5, "value": "message" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "project",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team worked together to complete the science _______.",
+        "answers": [
+          { "id": 1, "value": "project" },
+          { "id": 2, "value": "story" },
+          { "id": 3, "value": "song" },
+          { "id": 4, "value": "game" },
+          { "id": 5, "value": "schedule" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scare",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The loud thunderstorm didn’t _______ the little boy at all.",
+        "answers": [
+          { "id": 1, "value": "scare" },
+          { "id": 2, "value": "calm" },
+          { "id": 3, "value": "cheer" },
+          { "id": 4, "value": "comfort" },
+          { "id": 5, "value": "help" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "secret",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She told me a _______ and asked me not to share it with anyone.",
+        "answers": [
+          { "id": 1, "value": "secret" },
+          { "id": 2, "value": "story" },
+          { "id": 3, "value": "message" },
+          { "id": 4, "value": "fact" },
+          { "id": 5, "value": "truth" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shout",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He had to _______ to be heard over the noise of the crowd.",
+        "answers": [
+          { "id": 1, "value": "shout" },
+          { "id": 2, "value": "whisper" },
+          { "id": 3, "value": "ask" },
+          { "id": 4, "value": "write" },
+          { "id": 5, "value": "signal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "smell",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The kitchen was filled with the delicious _______ of freshly baked bread.",
+        "answers": [
+          { "id": 1, "value": "smell" },
+          { "id": 2, "value": "taste" },
+          { "id": 3, "value": "noise" },
+          { "id": 4, "value": "sight" },
+          { "id": 5, "value": "voice" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "terrible",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The movie was so _______ that we left before it ended.",
+        "answers": [
+          { "id": 1, "value": "terrible" },
+          { "id": 2, "value": "amazing" },
+          { "id": 3, "value": "exciting" },
+          { "id": 4, "value": "wonderful" },
+          { "id": 5, "value": "enjoyable" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "worse",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The weather today is even _______ than it was yesterday.",
+        "answers": [
+          { "id": 1, "value": "worse" },
+          { "id": 2, "value": "worst" },
+          { "id": 3, "value": "nice" },
+          { "id": 4, "value": "good" },
+          { "id": 5, "value": "fine" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

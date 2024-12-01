@@ -1,0 +1,172 @@
+[
+  {
+    "word": "mission",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The astronauts were sent on a _______ to explore Mars.",
+        "answers": [
+          { "id": 1, "value": "mission" },
+          { "id": 2, "value": "holiday" },
+          { "id": 3, "value": "vacation" },
+          { "id": 4, "value": "trip" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "nevertheless",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It was raining heavily; _______ they decided to go hiking.",
+        "answers": [
+          { "id": 1, "value": "because" },
+          { "id": 2, "value": "nevertheless" },
+          { "id": 3, "value": "therefore" },
+          { "id": 4, "value": "meanwhile" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "occupation",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her primary _______ is teaching at the local school.",
+        "answers": [
+          { "id": 1, "value": "occupation" },
+          { "id": 2, "value": "hobby" },
+          { "id": 3, "value": "habit" },
+          { "id": 4, "value": "interest" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "overseas",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He moved _______ for work and settled in a new country.",
+        "answers": [
+          { "id": 1, "value": "overseas" },
+          { "id": 2, "value": "downtown" },
+          { "id": 3, "value": "nearby" },
+          { "id": 4, "value": "locally" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "persuade",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She tried to _______ him to join the team, but he refused.",
+        "answers": [
+          { "id": 1, "value": "persuade" },
+          { "id": 2, "value": "force" },
+          { "id": 3, "value": "allow" },
+          { "id": 4, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "route",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hikers planned their _______ carefully before starting the trek.",
+        "answers": [
+          { "id": 1, "value": "route" },
+          { "id": 2, "value": "nest" },
+          { "id": 3, "value": "rest" },
+          { "id": 4, "value": "stop" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ruins",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The tourists visited the ancient _______ of the castle.",
+        "answers": [
+          { "id": 1, "value": "ruins" },
+          { "id": 2, "value": "room" },
+          { "id": 3, "value": "basement" },
+          { "id": 4, "value": "grounds" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scholar",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ spent years studying ancient texts and languages.",
+        "answers": [
+          { "id": 1, "value": "scholar" },
+          { "id": 2, "value": "traveler" },
+          { "id": 3, "value": "artist" },
+          { "id": 4, "value": "farmer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "significant",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The discovery of penicillin was a _______ event in medical history.",
+        "answers": [
+          { "id": 1, "value": "significant" },
+          { "id": 2, "value": "common" },
+          { "id": 3, "value": "minor" },
+          { "id": 4, "value": "ordinary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "volcano",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The eruption of the _______ caused massive damage to the nearby village.",
+        "answers": [
+          { "id": 1, "value": "volcano" },
+          { "id": 2, "value": "earthquake" },
+          { "id": 3, "value": "storm" },
+          { "id": 4, "value": "mountain" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

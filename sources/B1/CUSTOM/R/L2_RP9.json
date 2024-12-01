@@ -1,0 +1,359 @@
+{
+  "passage": "The Tale of Bartelby O'Boyle Long ago, there was a clever man by the name of Bartelby O'Boyle. As a boy, he was kept as a slave by the royal family. He saw other children play, but he always had to work. This frustrated him very much. But he was not stupid, and he wanted to change things. Then one day there was a struggle for authority in the kingdom. There was a division of the people, and one group fought against another group to see which would govern the kingdom. There was disorder in the kingdom. Bartelby ran away. He saw much fighting and destruction. Many people had nothing to eat; Bartelby decided to aid them. He would help them get food. But how? Bartelby went to the capital to find an answer. There, he met a man named Gilliam. A group of men attempted to hurt Gilliam. Bartelby defended him. Then, he gave Gilliam some food to relieve his hunger. After that, the two became friends. They took food from the rich and gave it to the poor. Soon, other people cooperated with them. Working together enabled them to take more food. But they only took food from people who had plenty, and they always gave it to those who had none. Because of this, Bartleby gained a reputation across the kingdom. Even today, many people admire him for helping the poor.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Factual",
+      "question_name": "Who was Bartelby O'Boyle?",
+      "answers": [
+        { "id": 1, "value": "A clever man who helped the poor." },
+        { "id": 2, "value": "A king who ruled the kingdom." },
+        { "id": 3, "value": "A soldier in the royal army." },
+        { "id": 4, "value": "A merchant in the capital." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage describes Bartelby as a clever man known for aiding the poor."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Factual",
+      "question_name": "What was Bartelby's status as a boy?",
+      "answers": [
+        { "id": 1, "value": "He was kept as a slave by the royal family." },
+        { "id": 2, "value": "He was a nobleman's son." },
+        { "id": 3, "value": "He was a peasant farmer." },
+        { "id": 4, "value": "He was a soldier." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage explicitly states Bartelby was a slave as a boy."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Factual",
+      "question_name": "Why did Bartelby run away from the royal family?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "There was a struggle for authority in the kingdom."
+        },
+        { "id": 2, "value": "He was freed by the king." },
+        { "id": 3, "value": "He was banished for stealing." },
+        { "id": 4, "value": "He wanted to join the army." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Bartelby escaped during a period of chaos caused by a power struggle in the kingdom."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Factual",
+      "question_name": "Who did Bartelby meet in the capital?",
+      "answers": [
+        { "id": 1, "value": "A man named Gilliam." },
+        { "id": 2, "value": "The king's advisor." },
+        { "id": 3, "value": "A poor merchant." },
+        { "id": 4, "value": "A member of the royal family." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage states that Bartelby met Gilliam in the capital."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Factual",
+      "question_name": "How did Bartelby and Gilliam become friends?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Bartelby defended Gilliam from a group of men and gave him food."
+        },
+        { "id": 2, "value": "They both worked together to fight the rich." },
+        {
+          "id": 3,
+          "value": "Gilliam saved Bartelby from a dangerous situation."
+        },
+        { "id": 4, "value": "They grew up together as slaves." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage describes Bartelby defending Gilliam and sharing food, which led to their friendship."
+      }
+    },
+    {
+      "id": 6,
+      "type": "Factual",
+      "question_name": "What did Bartelby and Gilliam do to help the poor?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "They took food from the rich and gave it to the poor."
+        },
+        { "id": 2, "value": "They worked on farms to grow food for the poor." },
+        { "id": 3, "value": "They opened a marketplace for the poor." },
+        { "id": 4, "value": "They gave their own money to the poor." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage describes how Bartelby and Gilliam redistributed food from the rich to the poor."
+      }
+    },
+    {
+      "id": 7,
+      "type": "Factual",
+      "question_name": "Who helped Bartelby and Gilliam in their efforts?",
+      "answers": [
+        { "id": 1, "value": "Other people in the kingdom." },
+        { "id": 2, "value": "The royal family." },
+        { "id": 3, "value": "Soldiers from the king's army." },
+        { "id": 4, "value": "Merchants from the capital." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage mentions that other people cooperated with Bartelby and Gilliam in their mission."
+      }
+    },
+    {
+      "id": 8,
+      "type": "Factual",
+      "question_name": "What kind of reputation did Bartelby gain across the kingdom?",
+      "answers": [
+        { "id": 1, "value": "He became admired for helping the poor." },
+        { "id": 2, "value": "He was feared as a powerful warrior." },
+        { "id": 3, "value": "He was respected as a royal advisor." },
+        { "id": 4, "value": "He was known for his wealth and influence." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage states that Bartelby became famous for aiding the poor."
+      }
+    },
+    {
+      "id": 9,
+      "type": "Inferential",
+      "question_name": "Why did Bartelby choose to help the poor instead of seeking wealth for himself?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He experienced hardship as a slave and empathized with their struggles."
+        },
+        { "id": 2, "value": "He wanted revenge against the rich." },
+        { "id": 3, "value": "He believed wealth would bring him trouble." },
+        { "id": 4, "value": "He was forced to help them by Gilliam." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Bartelby's background as a slave likely gave him a deep understanding of suffering and the desire to help others in need."
+      }
+    },
+    {
+      "id": 10,
+      "type": "Inferential",
+      "question_name": "What might have motivated others to join Bartelby and Gilliam in their mission?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "They admired Bartelby's cause of helping the poor."
+        },
+        { "id": 2, "value": "They wanted to overthrow the royal family." },
+        { "id": 3, "value": "They sought wealth and power for themselves." },
+        { "id": 4, "value": "They feared punishment from Bartelby." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Bartelby's reputation for helping the poor likely inspired others to support his mission."
+      }
+    },
+    {
+      "id": 11,
+      "type": "Inferential",
+      "question_name": "Why do people still admire Bartelby today, according to the story?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He made a lasting impact by helping the poor selflessly."
+        },
+        {
+          "id": 2,
+          "value": "He was a brave warrior who defended the kingdom."
+        },
+        { "id": 3, "value": "He became a famous leader and king." },
+        { "id": 4, "value": "He invented a new way to distribute food." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Bartelby’s selfless acts of helping the poor are the reason he is admired even today."
+      }
+    },
+    {
+      "id": 12,
+      "type": "Vocabulary",
+      "question_name": "What does 'reputation' mean in the context of the passage?",
+      "answers": [
+        { "id": 1, "value": "The way people regard or think of someone." },
+        { "id": 2, "value": "A formal job or role." },
+        { "id": 3, "value": "A large collection of money or goods." },
+        { "id": 4, "value": "A secret plan or strategy." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'reputation' refers to Bartelby’s recognition and admiration across the kingdom."
+      }
+    },
+    {
+      "id": 13,
+      "type": "Vocabulary",
+      "question_name": "What does 'division' mean in the sentence, 'There was a division of the people'?",
+      "answers": [
+        { "id": 1, "value": "A split or separation." },
+        { "id": 2, "value": "A government department." },
+        { "id": 3, "value": "A form of punishment." },
+        { "id": 4, "value": "A strategy for war." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'division' in this context refers to the people being split into opposing groups."
+      }
+    },
+    {
+      "id": 14,
+      "type": "Vocabulary",
+      "question_name": "What does 'authority' mean in the context of the passage?",
+      "answers": [
+        { "id": 1, "value": "Control or power to govern." },
+        { "id": 2, "value": "An official document." },
+        { "id": 3, "value": "A wealthy kingdom." },
+        { "id": 4, "value": "A group of advisors." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'authority' refers to the control or power over the kingdom that groups were fighting for."
+      }
+    },
+    {
+      "id": 15,
+      "type": "Vocabulary",
+      "question_name": "What does 'cooperated' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Worked together toward a common goal." },
+        { "id": 2, "value": "Argued with each other." },
+        { "id": 3, "value": "Competed for resources." },
+        { "id": 4, "value": "Took turns leading." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage mentions others working with Bartelby and Gilliam to help the poor."
+      }
+    },
+    {
+      "id": 16,
+      "type": "Critical Thinking",
+      "question_name": "Was it ethical for Bartelby and Gilliam to take food from the rich? Why or why not?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Yes, because they only took from those who had plenty to help those in need."
+        },
+        {
+          "id": 2,
+          "value": "No, because stealing is wrong regardless of the reason."
+        },
+        { "id": 3, "value": "Yes, because the rich were hoarding resources." },
+        {
+          "id": 4,
+          "value": "No, because they could have found another way to help."
+        }
+      ],
+      "correct_answers": [1, 2],
+      "explanation": {
+        "english": "Options 1 and 2 are correct because the situation involves both ethical justification (helping the poor) and a moral dilemma (stealing is typically wrong)."
+      }
+    },
+    {
+      "id": 17,
+      "type": "Critical Thinking",
+      "question_name": "What might have happened if Bartelby had not met Gilliam?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Bartelby might have struggled to start his mission alone."
+        },
+        { "id": 2, "value": "Bartelby would have joined the royal family." },
+        { "id": 3, "value": "Gilliam would have become the king." },
+        { "id": 4, "value": "Bartelby would have remained a slave." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because meeting Gilliam helped Bartelby form a partnership and grow his mission to help the poor."
+      }
+    },
+    {
+      "id": 18,
+      "type": "Critical Thinking",
+      "question_name": "What lessons can modern readers learn from Bartelby’s story?",
+      "answers": [
+        { "id": 1, "value": "Helping others can create a lasting impact." },
+        { "id": 2, "value": "Working together can achieve great things." },
+        {
+          "id": 3,
+          "value": "Standing up for what is right can inspire others."
+        },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because Bartelby’s story provides multiple valuable lessons about kindness, cooperation, and moral courage."
+      }
+    },
+    {
+      "id": 19,
+      "type": "Critical Thinking",
+      "question_name": "How might Bartelby’s actions have influenced the kingdom in the long term?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "They might have inspired social changes to help the poor."
+        },
+        {
+          "id": 2,
+          "value": "They might have caused greater division among the people."
+        },
+        {
+          "id": 3,
+          "value": "They might have led to stricter laws against stealing."
+        },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because Bartelby’s actions could have had various effects on the kingdom, both positive and negative."
+      }
+    },
+    {
+      "id": 20,
+      "type": "Critical Thinking",
+      "question_name": "If you were in Bartelby’s position, what alternative actions could you take to help the poor?",
+      "answers": [
+        { "id": 1, "value": "Organize a system of fair food distribution." },
+        {
+          "id": 2,
+          "value": "Work to convince the rich to share their resources voluntarily."
+        },
+        {
+          "id": 3,
+          "value": "Start a movement to change laws about wealth distribution."
+        },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because there are multiple alternative ways to address poverty without resorting to stealing."
+      }
+    }
+  ]
+}

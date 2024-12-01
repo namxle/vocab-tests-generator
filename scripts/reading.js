@@ -33,18 +33,29 @@ function generateReadingTestData(data, total = data.length) {
   // Count total answers in each question
   const totalAnswers = 4;
 
-  const logicData = helper.getRandomElements(data, total);
+  // Get random logic data
+  let readingData;
+  if (total == data.length) {
+    readingData = JSON.parse(JSON.stringify(data));
+  } else {
+    readingData = helper.getRandomElements(data, total);
+  }
+
   console.log(
     'Reading day test: ',
-    logicData.map((datum) => datum.day),
+    readingData.map((datum) => datum.day),
   );
 
   let flag = true;
   let finalResult = null;
 
+  if (readingData.length == 0) {
+    return { totalAnswers: [], testData: [] };
+  }
+
   while (flag) {
     // Get test data
-    const result = getTestData(logicData);
+    const result = getTestData(readingData);
     finalResult = result;
 
     // If flag is false, then break else check answer counts

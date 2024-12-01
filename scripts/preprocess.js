@@ -7,9 +7,9 @@ const helperScript = require('./helper');
 // Constants
 const CWD = process.cwd();
 
-const LEVEL = 'A2';
-const SUB_LEVEL = 'L2';
-const GROUP = 'M';
+const LEVEL = 'B1';
+const SUB_LEVEL = 'CUSTOM';
+const GROUP = 'R';
 const DAY = 'Day';
 
 // Total expected questions per GROUP
@@ -70,7 +70,16 @@ function processLogicData(datum) {
           }),
       ];
     } else {
-      item.correct_answers = [question.correct_answer];
+      if (question.correct_answer) {
+        item.correct_answers = [question.correct_answer];
+      } else if (
+        question.correct_answers &&
+        Array.isArray(question.correct_answers)
+      ) {
+        item.correct_answers = question.correct_answers;
+      } else {
+        console.log(`Error: ${datum}`);
+      }
       item.answers = question.answers;
     }
     return item;
@@ -97,10 +106,17 @@ function processSourceFiles(files) {
 
   files.forEach((fileName) => {
     console.log('Processing file:', fileName);
-    const elements = fileName.split('.json')[0].split('_');
-    const fileLevel = elements[0];
-    const fileSubLevel = elements[1];
-    const fileDay = Number(elements[2].split(GROUP)[0].split(DAY)[1]);
+    // If sub level is custom level then we have another type to mark the data
+    let elements, fileLevel, fileSubLevel, fileDay;
+
+    if (SUB_LEVEL == 'CUSTOM') {
+      fileDay = fileName.split('.json')[0];
+    } else {
+      elements = fileName.split('.json')[0].split('_');
+      fileLevel = elements[0];
+      fileSubLevel = elements[1];
+      fileDay = Number(elements[2].split(GROUP)[0].split(DAY)[1]);
+    }
 
     // Read data
     const filePath = `${sourcesDir}/${fileName}`;

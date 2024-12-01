@@ -1,0 +1,320 @@
+{
+  "passage": "Tricky Turtle Ricky the rabbit and Tera the turtle met by the edge of the river. 'No one is capable of beating me in a race!' Ricky said. He was confident his smile conveyed that. 'I can beat you,' Tera said. Ricky laughed with delight. Tera said, 'We will race tomorrow. The destination is the hill.' Ricky agreed. Tera concentrated on winning the race. She was not faster than Ricky. She needed a definite way to succeed. She told her family about the race, 'I have concluded that I have to resort to something bad. I will cheat.' She dictated her instructions to them. At the race, they all wore white feathers. They looked exactly the same! Then, her family members hid in shadows on the path. The race began. Tera was soon far behind. However, Tera's brother hid behind a bush in the valley below. When Ricky got close, Tera's brother began to run. He looked just like Tera! Ricky ran as fast as he could along the path. But, to him, it seemed like Tera was always ahead. Ricky had used a considerable amount of energy. He reached the top, but Tera's sister was already there. 'Well, you win,' Ricky said. Later, Tera had a broad smile on her face. Ricky never suspected. He had been tricked by a family of slow turtles.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Factual",
+      "question_name": "Who were the two main characters in the story?",
+      "answers": [
+        { "id": 1, "value": "Ricky the rabbit and Tera the turtle." },
+        { "id": 2, "value": "Ricky the rabbit and Tera's brother." },
+        { "id": 3, "value": "Tera the turtle and her sister." },
+        { "id": 4, "value": "Ricky the rabbit and Tera's family." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the story focuses on Ricky the rabbit and Tera the turtle as the main characters."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Factual",
+      "question_name": "What challenge did Tera give to Ricky?",
+      "answers": [
+        { "id": 1, "value": "A race to the hill." },
+        { "id": 2, "value": "A swimming competition." },
+        { "id": 3, "value": "A strength contest." },
+        { "id": 4, "value": "A climbing competition." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Tera challenged Ricky to a race, and the destination was the hill."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Factual",
+      "question_name": "Why did Tera decide to cheat?",
+      "answers": [
+        { "id": 1, "value": "She knew she wasn’t faster than Ricky." },
+        { "id": 2, "value": "She wanted to impress her family." },
+        { "id": 3, "value": "She was angry at Ricky." },
+        { "id": 4, "value": "She wanted to teach Ricky a lesson." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Tera realized that she wasn’t faster than Ricky and needed a plan to win."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Factual",
+      "question_name": "What did Tera’s family members wear during the race?",
+      "answers": [
+        { "id": 1, "value": "White feathers." },
+        { "id": 2, "value": "Turtle shells." },
+        { "id": 3, "value": "Green scarves." },
+        { "id": 4, "value": "Nothing special." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage states that Tera’s family wore white feathers to look identical to her."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Factual",
+      "question_name": "Where did Tera’s brother hide during the race?",
+      "answers": [
+        { "id": 1, "value": "Behind a bush in the valley below." },
+        { "id": 2, "value": "At the starting line." },
+        { "id": 3, "value": "Near the hilltop." },
+        { "id": 4, "value": "By the riverbank." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Tera’s brother hid behind a bush in the valley as part of their cheating plan."
+      }
+    },
+    {
+      "id": 6,
+      "type": "Factual",
+      "question_name": "What did Ricky think when he saw 'Tera' always ahead?",
+      "answers": [
+        { "id": 1, "value": "He believed Tera was faster than him." },
+        { "id": 2, "value": "He realized Tera was cheating." },
+        { "id": 3, "value": "He thought he was losing because he was tired." },
+        { "id": 4, "value": "He decided to stop running." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Ricky didn’t suspect cheating and thought Tera was genuinely ahead of him."
+      }
+    },
+    {
+      "id": 7,
+      "type": "Factual",
+      "question_name": "Who was at the top of the hill when Ricky arrived?",
+      "answers": [
+        { "id": 1, "value": "Tera’s sister." },
+        { "id": 2, "value": "Tera herself." },
+        { "id": 3, "value": "Ricky’s friend." },
+        { "id": 4, "value": "No one." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the story says that Tera’s sister, disguised as Tera, was waiting at the top of the hill."
+      }
+    },
+    {
+      "id": 8,
+      "type": "Factual",
+      "question_name": "What did Ricky say to Tera after the race?",
+      "answers": [
+        { "id": 1, "value": "'Well, you win.'" },
+        { "id": 2, "value": "'You cheated!'" },
+        { "id": 3, "value": "'I will race you again!'" },
+        { "id": 4, "value": "'I’m faster than you.'" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Ricky admitted defeat and said, 'Well, you win.'"
+      }
+    },
+    {
+      "id": 9,
+      "type": "Factual",
+      "question_name": "How did Tera feel after the race?",
+      "answers": [
+        { "id": 1, "value": "She had a broad smile on her face." },
+        { "id": 2, "value": "She felt guilty for cheating." },
+        { "id": 3, "value": "She was tired from running." },
+        { "id": 4, "value": "She was worried Ricky would find out." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage describes Tera smiling broadly after tricking Ricky."
+      }
+    },
+    {
+      "id": 10,
+      "type": "Factual",
+      "question_name": "Did Ricky suspect that Tera cheated?",
+      "answers": [
+        { "id": 1, "value": "No, he never suspected." },
+        { "id": 2, "value": "Yes, he realized it after the race." },
+        { "id": 3, "value": "Yes, during the race." },
+        { "id": 4, "value": "No, but someone told him later." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the story explicitly states that Ricky never suspected he had been tricked."
+      }
+    },
+    {
+      "id": 11,
+      "type": "Inferential",
+      "question_name": "Why did Tera’s plan work so well?",
+      "answers": [
+        { "id": 1, "value": "Ricky believed he was seeing Tera ahead of him." },
+        { "id": 2, "value": "Tera was actually faster than Ricky." },
+        { "id": 3, "value": "Ricky gave up before the race was over." },
+        { "id": 4, "value": "Tera ran ahead while Ricky rested." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Tera’s family members, who looked identical to her, tricked Ricky into thinking Tera was always ahead."
+      }
+    },
+    {
+      "id": 12,
+      "type": "Inferential",
+      "question_name": "What does the story suggest about Ricky’s personality?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He is overconfident and doesn’t consider other possibilities."
+        },
+        { "id": 2, "value": "He is kind and humble." },
+        { "id": 3, "value": "He is quick to suspect dishonesty." },
+        { "id": 4, "value": "He is patient and careful." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Ricky’s confidence in his speed and failure to suspect cheating highlight his overconfidence."
+      }
+    },
+    {
+      "id": 13,
+      "type": "Inferential",
+      "question_name": "What lesson might the reader learn from this story?",
+      "answers": [
+        { "id": 1, "value": "Cheating might work, but it’s not fair." },
+        { "id": 2, "value": "Overconfidence can lead to being tricked." },
+        { "id": 3, "value": "It’s important to work hard to win fairly." },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because the story provides multiple lessons, including the consequences of cheating and overconfidence."
+      }
+    },
+    {
+      "id": 14,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'conveyed' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Communicated or expressed." },
+        { "id": 2, "value": "Hidden or concealed." },
+        { "id": 3, "value": "Removed or erased." },
+        { "id": 4, "value": "Ignored or neglected." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'conveyed' refers to Ricky expressing his confidence through his smile."
+      }
+    },
+    {
+      "id": 15,
+      "type": "Vocabulary",
+      "question_name": "What does 'dictated' mean in the context of the story?",
+      "answers": [
+        { "id": 1, "value": "Gave detailed instructions." },
+        { "id": 2, "value": "Wrote something down." },
+        { "id": 3, "value": "Spoke softly." },
+        { "id": 4, "value": "Argued about a plan." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Tera dictated her instructions to her family, meaning she told them exactly what to do."
+      }
+    },
+    {
+      "id": 16,
+      "type": "Vocabulary",
+      "question_name": "What does the phrase 'considerable amount of energy' mean?",
+      "answers": [
+        { "id": 1, "value": "A lot of effort and stamina." },
+        { "id": 2, "value": "A small amount of strength." },
+        { "id": 3, "value": "No energy at all." },
+        { "id": 4, "value": "A sudden burst of speed." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'considerable amount of energy' refers to Ricky using a lot of effort during the race."
+      }
+    },
+    {
+      "id": 17,
+      "type": "Critical Thinking",
+      "question_name": "Do you think Tera’s actions were justified? Why or why not?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "No, because cheating is unfair even if it’s clever."
+        },
+        {
+          "id": 2,
+          "value": "Yes, because Ricky was overconfident and needed to be humbled."
+        },
+        { "id": 3, "value": "Yes, because it’s the only way she could win." },
+        { "id": 4, "value": "No, because Ricky deserved to win fairly." }
+      ],
+      "correct_answers": [1, 4],
+      "explanation": {
+        "english": "Options 1 and 4 are correct because cheating undermines fairness, and Ricky, though overconfident, did not deserve to lose unfairly."
+      }
+    },
+    {
+      "id": 18,
+      "type": "Critical Thinking",
+      "question_name": "What might have happened if Ricky suspected Tera’s family’s trick?",
+      "answers": [
+        { "id": 1, "value": "He might have challenged her to another race." },
+        { "id": 2, "value": "He might have exposed her cheating." },
+        { "id": 3, "value": "He might have refused to finish the race." },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because Ricky could have reacted in several ways if he realized he was being tricked."
+      }
+    },
+    {
+      "id": 19,
+      "type": "Critical Thinking",
+      "question_name": "What does this story teach about overconfidence?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Overconfidence can make people overlook important details."
+        },
+        { "id": 2, "value": "Overconfidence always leads to failure." },
+        { "id": 3, "value": "Overconfidence helps win races." },
+        { "id": 4, "value": "Overconfidence has no impact on success." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Ricky’s overconfidence made him ignore the possibility of being tricked."
+      }
+    },
+    {
+      "id": 20,
+      "type": "Critical Thinking",
+      "question_name": "How could Tera have won the race fairly?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "She could have worked harder to improve her speed."
+        },
+        { "id": 2, "value": "She could have asked for a head start." },
+        { "id": 3, "value": "She could have chosen a shorter race." },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because Tera had several fair options to improve her chances of winning without cheating."
+      }
+    }
+  ]
+}

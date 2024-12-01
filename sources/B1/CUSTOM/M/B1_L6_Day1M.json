@@ -1,0 +1,172 @@
+[
+  {
+    "word": "abroad",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She decided to study _______ to experience a different culture.",
+        "answers": [
+          { "id": 1, "value": "abroad" },
+          { "id": 2, "value": "locally" },
+          { "id": 3, "value": "indoors" },
+          { "id": 4, "value": "nearby" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "anger",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "His voice was trembling with _______ after hearing the bad news.",
+        "answers": [
+          { "id": 1, "value": "joy" },
+          { "id": 2, "value": "anger" },
+          { "id": 3, "value": "confusion" },
+          { "id": 4, "value": "calm" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "bride",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ walked down the aisle wearing a beautiful white dress.",
+        "answers": [
+          { "id": 1, "value": "bride" },
+          { "id": 2, "value": "groom" },
+          { "id": 3, "value": "guest" },
+          { "id": 4, "value": "flower girl" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "brief",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The manager gave a _______ explanation of the new company policy.",
+        "answers": [
+          { "id": 1, "value": "short" },
+          { "id": 2, "value": "long" },
+          { "id": 3, "value": "brief" },
+          { "id": 4, "value": "complex" }
+        ],
+        "correct_answers": [3]
+      }
+    ]
+  },
+  {
+    "word": "chase",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The police had to _______ the suspect through the crowded streets.",
+        "answers": [
+          { "id": 1, "value": "run" },
+          { "id": 2, "value": "chase" },
+          { "id": 3, "value": "greet" },
+          { "id": 4, "value": "avoid" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "disappoint",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The news of the canceled concert will _______ many fans.",
+        "answers": [
+          { "id": 1, "value": "excite" },
+          { "id": 2, "value": "disappoint" },
+          { "id": 3, "value": "motivate" },
+          { "id": 4, "value": "worse" }
+        ],
+        "correct_answers": [2]
+      }
+    ]
+  },
+  {
+    "word": "dive",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He decided to _______ into the pool to cool off on the hot day.",
+        "answers": [
+          { "id": 1, "value": "dive" },
+          { "id": 2, "value": "walk" },
+          { "id": 3, "value": "sit" },
+          { "id": 4, "value": "wade" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "exchange",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We decided to _______ gifts during the holiday celebration.",
+        "answers": [
+          { "id": 1, "value": "exchange" },
+          { "id": 2, "value": "sell" },
+          { "id": 3, "value": "sold" },
+          { "id": 4, "value": "keep" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "favor",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Could you do me a _______ and lend me your book for a day?",
+        "answers": [
+          { "id": 1, "value": "favor" },
+          { "id": 2, "value": "warning" },
+          { "id": 3, "value": "chore" },
+          { "id": 4, "value": "promise" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fee",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There is a small _______ to join the gym, but it’s worth it.",
+        "answers": [
+          { "id": 1, "value": "fee" },
+          { "id": 2, "value": "penalty" },
+          { "id": 3, "value": "fine" },
+          { "id": 4, "value": "loan" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

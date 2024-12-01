@@ -1,0 +1,353 @@
+{
+  "passage": "Blackbeard Along time ago, I had my first job. It didn't give me much of an income. It was on a giant pirate ship. On my first night, there was a thick fog over the water. A lamp on the ship revealed an enormous man. He had a sword in his belt. His name was Blackbeard, and he was one of the most violent pirates ever. One day, Blackbeard did an extraordinary thing. He attacked several ships near a town. He took some of the town's citizens. Then he declared, 'You give me medicine!' Blackbeard wanted the medicine for some of the sick pirates on his ship. The people had a bad impression of him. They were mad, and they resisted. But they were trapped. They wanted to get rid of him. So the town's council decided to give him the medicine. After this, there was a reward for catching Blackbeard. If Blackbeard was caught, he would have a trial. He didn't want to go to jail, so he quit being a pirate. Blackbeard became a fisherman. But he ought to have stayed on land. The Royal Navy was still looking for him. They attacked him while he was fishing on his boat. Blackbeard fought against many men. Finally, he was killed. He didn't even get a funeral. But people still tell tales about him many years later.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Factual",
+      "question_name": "What was the narrator's first job?",
+      "answers": [
+        { "id": 1, "value": "A job on a giant pirate ship." },
+        { "id": 2, "value": "A job as a fisherman." },
+        { "id": 3, "value": "A job on a Royal Navy ship." },
+        { "id": 4, "value": "A job in a town council." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the narrator states that their first job was on a giant pirate ship."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Factual",
+      "question_name": "Who was Blackbeard?",
+      "answers": [
+        { "id": 1, "value": "An enormous and violent pirate." },
+        { "id": 2, "value": "A peaceful fisherman." },
+        { "id": 3, "value": "A member of the Royal Navy." },
+        { "id": 4, "value": "A town council member." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Blackbeard is described as an enormous and violent pirate."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Factual",
+      "question_name": "Why did Blackbeard attack several ships near a town?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He wanted medicine for the sick pirates on his ship."
+        },
+        { "id": 2, "value": "He wanted treasure from the town's citizens." },
+        { "id": 3, "value": "He wanted to recruit sailors for his crew." },
+        { "id": 4, "value": "He wanted to destroy the town completely." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Blackbeard declared that he wanted medicine for the sick pirates."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Factual",
+      "question_name": "What did the town's council do to get rid of Blackbeard?",
+      "answers": [
+        { "id": 1, "value": "They gave him the medicine." },
+        { "id": 2, "value": "They set a trap for him." },
+        { "id": 3, "value": "They called the Royal Navy immediately." },
+        { "id": 4, "value": "They fought back against him." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the town's council decided to give Blackbeard the medicine to get rid of him."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Factual",
+      "question_name": "What did Blackbeard do after quitting piracy?",
+      "answers": [
+        { "id": 1, "value": "He became a fisherman." },
+        { "id": 2, "value": "He joined the Royal Navy." },
+        { "id": 3, "value": "He became a farmer." },
+        { "id": 4, "value": "He returned to the town he attacked." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage states that Blackbeard became a fisherman after quitting piracy."
+      }
+    },
+    {
+      "id": 6,
+      "type": "Factual",
+      "question_name": "What happened to Blackbeard when the Royal Navy found him?",
+      "answers": [
+        { "id": 1, "value": "He was killed while fighting them." },
+        { "id": 2, "value": "He escaped and continued fishing." },
+        { "id": 3, "value": "He surrendered and went to trial." },
+        { "id": 4, "value": "He was imprisoned but later freed." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Blackbeard fought against the Royal Navy and was killed."
+      }
+    },
+    {
+      "id": 7,
+      "type": "Factual",
+      "question_name": "What happened after Blackbeard died?",
+      "answers": [
+        { "id": 1, "value": "People continued telling tales about him." },
+        { "id": 2, "value": "He had a grand funeral." },
+        { "id": 3, "value": "The Royal Navy stopped searching for pirates." },
+        { "id": 4, "value": "The town he attacked celebrated his death." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage states that people still tell tales about Blackbeard many years later."
+      }
+    },
+    {
+      "id": 8,
+      "type": "Inferential",
+      "question_name": "Why did the town's citizens have a bad impression of Blackbeard?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He attacked their ships and took some citizens hostage."
+        },
+        {
+          "id": 2,
+          "value": "He stole their treasure and destroyed their town."
+        },
+        { "id": 3, "value": "He betrayed their trust after promising peace." },
+        { "id": 4, "value": "He tricked them into giving him food." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Blackbeard attacked their ships, took hostages, and demanded medicine, which angered the town."
+      }
+    },
+    {
+      "id": 9,
+      "type": "Inferential",
+      "question_name": "Why did Blackbeard quit being a pirate?",
+      "answers": [
+        { "id": 1, "value": "He didn’t want to go to jail if caught." },
+        { "id": 2, "value": "He realized piracy was too dangerous." },
+        { "id": 3, "value": "The Royal Navy offered him a deal." },
+        { "id": 4, "value": "He wanted to live a peaceful life." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage explains that Blackbeard quit piracy to avoid being caught and put on trial."
+      }
+    },
+    {
+      "id": 10,
+      "type": "Inferential",
+      "question_name": "What does Blackbeard’s story suggest about his character?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He was bold and resourceful, but also violent and feared."
+        },
+        { "id": 2, "value": "He was kind-hearted and misunderstood." },
+        { "id": 3, "value": "He was selfish and cared only about his wealth." },
+        { "id": 4, "value": "He was a coward who avoided confrontation." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Blackbeard was bold and resourceful, demanding medicine for his crew, but his violent actions made him feared."
+      }
+    },
+    {
+      "id": 11,
+      "type": "Vocabulary",
+      "question_name": "What does 'impression' mean in the context of the sentence, 'The people had a bad impression of him'?",
+      "answers": [
+        { "id": 1, "value": "Opinion or view." },
+        { "id": 2, "value": "A physical mark." },
+        { "id": 3, "value": "A short meeting." },
+        { "id": 4, "value": "An imitation of someone." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'impression' in this context refers to the negative opinion people had of Blackbeard."
+      }
+    },
+    {
+      "id": 12,
+      "type": "Vocabulary",
+      "question_name": "What does 'extraordinary' mean in the context of the story?",
+      "answers": [
+        { "id": 1, "value": "Remarkable or unusual." },
+        { "id": 2, "value": "Ordinary or common." },
+        { "id": 3, "value": "Dangerous or threatening." },
+        { "id": 4, "value": "Simple or easy." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Blackbeard’s attack on multiple ships was a remarkable and unusual event."
+      }
+    },
+    {
+      "id": 13,
+      "type": "Vocabulary",
+      "question_name": "What does 'declared' mean in the sentence, 'Then he declared, “You give me medicine!”'?",
+      "answers": [
+        { "id": 1, "value": "Announced or stated firmly." },
+        { "id": 2, "value": "Asked politely." },
+        { "id": 3, "value": "Complained softly." },
+        { "id": 4, "value": "Wrote down." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'declared' refers to Blackbeard making a firm demand for medicine."
+      }
+    },
+    {
+      "id": 14,
+      "type": "Vocabulary",
+      "question_name": "What does 'reward' mean in the context of the story?",
+      "answers": [
+        { "id": 1, "value": "A prize given for capturing someone." },
+        { "id": 2, "value": "A gift for doing something good." },
+        { "id": 3, "value": "A punishment for breaking the law." },
+        { "id": 4, "value": "A title given by the Royal Navy." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage describes a reward being offered for capturing Blackbeard."
+      }
+    },
+    {
+      "id": 15,
+      "type": "Critical Thinking",
+      "question_name": "Do you think Blackbeard’s demand for medicine was justified? Why or why not?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Yes, because he wanted to help the sick pirates on his ship."
+        },
+        {
+          "id": 2,
+          "value": "No, because he used violence to get what he wanted."
+        },
+        {
+          "id": 3,
+          "value": "Yes, because the town had plenty of medicine to share."
+        },
+        {
+          "id": 4,
+          "value": "No, because he could have asked politely instead of attacking."
+        }
+      ],
+      "correct_answers": [1, 2, 4],
+      "explanation": {
+        "english": "Options 1, 2, and 4 are correct because while Blackbeard’s intention to help his crew might be understandable, his violent methods were not justified."
+      }
+    },
+    {
+      "id": 16,
+      "type": "Critical Thinking",
+      "question_name": "What might have happened if Blackbeard had stayed on land after quitting piracy?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He might have avoided being caught by the Royal Navy."
+        },
+        { "id": 2, "value": "He might have become a successful fisherman." },
+        { "id": 3, "value": "He might have been forgotten in history." },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because staying on land could have helped Blackbeard avoid the Royal Navy, but it might also have changed his legacy."
+      }
+    },
+    {
+      "id": 17,
+      "type": "Critical Thinking",
+      "question_name": "Why do you think people still tell tales about Blackbeard?",
+      "answers": [
+        { "id": 1, "value": "Because he was a bold and infamous pirate." },
+        { "id": 2, "value": "Because he was a hero who helped the sick." },
+        { "id": 3, "value": "Because he became a legendary fisherman." },
+        { "id": 4, "value": "Because he was admired by the Royal Navy." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Blackbeard’s bold actions and fearsome reputation made him a legendary figure."
+      }
+    },
+    {
+      "id": 18,
+      "type": "Critical Thinking",
+      "question_name": "How might the story of Blackbeard inspire modern readers?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It shows the consequences of living a life of crime."
+        },
+        {
+          "id": 2,
+          "value": "It highlights the importance of helping others, even in unconventional ways."
+        },
+        { "id": 3, "value": "It emphasizes bravery and resourcefulness." },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because Blackbeard’s story contains lessons about consequences, bravery, and helping others in unexpected ways."
+      }
+    },
+    {
+      "id": 19,
+      "type": "Critical Thinking",
+      "question_name": "What might the town’s citizens have done differently to deal with Blackbeard?",
+      "answers": [
+        { "id": 1, "value": "They could have negotiated without resistance." },
+        {
+          "id": 2,
+          "value": "They could have called for help from the Royal Navy sooner."
+        },
+        {
+          "id": 3,
+          "value": "They could have refused to give him the medicine."
+        },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because the citizens had various options to respond to Blackbeard, including negotiation or seeking help."
+      }
+    },
+    {
+      "id": 20,
+      "type": "Critical Thinking",
+      "question_name": "If Blackbeard had chosen to turn himself in, how might his story have ended differently?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He might have gone to trial and served time in jail."
+        },
+        {
+          "id": 2,
+          "value": "He might have been pardoned and lived a peaceful life."
+        },
+        {
+          "id": 3,
+          "value": "He might have avoided being killed by the Royal Navy."
+        },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because turning himself in could have led to different outcomes, such as jail time or a peaceful life."
+      }
+    }
+  ]
+}

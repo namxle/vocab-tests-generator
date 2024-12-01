@@ -73,6 +73,25 @@ function shuffle(array) {
   return shuffledArray; // Return the shuffled array
 }
 
+function makeAnswers(answers, correctAnswers) {
+  let output = '';
+  answers.forEach((answer, answerIndex) => {
+    let option = String.fromCharCode(97 + answerIndex) + ')'; // 'a', 'b', 'c', etc.
+    // const isCorrect = correctAnswers.includes(answer.id) ? '*' : '';
+    // output += `${isCorrect}${option}) ${answer.value}\n`;
+
+    let isCorrect;
+    if (correctAnswers.length > 1) {
+      option = '';
+      isCorrect = correctAnswers.includes(answer.id) ? '[*]' : '[]';
+    } else {
+      isCorrect = correctAnswers.includes(answer.id) ? '*' : '';
+    }
+    output += `${isCorrect}${option} ${answer.value}\n`;
+  });
+  return output;
+}
+
 // Function to convert the JSON structure to the specified test file format
 function generateCombinedTestFormat(meaning, logic, reading) {
   let output = '';
@@ -84,11 +103,13 @@ function generateCombinedTestFormat(meaning, logic, reading) {
     questionNumber += 1;
     output += `${questionNumber}. ${datum.question_name}\n`;
 
-    datum.answers.forEach((answer, answerIndex) => {
-      const option = String.fromCharCode(97 + answerIndex); // 'a', 'b', 'c', etc.
-      const isCorrect = datum.correct_answers.includes(answer.id) ? '*' : '';
-      output += `${isCorrect}${option}) ${answer.value}\n`;
-    });
+    // datum.answers.forEach((answer, answerIndex) => {
+    //   const option = String.fromCharCode(97 + answerIndex); // 'a', 'b', 'c', etc.
+    //   const isCorrect = datum.correct_answers.includes(answer.id) ? '*' : '';
+    //   output += `${isCorrect}${option}) ${answer.value}\n`;
+    // });
+
+    output += makeAnswers(datum.answers, datum.correct_answers);
 
     output += '\n';
   });
@@ -109,13 +130,17 @@ function generateCombinedTestFormat(meaning, logic, reading) {
         });
         output += '\n';
       }
-      question.answers.forEach((answer, answerIndex) => {
-        const option = String.fromCharCode(97 + answerIndex); // 'a', 'b', 'c', etc.
-        const isCorrect = question.correct_answers.includes(answer.id)
-          ? '*'
-          : '';
-        output += `${isCorrect}${option}) ${answer.value}\n`;
-      });
+
+      // question.answers.forEach((answer, answerIndex) => {
+      //   const option = String.fromCharCode(97 + answerIndex); // 'a', 'b', 'c', etc.
+      //   const isCorrect = question.correct_answers.includes(answer.id)
+      //     ? '*'
+      //     : '';
+      //   output += `${isCorrect}${option}) ${answer.value}\n`;
+      // });
+
+      output += makeAnswers(question.answers, question.correct_answers);
+
       output += '\n';
     });
   });
@@ -129,13 +154,17 @@ function generateCombinedTestFormat(meaning, logic, reading) {
     datum.questions.forEach((question) => {
       questionNumber += 1;
       output += `${questionNumber}. In Passage ${passageIndex}. ${question.question_name}\n`;
-      question.answers.forEach((answer, answerIndex) => {
-        const option = String.fromCharCode(97 + answerIndex); // 'a', 'b', 'c', etc.
-        const isCorrect = question.correct_answers.includes(answer.id)
-          ? '*'
-          : '';
-        output += `${isCorrect}${option}) ${answer.value}\n`;
-      });
+
+      // question.answers.forEach((answer, answerIndex) => {
+      //   const option = String.fromCharCode(97 + answerIndex); // 'a', 'b', 'c', etc.
+      //   const isCorrect = question.correct_answers.includes(answer.id)
+      //     ? '*'
+      //     : '';
+      //   output += `${isCorrect}${option}) ${answer.value}\n`;
+      // });
+
+      output += makeAnswers(question.answers, question.correct_answers);
+
       output += '\n';
     });
   });

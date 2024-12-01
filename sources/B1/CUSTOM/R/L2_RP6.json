@@ -1,0 +1,317 @@
+{
+  "passage": "The Frog Prince A lovely princess sat by the pool and played with a sculpture of a bear. Suddenly, she dropped it, and it rolled away. She chased it, but it fell into the water. She began to cry. A large, ugly frog asked, 'Why are you crying?' After the princess told him, the frog said, 'I can get the sculpture. What will you give me in exchange for the favor?' 'I can pay you a fee in gold,' she said. But the frog protested. 'I want to sleep in your bed, and you must kiss me in the morning.' 'He'd die without water. So, I don't have to keep my promise,' she thought. The frog dove for a brief moment and got the sculpture. Then the princess ran away with it. Later, the frog went to the palace. The king told her to keep her promise. This put the princess in a bad mood. She permitted the frog to sleep on her pillow. In the morning, she gave him a kiss. Suddenly, he turned into a guy. He said, 'I'm from a kingdom abroad. In my youth, I angered a tribe of cruel witches, who turned me into a frog.' The princess asked him, 'Can I be your bride and stay with you forever?' But the prince said, 'No. You disappointed me. You didn't keep your promise.'",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Factual",
+      "question_name": "What was the princess playing with when she sat by the pool?",
+      "answers": [
+        { "id": 1, "value": "A sculpture of a bear." },
+        { "id": 2, "value": "A golden ball." },
+        { "id": 3, "value": "A frog." },
+        { "id": 4, "value": "A crown." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage explicitly states she was playing with a sculpture of a bear."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Factual",
+      "question_name": "What happened to the sculpture while the princess was playing with it?",
+      "answers": [
+        { "id": 1, "value": "It fell into the water." },
+        { "id": 2, "value": "It broke into pieces." },
+        { "id": 3, "value": "She gave it to the frog." },
+        { "id": 4, "value": "She dropped it on the ground." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage says the sculpture rolled away and fell into the water."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Factual",
+      "question_name": "Why did the frog approach the princess?",
+      "answers": [
+        { "id": 1, "value": "He wanted to help her retrieve the sculpture." },
+        { "id": 2, "value": "He wanted to play with her." },
+        { "id": 3, "value": "He wanted to ask her for gold." },
+        { "id": 4, "value": "He wanted to warn her about the water." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the frog offered to retrieve the sculpture for the princess after she started crying."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Factual",
+      "question_name": "What reward did the frog initially ask for in exchange for helping the princess?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "To sleep in her bed and be kissed in the morning."
+        },
+        { "id": 2, "value": "Gold coins." },
+        { "id": 3, "value": "A place to live in the palace." },
+        { "id": 4, "value": "Food and water." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the frog explicitly demanded to sleep in her bed and receive a kiss as a reward."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Factual",
+      "question_name": "What was the princess's initial reaction after the frog retrieved the sculpture?",
+      "answers": [
+        { "id": 1, "value": "She ran away with it." },
+        { "id": 2, "value": "She thanked the frog." },
+        { "id": 3, "value": "She invited the frog to the palace." },
+        { "id": 4, "value": "She offered to pay the frog in gold." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage states that the princess ran away with the sculpture after the frog retrieved it."
+      }
+    },
+    {
+      "id": 6,
+      "type": "Factual",
+      "question_name": "What did the king instruct the princess to do when the frog arrived at the palace?",
+      "answers": [
+        { "id": 1, "value": "Keep her promise to the frog." },
+        { "id": 2, "value": "Give the frog a new home." },
+        { "id": 3, "value": "Apologize to the frog." },
+        { "id": 4, "value": "Send the frog away." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the king explicitly told the princess to honor her promise to the frog."
+      }
+    },
+    {
+      "id": 7,
+      "type": "Factual",
+      "question_name": "What happened when the princess kissed the frog?",
+      "answers": [
+        { "id": 1, "value": "He turned into a prince." },
+        { "id": 2, "value": "He disappeared." },
+        { "id": 3, "value": "He became larger." },
+        { "id": 4, "value": "He remained a frog." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage states that the frog turned into a prince after being kissed."
+      }
+    },
+    {
+      "id": 8,
+      "type": "Factual",
+      "question_name": "Why was the prince turned into a frog?",
+      "answers": [
+        { "id": 1, "value": "He angered a tribe of cruel witches." },
+        { "id": 2, "value": "He fell into an enchanted pool." },
+        { "id": 3, "value": "He was cursed by his enemy." },
+        { "id": 4, "value": "He broke a magical rule." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the prince explained that cruel witches cursed him after he angered them."
+      }
+    },
+    {
+      "id": 9,
+      "type": "Factual",
+      "question_name": "What did the prince say to the princess after turning into a human?",
+      "answers": [
+        { "id": 1, "value": "He rejected her proposal to marry him." },
+        { "id": 2, "value": "He thanked her for keeping her promise." },
+        { "id": 3, "value": "He offered her a gift for helping him." },
+        { "id": 4, "value": "He invited her to his kingdom." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the prince told the princess he was disappointed she didn't keep her promise and rejected her request to marry him."
+      }
+    },
+    {
+      "id": 10,
+      "type": "Factual",
+      "question_name": "What mood did the princess feel when the king told her to honor her promise?",
+      "answers": [
+        { "id": 1, "value": "She was in a bad mood." },
+        { "id": 2, "value": "She felt excited." },
+        { "id": 3, "value": "She was indifferent." },
+        { "id": 4, "value": "She was relieved." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage explicitly mentions that the princess was in a bad mood when asked to honor her promise."
+      }
+    },
+    {
+      "id": 11,
+      "type": "Inferential",
+      "question_name": "Why did the princess run away after the frog retrieved the sculpture?",
+      "answers": [
+        { "id": 1, "value": "She never intended to keep her promise." },
+        { "id": 2, "value": "She was afraid of the frog." },
+        { "id": 3, "value": "She forgot her promise." },
+        { "id": 4, "value": "She wanted to give the sculpture to the king." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the princess thought she wouldn't have to keep her promise since the frog might not survive without water."
+      }
+    },
+    {
+      "id": 12,
+      "type": "Inferential",
+      "question_name": "What does the frog's insistence on the princess keeping her promise reveal about him?",
+      "answers": [
+        { "id": 1, "value": "He values integrity and fairness." },
+        { "id": 2, "value": "He wanted revenge on the princess." },
+        { "id": 3, "value": "He was desperate for shelter." },
+        { "id": 4, "value": "He felt powerless as a frog." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the frog's actions show he wanted the princess to honor her word, highlighting his belief in integrity."
+      }
+    },
+    {
+      "id": 13,
+      "type": "Inferential",
+      "question_name": "Why did the prince reject the princess’s proposal to marry him?",
+      "answers": [
+        { "id": 1, "value": "She failed to honor her promise." },
+        { "id": 2, "value": "He didn't love her." },
+        { "id": 3, "value": "He wanted to return to his kingdom alone." },
+        { "id": 4, "value": "He was angry with the king." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the prince explicitly stated that he was disappointed the princess didn’t honor her word."
+      }
+    },
+    {
+      "id": 14,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'protested' most likely mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Disagreed strongly." },
+        { "id": 2, "value": "Accepted politely." },
+        { "id": 3, "value": "Shouted angrily." },
+        { "id": 4, "value": "Pleaded sadly." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the context shows the frog disagreed strongly with the princess offering only gold."
+      }
+    },
+    {
+      "id": 15,
+      "type": "Vocabulary",
+      "question_name": "What does the phrase 'bad mood' imply about the princess's feelings?",
+      "answers": [
+        { "id": 1, "value": "She felt annoyed or frustrated." },
+        { "id": 2, "value": "She was cheerful." },
+        { "id": 3, "value": "She felt proud." },
+        { "id": 4, "value": "She was frightened." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'bad mood' typically implies irritation or frustration, matching her reaction."
+      }
+    },
+    {
+      "id": 16,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'tribe' mean in the context of the prince's story?",
+      "answers": [
+        { "id": 1, "value": "A group of people." },
+        { "id": 2, "value": "A family." },
+        { "id": 3, "value": "A kingdom." },
+        { "id": 4, "value": "A council." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the word 'tribe' refers to a group of witches that cursed the prince."
+      }
+    },
+    {
+      "id": 17,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'abroad' suggest about the prince's kingdom?",
+      "answers": [
+        { "id": 1, "value": "It is in a faraway place." },
+        { "id": 2, "value": "It is small." },
+        { "id": 3, "value": "It is magical." },
+        { "id": 4, "value": "It is underwater." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'abroad' usually refers to a place that is far away or foreign."
+      }
+    },
+    {
+      "id": 18,
+      "type": "Critical Thinking",
+      "question_name": "Do you think the princess’s actions were justified? Why or why not?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "No, because she broke her promise and behaved selfishly."
+        },
+        {
+          "id": 2,
+          "value": "Yes, because she thought the frog couldn't enforce the promise."
+        },
+        { "id": 3, "value": "Yes, because promises to frogs don’t matter." },
+        {
+          "id": 4,
+          "value": "No, because the frog did not help her, and she should not have been grateful."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Options 1 is correct because the princess’s actions show a lack of gratitude and integrity, which were not justified."
+      }
+    },
+    {
+      "id": 19,
+      "type": "Critical Thinking",
+      "question_name": "What lesson might the princess learn from this experience?",
+      "answers": [
+        { "id": 1, "value": "Promises should always be kept." },
+        { "id": 2, "value": "It’s important to respect others, even frogs." },
+        { "id": 3, "value": "Kindness is rewarded in unexpected ways." },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because the story teaches multiple lessons about promises, respect, and kindness."
+      }
+    },
+    {
+      "id": 20,
+      "type": "Critical Thinking",
+      "question_name": "How might the story have ended differently if the princess had kept her promise willingly?",
+      "answers": [
+        { "id": 1, "value": "The prince might have accepted her proposal." },
+        { "id": 2, "value": "The king might have praised her." },
+        { "id": 3, "value": "The frog might not have been cursed further." },
+        { "id": 4, "value": "She might have avoided the frog entirely." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the prince’s disappointment stemmed from her dishonesty; keeping her promise might have changed his feelings."
+      }
+    }
+  ]
+}

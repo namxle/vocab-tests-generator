@@ -1,0 +1,182 @@
+[
+  {
+    "word": "instead",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We decided to walk to the park _______ of driving.",
+        "answers": [
+          { "id": 1, "value": "instead" },
+          { "id": 2, "value": "because" },
+          { "id": 3, "value": "beside" },
+          { "id": 4, "value": "around" },
+          { "id": 5, "value": "next" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "library",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She went to the _______ to borrow a book for her research.",
+        "answers": [
+          { "id": 1, "value": "library" },
+          { "id": 2, "value": "bakery" },
+          { "id": 3, "value": "gallery" },
+          { "id": 4, "value": "classroom" },
+          { "id": 5, "value": "museum" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "planet",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Earth is the third _______ from the sun in our solar system.",
+        "answers": [
+          { "id": 1, "value": "planet" },
+          { "id": 2, "value": "star" },
+          { "id": 3, "value": "moon" },
+          { "id": 4, "value": "comet" },
+          { "id": 5, "value": "asteroid" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "report",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She submitted a detailed _______ about the project’s progress.",
+        "answers": [
+          { "id": 1, "value": "report" },
+          { "id": 2, "value": "note" },
+          { "id": 3, "value": "letter" },
+          { "id": 4, "value": "email" },
+          { "id": 5, "value": "essay" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "several",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She bought _______ apples to make a pie.",
+        "answers": [
+          { "id": 1, "value": "several" },
+          { "id": 2, "value": "none" },
+          { "id": 3, "value": "a" },
+          { "id": 4, "value": "each" },
+          { "id": 5, "value": "one" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "solve",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He was able to _______ the math problem after thinking carefully.",
+        "answers": [
+          { "id": 1, "value": "solve" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "create" },
+          { "id": 4, "value": "break" },
+          { "id": 5, "value": "copy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "suddenly",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The lights went out _______ during the storm.",
+        "answers": [
+          { "id": 1, "value": "suddenly" },
+          { "id": 2, "value": "slowly" },
+          { "id": 3, "value": "quietly" },
+          { "id": 4, "value": "carefully" },
+          { "id": 5, "value": "gently" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "suppose",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I _______ we should leave now to catch the train on time.",
+        "answers": [
+          { "id": 1, "value": "suppose" },
+          { "id": 2, "value": "know" },
+          { "id": 3, "value": "expect" },
+          { "id": 4, "value": "wish" },
+          { "id": 5, "value": "hope" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "universe",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ contains billions of galaxies, each with countless stars.",
+        "answers": [
+          { "id": 1, "value": "universe" },
+          { "id": 2, "value": "world" },
+          { "id": 3, "value": "moon" },
+          { "id": 4, "value": "planet" },
+          { "id": 5, "value": "alien" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "view",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hotel room has a beautiful _______ of the mountains.",
+        "answers": [
+          { "id": 1, "value": "view" },
+          { "id": 2, "value": "picture" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "sight" },
+          { "id": 5, "value": "scene" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

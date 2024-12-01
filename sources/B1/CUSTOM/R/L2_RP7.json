@@ -1,0 +1,335 @@
+{
+  "passage": "A Beautiful Bird Dr. Norton's occupation was a scholar of biology. He learned about all animals on a daily basis. One day he met a sailor from a colony overseas. The man told Dr. Norton about a talking bird! The bird fascinated Dr. Norton, so he told his colleagues about it. They debated with him: no one thought a bird could talk. He tried to persuade them, but they laughed at him. Nevertheless, Dr. Norton believed the bird was real. His new mission was to find it. He wanted factual proof. The next day he departed for the colony. The sailor he had met told him to look for a man named Jai, who would be able to help him in his search. After a month of sailing, Dr. Norton finally reached the colony where he met Jai. 'I can take you to where it lives. It lives by the volcano,' Jai said. They left the next day. A week later, they arrived at the volcano. Every day they walked around and looked for the bird, but they couldn't find it. After one month, Dr. Norton could not find the bird, and this depressed him. He decided to go home. On the route back, he walked past some old ruins. He heard someone say, 'Hello.' 'Who are you?' he asked. Dr. Norton looked up and saw a bird! Dr. Norton put the talking bird into a cage. Then he returned home. He had made a significant discovery.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Factual",
+      "question_name": "What was Dr. Norton's occupation?",
+      "answers": [
+        { "id": 1, "value": "A scholar of biology." },
+        { "id": 2, "value": "A sailor." },
+        { "id": 3, "value": "An explorer." },
+        { "id": 4, "value": "A professor of history." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage states that Dr. Norton was a scholar of biology who studied animals daily."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Factual",
+      "question_name": "Who told Dr. Norton about the talking bird?",
+      "answers": [
+        { "id": 1, "value": "A sailor from a colony overseas." },
+        { "id": 2, "value": "A fellow scholar." },
+        { "id": 3, "value": "A man named Jai." },
+        { "id": 4, "value": "A birdwatcher." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage says a sailor from an overseas colony told Dr. Norton about the talking bird."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Factual",
+      "question_name": "What did Dr. Norton’s colleagues think about the talking bird?",
+      "answers": [
+        { "id": 1, "value": "They laughed at him and didn’t believe it." },
+        {
+          "id": 2,
+          "value": "They were fascinated and encouraged him to search for it."
+        },
+        { "id": 3, "value": "They had seen the bird before." },
+        { "id": 4, "value": "They ignored him completely." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage mentions that his colleagues debated with him and laughed at the idea of a talking bird."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Factual",
+      "question_name": "What was Dr. Norton's goal in searching for the bird?",
+      "answers": [
+        { "id": 1, "value": "To find factual proof of its existence." },
+        { "id": 2, "value": "To win a bet with his colleagues." },
+        { "id": 3, "value": "To make a new friend." },
+        { "id": 4, "value": "To capture it as a pet." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Dr. Norton wanted factual proof of the bird's existence to convince his colleagues."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Factual",
+      "question_name": "Who was Jai, and how did he help Dr. Norton?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He was a local who guided Dr. Norton to the bird’s habitat."
+        },
+        {
+          "id": 2,
+          "value": "He was a sailor who told Dr. Norton about the bird."
+        },
+        {
+          "id": 3,
+          "value": "He was Dr. Norton's colleague who encouraged him to search for the bird."
+        },
+        { "id": 4, "value": "He was a scientist who had studied the bird." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Jai was a man from the colony who guided Dr. Norton to the bird's habitat by the volcano."
+      }
+    },
+    {
+      "id": 6,
+      "type": "Factual",
+      "question_name": "Where did Jai say the bird lived?",
+      "answers": [
+        { "id": 1, "value": "By the volcano." },
+        { "id": 2, "value": "In the old ruins." },
+        { "id": 3, "value": "In a dense forest." },
+        { "id": 4, "value": "On the mountain peak." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Jai told Dr. Norton that the bird lived by the volcano."
+      }
+    },
+    {
+      "id": 7,
+      "type": "Factual",
+      "question_name": "How long did Dr. Norton search for the bird at the volcano?",
+      "answers": [
+        { "id": 1, "value": "One month." },
+        { "id": 2, "value": "A few days." },
+        { "id": 3, "value": "A year." },
+        { "id": 4, "value": "One week." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage says that Dr. Norton spent a month searching for the bird near the volcano."
+      }
+    },
+    {
+      "id": 8,
+      "type": "Factual",
+      "question_name": "Where did Dr. Norton finally find the bird?",
+      "answers": [
+        { "id": 1, "value": "Near some old ruins on the way back." },
+        { "id": 2, "value": "At the volcano." },
+        { "id": 3, "value": "In Jai's village." },
+        { "id": 4, "value": "On his ship." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Dr. Norton found the bird near some old ruins while returning from the volcano."
+      }
+    },
+    {
+      "id": 9,
+      "type": "Factual",
+      "question_name": "What did the bird say to Dr. Norton?",
+      "answers": [
+        { "id": 1, "value": "'Hello.'" },
+        { "id": 2, "value": "'Who are you?'" },
+        { "id": 3, "value": "'Goodbye.'" },
+        { "id": 4, "value": "'Follow me.'" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the bird said 'Hello,' which caught Dr. Norton's attention."
+      }
+    },
+    {
+      "id": 10,
+      "type": "Factual",
+      "question_name": "What did Dr. Norton do after finding the bird?",
+      "answers": [
+        { "id": 1, "value": "He put it in a cage and returned home." },
+        { "id": 2, "value": "He released it back into the wild." },
+        { "id": 3, "value": "He brought it to Jai." },
+        { "id": 4, "value": "He taught it new words." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage says Dr. Norton put the bird in a cage and took it home after finding it."
+      }
+    },
+    {
+      "id": 11,
+      "type": "Inferential",
+      "question_name": "Why did Dr. Norton’s colleagues laugh at him when he told them about the bird?",
+      "answers": [
+        { "id": 1, "value": "They didn’t believe a bird could talk." },
+        { "id": 2, "value": "They were jealous of his discovery." },
+        { "id": 3, "value": "They thought he was joking." },
+        { "id": 4, "value": "They had already heard of the bird." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage indicates his colleagues debated with him and doubted the existence of a talking bird."
+      }
+    },
+    {
+      "id": 12,
+      "type": "Inferential",
+      "question_name": "What does Dr. Norton’s persistence in finding the bird tell us about his character?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "He is determined and values scientific discovery."
+        },
+        { "id": 2, "value": "He is stubborn and ignores others’ opinions." },
+        { "id": 3, "value": "He is careless and impulsive." },
+        { "id": 4, "value": "He is imaginative but lacks patience." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Dr. Norton's long journey and determination to find proof show his dedication to science."
+      }
+    },
+    {
+      "id": 13,
+      "type": "Inferential",
+      "question_name": "Why did Dr. Norton feel depressed after searching at the volcano?",
+      "answers": [
+        { "id": 1, "value": "He had spent a long time without success." },
+        { "id": 2, "value": "He was running out of supplies." },
+        { "id": 3, "value": "Jai had given up on helping him." },
+        { "id": 4, "value": "The volcano was too dangerous to explore." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because the passage states Dr. Norton was depressed after spending a month at the volcano without finding the bird."
+      }
+    },
+    {
+      "id": 14,
+      "type": "Vocabulary",
+      "question_name": "What does the word 'occupation' mean in the context of the passage?",
+      "answers": [
+        { "id": 1, "value": "Profession or job." },
+        { "id": 2, "value": "A hobby or interest." },
+        { "id": 3, "value": "A task or chore." },
+        { "id": 4, "value": "A state of being busy." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because 'occupation' refers to Dr. Norton's profession as a scholar of biology."
+      }
+    },
+    {
+      "id": 15,
+      "type": "Vocabulary",
+      "question_name": "What does 'significant discovery' mean in this context?",
+      "answers": [
+        { "id": 1, "value": "An important or valuable finding." },
+        { "id": 2, "value": "A surprising mistake." },
+        { "id": 3, "value": "A dangerous realization." },
+        { "id": 4, "value": "An unusual coincidence." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because finding a talking bird was an important and unique achievement for Dr. Norton."
+      }
+    },
+    {
+      "id": 16,
+      "type": "Vocabulary",
+      "question_name": "What does 'debated' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Argued or discussed." },
+        { "id": 2, "value": "Accepted or agreed." },
+        { "id": 3, "value": "Ignored or avoided." },
+        { "id": 4, "value": "Studied or researched." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "Option 1 is correct because Dr. Norton's colleagues discussed and argued with him about the existence of the bird."
+      }
+    },
+    {
+      "id": 17,
+      "type": "Critical Thinking",
+      "question_name": "What might have happened if Dr. Norton gave up after his search at the volcano?",
+      "answers": [
+        { "id": 1, "value": "He would never have found the bird." },
+        {
+          "id": 2,
+          "value": "The bird might have been discovered by someone else."
+        },
+        { "id": 3, "value": "His colleagues would never believe him." },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because giving up would mean Dr. Norton wouldn’t find the bird, and the discovery might never happen."
+      }
+    },
+    {
+      "id": 18,
+      "type": "Critical Thinking",
+      "question_name": "Why is the discovery of a talking bird significant to science?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It shows that animals may have advanced communication abilities."
+        },
+        { "id": 2, "value": "It proves Dr. Norton’s theories were correct." },
+        {
+          "id": 3,
+          "value": "It can inspire more exploration of animal behaviors."
+        },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because the discovery challenges assumptions about animals and supports scientific exploration."
+      }
+    },
+    {
+      "id": 19,
+      "type": "Critical Thinking",
+      "question_name": "Do you think Dr. Norton’s method of putting the bird in a cage was ethical? Why or why not?",
+      "answers": [
+        { "id": 1, "value": "Yes, because he needed to study it closely." },
+        {
+          "id": 2,
+          "value": "No, because the bird should remain in its natural habitat."
+        },
+        { "id": 3, "value": "Yes, because it would be safer in captivity." },
+        { "id": 4, "value": "No, because the bird was not harmful to humans." }
+      ],
+      "correct_answers": [1, 2],
+      "explanation": {
+        "english": "Options 1 and 2 are correct because taking the bird for study has both scientific benefits and ethical concerns about its natural habitat."
+      }
+    },
+    {
+      "id": 20,
+      "type": "Critical Thinking",
+      "question_name": "What lessons can scientists learn from Dr. Norton’s journey?",
+      "answers": [
+        { "id": 1, "value": "Persistence is key in making discoveries." },
+        {
+          "id": 2,
+          "value": "Exploration often requires collaboration with others."
+        },
+        { "id": 3, "value": "Skepticism can be overcome with evidence." },
+        { "id": 4, "value": "All of the above." }
+      ],
+      "correct_answers": [4],
+      "explanation": {
+        "english": "Option 4 is correct because the story highlights persistence, collaboration, and the importance of evidence in scientific discovery."
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "afraid",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She was _______ of the dark and always kept a light on at night.",
+        "answers": [
+          { "id": 1, "value": "afraid" },
+          { "id": 2, "value": "excited" },
+          { "id": 3, "value": "happy" },
+          { "id": 4, "value": "confident" },
+          { "id": 5, "value": "calm" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "agree",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I _______ with your idea; it makes a lot of sense.",
+        "answers": [
+          { "id": 1, "value": "agree" },
+          { "id": 2, "value": "argue" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "forget" },
+          { "id": 5, "value": "reject" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "angry",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "My mum was so _______ because I broke the window.",
+        "answers": [
+          { "id": 1, "value": "angry" },
+          { "id": 2, "value": "happy" },
+          { "id": 3, "value": "excited" },
+          { "id": 4, "value": "proud" },
+          { "id": 5, "value": "calm" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "arrive",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We were relieved to _______ at the hotel after a long journey.",
+        "answers": [
+          { "id": 1, "value": "arrive" },
+          { "id": 2, "value": "depart" },
+          { "id": 3, "value": "leave" },
+          { "id": 4, "value": "start" },
+          { "id": 5, "value": "wait" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "attack",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The soldiers prepared to _______ the enemy at dawn.",
+        "answers": [
+          { "id": 1, "value": "attack" },
+          { "id": 2, "value": "protect" },
+          { "id": 3, "value": "hide" },
+          { "id": 4, "value": "help" },
+          { "id": 5, "value": "avoid" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bottom",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There is a treasure chest at the _______ of the ocean.",
+        "answers": [
+          { "id": 1, "value": "bottom" },
+          { "id": 2, "value": "top" },
+          { "id": 3, "value": "middle" },
+          { "id": 4, "value": "surface" },
+          { "id": 5, "value": "edge" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "clever",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is very _______ and always finds solutions to difficult problems.",
+        "answers": [
+          { "id": 1, "value": "clever" },
+          { "id": 2, "value": "slow" },
+          { "id": 3, "value": "lazy" },
+          { "id": 4, "value": "doubtful" },
+          { "id": 5, "value": "careless" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cruel",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is _______ to harm animals for no reason.",
+        "answers": [
+          { "id": 1, "value": "cruel" },
+          { "id": 2, "value": "kind" },
+          { "id": 3, "value": "friendly" },
+          { "id": 4, "value": "gentle" },
+          { "id": 5, "value": "helpful" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "finally",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After many delays, the plane _______ took off.",
+        "answers": [
+          { "id": 1, "value": "finally" },
+          { "id": 2, "value": "never" },
+          { "id": 3, "value": "quickly" },
+          { "id": 4, "value": "rarely" },
+          { "id": 5, "value": "suddenly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hide",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The cat loves to _______ under the bed when it’s scared.",
+        "answers": [
+          { "id": 1, "value": "hide" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "jump" },
+          { "id": 4, "value": "eat" },
+          { "id": 5, "value": "smile" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]
