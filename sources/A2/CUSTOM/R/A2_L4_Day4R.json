@@ -1,0 +1,140 @@
+{
+  "topic": "Building Strong Communities Through Local Support",
+  "provided_words": [
+    "community",
+    "local",
+    "neighbor",
+    "support",
+    "asleep",
+    "available",
+    "distance",
+    "department",
+    "drama",
+    "bridge"
+  ],
+  "passage": "A strong community is built when people work together and support each other, which creates trust and unity. Local events, such as festivals, clean-up days, or school plays (dramas), provide opportunities for neighbors to gather and strengthen their relationships. For instance, a community drama held in a park or school hall can help neighbors express themselves creatively while also bringing people closer. If a neighbor needs help repairing their home, others in the community might offer support by lending tools or sharing skills, which fosters cooperation. Nearby departments, like the fire department, are always available to assist during emergencies, whether it’s putting out fires or rescuing pets, ensuring that the community remains safe. Even when most people are asleep, doctors and police officers work to protect others and address urgent needs. A bridge connecting two neighborhoods can symbolize unity, as it allows people to visit each other and share resources easily. Distance does not always separate people in a strong community, as neighbors can stay connected through phone calls or social media. Local libraries, schools, and parks also play key roles as spaces where people can gather, share resources, and organize activities. By showing kindness and working together, communities can become places where everyone feels welcome, supported, and encouraged to contribute to the greater good.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Communities grow stronger when people support and work together."
+        },
+        {
+          "id": 2,
+          "value": "Local departments handle all problems in a community."
+        },
+        {
+          "id": 3,
+          "value": "Distance makes it hard to stay connected in a community."
+        },
+        {
+          "id": 4,
+          "value": "Drama performances are the most important events in a community."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage emphasizes how communities grow stronger through mutual support, kindness, and teamwork among neighbors.",
+        "vietnamese": "Đoạn văn nhấn mạnh cách các cộng đồng trở nên mạnh mẽ hơn thông qua sự hỗ trợ lẫn nhau, lòng tốt và sự hợp tác giữa các hàng xóm."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'drama' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "A play performed by members of the community" },
+        { "id": 2, "value": "A serious argument between neighbors" },
+        { "id": 3, "value": "An emergency handled by the fire department" },
+        { "id": 4, "value": "A type of event only held in schools" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'drama' refers to a play or performance that allows community members to express creativity and connect with others.",
+        "vietnamese": "Trong đoạn văn, 'drama' đề cập đến một vở kịch hoặc buổi biểu diễn cho phép các thành viên cộng đồng thể hiện sự sáng tạo và kết nối với nhau."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What role does a bridge play in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It connects neighborhoods and helps people share resources."
+        },
+        {
+          "id": 2,
+          "value": "It provides a place for community dramas to be performed."
+        },
+        {
+          "id": 3,
+          "value": "It allows neighbors to stay connected over long distances."
+        },
+        {
+          "id": 4,
+          "value": "It serves as a symbol of the fire department’s work."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, a physical bridge is described as connecting neighborhoods, symbolizing unity and allowing people to visit and share resources.",
+        "vietnamese": "Trong đoạn văn, cây cầu vật lý được mô tả là kết nối các khu dân cư, tượng trưng cho sự đoàn kết và cho phép mọi người thăm nhau cũng như chia sẻ tài nguyên."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why are local events like dramas important for communities?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Because they bring neighbors together and allow creative expression."
+        },
+        {
+          "id": 2,
+          "value": "Because they help solve emergencies in the community."
+        },
+        { "id": 3, "value": "Because they are organized by fire departments." },
+        {
+          "id": 4,
+          "value": "Because they are held in libraries and schools only."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that local events, such as dramas, are important because they bring neighbors together and help build relationships through creative activities.",
+        "vietnamese": "Đoạn văn nói rằng các sự kiện địa phương, chẳng hạn như các vở kịch, rất quan trọng vì chúng gắn kết hàng xóm lại với nhau và giúp xây dựng mối quan hệ thông qua các hoạt động sáng tạo."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'available' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It shows that help is ready when needed, such as from local departments."
+        },
+        { "id": 2, "value": "It refers to events held during the day only." },
+        {
+          "id": 3,
+          "value": "It describes how neighbors borrow tools from each other."
+        },
+        {
+          "id": 4,
+          "value": "It explains how dramas are planned for the community."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'available' in the passage highlights that local departments, like the fire department, are ready to provide assistance whenever needed.",
+        "vietnamese": "Từ 'available' trong đoạn văn nhấn mạnh rằng các cơ quan địa phương, như sở cứu hỏa, luôn sẵn sàng hỗ trợ khi cần."
+      }
+    }
+  ]
+}

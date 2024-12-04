@@ -1,0 +1,182 @@
+[
+  {
+    "word": "writer",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ spent hours working on the final chapter of the book.",
+        "answers": [
+          { "id": 1, "value": "writer" },
+          { "id": 2, "value": "chef" },
+          { "id": 3, "value": "employee" },
+          { "id": 4, "value": "instructor" },
+          { "id": 5, "value": "strategy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chef",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ prepared a delicious three-course meal for the guests.",
+        "answers": [
+          { "id": 1, "value": "chef" },
+          { "id": 2, "value": "writer" },
+          { "id": 3, "value": "instructor" },
+          { "id": 4, "value": "employee" },
+          { "id": 5, "value": "salary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "accept",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She decided to _______ the job offer after careful consideration.",
+        "answers": [
+          { "id": 1, "value": "accept" },
+          { "id": 2, "value": "degree" },
+          { "id": 3, "value": "salary" },
+          { "id": 4, "value": "job" },
+          { "id": 5, "value": "strategy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "degree",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After four years of study, he finally earned his university _______.",
+        "answers": [
+          { "id": 1, "value": "degree" },
+          { "id": 2, "value": "career" },
+          { "id": 3, "value": "job" },
+          { "id": 4, "value": "salary" },
+          { "id": 5, "value": "employee" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "instructor",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The yoga _______ taught the class how to do a perfect pose.",
+        "answers": [
+          { "id": 1, "value": "instructor" },
+          { "id": 2, "value": "writer" },
+          { "id": 3, "value": "chef" },
+          { "id": 4, "value": "employee" },
+          { "id": 5, "value": "strategy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "strategy",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team discussed their _______ for winning the championship.",
+        "answers": [
+          { "id": 1, "value": "strategy" },
+          { "id": 2, "value": "salary" },
+          { "id": 3, "value": "degree" },
+          { "id": 4, "value": "job" },
+          { "id": 5, "value": "instructor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "salary",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The employee was happy to receive a higher _______ after the promotion.",
+        "answers": [
+          { "id": 1, "value": "salary" },
+          { "id": 2, "value": "career" },
+          { "id": 3, "value": "degree" },
+          { "id": 4, "value": "job" },
+          { "id": 5, "value": "accept" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "job",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She found a new _______ at a company closer to home.",
+        "answers": [
+          { "id": 1, "value": "job" },
+          { "id": 2, "value": "chef" },
+          { "id": 3, "value": "salary" },
+          { "id": 4, "value": "strategy" },
+          { "id": 5, "value": "career" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "career",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He worked hard to build a successful _______ as a doctor.",
+        "answers": [
+          { "id": 1, "value": "career" },
+          { "id": 2, "value": "degree" },
+          { "id": 3, "value": "strategy" },
+          { "id": 4, "value": "job" },
+          { "id": 5, "value": "salary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "employee",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company hired a new _______ to work in the accounting department.",
+        "answers": [
+          { "id": 1, "value": "employee" },
+          { "id": 2, "value": "chef" },
+          { "id": 3, "value": "writer" },
+          { "id": 4, "value": "career" },
+          { "id": 5, "value": "instructor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

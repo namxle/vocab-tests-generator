@@ -1,0 +1,182 @@
+[
+  {
+    "word": "touch",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The baby likes to _______ soft blankets because they feel nice.",
+        "answers": [
+          { "id": 1, "value": "touch" },
+          { "id": 2, "value": "taste" },
+          { "id": 3, "value": "smell" },
+          { "id": 4, "value": "hear" },
+          { "id": 5, "value": "carry" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "director",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ of the movie won an award for their excellent work.",
+        "answers": [
+          { "id": 1, "value": "director" },
+          { "id": 2, "value": "actor" },
+          { "id": 3, "value": "writer" },
+          { "id": 4, "value": "singer" },
+          { "id": 5, "value": "dancer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "assistant",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The manager asked their _______ to schedule a meeting.",
+        "answers": [
+          { "id": 1, "value": "assistant" },
+          { "id": 2, "value": "friend" },
+          { "id": 3, "value": "driver" },
+          { "id": 4, "value": "guest" },
+          { "id": 5, "value": "teacher" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "army",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ protected the country during the war.",
+        "answers": [
+          { "id": 1, "value": "army" },
+          { "id": 2, "value": "team" },
+          { "id": 3, "value": "crowd" },
+          { "id": 4, "value": "police" },
+          { "id": 5, "value": "group" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "author",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ of the book signed copies for her fans.",
+        "answers": [
+          { "id": 1, "value": "author" },
+          { "id": 2, "value": "reader" },
+          { "id": 3, "value": "librarian" },
+          { "id": 4, "value": "publisher" },
+          { "id": 5, "value": "editor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "designer",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The fashion _______ created a new collection for the show.",
+        "answers": [
+          { "id": 1, "value": "designer" },
+          { "id": 2, "value": "model" },
+          { "id": 3, "value": "artist" },
+          { "id": 4, "value": "tailor" },
+          { "id": 5, "value": "painter" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "farmer",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ wakes up early to take care of the crops and animals.",
+        "answers": [
+          { "id": 1, "value": "farmer" },
+          { "id": 2, "value": "chef" },
+          { "id": 3, "value": "driver" },
+          { "id": 4, "value": "teacher" },
+          { "id": 5, "value": "worker" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "detective",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ solved the mystery using clues and evidence.",
+        "answers": [
+          { "id": 1, "value": "detective" },
+          { "id": 2, "value": "officer" },
+          { "id": 3, "value": "judge" },
+          { "id": 4, "value": "lawyer" },
+          { "id": 5, "value": "scientist" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dentist",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ told the patient to brush their teeth twice a day.",
+        "answers": [
+          { "id": 1, "value": "dentist" },
+          { "id": 2, "value": "doctor" },
+          { "id": 3, "value": "nurse" },
+          { "id": 4, "value": "teacher" },
+          { "id": 5, "value": "chef" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "journalist",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ wrote an article about the local event for the newspaper.",
+        "answers": [
+          { "id": 1, "value": "journalist" },
+          { "id": 2, "value": "editor" },
+          { "id": 3, "value": "author" },
+          { "id": 4, "value": "photographer" },
+          { "id": 5, "value": "designer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

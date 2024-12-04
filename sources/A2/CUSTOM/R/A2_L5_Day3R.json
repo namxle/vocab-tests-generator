@@ -1,0 +1,143 @@
+{
+  "topic": "Building Independence and Good Habits",
+  "provided_words": [
+    "peace",
+    "platform",
+    "habit",
+    "role",
+    "serious",
+    "season",
+    "training",
+    "hope",
+    "independent",
+    "unit"
+  ],
+  "passage": "Developing independence and positive habits is essential for personal growth, especially during important stages of life. Schools and training programs often play a key role in teaching young people how to take responsibility for their actions, which prepares them for future challenges. For instance, a student might learn how to manage their time better during a busy school season by creating a study schedule and sticking to it, even when distractions arise. While some lessons may seem serious, they provide a strong foundation for becoming an independent adult who can make thoughtful decisions. Sometimes, a visit to a train station, where platforms are bustling with activity, serves as a reminder of how important it is to stay organized and calm in busy environments. A unit on teamwork might teach students how to collaborate peacefully, even when opinions differ, which is a skill they can use in both personal and professional settings. Although building good habits can be challenging, there is always hope for success if people stay focused and consistent, regardless of setbacks. Whether it’s learning to balance schoolwork and free time or preparing for a new job, positive habits and independence are valuable skills that lead to long-term growth and opportunities.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Developing independence and positive habits leads to personal growth."
+        },
+        {
+          "id": 2,
+          "value": "Training programs focus on creating serious study schedules."
+        },
+        {
+          "id": 3,
+          "value": "Train station platforms are key to teaching organization."
+        },
+        { "id": 4, "value": "Teamwork is the only way to build good habits." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage emphasizes the importance of building independence and good habits for personal growth and success in life.",
+        "vietnamese": "Đoạn văn nhấn mạnh tầm quan trọng của việc xây dựng tính tự lập và thói quen tốt để phát triển cá nhân và thành công trong cuộc sống."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'platform' mean in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "A train station area where passengers wait for trains"
+        },
+        { "id": 2, "value": "A tool used for personal development" },
+        { "id": 3, "value": "A type of unit in schools" },
+        { "id": 4, "value": "A habit that promotes growth" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'platform' refers to the part of a train station where passengers wait for their trains.",
+        "vietnamese": "Trong đoạn văn, 'platform' đề cập đến khu vực của ga tàu nơi hành khách chờ tàu."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "How can a train station platform serve as a reminder for personal growth?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It shows the importance of staying organized and calm in busy environments."
+        },
+        {
+          "id": 2,
+          "value": "It encourages teamwork and collaboration among travelers."
+        },
+        {
+          "id": 3,
+          "value": "It provides serious lessons about managing train schedules."
+        },
+        {
+          "id": 4,
+          "value": "It helps passengers develop new habits while waiting for trains."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that a train station platform can remind people to stay organized and calm, even in busy and stressful situations.",
+        "vietnamese": "Đoạn văn giải thích rằng sân ga có thể nhắc nhở mọi người giữ tổ chức và bình tĩnh, ngay cả trong những tình huống bận rộn và căng thẳng."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why is staying focused important when building good habits?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Because it helps people overcome setbacks and achieve success."
+        },
+        {
+          "id": 2,
+          "value": "Because it eliminates the need for teamwork and training."
+        },
+        {
+          "id": 3,
+          "value": "Because it creates more time for schoolwork and free time."
+        },
+        {
+          "id": 4,
+          "value": "Because it allows people to avoid serious challenges."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage suggests that staying focused is important because it helps individuals overcome setbacks and continue building habits for long-term success.",
+        "vietnamese": "Đoạn văn gợi ý rằng giữ tập trung rất quan trọng vì nó giúp cá nhân vượt qua trở ngại và tiếp tục xây dựng thói quen để thành công lâu dài."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'serious' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It emphasizes the importance of lessons that prepare students for independence."
+        },
+        { "id": 2, "value": "It explains why teamwork is always difficult." },
+        {
+          "id": 3,
+          "value": "It highlights the challenges of using online platforms."
+        },
+        {
+          "id": 4,
+          "value": "It refers to the amount of time needed for training programs."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'serious' in the passage highlights how important lessons, though challenging, prepare students for becoming independent adults.",
+        "vietnamese": "Từ 'serious' trong đoạn văn nhấn mạnh cách các bài học quan trọng, dù có thách thức, giúp học sinh chuẩn bị để trở thành người lớn độc lập."
+      }
+    }
+  ]
+}

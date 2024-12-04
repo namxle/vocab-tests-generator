@@ -1,0 +1,143 @@
+{
+  "topic": "The Role of Population Growth in Modern Cities",
+  "provided_words": [
+    "population",
+    "link",
+    "light",
+    "criminal",
+    "transport",
+    "conference",
+    "exact",
+    "bar",
+    "lady",
+    "refer"
+  ],
+  "passage": "Population growth in modern cities presents both challenges and opportunities, requiring careful planning to ensure sustainable development. As cities grow larger, the link between efficient transport systems and urban living becomes more critical, as people rely on buses, trains, and other modes of transportation to move through crowded areas. At a recent international conference on urban planning, experts highlighted how increasing population density can lead to innovation while also putting pressure on housing and public services. Some studies refer to the importance of designing well-lit streets and public spaces to discourage criminal activities and promote safety. For example, adding light to pathways or areas with metal bars can prevent accidents and make environments safer for everyone, especially ladies walking alone at night. While the exact solutions vary by city, many urban centers are focusing on improving public transport to reduce traffic congestion and pollution. Strengthening links between neighborhoods helps create communities where people feel secure and supported. Addressing these issues requires collaboration between governments, citizens, and experts, as sustainable urban growth benefits everyone in the long term.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Population growth in cities requires careful planning to ensure sustainable development."
+        },
+        {
+          "id": 2,
+          "value": "Cities need more public transport options to reduce pollution."
+        },
+        {
+          "id": 3,
+          "value": "Adding light to public spaces solves all urban issues."
+        },
+        {
+          "id": 4,
+          "value": "Metal bars are essential for reducing crime in cities."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage discusses how population growth impacts urban areas and emphasizes the need for careful planning and sustainable solutions.",
+        "vietnamese": "Đoạn văn thảo luận về cách tăng dân số ảnh hưởng đến các khu đô thị và nhấn mạnh sự cần thiết của việc lập kế hoạch cẩn thận và các giải pháp bền vững."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'bar' mean in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "A metal or wooden bar used in construction or pathways"
+        },
+        {
+          "id": 2,
+          "value": "A place where people gather to drink and socialize"
+        },
+        { "id": 3, "value": "A tool for measuring exact distances" },
+        { "id": 4, "value": "A reference to urban transport systems" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'bar' refers to a physical metal or wooden structure, such as those found in construction areas or pathways.",
+        "vietnamese": "Trong đoạn văn, 'bar' đề cập đến một cấu trúc vật lý bằng kim loại hoặc gỗ, chẳng hạn như những thanh trong các khu vực xây dựng hoặc lối đi."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Why is lighting important for ensuring safety in cities?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Because it discourages criminal activities and makes areas safer, especially for ladies."
+        },
+        {
+          "id": 2,
+          "value": "Because it helps create better transport systems."
+        },
+        {
+          "id": 3,
+          "value": "Because it reduces pollution in crowded areas."
+        },
+        {
+          "id": 4,
+          "value": "Because it highlights construction materials like bars."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage highlights that well-lit streets and public spaces discourage criminal activities and improve safety for all, particularly for ladies walking alone.",
+        "vietnamese": "Đoạn văn nhấn mạnh rằng các con đường và không gian công cộng được chiếu sáng tốt sẽ ngăn chặn hoạt động tội phạm và cải thiện an toàn cho tất cả mọi người, đặc biệt là phụ nữ đi một mình."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why is improving public transport important in growing cities?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Because it reduces traffic congestion and pollution."
+        },
+        {
+          "id": 2,
+          "value": "Because it helps install more lights in public areas."
+        },
+        {
+          "id": 3,
+          "value": "Because it ensures metal bars are used safely."
+        },
+        {
+          "id": 4,
+          "value": "Because it connects government agencies with citizens."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that improving public transport helps reduce congestion and pollution, making cities more livable as they grow.",
+        "vietnamese": "Đoạn văn giải thích rằng việc cải thiện giao thông công cộng giúp giảm ùn tắc và ô nhiễm, làm cho các thành phố trở nên đáng sống hơn khi chúng phát triển."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'link' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It highlights the connection between transport systems and urban living."
+        },
+        { "id": 2, "value": "It refers to a conference on urban planning." },
+        { "id": 3, "value": "It describes a type of construction material." },
+        { "id": 4, "value": "It shows how lighting helps reduce crime." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'link' in the passage emphasizes the connection between efficient transport systems and the quality of urban life.",
+        "vietnamese": "Từ 'link' trong đoạn văn nhấn mạnh mối liên hệ giữa các hệ thống giao thông hiệu quả và chất lượng cuộc sống đô thị."
+      }
+    }
+  ]
+}

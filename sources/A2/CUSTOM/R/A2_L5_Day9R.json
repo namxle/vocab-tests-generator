@@ -1,0 +1,104 @@
+{
+  "topic": "Nature and Wildlife",
+  "provided_words": [
+    "speech",
+    "cloud",
+    "frog",
+    "nature",
+    "copy",
+    "all",
+    "image",
+    "national",
+    "introduction",
+    "count"
+  ],
+  "passage": "Last week, our class went on a trip to a national park to learn about nature. At the start, the park guide gave a short introduction about the animals and plants we might see. His speech was very interesting, especially when he talked about frogs. Frogs are important for nature because they help keep the insect population under control. We saw a small pond with many frogs jumping and croaking loudly. Above us, the sky was full of white clouds that looked like soft pillows. The guide showed us an image of a rare bird we might spot if we were quiet and patient. He said we should count ourselves lucky if we saw it. By the end of the day, we had taken pictures of almost all the animals we encountered. Some of us even tried to copy the bird sounds we heard. It was a day full of fun and learning, and we all felt closer to nature.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "A class trip to a national park to learn about nature."
+        },
+        { "id": 2, "value": "A speech about rare birds in a national park." },
+        { "id": 3, "value": "A day spent counting frogs at a pond." },
+        { "id": 4, "value": "How to take pictures of animals in nature." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The main idea focuses on the class trip to a national park to learn about nature and enjoy wildlife.",
+        "vietnamese": "Ý chính tập trung vào chuyến đi của lớp đến công viên quốc gia để học hỏi về thiên nhiên và tận hưởng động vật hoang dã."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What is the meaning of 'introduction' in the passage?",
+      "answers": [
+        { "id": 1, "value": "A beginning explanation." },
+        { "id": 2, "value": "An argument." },
+        { "id": 3, "value": "A summary." },
+        { "id": 4, "value": "A conclusion." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'introduction' refers to the initial explanation the guide gave about the animals and plants.",
+        "vietnamese": "Trong đoạn văn, 'introduction' đề cập đến lời giải thích ban đầu mà hướng dẫn viên đưa ra về các loài động vật và thực vật."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What did the students see in the pond?",
+      "answers": [
+        { "id": 1, "value": "Frogs jumping and croaking." },
+        { "id": 2, "value": "A rare bird flying." },
+        { "id": 3, "value": "Fish swimming quickly." },
+        { "id": 4, "value": "Clouds reflected in the water." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that the students saw frogs jumping and croaking in the pond.",
+        "vietnamese": "Đoạn văn đề cập rằng học sinh đã nhìn thấy những con ếch nhảy và kêu trong ao."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why did the guide show the students an image of the rare bird?",
+      "answers": [
+        { "id": 1, "value": "To help them recognize the bird if they saw it." },
+        { "id": 2, "value": "To teach them how to take photos of birds." },
+        { "id": 3, "value": "To show them how birds sing." },
+        { "id": 4, "value": "To explain why birds like clouds." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The guide showed an image of the bird so the students could recognize it if they spotted it.",
+        "vietnamese": "Hướng dẫn viên đã cho xem hình ảnh của loài chim để học sinh có thể nhận ra nó nếu họ nhìn thấy."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'clouds' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It describes the soft, pillow-like appearance of the sky."
+        },
+        { "id": 2, "value": "It explains the sound of the frogs." },
+        { "id": 3, "value": "It refers to the rare bird." },
+        { "id": 4, "value": "It represents the ground under the pond." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'clouds' is used to describe the appearance of the sky, comparing it to soft pillows.",
+        "vietnamese": "Từ 'clouds' được sử dụng để miêu tả vẻ ngoài của bầu trời, so sánh nó với những chiếc gối mềm mại."
+      }
+    }
+  ]
+}

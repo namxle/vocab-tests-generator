@@ -1,0 +1,134 @@
+{
+  "topic": "Exploring the Natural Wonders of the World",
+  "provided_words": [
+    "sky",
+    "view",
+    "weak",
+    "wide",
+    "hill",
+    "waterfall",
+    "mountain",
+    "river",
+    "deep",
+    "desert"
+  ],
+  "passage": "Exploring natural wonders allows people to experience the beauty and diversity of the earth, from high mountains to deep rivers. Visitors often climb hills to enjoy wide views of valleys below, where rivers wind through lush landscapes. For those seeking adventure, standing near a powerful waterfall or hiking up a mountain provides a thrilling connection to nature. In contrast, deserts offer a completely different experience, where the sky stretches endlessly, and the land is dry but full of life adapted to the harsh environment. Although some people feel weak when faced with such challenges, the rewards of exploring these wonders are unforgettable. Each destination, whether it is a peaceful hill or a roaring waterfall, offers unique opportunities to admire the earth’s beauty. While rivers and waterfalls provide a sense of movement and energy, deserts and mountains remind travelers of the stillness and strength of nature. Experiencing these natural wonders not only creates unforgettable memories but also inspires people to protect the planet for future generations.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Exploring natural wonders offers unique experiences and inspires appreciation for the planet."
+        },
+        {
+          "id": 2,
+          "value": "Mountains and waterfalls are the most thrilling parts of nature."
+        },
+        {
+          "id": 3,
+          "value": "Deserts are the best places to find adventure and peace."
+        },
+        {
+          "id": 4,
+          "value": "Hiking up hills is the best way to see rivers and valleys."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage discusses how exploring various natural wonders, like mountains, rivers, and deserts, offers unique experiences and encourages appreciation for the environment.",
+        "vietnamese": "Đoạn văn thảo luận cách khám phá các kỳ quan thiên nhiên, như núi, sông, và sa mạc, mang lại trải nghiệm độc đáo và khuyến khích sự trân trọng môi trường."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'view' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "A scenic sight seen from a high place" },
+        { "id": 2, "value": "A type of desert plant" },
+        { "id": 3, "value": "A pathway leading to a hill" },
+        { "id": 4, "value": "A deep part of a river" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'view' refers to the scenic sight seen from a high place, such as a hill or mountain.",
+        "vietnamese": "Trong đoạn văn, 'view' đề cập đến cảnh quan nhìn thấy từ nơi cao, như đồi hoặc núi."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Why do deserts provide a different experience from mountains or rivers?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Because they have dry land, endless skies, and unique wildlife adapted to harsh conditions."
+        },
+        {
+          "id": 2,
+          "value": "Because they are easier to explore and less dangerous."
+        },
+        { "id": 3, "value": "Because they are full of rivers and waterfalls." },
+        {
+          "id": 4,
+          "value": "Because they are closer to cities than other natural wonders."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that deserts offer a unique experience with their dry landscapes, endless skies, and wildlife adapted to harsh conditions.",
+        "vietnamese": "Đoạn văn giải thích rằng sa mạc mang lại trải nghiệm độc đáo với cảnh quan khô cằn, bầu trời bao la, và động vật hoang dã thích nghi với điều kiện khắc nghiệt."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why might some people feel weak while exploring natural wonders?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Because the challenges, such as hiking mountains, can be physically demanding."
+        },
+        {
+          "id": 2,
+          "value": "Because they prefer urban landscapes over natural environments."
+        },
+        { "id": 3, "value": "Because deserts and waterfalls are too crowded." },
+        {
+          "id": 4,
+          "value": "Because the views are not inspiring enough for them."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that some people feel weak when facing physical challenges, such as hiking mountains or exploring deserts.",
+        "vietnamese": "Đoạn văn đề cập rằng một số người cảm thấy yếu khi đối mặt với những thử thách thể chất, như leo núi hoặc khám phá sa mạc."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'deep' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It describes the profound nature of rivers and canyons."
+        },
+        { "id": 2, "value": "It explains the endless skies above mountains." },
+        {
+          "id": 3,
+          "value": "It refers to the challenges of exploring deserts."
+        },
+        { "id": 4, "value": "It highlights the wide views seen from hills." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'deep' in the passage emphasizes the profound and majestic nature of rivers and canyons that inspire awe.",
+        "vietnamese": "Từ 'deep' trong đoạn văn nhấn mạnh sự sâu sắc và hùng vĩ của các con sông và hẻm núi, mang lại cảm giác kinh ngạc."
+      }
+    }
+  ]
+}

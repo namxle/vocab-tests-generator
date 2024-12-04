@@ -1,0 +1,122 @@
+{
+  "topic": "The Consequences of Accidents and How to Prevent Them",
+  "provided_words": [
+    "accident",
+    "hit",
+    "wind",
+    "enormous",
+    "blank",
+    "dead",
+    "manner",
+    "prevent",
+    "fall",
+    "drop"
+  ],
+  "passage": "Accidents can happen at any time, and their consequences are often severe, especially when proper precautions are not taken. A car accident, for instance, can occur when a driver fails to stop at a red light and hits another vehicle. The enormous impact of such an accident can leave people injured or even dead, which is why road safety is so important. Strong wind during storms can also cause accidents by blowing objects that may hit passersby or vehicles. For example, a tree might fall onto a road, blocking traffic and causing drivers to drop their speed suddenly, increasing the risk of collisions. In a similar manner, accidents at home can happen if people leave blank spaces in safety plans, such as forgetting to secure furniture that might fall during an earthquake. To prevent accidents, it is essential to act carefully and prepare in advance. For instance, wearing a seatbelt, avoiding distractions while driving, or securing heavy objects can significantly reduce risks. Although it is impossible to prevent every accident, acting in a responsible manner can save lives and minimize injuries.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Accidents can have severe consequences, but proper precautions can help prevent them."
+        },
+        {
+          "id": 2,
+          "value": "Strong winds are the leading cause of road accidents."
+        },
+        {
+          "id": 3,
+          "value": "Home accidents are more dangerous than car accidents."
+        },
+        {
+          "id": 4,
+          "value": "It is impossible to prevent accidents completely."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains how accidents can occur in various situations and emphasizes the importance of taking precautions to reduce their impact.",
+        "vietnamese": "Đoạn văn giải thích cách các tai nạn có thể xảy ra trong nhiều tình huống khác nhau và nhấn mạnh tầm quan trọng của việc thực hiện các biện pháp phòng ngừa để giảm thiểu tác động của chúng."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'enormous' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Very large or severe" },
+        { "id": 2, "value": "Quick and small" },
+        { "id": 3, "value": "Simple and easy" },
+        { "id": 4, "value": "Slow and careful" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'enormous' describes the large impact of an accident, such as causing injuries or deaths.",
+        "vietnamese": "Trong đoạn văn, 'enormous' mô tả tác động lớn của một tai nạn, chẳng hạn như gây thương tích hoặc tử vong."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What is an example of how strong wind can cause accidents?",
+      "answers": [
+        { "id": 1, "value": "A tree falls onto a road, blocking traffic." },
+        {
+          "id": 2,
+          "value": "A car runs a red light and hits another vehicle."
+        },
+        { "id": 3, "value": "Furniture falls during an earthquake." },
+        { "id": 4, "value": "A person forgets to wear a seatbelt." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that strong wind can cause a tree to fall onto a road, which may block traffic and lead to accidents.",
+        "vietnamese": "Đoạn văn đề cập rằng gió mạnh có thể làm cây đổ xuống đường, gây cản trở giao thông và dẫn đến tai nạn."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why does leaving blank spaces in safety plans increase the risk of accidents?",
+      "answers": [
+        { "id": 1, "value": "Because important precautions are forgotten." },
+        { "id": 2, "value": "Because people may act carelessly." },
+        { "id": 3, "value": "Because blank spaces cause confusion." },
+        { "id": 4, "value": "Because heavy objects are difficult to secure." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that blank spaces in safety plans, such as forgetting to secure furniture, can lead to accidents during events like earthquakes.",
+        "vietnamese": "Đoạn văn giải thích rằng những khoảng trống trong kế hoạch an toàn, chẳng hạn như quên cố định đồ nội thất, có thể dẫn đến tai nạn trong các sự kiện như động đất."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'manner' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It highlights the responsible behavior needed to prevent accidents."
+        },
+        {
+          "id": 2,
+          "value": "It describes the style of writing used in the passage."
+        },
+        { "id": 3, "value": "It shows the severity of a car accident." },
+        {
+          "id": 4,
+          "value": "It refers to the way strong wind affects objects."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'manner' in the passage emphasizes that acting in a responsible way can help prevent accidents and reduce harm.",
+        "vietnamese": "Từ 'manner' trong đoạn văn nhấn mạnh rằng hành động một cách có trách nhiệm có thể giúp ngăn ngừa tai nạn và giảm thiệt hại."
+      }
+    }
+  ]
+}

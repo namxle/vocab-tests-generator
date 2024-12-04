@@ -1,0 +1,172 @@
+[
+  {
+    "word": "wet",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It started raining, and my clothes got completely _______.",
+        "answers": [
+          { "id": 1, "value": "wet" },
+          { "id": 2, "value": "dry" },
+          { "id": 3, "value": "cold" },
+          { "id": 4, "value": "clean" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "working",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He has been _______ on his project all morning.",
+        "answers": [
+          { "id": 1, "value": "working" },
+          { "id": 2, "value": "sleeping" },
+          { "id": 3, "value": "playing" },
+          { "id": 4, "value": "reading" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "modern",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The building has a very _______ design with glass walls.",
+        "answers": [
+          { "id": 1, "value": "modern" },
+          { "id": 2, "value": "old" },
+          { "id": 3, "value": "traditional" },
+          { "id": 4, "value": "ancient" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "family",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She spends every weekend with her _______ at their house.",
+        "answers": [
+          { "id": 1, "value": "family" },
+          { "id": 2, "value": "friends" },
+          { "id": 3, "value": "classmates" },
+          { "id": 4, "value": "colleagues" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "forest",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The campsite is set in the middle of a pine _______.",
+        "answers": [
+          { "id": 1, "value": "forest" },
+          { "id": 2, "value": "desert" },
+          { "id": 3, "value": "ocean" },
+          { "id": 4, "value": "beach" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "excellent",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She received an award for her _______ performance in the competition.",
+        "answers": [
+          { "id": 1, "value": "excellent" },
+          { "id": 2, "value": "poor" },
+          { "id": 3, "value": "basic" },
+          { "id": 4, "value": "average" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "gallery",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The art _______ had a beautiful collection of paintings and sculptures.",
+        "answers": [
+          { "id": 1, "value": "gallery" },
+          { "id": 2, "value": "shop" },
+          { "id": 3, "value": "museum" },
+          { "id": 4, "value": "market" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "enter",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You need a ticket to _______ the concert hall.",
+        "answers": [
+          { "id": 1, "value": "enter" },
+          { "id": 2, "value": "leave" },
+          { "id": 3, "value": "build" },
+          { "id": 4, "value": "decorate" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bottom",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There is a small fish swimming at the _______ of the lake.",
+        "answers": [
+          { "id": 1, "value": "bottom" },
+          { "id": 2, "value": "middle" },
+          { "id": 3, "value": "side" },
+          { "id": 4, "value": "corner" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "plastic",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The bottle is made of _______ and can be recycled.",
+        "answers": [
+          { "id": 1, "value": "plastic" },
+          { "id": 2, "value": "sand" },
+          { "id": 3, "value": "water" },
+          { "id": 4, "value": "fire" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

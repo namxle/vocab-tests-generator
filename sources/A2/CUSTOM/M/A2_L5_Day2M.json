@@ -1,0 +1,172 @@
+[
+  {
+    "word": "whose",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Do you know the boy _______ bag is on the table?",
+        "answers": [
+          { "id": 1, "value": "whose" },
+          { "id": 2, "value": "who" },
+          { "id": 3, "value": "which" },
+          { "id": 4, "value": "where" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "tie",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Could you _______ this piece of string for me? ",
+        "answers": [
+          { "id": 1, "value": "tie" },
+          { "id": 2, "value": "lock" },
+          { "id": 3, "value": "choose" },
+          { "id": 4, "value": "cook" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "adventure",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They went on an exciting _______ in the jungle.",
+        "answers": [
+          { "id": 1, "value": "adventure" },
+          { "id": 2, "value": "picnic" },
+          { "id": 3, "value": "rest" },
+          { "id": 4, "value": "vacation" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "story",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She told a funny _______ about her trip to Paris.",
+        "answers": [
+          { "id": 1, "value": "story" },
+          { "id": 2, "value": "picture" },
+          { "id": 3, "value": "song" },
+          { "id": 4, "value": "movie" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "travel",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I love to _______ to new countries and learn about different cultures.",
+        "answers": [
+          { "id": 1, "value": "travel" },
+          { "id": 2, "value": "cook" },
+          { "id": 3, "value": "study" },
+          { "id": 4, "value": "paint" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "huge",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The elephant is a _______ animal that lives in the jungle.",
+        "answers": [
+          { "id": 1, "value": "huge" },
+          { "id": 2, "value": "tiny" },
+          { "id": 3, "value": "fast" },
+          { "id": 4, "value": "quiet" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lake",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We went fishing at a beautiful _______ near the mountains.",
+        "answers": [
+          { "id": 1, "value": "lake" },
+          { "id": 2, "value": "jungle" },
+          { "id": 3, "value": "ocean" },
+          { "id": 4, "value": "pond" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "valley",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hikers walked through a green _______ surrounded by high mountains.",
+        "answers": [
+          { "id": 1, "value": "valley" },
+          { "id": 2, "value": "forest" },
+          { "id": 3, "value": "cave" },
+          { "id": 4, "value": "beach" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "society",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "A peaceful _______ is built on respect and kindness.",
+        "answers": [
+          { "id": 1, "value": "society" },
+          { "id": 2, "value": "media" },
+          { "id": 3, "value": "sport" },
+          { "id": 4, "value": "school" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "attend",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She plans to _______ the wedding next weekend with her family.",
+        "answers": [
+          { "id": 1, "value": "attend" },
+          { "id": 2, "value": "listen" },
+          { "id": 3, "value": "watch" },
+          { "id": 4, "value": "miss" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

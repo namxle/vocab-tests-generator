@@ -1,0 +1,182 @@
+[
+  {
+    "word": "guide",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The tour _______ showed us all the famous landmarks in the city.",
+        "answers": [
+          { "id": 1, "value": "guide" },
+          { "id": 2, "value": "driver" },
+          { "id": 3, "value": "manager" },
+          { "id": 4, "value": "visitor" },
+          { "id": 5, "value": "artist" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "journey",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Their _______ across the desert took three days.",
+        "answers": [
+          { "id": 1, "value": "journey" },
+          { "id": 2, "value": "picnic" },
+          { "id": 3, "value": "school day" },
+          { "id": 4, "value": "festival" },
+          { "id": 5, "value": "performance" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "coach",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The football _______ trained the team for the final match.",
+        "answers": [
+          { "id": 1, "value": "coach" },
+          { "id": 2, "value": "referee" },
+          { "id": 3, "value": "player" },
+          { "id": 4, "value": "supporter" },
+          { "id": 5, "value": "singer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "explanation",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher gave an _______ to help students understand the problem.",
+        "answers": [
+          { "id": 1, "value": "explanation" },
+          { "id": 2, "value": "question" },
+          { "id": 3, "value": "solution" },
+          { "id": 4, "value": "idea" },
+          { "id": 5, "value": "decision" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "colleague",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She asked her _______ for help with the project.",
+        "answers": [
+          { "id": 1, "value": "colleague" },
+          { "id": 2, "value": "neighbor" },
+          { "id": 3, "value": "husband" },
+          { "id": 4, "value": "boss" },
+          { "id": 5, "value": "customer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "column",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ancient building was supported by a tall _______.",
+        "answers": [
+          { "id": 1, "value": "column" },
+          { "id": 2, "value": "wall" },
+          { "id": 3, "value": "skyscraper" },
+          { "id": 4, "value": "door" },
+          { "id": 5, "value": "floor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "especially",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The cake was delicious, _______ the chocolate frosting on top.",
+        "answers": [
+          { "id": 1, "value": "especially" },
+          { "id": 2, "value": "quickly" },
+          { "id": 3, "value": "surprisingly" },
+          { "id": 4, "value": "clearly" },
+          { "id": 5, "value": "usually" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "instruction",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He followed the _______ carefully to assemble the furniture.",
+        "answers": [
+          { "id": 1, "value": "instruction" },
+          { "id": 2, "value": "plan" },
+          { "id": 3, "value": "list" },
+          { "id": 4, "value": "advice" },
+          { "id": 5, "value": "example" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "express",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She tried to _______ her gratitude with a small gift.",
+        "answers": [
+          { "id": 1, "value": "express" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "remember" },
+          { "id": 4, "value": "repeat" },
+          { "id": 5, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ground",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children played on the _______ in the park.",
+        "answers": [
+          { "id": 1, "value": "ground" },
+          { "id": 2, "value": "slide" },
+          { "id": 3, "value": "bench" },
+          { "id": 4, "value": "grass" },
+          { "id": 5, "value": "swing" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

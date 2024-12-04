@@ -1,0 +1,182 @@
+[
+  {
+    "word": "fan",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "On a hot day, she turned on the _______ to cool the room.",
+        "answers": [
+          { "id": 1, "value": "fan" },
+          { "id": 2, "value": "lamp" },
+          { "id": 3, "value": "heater" },
+          { "id": 4, "value": "radio" },
+          { "id": 5, "value": "window" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pattern",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The dress has a beautiful floral _______ on it.",
+        "answers": [
+          { "id": 1, "value": "pattern" },
+          { "id": 2, "value": "color" },
+          { "id": 3, "value": "fabric" },
+          { "id": 4, "value": "shape" },
+          { "id": 5, "value": "button" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "system",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The school has a new online _______ for managing classes.",
+        "answers": [
+          { "id": 1, "value": "system" },
+          { "id": 2, "value": "teacher" },
+          { "id": 3, "value": "exam" },
+          { "id": 4, "value": "library" },
+          { "id": 5, "value": "classroom" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "produce",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Farmers work hard to _______ fresh vegetables for the market.",
+        "answers": [
+          { "id": 1, "value": "produce" },
+          { "id": 2, "value": "buy" },
+          { "id": 3, "value": "deliver" },
+          { "id": 4, "value": "find" },
+          { "id": 5, "value": "pack" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "review",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher asked the students to _______ their notes before the test.",
+        "answers": [
+          { "id": 1, "value": "review" },
+          { "id": 2, "value": "forget" },
+          { "id": 3, "value": "write" },
+          { "id": 4, "value": "hide" },
+          { "id": 5, "value": "send" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "screen",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The laptop's _______ was cracked after it fell.",
+        "answers": [
+          { "id": 1, "value": "screen" },
+          { "id": 2, "value": "keyboard" },
+          { "id": 3, "value": "battery" },
+          { "id": 4, "value": "mouse" },
+          { "id": 5, "value": "cover" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "specific",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The instructions were very _______ about what to do.",
+        "answers": [
+          { "id": 1, "value": "specific" },
+          { "id": 2, "value": "short" },
+          { "id": 3, "value": "boring" },
+          { "id": 4, "value": "long" },
+          { "id": 5, "value": "general" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "variety",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The store offers a wide _______ of fruits and vegetables.",
+        "answers": [
+          { "id": 1, "value": "variety" },
+          { "id": 2, "value": "quantity" },
+          { "id": 3, "value": "group" },
+          { "id": 4, "value": "box" },
+          { "id": 5, "value": "taste" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "use",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You should _______ a pencil to write your answers.",
+        "answers": [
+          { "id": 1, "value": "use" },
+          { "id": 2, "value": "keep" },
+          { "id": 3, "value": "carry" },
+          { "id": 4, "value": "throw" },
+          { "id": 5, "value": "move" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "speaker",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ at the event gave an inspiring speech.",
+        "answers": [
+          { "id": 1, "value": "speaker" },
+          { "id": 2, "value": "listener" },
+          { "id": 3, "value": "singer" },
+          { "id": 4, "value": "actor" },
+          { "id": 5, "value": "artist" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -6,6 +6,7 @@ const helper = require('./helper');
 function getTestData(data) {
   const totalAnswers = [];
   const testData = data.map((datum) => {
+    console.log(datum.day);
     const testDatum = {};
     const questions = datum.data.questions.map((question, index) => {
       // Shuffle answers of that question 5 times

@@ -1,0 +1,128 @@
+{
+  "topic": "The Role of Leaders in Public Discussions",
+  "provided_words": [
+    "mayor",
+    "leader",
+    "media",
+    "somewhere",
+    "public",
+    "anybody",
+    "social",
+    "anyway",
+    "crowded",
+    "discussion"
+  ],
+  "passage": "Leaders play a vital role in public life, especially when they address problems that affect entire communities, ensuring that solutions are fair and inclusive. A mayor, who serves as the leader of a city, is responsible not only for organizing discussions but also for making sure that everybody feels included and has the opportunity to share their opinions. These discussions may take place somewhere convenient, such as a community center, or they might be held online through social media platforms, which allow more people to participate regardless of distance. Using media, including news channels, websites, and online posts, helps leaders spread important information quickly, ensuring that the public is informed and prepared. For example, if a park in a crowded neighborhood is in need of repairs, the mayor can start a public discussion to gather ideas and hear what residents think. Although not everybody may agree during these discussions, leaders must carefully consider all viewpoints and make decisions that benefit the majority while respecting minority opinions. Anyway, public discussions are essential because they give people a voice and allow communities to collaborate on solving problems together, which fosters trust and cooperation. Social media plays a significant role in modern leadership because it allows leaders to communicate directly with citizens, respond to their concerns promptly, and keep the discussion ongoing. When leaders act responsibly and show transparency, they build trust, strengthen relationships, and create a more united and engaged community.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Leaders use public discussions and media to solve community problems."
+        },
+        {
+          "id": 2,
+          "value": "Mayors only organize meetings in crowded neighborhoods."
+        },
+        {
+          "id": 3,
+          "value": "Social media replaces the need for public discussions."
+        },
+        {
+          "id": 4,
+          "value": "Anybody can become a leader through social media."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains how leaders, such as mayors, use public discussions and media to communicate with citizens and solve problems together.",
+        "vietnamese": "Đoạn văn giải thích cách các nhà lãnh đạo, như thị trưởng, sử dụng các cuộc thảo luận công khai và phương tiện truyền thông để giao tiếp với người dân và giải quyết vấn đề cùng nhau."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'public' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Relating to the people in a community" },
+        { "id": 2, "value": "Something done in private" },
+        { "id": 3, "value": "A type of social media account" },
+        { "id": 4, "value": "A meeting for leaders only" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'public' refers to the people in a community who participate in discussions and are affected by decisions made by leaders.",
+        "vietnamese": "Trong đoạn văn, 'public' đề cập đến những người trong một cộng đồng tham gia vào các cuộc thảo luận và bị ảnh hưởng bởi các quyết định của nhà lãnh đạo."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "How does the mayor involve the public in solving problems?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "By organizing discussions and listening to opinions"
+        },
+        { "id": 2, "value": "By making decisions without asking residents" },
+        { "id": 3, "value": "By repairing parks without asking for ideas" },
+        { "id": 4, "value": "By using only social media to solve problems" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that mayors involve the public by organizing discussions, both in person and online, to hear ideas and solve problems.",
+        "vietnamese": "Đoạn văn đề cập rằng các thị trưởng thu hút sự tham gia của công chúng bằng cách tổ chức các cuộc thảo luận, cả trực tiếp và trực tuyến, để lắng nghe ý kiến và giải quyết vấn đề."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why are public discussions important for communities?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Because they allow people to share ideas and solve problems together."
+        },
+        {
+          "id": 2,
+          "value": "Because they always take place in community centers."
+        },
+        {
+          "id": 3,
+          "value": "Because they replace social media for communication."
+        },
+        { "id": 4, "value": "Because they are led only by officers." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that public discussions are important because they give people a voice and help communities solve problems as a group.",
+        "vietnamese": "Đoạn văn nêu rằng các cuộc thảo luận công khai rất quan trọng vì chúng cho mọi người tiếng nói và giúp các cộng đồng giải quyết vấn đề cùng nhau."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'media' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It refers to tools that leaders use to communicate with the public."
+        },
+        {
+          "id": 2,
+          "value": "It describes the crowded neighborhoods in the city."
+        },
+        { "id": 3, "value": "It explains why leaders hold discussions." },
+        { "id": 4, "value": "It shows the importance of community centers." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'media' is used to highlight how leaders use tools like social media, news channels, and websites to share information with the public.",
+        "vietnamese": "Từ 'media' được sử dụng để nhấn mạnh cách các nhà lãnh đạo sử dụng các công cụ như mạng xã hội, kênh tin tức và trang web để chia sẻ thông tin với công chúng."
+      }
+    }
+  ]
+}

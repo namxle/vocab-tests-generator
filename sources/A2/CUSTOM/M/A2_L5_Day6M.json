@@ -1,0 +1,172 @@
+[
+  {
+    "word": "gold",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ring was made of pure _______ and looked very expensive.",
+        "answers": [
+          { "id": 1, "value": "gold" },
+          { "id": 2, "value": "plastic" },
+          { "id": 3, "value": "wood" },
+          { "id": 4, "value": "stone" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hide",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The cat likes to _______ under the bed when it’s scared.",
+        "answers": [
+          { "id": 1, "value": "hide" },
+          { "id": 2, "value": "jump" },
+          { "id": 3, "value": "run" },
+          { "id": 4, "value": "play" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "half",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She ate only _______ of the pizza and saved the rest for later.",
+        "answers": [
+          { "id": 1, "value": "half" },
+          { "id": 2, "value": "all" },
+          { "id": 3, "value": "none" },
+          { "id": 4, "value": "both" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "earth",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Astronauts travel into space to learn more about the _______.",
+        "answers": [
+          { "id": 1, "value": "earth" },
+          { "id": 2, "value": "ocean" },
+          { "id": 3, "value": "ground" },
+          { "id": 4, "value": "fire" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "appear",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The sun started to _______ from behind the clouds.",
+        "answers": [
+          { "id": 1, "value": "appear" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "shine" },
+          { "id": 4, "value": "set" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cross",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please look both ways before you _______ the street.",
+        "answers": [
+          { "id": 1, "value": "cross" },
+          { "id": 2, "value": "walk" },
+          { "id": 3, "value": "stand" },
+          { "id": 4, "value": "run" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "professor",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ explained the lesson clearly to the university students.",
+        "answers": [
+          { "id": 1, "value": "professor" },
+          { "id": 2, "value": "singer" },
+          { "id": 3, "value": "architect" },
+          { "id": 4, "value": "doctor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lecture",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The professor gave a long _______ about climate change.",
+        "answers": [
+          { "id": 1, "value": "lecture" },
+          { "id": 2, "value": "movie" },
+          { "id": 3, "value": "joke" },
+          { "id": 4, "value": "music" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "tour",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The guide took us on a _______ of the historic city center.",
+        "answers": [
+          { "id": 1, "value": "tour" },
+          { "id": 2, "value": "race" },
+          { "id": 3, "value": "walk" },
+          { "id": 4, "value": "story" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "tower",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The Eiffel _______ is one of the most famous landmarks in the world.",
+        "answers": [
+          { "id": 1, "value": "tower" },
+          { "id": 2, "value": "bridge" },
+          { "id": 3, "value": "building" },
+          { "id": 4, "value": "wall" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

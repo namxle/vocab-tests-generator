@@ -1,14 +1,28 @@
 {
   "topic": "Artificial Intelligence",
-  "provided_words": ["following", "expect", "future", "intelligent", "predict", "recommend", "respond", "speed", "understanding", "unfortunately"],
-  "passage": "Artificial Intelligence (AI) is becoming an important part of our lives. Many people expect AI to help us in the future in many ways. For example, intelligent robots can respond quickly to questions, making tasks faster and easier. AI systems are also used to predict the weather or recommend books, movies, and even food. With its speed and accuracy, AI has the power to change the way we live. \n\nHowever, AI needs understanding to work well. It studies data and learns how to make decisions. Unfortunately, not all AI systems are perfect. Sometimes, they make mistakes because they cannot think like humans. For example, a computer might give the wrong answer if the data is not correct. \n\nIn the following years, scientists will work hard to improve AI. They hope to make it more intelligent and reliable. With better technology, the future of AI looks bright, and it will continue to help people in many ways.",
+  "provided_words": [
+    "following",
+    "expect",
+    "future",
+    "intelligent",
+    "predict",
+    "recommend",
+    "respond",
+    "speed",
+    "understanding",
+    "unfortunately"
+  ],
+  "passage": "Artificial Intelligence (AI) is becoming an important part of our lives. Many people expect AI to help us in the future in many ways. For example, intelligent robots can respond quickly to questions, making tasks faster and easier. AI systems are also used to predict the weather or recommend books, movies, and even food. With its speed and accuracy, AI has the power to change the way we live. However, AI needs understanding to work well. It studies data and learns how to make decisions. Unfortunately, not all AI systems are perfect. Sometimes, they make mistakes because they cannot think like humans. For example, a computer might give the wrong answer if the data is not correct. In the following years, scientists will work hard to improve AI. They hope to make it more intelligent and reliable. With better technology, the future of AI looks bright, and it will continue to help people in many ways.",
   "questions": [
     {
       "id": 1,
       "type": "Main Idea",
       "question_name": "What is the main idea of the passage?",
       "answers": [
-        { "id": 1, "value": "AI is becoming an important part of our lives and helps in many ways." },
+        {
+          "id": 1,
+          "value": "AI is becoming an important part of our lives and helps in many ways."
+        },
         { "id": 2, "value": "AI is perfect and never makes mistakes." },
         { "id": 3, "value": "AI is used only for predicting the weather." },
         { "id": 4, "value": "AI is dangerous and should not be used." }

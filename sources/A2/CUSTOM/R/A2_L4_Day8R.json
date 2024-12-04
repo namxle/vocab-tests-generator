@@ -1,0 +1,113 @@
+{
+  "topic": "Life in the City",
+  "provided_words": [
+    "train",
+    "traffic",
+    "parking",
+    "skyscraper",
+    "behaviour",
+    "avoid",
+    "better",
+    "beef",
+    "direct",
+    "hero"
+  ],
+  "passage": "Living in a big city has its challenges and rewards. Cities are often filled with skyscrapers, tall buildings that seem to touch the sky. These buildings allow many people to live and work in a small area, but they can also lead to heavy traffic on the streets. To avoid long delays, some people prefer to take the train instead of driving their cars. Using public transportation can make travel easier and better for the environment. Parking is another common problem in cities. Finding a space can take a lot of time, especially near busy areas. To deal with this issue, some cities have built parking garages to make life more convenient for drivers. However, many people believe that walking or biking is a better option to avoid traffic altogether. City life also shapes people’s behaviour. In busy environments, people often need to act quickly and think ahead to save time. Despite the challenges, city living offers opportunities and unique experiences that many people enjoy.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Living in a city has challenges and unique opportunities."
+        },
+        {
+          "id": 2,
+          "value": "Cities only cause problems like traffic and parking issues."
+        },
+        {
+          "id": 3,
+          "value": "Skyscrapers are the most important part of city life."
+        },
+        { "id": 4, "value": "Trains are the only way to travel in cities." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage describes both the challenges and benefits of living in a city.",
+        "vietnamese": "Đoạn văn mô tả cả những thách thức và lợi ích của việc sống ở thành phố."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'avoid' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Stay away from" },
+        { "id": 2, "value": "Get closer to" },
+        { "id": 3, "value": "Fix" },
+        { "id": 4, "value": "Follow" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Avoid' means to stay away from something, like avoiding traffic by taking public transportation.",
+        "vietnamese": "'Avoid' có nghĩa là tránh xa điều gì đó, như tránh kẹt xe bằng cách sử dụng phương tiện giao thông công cộng."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Why do some people prefer to take the train in a city?",
+      "answers": [
+        { "id": 1, "value": "To avoid traffic delays." },
+        { "id": 2, "value": "Because trains are faster than airplanes." },
+        { "id": 3, "value": "To find better parking spaces." },
+        { "id": 4, "value": "Because cars are not allowed in cities." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that people take the train to avoid long delays caused by heavy traffic.",
+        "vietnamese": "Đoạn văn nói rằng mọi người đi tàu để tránh những trì hoãn kéo dài do giao thông đông đúc."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "How does city life shape people’s behaviour?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It teaches people to act quickly and plan ahead."
+        },
+        { "id": 2, "value": "It makes people more relaxed and slow-moving." },
+        { "id": 3, "value": "It encourages people to avoid work." },
+        { "id": 4, "value": "It forces everyone to use parking garages." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that city life requires people to act quickly and think ahead to manage their time effectively.",
+        "vietnamese": "Đoạn văn giải thích rằng cuộc sống thành phố đòi hỏi mọi người phải hành động nhanh chóng và suy nghĩ trước để quản lý thời gian hiệu quả."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'better' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It compares public transportation to driving in terms of convenience."
+        },
+        { "id": 2, "value": "It explains why parking is easy in cities." },
+        { "id": 3, "value": "It describes the challenges of skyscrapers." },
+        { "id": 4, "value": "It shows why biking is impossible in cities." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'better' is used to compare public transportation with driving, emphasizing its convenience and environmental benefits.",
+        "vietnamese": "Từ 'better' được sử dụng để so sánh phương tiện công cộng với lái xe, nhấn mạnh sự tiện lợi và lợi ích môi trường của nó."
+      }
+    }
+  ]
+}

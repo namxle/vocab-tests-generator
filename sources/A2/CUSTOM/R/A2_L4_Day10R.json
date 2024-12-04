@@ -1,0 +1,119 @@
+{
+  "topic": "Staying Fit and Healthy",
+  "provided_words": [
+    "fitness",
+    "nutrition",
+    "exercise",
+    "healthy",
+    "medicine",
+    "physical",
+    "sport",
+    "weight",
+    "rest",
+    "bright"
+  ],
+  "passage": "Staying fit and healthy is important for everyone. Good fitness begins with proper nutrition. Eating the right foods, like fruits and vegetables, provides the energy you need for exercise. Exercise is essential for keeping your body strong and maintaining a healthy weight. Whether you enjoy running, playing a sport, or going to the gym, physical activity improves your overall health. Rest is just as important as exercise. After working out, your body needs time to recover. A good night’s sleep helps your muscles heal and keeps your mind bright and focused for the day ahead. Without enough rest, it is harder to stay active and maintain a healthy lifestyle. Medicine also plays a role in staying healthy. Doctors recommend regular check-ups to ensure your body is in good condition. They can give advice on nutrition, exercise, and other ways to stay fit. By balancing exercise, nutrition, and rest, you can enjoy a bright and healthy life.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Balancing exercise, nutrition, and rest is key to staying fit and healthy."
+        },
+        {
+          "id": 2,
+          "value": "Doctors can help everyone stay fit with medicine."
+        },
+        { "id": 3, "value": "Playing sports is the only way to stay healthy." },
+        {
+          "id": 4,
+          "value": "Rest is more important than exercise or nutrition."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage discusses the importance of combining exercise, nutrition, and rest to maintain fitness and health.",
+        "vietnamese": "Đoạn văn thảo luận về tầm quan trọng của việc kết hợp tập thể dục, dinh dưỡng và nghỉ ngơi để duy trì thể lực và sức khỏe."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'physical' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Related to the body" },
+        { "id": 2, "value": "Related to medicine" },
+        { "id": 3, "value": "Related to nutrition" },
+        { "id": 4, "value": "Related to sleep" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "'Physical' means something related to the body, such as physical activity or exercise.",
+        "vietnamese": "'Physical' có nghĩa là một cái gì đó liên quan đến cơ thể, chẳng hạn như hoạt động thể chất hoặc tập thể dục."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Why is rest important after exercise?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It helps muscles heal and keeps the mind bright."
+        },
+        { "id": 2, "value": "It replaces the need for exercise." },
+        { "id": 3, "value": "It prevents people from gaining weight." },
+        { "id": 4, "value": "It provides energy for sports." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains that rest allows muscles to heal and keeps the mind focused and bright.",
+        "vietnamese": "Đoạn văn giải thích rằng nghỉ ngơi giúp cơ bắp hồi phục và giữ cho tâm trí tập trung và sáng suốt."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "What can we infer about the role of nutrition in fitness?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Good nutrition provides energy needed for exercise and health."
+        },
+        {
+          "id": 2,
+          "value": "Nutrition is only important for professional athletes."
+        },
+        { "id": 3, "value": "Nutrition replaces the need for exercise." },
+        { "id": 4, "value": "Nutrition is not related to fitness." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that good nutrition, such as eating fruits and vegetables, provides energy for exercise and supports health.",
+        "vietnamese": "Đoạn văn đề cập rằng dinh dưỡng tốt, chẳng hạn như ăn trái cây và rau quả, cung cấp năng lượng để tập thể dục và hỗ trợ sức khỏe."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'bright' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It describes how rest keeps the mind focused and clear."
+        },
+        { "id": 2, "value": "It explains why exercise is important." },
+        { "id": 3, "value": "It shows the benefits of good nutrition." },
+        { "id": 4, "value": "It describes physical health." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'bright' is used to explain how rest helps keep the mind clear and focused.",
+        "vietnamese": "Từ 'bright' được sử dụng để giải thích cách nghỉ ngơi giúp giữ cho tâm trí rõ ràng và tập trung."
+      }
+    }
+  ]
+}

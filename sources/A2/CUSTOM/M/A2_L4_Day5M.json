@@ -1,0 +1,182 @@
+[
+  {
+    "word": "disappear",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The magician made the coin _______ in front of the audience.",
+        "answers": [
+          { "id": 1, "value": "disappear" },
+          { "id": 2, "value": "break" },
+          { "id": 3, "value": "drop" },
+          { "id": 4, "value": "fall" },
+          { "id": 5, "value": "stay" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "definitely",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I will _______ call you tomorrow to discuss the details.",
+        "answers": [
+          { "id": 1, "value": "definitely" },
+          { "id": 2, "value": "usually" },
+          { "id": 3, "value": "additionally" },
+          { "id": 4, "value": "rarely" },
+          { "id": 5, "value": "sometimes" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "foreign",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is studying a _______ language at university.",
+        "answers": [
+          { "id": 1, "value": "foreign" },
+          { "id": 2, "value": "local" },
+          { "id": 3, "value": "ancient" },
+          { "id": 4, "value": "modern" },
+          { "id": 5, "value": "official" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "drive",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I learned to _______ a car when I was 18 years old.",
+        "answers": [
+          { "id": 1, "value": "drive" },
+          { "id": 2, "value": "ride" },
+          { "id": 3, "value": "fix" },
+          { "id": 4, "value": "start" },
+          { "id": 5, "value": "park" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "best",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is the _______ player on our team and always scores the most points.",
+        "answers": [
+          { "id": 1, "value": "best" },
+          { "id": 2, "value": "worst" },
+          { "id": 3, "value": "slowest" },
+          { "id": 4, "value": "fastest" },
+          { "id": 5, "value": "average" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fit",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "These shoes don’t _______; they’re too small for my feet.",
+        "answers": [
+          { "id": 1, "value": "fit" },
+          { "id": 2, "value": "match" },
+          { "id": 3, "value": "work" },
+          { "id": 4, "value": "stay" },
+          { "id": 5, "value": "feel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "law",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The new _______ was passed to improve road safety.",
+        "answers": [
+          { "id": 1, "value": "law" },
+          { "id": 2, "value": "rule" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "plan" },
+          { "id": 5, "value": "decision" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "government",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ is responsible for making important decisions about the country.",
+        "answers": [
+          { "id": 1, "value": "government" },
+          { "id": 2, "value": "company" },
+          { "id": 3, "value": "committee" },
+          { "id": 4, "value": "team" },
+          { "id": 5, "value": "group" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fresh",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We bought some _______ fruits and vegetables from the market this morning.",
+        "answers": [
+          { "id": 1, "value": "fresh" },
+          { "id": 2, "value": "frozen" },
+          { "id": 3, "value": "dry" },
+          { "id": 4, "value": "cooked" },
+          { "id": 5, "value": "old" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "heart",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The paramedics took his pulse to see if his _______ was still beating.",
+        "answers": [
+          { "id": 1, "value": "heart" },
+          { "id": 2, "value": "brain" },
+          { "id": 3, "value": "stomach" },
+          { "id": 4, "value": "lungs" },
+          { "id": 5, "value": "bones" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

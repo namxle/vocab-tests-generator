@@ -1,0 +1,182 @@
+[
+  {
+    "word": "international",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The school hosted an _______ science competition with students from many countries.",
+        "answers": [
+          { "id": 1, "value": "international" },
+          { "id": 2, "value": "local" },
+          { "id": 3, "value": "national" },
+          { "id": 4, "value": "private" },
+          { "id": 5, "value": "regional" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "metal",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The statue is made of shiny _______ and stands in the city square.",
+        "answers": [
+          { "id": 1, "value": "metal" },
+          { "id": 2, "value": "wood" },
+          { "id": 3, "value": "plastic" },
+          { "id": 4, "value": "glass" },
+          { "id": 5, "value": "paper" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fair",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher ensured that the competition was _______ for all participants.",
+        "answers": [
+          { "id": 1, "value": "fair" },
+          { "id": 2, "value": "fun" },
+          { "id": 3, "value": "quick" },
+          { "id": 4, "value": "boring" },
+          { "id": 5, "value": "hard" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "relationship",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She has a great _______ with her classmates and often helps them with homework.",
+        "answers": [
+          { "id": 1, "value": "relationship" },
+          { "id": 2, "value": "fight" },
+          { "id": 3, "value": "conversation" },
+          { "id": 4, "value": "discussion" },
+          { "id": 5, "value": "competition" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shoulder",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He carried his backpack on his _______ as he walked to school.",
+        "answers": [
+          { "id": 1, "value": "shoulder" },
+          { "id": 2, "value": "head" },
+          { "id": 3, "value": "knee" },
+          { "id": 4, "value": "foot" },
+          { "id": 5, "value": "hand" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "size",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The store didn’t have the right _______ of shoes, so I couldn’t buy them.",
+        "answers": [
+          { "id": 1, "value": "size" },
+          { "id": 2, "value": "price" },
+          { "id": 3, "value": "style" },
+          { "id": 4, "value": "color" },
+          { "id": 5, "value": "shape" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "upstairs",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children were playing _______ while their parents were in the kitchen.",
+        "answers": [
+          { "id": 1, "value": "upstairs" },
+          { "id": 2, "value": "outside" },
+          { "id": 3, "value": "downstairs" },
+          { "id": 4, "value": "nearby" },
+          { "id": 5, "value": "inside" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "welcome",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The host gave a warm _______ to everyone who came to the party.",
+        "answers": [
+          { "id": 1, "value": "welcome" },
+          { "id": 2, "value": "gift" },
+          { "id": 3, "value": "speech" },
+          { "id": 4, "value": "dance" },
+          { "id": 5, "value": "smile" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "serve",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The waiter will _______ our meals in just a few minutes.",
+        "answers": [
+          { "id": 1, "value": "serve" },
+          { "id": 2, "value": "cook" },
+          { "id": 3, "value": "eat" },
+          { "id": 4, "value": "prepare" },
+          { "id": 5, "value": "wash" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "winner",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ of the competition was awarded a trophy.",
+        "answers": [
+          { "id": 1, "value": "winner" },
+          { "id": 2, "value": "loser" },
+          { "id": 3, "value": "spectator" },
+          { "id": 4, "value": "runner" },
+          { "id": 5, "value": "referee" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

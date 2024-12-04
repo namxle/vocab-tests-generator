@@ -1,0 +1,182 @@
+[
+  {
+    "word": "lawyer",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ explained the legal options to their client.",
+        "answers": [
+          { "id": 1, "value": "lawyer" },
+          { "id": 2, "value": "doctor" },
+          { "id": 3, "value": "teacher" },
+          { "id": 4, "value": "judge" },
+          { "id": 5, "value": "engineer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "musician",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ performed a beautiful song at the concert.",
+        "answers": [
+          { "id": 1, "value": "musician" },
+          { "id": 2, "value": "actor" },
+          { "id": 3, "value": "dancer" },
+          { "id": 4, "value": "writer" },
+          { "id": 5, "value": "designer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "developer",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ is creating a new app for smartphones.",
+        "answers": [
+          { "id": 1, "value": "developer" },
+          { "id": 2, "value": "artist" },
+          { "id": 3, "value": "author" },
+          { "id": 4, "value": "farmer" },
+          { "id": 5, "value": "chef" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "manager",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ is responsible for leading the team and planning projects.",
+        "answers": [
+          { "id": 1, "value": "manager" },
+          { "id": 2, "value": "assistant" },
+          { "id": 3, "value": "driver" },
+          { "id": 4, "value": "worker" },
+          { "id": 5, "value": "coach" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "painter",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ created a beautiful landscape using oil paints.",
+        "answers": [
+          { "id": 1, "value": "painter" },
+          { "id": 2, "value": "photographer" },
+          { "id": 3, "value": "writer" },
+          { "id": 4, "value": "designer" },
+          { "id": 5, "value": "actor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "photographer",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ took stunning pictures of the sunset.",
+        "answers": [
+          { "id": 1, "value": "photographer" },
+          { "id": 2, "value": "artist" },
+          { "id": 3, "value": "dancer" },
+          { "id": 4, "value": "author" },
+          { "id": 5, "value": "musician" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "reporter",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ interviewed the mayor about the new policy.",
+        "answers": [
+          { "id": 1, "value": "reporter" },
+          { "id": 2, "value": "editor" },
+          { "id": 3, "value": "journalist" },
+          { "id": 4, "value": "speaker" },
+          { "id": 5, "value": "director" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "president",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ gave a speech about the nation's future plans.",
+        "answers": [
+          { "id": 1, "value": "president" },
+          { "id": 2, "value": "manager" },
+          { "id": 3, "value": "leader" },
+          { "id": 4, "value": "teacher" },
+          { "id": 5, "value": "doctor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "teacher",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ explained the math problem to the students.",
+        "answers": [
+          { "id": 1, "value": "teacher" },
+          { "id": 2, "value": "student" },
+          { "id": 3, "value": "scientist" },
+          { "id": 4, "value": "parent" },
+          { "id": 5, "value": "writer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pilot",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ flew the plane safely to its destination.",
+        "answers": [
+          { "id": 1, "value": "pilot" },
+          { "id": 2, "value": "driver" },
+          { "id": 3, "value": "engineer" },
+          { "id": 4, "value": "mechanic" },
+          { "id": 5, "value": "captain" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

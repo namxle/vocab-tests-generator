@@ -73,6 +73,14 @@ function shuffle(array) {
   return shuffledArray; // Return the shuffled array
 }
 
+function getSpaceIdent(total) {
+  let ident = '';
+  for (let i = 0; i < total; i++) {
+    ident += ' ';
+  }
+  return ident;
+}
+
 function makeAnswers(answers, correctAnswers) {
   let output = '';
   answers.forEach((answer, answerIndex) => {
@@ -116,17 +124,23 @@ function generateCombinedTestFormat(meaning, logic, reading) {
 
   // Process logic result
   logic.testData.forEach((datum, index) => {
-    const testIndex = index + 1;
-    output += `Text: Sentence ${testIndex}: ${datum.sentence}\n`;
-    output += '\n';
+    // const testIndex = index + 1;
+    // output += `Text: Sentence ${testIndex}: ${datum.sentence}\n`;
+    // output += '\n';
     // console.log(JSON.stringify(datum.questions));
     datum.questions.forEach((question) => {
       questionNumber += 1;
-      output += `${questionNumber}. From Sentence ${testIndex}. ${question.question_name}\n`;
+      const questionNumberText = `${questionNumber}.`;
+      const ident = getSpaceIdent(questionNumberText.length + 1);
+      output += `${questionNumberText} Sentence:\n`;
+      output += '\n';
+      output += `${ident}${datum.sentence}\n`;
+      output += '\n';
+      output += `${ident}Question: ${question.question_name}\n`;
+      output += '\n';
       if (question.sequence) {
-        output += '\n';
         question.sequence.forEach((sentence, sindex) => {
-          output += `\t${sindex + 1}. ${sentence}\n`;
+          output += `${ident}${sindex + 1}. ${sentence}\n`;
         });
         output += '\n';
       }
@@ -147,13 +161,20 @@ function generateCombinedTestFormat(meaning, logic, reading) {
 
   // Process reading result
   reading.testData.forEach((datum, index) => {
-    const passageIndex = index + 1;
-    output += `Text: Passage ${passageIndex}: ${datum.passage}\n`;
-    output += '\n';
+    // const passageIndex = index + 1;
+    // output += `Text: Passage ${passageIndex}: ${datum.passage}\n`;
+    // output += '\n';
 
     datum.questions.forEach((question) => {
       questionNumber += 1;
-      output += `${questionNumber}. In Passage ${passageIndex}. ${question.question_name}\n`;
+      const questionNumberText = `${questionNumber}.`;
+      const ident = getSpaceIdent(questionNumberText.length + 1);
+      output += `${questionNumberText} Passage:\n`;
+      output += '\n';
+      output += `${ident}${datum.passage}\n`;
+      output += '\n';
+      output += `${ident}Question: ${question.question_name}\n`;
+      output += '\n';
 
       // question.answers.forEach((answer, answerIndex) => {
       //   const option = String.fromCharCode(97 + answerIndex); // 'a', 'b', 'c', etc.

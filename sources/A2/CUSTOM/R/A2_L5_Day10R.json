@@ -1,0 +1,113 @@
+{
+  "topic": "Learning Languages",
+  "provided_words": [
+    "perform",
+    "consider",
+    "dialect",
+    "language",
+    "print",
+    "accent",
+    "english",
+    "photograph",
+    "suddenly",
+    "speak"
+  ],
+  "passage": "Learning a new language can be both fun and challenging. When you start, you should consider what you want to achieve. Do you want to perform well in a test, speak with others, or understand a new culture? For example, English is spoken in many countries, but each region has its own dialect and accent. A dialect includes special words and grammar, while an accent is how the words sound when spoken. In class, our teacher showed us a photograph of people talking in different countries and explained how they use English in unique ways. She also gave us a printed list of common phrases used in daily life. Suddenly, a student asked, 'What if I can’t speak perfectly?' The teacher smiled and said, 'It’s okay. Just try, and you will improve step by step.' Learning a language is not only about grammar but also about enjoying the process.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Learning a new language can be enjoyable and rewarding."
+        },
+        {
+          "id": 2,
+          "value": "Only perfect pronunciation matters in learning a language."
+        },
+        { "id": 3, "value": "The teacher only focuses on teaching grammar." },
+        {
+          "id": 4,
+          "value": "Photographs are the best tool for language learning."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The main idea is that learning a new language is enjoyable and involves more than just grammar or perfection.",
+        "vietnamese": "Ý chính là việc học một ngôn ngữ mới rất thú vị và bao gồm nhiều yếu tố hơn chỉ là ngữ pháp hoặc sự hoàn hảo."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What is the meaning of 'dialect' as used in the passage?",
+      "answers": [
+        { "id": 1, "value": "The sound of words when spoken." },
+        { "id": 2, "value": "Special words and grammar used in a region." },
+        { "id": 3, "value": "Rules of grammar for a language." },
+        { "id": 4, "value": "A type of photograph." }
+      ],
+      "correct_answers": [2],
+      "explanation": {
+        "english": "In the passage, 'dialect' refers to the special words and grammar used in a particular region.",
+        "vietnamese": "Trong đoạn văn, 'dialect' đề cập đến các từ và ngữ pháp đặc biệt được sử dụng ở một khu vực cụ thể."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What did the teacher give to the students?",
+      "answers": [
+        { "id": 1, "value": "A printed list of common phrases." },
+        { "id": 2, "value": "A map of English-speaking countries." },
+        { "id": 3, "value": "A book about grammar rules." },
+        { "id": 4, "value": "A test on pronunciation." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that the teacher gave the students a printed list of common phrases.",
+        "vietnamese": "Đoạn văn đề cập rằng giáo viên đã đưa cho học sinh một danh sách các cụm từ thông dụng được in sẵn."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why did the teacher smile when the student asked about speaking perfectly?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Because she wanted to encourage the student to try."
+        },
+        { "id": 2, "value": "Because the question was funny." },
+        { "id": 3, "value": "Because she didn’t understand the question." },
+        { "id": 4, "value": "Because the student already spoke perfectly." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The teacher smiled to encourage the student, emphasizing that it’s okay not to speak perfectly at first.",
+        "vietnamese": "Giáo viên mỉm cười để khuyến khích học sinh, nhấn mạnh rằng không sao cả nếu ban đầu nói chưa hoàn hảo."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word/Phrase",
+      "question_name": "What is the role of the word 'photograph' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It was used to show people using English in different countries."
+        },
+        { "id": 2, "value": "It explained the rules of English grammar." },
+        { "id": 3, "value": "It was a picture of the teacher’s family." },
+        { "id": 4, "value": "It helped students learn pronunciation." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'photograph' refers to the picture shown by the teacher to illustrate how English is used in various countries.",
+        "vietnamese": "Từ 'photograph' ám chỉ bức ảnh mà giáo viên cho xem để minh họa cách tiếng Anh được sử dụng ở các quốc gia khác nhau."
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "topic": "The Role of Posters and Reports in Communication",
+  "provided_words": [
+    "poster",
+    "replace",
+    "quality",
+    "request",
+    "low",
+    "report",
+    "van",
+    "sheet",
+    "disaster",
+    "cause"
+  ],
+  "passage": "Posters are an effective way to share information because they can communicate quickly and clearly, especially in emergencies. For example, during a natural disaster, posters are used to inform people about evacuation routes and safety measures so that lives can be saved. However, if a poster has low-quality printing or unclear text, it might fail to deliver its message effectively, which could cause confusion or even panic. In such cases, organizations may request new designs to replace the old ones, ensuring that the information is easy to understand. Reports, on the other hand, provide more detailed information about a situation. After a disaster, teams often write reports to explain what caused the event and how to prevent similar situations in the future. These reports might include a sheet with data about the damage, such as the number of homes affected or the resources needed for recovery. Vans are often used to deliver both posters and reports to areas where communication is urgently needed so that people can receive the information in time. Although posters are useful for spreading basic information, reports offer a deeper understanding, which is essential for making long-term plans and avoiding future problems.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Posters and reports are important tools for communication, especially during emergencies."
+        },
+        {
+          "id": 2,
+          "value": "Low-quality posters can cause confusion during disasters."
+        },
+        {
+          "id": 3,
+          "value": "Reports focus on understanding the cause of disasters."
+        },
+        {
+          "id": 4,
+          "value": "Vans are necessary for delivering important documents."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage highlights how posters and reports play a critical role in communicating important information during emergencies.",
+        "vietnamese": "Đoạn văn nhấn mạnh cách áp phích và báo cáo đóng vai trò quan trọng trong việc truyền đạt thông tin quan trọng trong các trường hợp khẩn cấp."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'replace' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "Change with something new" },
+        { "id": 2, "value": "Keep the same" },
+        { "id": 3, "value": "Deliver quickly" },
+        { "id": 4, "value": "Improve quality" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'replace' means to change an old poster with a new one when the original is not effective.",
+        "vietnamese": "Trong đoạn văn, 'replace' có nghĩa là thay thế một áp phích cũ bằng một cái mới khi cái ban đầu không hiệu quả."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "What might a report include after a disaster?",
+      "answers": [
+        { "id": 1, "value": "A sheet with data about damage" },
+        { "id": 2, "value": "Low-quality posters" },
+        { "id": 3, "value": "Evacuation routes" },
+        { "id": 4, "value": "A request for new vans" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that reports after a disaster often include data sheets about damage or recovery needs.",
+        "vietnamese": "Đoạn văn nêu rằng các báo cáo sau thảm họa thường bao gồm bảng dữ liệu về thiệt hại hoặc nhu cầu phục hồi."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "Why are vans useful during emergencies?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "They deliver posters and reports to areas in need."
+        },
+        { "id": 2, "value": "They replace low-quality posters." },
+        { "id": 3, "value": "They report the causes of disasters." },
+        { "id": 4, "value": "They act as evacuation vehicles." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage suggests that vans are useful because they deliver posters and reports quickly to areas where communication is critical.",
+        "vietnamese": "Đoạn văn cho rằng xe tải hữu ích vì chúng vận chuyển áp phích và báo cáo nhanh chóng đến các khu vực cần thiết."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'cause' in the passage?",
+      "answers": [
+        { "id": 1, "value": "It explains what leads to a disaster." },
+        { "id": 2, "value": "It describes how posters are designed." },
+        { "id": 3, "value": "It refers to low-quality printing." },
+        { "id": 4, "value": "It shows the use of vans in emergencies." }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'cause' refers to the reason behind a disaster, which is often analyzed in reports.",
+        "vietnamese": "Trong đoạn văn, 'cause' đề cập đến nguyên nhân dẫn đến thảm họa, thường được phân tích trong các báo cáo."
+      }
+    }
+  ]
+}

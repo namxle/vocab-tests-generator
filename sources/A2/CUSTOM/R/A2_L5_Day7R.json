@@ -1,0 +1,125 @@
+{
+  "topic": "The Growth of Tourism Around the World",
+  "provided_words": [
+    "corner",
+    "vehicle",
+    "alone",
+    "abroad",
+    "traveler",
+    "towel",
+    "reply",
+    "destination",
+    "tourism",
+    "hotel"
+  ],
+  "passage": "Tourism has become one of the fastest-growing industries in the world, with travelers visiting every corner of the globe to explore new destinations and cultures. Many people choose to travel abroad to experience life in a different country, while others prefer to visit nearby places that are easy to reach by vehicle. For example, a traveler might drive to a beachside hotel where they can relax with a fresh towel after swimming. In more remote destinations, travelers often find themselves exploring alone, enjoying the peace and quiet of less crowded areas. Tourism has also boosted local economies, as hotels, restaurants, and shops rely on visitors to keep their businesses running. When planning a trip, many tourists reply to online reviews to choose the best destinations and services. In addition, governments around the world promote tourism by improving transport systems and creating safer conditions for visitors. Whether traveling for relaxation or adventure, tourism connects people with new experiences and helps them appreciate the beauty of different places and cultures.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "Main Idea",
+      "question_name": "What is the main idea of the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "Tourism helps people explore the world and supports local economies."
+        },
+        {
+          "id": 2,
+          "value": "Travelers prefer to visit remote destinations alone."
+        },
+        {
+          "id": 3,
+          "value": "Hotels and restaurants are the most important part of tourism."
+        },
+        {
+          "id": 4,
+          "value": "Vehicles are the best way to travel to destinations abroad."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage explains how tourism allows people to explore new places while supporting local businesses and economies.",
+        "vietnamese": "Đoạn văn giải thích cách du lịch giúp mọi người khám phá những địa điểm mới trong khi hỗ trợ các doanh nghiệp và nền kinh tế địa phương."
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vocabulary",
+      "question_name": "What does 'corner' mean in the passage?",
+      "answers": [
+        { "id": 1, "value": "A part of the world or a specific place" },
+        { "id": 2, "value": "The edge of a room or building" },
+        { "id": 3, "value": "A destination that tourists avoid" },
+        { "id": 4, "value": "A tool used for navigation" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "In the passage, 'corner' refers to a part of the world or a specific place where travelers visit.",
+        "vietnamese": "Trong đoạn văn, 'corner' đề cập đến một phần của thế giới hoặc một địa điểm cụ thể mà du khách ghé thăm."
+      }
+    },
+    {
+      "id": 3,
+      "type": "Details",
+      "question_name": "Why do many tourists reply to online reviews when planning trips?",
+      "answers": [
+        { "id": 1, "value": "To choose the best destinations and services" },
+        { "id": 2, "value": "To book vehicles for their travels" },
+        { "id": 3, "value": "To learn about local hotels and restaurants" },
+        { "id": 4, "value": "To find travelers to explore with" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage mentions that tourists reply to online reviews to decide on the best destinations and services for their trips.",
+        "vietnamese": "Đoạn văn đề cập rằng du khách trả lời các đánh giá trực tuyến để quyết định các địa điểm và dịch vụ tốt nhất cho chuyến đi của họ."
+      }
+    },
+    {
+      "id": 4,
+      "type": "Inference",
+      "question_name": "How does tourism benefit local businesses?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "By bringing customers to hotels, restaurants, and shops"
+        },
+        { "id": 2, "value": "By creating quieter and more peaceful areas" },
+        { "id": 3, "value": "By encouraging people to travel abroad" },
+        { "id": 4, "value": "By reducing the need for transport systems" }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The passage states that tourism supports local businesses, such as hotels and restaurants, by attracting visitors.",
+        "vietnamese": "Đoạn văn nêu rằng du lịch hỗ trợ các doanh nghiệp địa phương, chẳng hạn như khách sạn và nhà hàng, bằng cách thu hút du khách."
+      }
+    },
+    {
+      "id": 5,
+      "type": "Role of Word",
+      "question_name": "What is the role of the word 'towel' in the passage?",
+      "answers": [
+        {
+          "id": 1,
+          "value": "It highlights the comfort and services available at hotels."
+        },
+        {
+          "id": 2,
+          "value": "It describes the tools travelers use while abroad."
+        },
+        {
+          "id": 3,
+          "value": "It explains how travelers prepare for their journeys."
+        },
+        {
+          "id": 4,
+          "value": "It refers to safety measures for tourists in new destinations."
+        }
+      ],
+      "correct_answers": [1],
+      "explanation": {
+        "english": "The word 'towel' in the passage symbolizes the comfort and services that hotels provide to travelers during their stay.",
+        "vietnamese": "Từ 'towel' trong đoạn văn tượng trưng cho sự thoải mái và các dịch vụ mà khách sạn cung cấp cho du khách trong thời gian lưu trú."
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "astronaut",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ trained for many years before traveling to space.",
+        "answers": [
+          { "id": 1, "value": "astronaut" },
+          { "id": 2, "value": "teacher" },
+          { "id": 3, "value": "artist" },
+          { "id": 4, "value": "chef" },
+          { "id": 5, "value": "driver" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "state",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The president gave a speech to discuss the _______ of the country.",
+        "answers": [
+          { "id": 1, "value": "state" },
+          { "id": 2, "value": "room" },
+          { "id": 3, "value": "event" },
+          { "id": 4, "value": "game" },
+          { "id": 5, "value": "team" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "galaxy",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The Milky Way is the name of a famous _______.",
+        "answers": [
+          { "id": 1, "value": "galaxy" },
+          { "id": 2, "value": "planet" },
+          { "id": 3, "value": "ocean" },
+          { "id": 4, "value": "mountain" },
+          { "id": 5, "value": "city" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "everyday",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Brushing your teeth is an _______ habit.",
+        "answers": [
+          { "id": 1, "value": "everyday" },
+          { "id": 2, "value": "rare" },
+          { "id": 3, "value": "special" },
+          { "id": 4, "value": "holiday" },
+          { "id": 5, "value": "weekend" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "compete",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The athletes will _______ for a gold medal in the tournament.",
+        "answers": [
+          { "id": 1, "value": "compete" },
+          { "id": 2, "value": "cook" },
+          { "id": 3, "value": "read" },
+          { "id": 4, "value": "draw" },
+          { "id": 5, "value": "speak" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "competition",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The school is hosting a science _______ next month.",
+        "answers": [
+          { "id": 1, "value": "competition" },
+          { "id": 2, "value": "party" },
+          { "id": 3, "value": "lecture" },
+          { "id": 4, "value": "parade" },
+          { "id": 5, "value": "festival" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "charity",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They donated clothes and toys to a local _______.",
+        "answers": [
+          { "id": 1, "value": "charity" },
+          { "id": 2, "value": "bank" },
+          { "id": 3, "value": "library" },
+          { "id": 4, "value": "market" },
+          { "id": 5, "value": "store" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "condition",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The car is in excellent _______ after the repairs.",
+        "answers": [
+          { "id": 1, "value": "condition" },
+          { "id": 2, "value": "location" },
+          { "id": 3, "value": "model" },
+          { "id": 4, "value": "price" },
+          { "id": 5, "value": "color" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "greet",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please stand by the door and _______ the guests as they arrive.",
+        "answers": [
+          { "id": 1, "value": "greet" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "argue" },
+          { "id": 4, "value": "question" },
+          { "id": 5, "value": "follow" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "officer",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The police _______ helped the tourists find their way to the museum.",
+        "answers": [
+          { "id": 1, "value": "officer" },
+          { "id": 2, "value": "doctor" },
+          { "id": 3, "value": "teacher" },
+          { "id": 4, "value": "engineer" },
+          { "id": 5, "value": "pilot" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

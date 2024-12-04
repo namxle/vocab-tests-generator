@@ -1,16 +1,33 @@
 {
   "topic": "Modern Communication",
-  "provided_words": ["app", "online", "message", "email", "appearance", "along", "alternative", "chemistry", "billion", "average"],
-  "passage": "In today’s world, many people use apps to communicate. Apps like messaging platforms and email services have become essential for staying in touch. Along with traditional methods, these apps offer fast and convenient ways to send a message. For example, you can send an email or a text to someone far away in seconds. \n\nOn average, billions of messages are sent online every day. These apps not only make communication easy but also allow people to customize the appearance of their profiles. This feature is popular among users who want to express themselves. \n\nSometimes, apps are seen as an alternative to face-to-face conversations. This can be helpful when people live in different cities or countries. However, chemistry between people might be harder to feel through a screen. Despite this, online communication has improved relationships for many individuals. As technology grows, we can expect more tools to connect us in new and exciting ways.",
+  "provided_words": [
+    "app",
+    "online",
+    "message",
+    "email",
+    "appearance",
+    "along",
+    "alternative",
+    "chemistry",
+    "billion",
+    "average"
+  ],
+  "passage": "In today’s world, many people use apps to communicate. Apps like messaging platforms and email services have become essential for staying in touch. Along with traditional methods, these apps offer fast and convenient ways to send a message. For example, you can send an email or a text to someone far away in seconds. On average, billions of messages are sent online every day. These apps not only make communication easy but also allow people to customize the appearance of their profiles. This feature is popular among users who want to express themselves. Sometimes, apps are seen as an alternative to face-to-face conversations. This can be helpful when people live in different cities or countries. However, chemistry between people might be harder to feel through a screen. Despite this, online communication has improved relationships for many individuals. As technology grows, we can expect more tools to connect us in new and exciting ways.",
   "questions": [
     {
       "id": 1,
       "type": "Main Idea",
       "question_name": "What is the main idea of the passage?",
       "answers": [
-        { "id": 1, "value": "Apps have changed how people communicate by making it easier and faster." },
+        {
+          "id": 1,
+          "value": "Apps have changed how people communicate by making it easier and faster."
+        },
         { "id": 2, "value": "Face-to-face communication is no longer needed." },
-        { "id": 3, "value": "Chemistry between people is only possible online." },
+        {
+          "id": 3,
+          "value": "Chemistry between people is only possible online."
+        },
         { "id": 4, "value": "Technology makes communication more difficult." }
       ],
       "correct_answers": [1],
@@ -56,7 +73,10 @@
       "type": "Inference",
       "question_name": "Why might online communication not replace face-to-face communication entirely?",
       "answers": [
-        { "id": 1, "value": "Because chemistry between people is harder to feel through a screen." },
+        {
+          "id": 1,
+          "value": "Because chemistry between people is harder to feel through a screen."
+        },
         { "id": 2, "value": "Because apps are slow and difficult to use." },
         { "id": 3, "value": "Because traditional methods are more popular." },
         { "id": 4, "value": "Because online communication is too expensive." }
@@ -72,7 +92,10 @@
       "type": "Role of Word/Phrase",
       "question_name": "What is the role of the word 'appearance' in the passage?",
       "answers": [
-        { "id": 1, "value": "It highlights how users can personalize their profiles on apps." },
+        {
+          "id": 1,
+          "value": "It highlights how users can personalize their profiles on apps."
+        },
         { "id": 2, "value": "It explains how apps work." },
         { "id": 3, "value": "It describes the speed of communication." },
         { "id": 4, "value": "It refers to face-to-face communication." }

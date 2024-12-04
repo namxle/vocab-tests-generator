@@ -7,8 +7,8 @@ const helperScript = require('./helper');
 // Constants
 const CWD = process.cwd();
 
-const LEVEL = 'B1';
-const SUB_LEVEL = 'CUSTOM';
+const LEVEL = 'A2';
+const SUB_LEVEL = 'L3';
 const GROUP = 'R';
 const DAY = 'Day';
 
