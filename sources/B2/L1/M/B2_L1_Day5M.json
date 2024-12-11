@@ -1,0 +1,182 @@
+[
+  {
+    "word": "alley",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He walked down the narrow _______ to reach the main street.",
+        "answers": [
+          { "id": 1, "value": "alley" },
+          { "id": 2, "value": "road" },
+          { "id": 3, "value": "highway" },
+          { "id": 4, "value": "path" },
+          { "id": 5, "value": "lane" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ax",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The lumberjack used an _______ to chop down the tree.",
+        "answers": [
+          { "id": 1, "value": "ax" },
+          { "id": 2, "value": "hammer" },
+          { "id": 3, "value": "knife" },
+          { "id": 4, "value": "scissors" },
+          { "id": 5, "value": "spade" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bunch",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She bought a _______ of flowers to decorate the table.",
+        "answers": [
+          { "id": 1, "value": "bunch" },
+          { "id": 2, "value": "group" },
+          { "id": 3, "value": "pile" },
+          { "id": 4, "value": "set" },
+          { "id": 5, "value": "stack" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chore",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Washing the dishes is a daily _______ that everyone in the house shares.",
+        "answers": [
+          { "id": 1, "value": "chore" },
+          { "id": 2, "value": "task" },
+          { "id": 3, "value": "habit" },
+          { "id": 4, "value": "rule" },
+          { "id": 5, "value": "game" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "decent",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He has a _______ job that allows him to provide for his family.",
+        "answers": [
+          { "id": 1, "value": "decent" },
+          { "id": 2, "value": "poor" },
+          { "id": 3, "value": "temporary" },
+          { "id": 4, "value": "fake" },
+          { "id": 5, "value": "lazy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "disgrace",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "His criminal actions brought _______ to the entire family.",
+        "answers": [
+          { "id": 1, "value": "disgrace" },
+          { "id": 2, "value": "honor" },
+          { "id": 3, "value": "joy" },
+          { "id": 4, "value": "praise" },
+          { "id": 5, "value": "pride" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "grateful",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She was very _______ for the help she received from her friends.",
+        "answers": [
+          { "id": 1, "value": "grateful" },
+          { "id": 2, "value": "rude" },
+          { "id": 3, "value": "annoyed" },
+          { "id": 4, "value": "careless" },
+          { "id": 5, "value": "upset" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "elbow",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She accidentally hit her _______ on the table, and it hurt a lot.",
+        "answers": [
+          { "id": 1, "value": "elbow" },
+          { "id": 2, "value": "hair" },
+          { "id": 3, "value": "eyebrow" },
+          { "id": 4, "value": "tongue" },
+          { "id": 5, "value": "skin" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "irritate",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Loud noises can _______ people trying to focus on their work.",
+        "answers": [
+          { "id": 1, "value": "irritate" },
+          { "id": 2, "value": "calm" },
+          { "id": 3, "value": "help" },
+          { "id": 4, "value": "cheer" },
+          { "id": 5, "value": "soothe" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "kid",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ was excited to play with his new toy.",
+        "answers": [
+          { "id": 1, "value": "kid" },
+          { "id": 2, "value": "girl" },
+          { "id": 3, "value": "teacher" },
+          { "id": 4, "value": "princess" },
+          { "id": 5, "value": "parent" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "word": "advantage",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team's experience gave them a significant _______ over their opponents.",
+        "answers": [
+          { "id": 1, "value": "advantage" },
+          { "id": 2, "value": "disadvantage" },
+          { "id": 3, "value": "weakness" },
+          { "id": 4, "value": "obstacle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cause",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The heavy rain was the main _______ of the flooding in the city.",
+        "answers": [
+          { "id": 1, "value": "cause" },
+          { "id": 2, "value": "effect" },
+          { "id": 3, "value": "result" },
+          { "id": 4, "value": "solution" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "choice",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You have the _______ to choose between two exciting career opportunities.",
+        "answers": [
+          { "id": 1, "value": "choice" },
+          { "id": 2, "value": "decision" },
+          { "id": 3, "value": "option" },
+          { "id": 4, "value": "path" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "community",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The local _______ gathered to discuss the upcoming neighborhood event.",
+        "answers": [
+          { "id": 1, "value": "community" },
+          { "id": 2, "value": "family" },
+          { "id": 3, "value": "group" },
+          { "id": 4, "value": "team" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dead",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The battery in my phone is _______; I need to charge it.",
+        "answers": [
+          { "id": 1, "value": "dead" },
+          { "id": 2, "value": "full" },
+          { "id": 3, "value": "low" },
+          { "id": 4, "value": "alive" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "distance",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ between the two cities is approximately 500 kilometers.",
+        "answers": [
+          { "id": 1, "value": "distance" },
+          { "id": 2, "value": "duration" },
+          { "id": 3, "value": "time" },
+          { "id": 4, "value": "altitude" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "escape",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The prisoners planned their _______ during the dark hours of the night.",
+        "answers": [
+          { "id": 1, "value": "escape" },
+          { "id": 2, "value": "adventure" },
+          { "id": 3, "value": "rescue" },
+          { "id": 4, "value": "attack" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "face",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He had to _______ the difficult truth and admit his mistake.",
+        "answers": [
+          { "id": 1, "value": "face" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "avoid" },
+          { "id": 4, "value": "fear" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "follow",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You should _______ the instructions carefully to complete the task correctly.",
+        "answers": [
+          { "id": 1, "value": "follow" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "repeat" },
+          { "id": 4, "value": "lead" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fright",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The loud noise gave me a sudden _______ and I jumped in surprise.",
+        "answers": [
+          { "id": 1, "value": "fright" },
+          { "id": 2, "value": "joy" },
+          { "id": 3, "value": "laugh" },
+          { "id": 4, "value": "hope" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

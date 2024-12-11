@@ -7,9 +7,9 @@ const helperScript = require('./helper');
 // Constants
 const CWD = process.cwd();
 
-const LEVEL = 'A2';
-const SUB_LEVEL = 'L3';
-const GROUP = 'R';
+const LEVEL = 'B2';
+const SUB_LEVEL = 'L1';
+const GROUP = 'M';
 const DAY = 'Day';
 
 // Total expected questions per GROUP

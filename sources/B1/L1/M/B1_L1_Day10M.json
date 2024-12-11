@@ -1,0 +1,172 @@
+[
+  {
+    "word": "normal",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It's _______ for people to feel nervous before a big presentation.",
+        "answers": [
+          { "id": 1, "value": "normal" },
+          { "id": 2, "value": "unusual" },
+          { "id": 3, "value": "strange" },
+          { "id": 4, "value": "rare" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rare",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "A diamond of this size is extremely _______.",
+        "answers": [
+          { "id": 1, "value": "rare" },
+          { "id": 2, "value": "common" },
+          { "id": 3, "value": "normal" },
+          { "id": 4, "value": "visible" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "relax",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After a long week at work, I like to _______ with a good book.",
+        "answers": [
+          { "id": 1, "value": "relax" },
+          { "id": 2, "value": "work" },
+          { "id": 3, "value": "exercise" },
+          { "id": 4, "value": "study" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "request",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He made a formal _______ to meet with the CEO about the new project.",
+        "answers": [
+          { "id": 1, "value": "request" },
+          { "id": 2, "value": "statement" },
+          { "id": 3, "value": "suggestion" },
+          { "id": 4, "value": "announcement" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "reside",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They _______ in a small village near the mountains.",
+        "answers": [
+          { "id": 1, "value": "reside" },
+          { "id": 2, "value": "travel" },
+          { "id": 3, "value": "move" },
+          { "id": 4, "value": "stay" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "result",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ of the experiment were quite surprising and led to further research.",
+        "answers": [
+          { "id": 1, "value": "result" },
+          { "id": 2, "value": "failure" },
+          { "id": 3, "value": "method" },
+          { "id": 4, "value": "test" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "roll",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She had to _______ the dough before baking the bread.",
+        "answers": [
+          { "id": 1, "value": "roll" },
+          { "id": 2, "value": "fry" },
+          { "id": 3, "value": "cut" },
+          { "id": 4, "value": "bake" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "since",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They have been working on the project _______ last year.",
+        "answers": [
+          { "id": 1, "value": "since" },
+          { "id": 2, "value": "for" },
+          { "id": 3, "value": "during" },
+          { "id": 4, "value": "until" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "visible",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The moon was clearly _______ in the night sky.",
+        "answers": [
+          { "id": 1, "value": "visible" },
+          { "id": 2, "value": "invisible" },
+          { "id": 3, "value": "hidden" },
+          { "id": 4, "value": "distant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wild",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He loves going on _______ adventures in the jungle.",
+        "answers": [
+          { "id": 1, "value": "wild" },
+          { "id": 2, "value": "calm" },
+          { "id": 3, "value": "safe" },
+          { "id": 4, "value": "peaceful" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

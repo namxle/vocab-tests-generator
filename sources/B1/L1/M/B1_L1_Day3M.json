@@ -1,0 +1,172 @@
+[
+  {
+    "word": "adventure",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The group set off on an exciting _______ through the mountains.",
+        "answers": [
+          { "id": 1, "value": "adventure" },
+          { "id": 2, "value": "routine" },
+          { "id": 3, "value": "night" },
+          { "id": 4, "value": "party" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "approach",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We need to _______ the problem from a different perspective to find a solution.",
+        "answers": [
+          { "id": 1, "value": "approach" },
+          { "id": 2, "value": "avoid" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "dismiss" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "carefully",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She placed the glass vase _______ on the table to avoid breaking it.",
+        "answers": [
+          { "id": 1, "value": "carefully" },
+          { "id": 2, "value": "recklessly" },
+          { "id": 3, "value": "quickly" },
+          { "id": 4, "value": "roughly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chemical",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The scientist mixed the _______ in the beaker to observe the reaction.",
+        "answers": [
+          { "id": 1, "value": "chemical" },
+          { "id": 2, "value": "ingredient" },
+          { "id": 3, "value": "solution" },
+          { "id": 4, "value": "powder" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "create",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Artists often use their imagination to _______ beautiful and unique pieces of art.",
+        "answers": [
+          { "id": 1, "value": "create" },
+          { "id": 2, "value": "destroy" },
+          { "id": 3, "value": "copy" },
+          { "id": 4, "value": "break" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "evil",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The story’s villain was known for his _______ plans to harm others.",
+        "answers": [
+          { "id": 1, "value": "evil" },
+          { "id": 2, "value": "kind" },
+          { "id": 3, "value": "noble" },
+          { "id": 4, "value": "gentle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "experiment",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The students conducted an _______ in the lab to test the effects of heat on water.",
+        "answers": [
+          { "id": 1, "value": "experiment" },
+          { "id": 2, "value": "observation" },
+          { "id": 3, "value": "practice" },
+          { "id": 4, "value": "discussion" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "kill",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hunters promised not to _______ any animals during their expedition.",
+        "answers": [
+          { "id": 1, "value": "kill" },
+          { "id": 2, "value": "feed" },
+          { "id": 3, "value": "protect" },
+          { "id": 4, "value": "study" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "laboratory",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The researchers spent hours in the _______ analyzing the virus.",
+        "answers": [
+          { "id": 1, "value": "laboratory" },
+          { "id": 2, "value": "office" },
+          { "id": 3, "value": "library" },
+          { "id": 4, "value": "classroom" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "laugh",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The joke was so funny that everyone couldn’t help but _______ out loud.",
+        "answers": [
+          { "id": 1, "value": "laugh" },
+          { "id": 2, "value": "cry" },
+          { "id": 3, "value": "scream" },
+          { "id": 4, "value": "whisper" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "word": "instead",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She decided to walk to work _______ of taking the bus to enjoy the fresh air.",
+        "answers": [
+          { "id": 1, "value": "instead" },
+          { "id": 2, "value": "because" },
+          { "id": 3, "value": "during" },
+          { "id": 4, "value": "after" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "library",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She went to the _______ to borrow a book for her research paper.",
+        "answers": [
+          { "id": 1, "value": "library" },
+          { "id": 2, "value": "bookstore" },
+          { "id": 3, "value": "cafeteria" },
+          { "id": 4, "value": "classroom" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "planet",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Earth is the third _______ from the Sun in our solar system.",
+        "answers": [
+          { "id": 1, "value": "planet" },
+          { "id": 2, "value": "star" },
+          { "id": 3, "value": "moon" },
+          { "id": 4, "value": "asteroid" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "report",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The student handed in a detailed _______ about the project.",
+        "answers": [
+          { "id": 1, "value": "report" },
+          { "id": 2, "value": "story" },
+          { "id": 3, "value": "note" },
+          { "id": 4, "value": "letter" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "several",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She invited _______ friends to her birthday party, but not everyone could come.",
+        "answers": [
+          { "id": 1, "value": "several" },
+          { "id": 2, "value": "all" },
+          { "id": 3, "value": "much" },
+          { "id": 4, "value": "any" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "solve",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She worked hard to _______ the difficult math problem before the exam ended.",
+        "answers": [
+          { "id": 1, "value": "solve" },
+          { "id": 2, "value": "create" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "guess" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "suddenly",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The lights went out _______ during the thunderstorm, leaving the house in darkness.",
+        "answers": [
+          { "id": 1, "value": "suddenly" },
+          { "id": 2, "value": "slowly" },
+          { "id": 3, "value": "eventually" },
+          { "id": 4, "value": "gradually" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "suppose",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I _______ we can try the new restaurant if you’re in the mood for something different.",
+        "answers": [
+          { "id": 1, "value": "suppose" },
+          { "id": 2, "value": "deny" },
+          { "id": 3, "value": "forget" },
+          { "id": 4, "value": "disagree" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "universe",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Astronomers are constantly discovering new mysteries about the _______.",
+        "answers": [
+          { "id": 1, "value": "universe" },
+          { "id": 2, "value": "world" },
+          { "id": 3, "value": "moon" },
+          { "id": 4, "value": "sun" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "view",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The balcony offers a breathtaking _______ of the mountains and the valley below.",
+        "answers": [
+          { "id": 1, "value": "view" },
+          { "id": 2, "value": "look" },
+          { "id": 3, "value": "picture" },
+          { "id": 4, "value": "image" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

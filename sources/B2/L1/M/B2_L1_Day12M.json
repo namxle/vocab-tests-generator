@@ -1,0 +1,182 @@
+[
+  {
+    "word": "execute",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In ancient times, it was common to _______ criminals publicly as a warning.",
+        "answers": [
+          { "id": 1, "value": "execute" },
+          { "id": 2, "value": "pardon" },
+          { "id": 3, "value": "judge" },
+          { "id": 4, "value": "arrest" },
+          { "id": 5, "value": "convict" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "grasp",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He managed to _______ the rope just in time to prevent falling.",
+        "answers": [
+          { "id": 1, "value": "grasp" },
+          { "id": 2, "value": "release" },
+          { "id": 3, "value": "push" },
+          { "id": 4, "value": "drop" },
+          { "id": 5, "value": "touch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rear",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There is a second bathroom at the _______ of the house.",
+        "answers": [
+          { "id": 1, "value": "rear" },
+          { "id": 2, "value": "front" },
+          { "id": 3, "value": "middle" },
+          { "id": 4, "value": "above" },
+          { "id": 5, "value": "behind" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "senator",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ addressed the issue during the parliamentary session yesterday.",
+        "answers": [
+          { "id": 1, "value": "senator" },
+          { "id": 2, "value": "doctor" },
+          { "id": 3, "value": "judge" },
+          { "id": 4, "value": "police" },
+          { "id": 5, "value": "lawyer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "skull",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The archaeologist found a human _______ buried deep in the ground.",
+        "answers": [
+          { "id": 1, "value": "skull" },
+          { "id": 2, "value": "eye" },
+          { "id": 3, "value": "skin" },
+          { "id": 4, "value": "tooth" },
+          { "id": 5, "value": "shell" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "stir",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Remember to _______ the soup occasionally to prevent it from sticking.",
+        "answers": [
+          { "id": 1, "value": "stir" },
+          { "id": 2, "value": "boil" },
+          { "id": 3, "value": "cool" },
+          { "id": 4, "value": "pour" },
+          { "id": 5, "value": "taste" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "tap",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She gave the microphone a gentle _______ to check if it was on.",
+        "answers": [
+          { "id": 1, "value": "tap" },
+          { "id": 2, "value": "hit" },
+          { "id": 3, "value": "knock" },
+          { "id": 4, "value": "push" },
+          { "id": 5, "value": "shout" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "tremendous",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team’s victory brought them a _______ amount of joy and pride.",
+        "answers": [
+          { "id": 1, "value": "tremendous" },
+          { "id": 2, "value": "small" },
+          { "id": 3, "value": "brief" },
+          { "id": 4, "value": "moderate" },
+          { "id": 5, "value": "ordinary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "underneath",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The cat is hiding _______ the bed to avoid being found.",
+        "answers": [
+          { "id": 1, "value": "underneath" },
+          { "id": 2, "value": "beside" },
+          { "id": 3, "value": "opposite" },
+          { "id": 4, "value": "above" },
+          { "id": 5, "value": "behind" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "worm",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He found a tiny _______ crawling in the garden soil.",
+        "answers": [
+          { "id": 1, "value": "worm" },
+          { "id": 2, "value": "fish" },
+          { "id": 3, "value": "snake" },
+          { "id": 4, "value": "bird" },
+          { "id": 5, "value": "frog" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

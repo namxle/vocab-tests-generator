@@ -1,0 +1,182 @@
+[
+  {
+    "word": "alert",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher remained _______ during the exam to watch for any cheating.",
+        "answers": [
+          { "id": 1, "value": "alert" },
+          { "id": 2, "value": "tired" },
+          { "id": 3, "value": "calm" },
+          { "id": 4, "value": "relaxed" },
+          { "id": 5, "value": "careless" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "broadcast",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The news channel will _______ the election results live tonight.",
+        "answers": [
+          { "id": 1, "value": "broadcast" },
+          { "id": 2, "value": "publish" },
+          { "id": 3, "value": "announce" },
+          { "id": 4, "value": "report" },
+          { "id": 5, "value": "print" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bulletin",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company issued a _______ to inform employees about the new policy.",
+        "answers": [
+          { "id": 1, "value": "bulletin" },
+          { "id": 2, "value": "email" },
+          { "id": 3, "value": "announcement" },
+          { "id": 4, "value": "project" },
+          { "id": 5, "value": "newspaper" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bump",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He didn’t see the low table and accidentally _______ his knee against it.",
+        "answers": [
+          { "id": 1, "value": "bumped" },
+          { "id": 2, "value": "pulled" },
+          { "id": 3, "value": "pushed" },
+          { "id": 4, "value": "tapped" },
+          { "id": 5, "value": "scratched" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chop",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The chef used a sharp knife to _______ the pork ribs into small pieces.",
+        "answers": [
+          { "id": 1, "value": "chop" },
+          { "id": 2, "value": "slice" },
+          { "id": 3, "value": "dice" },
+          { "id": 4, "value": "cut" },
+          { "id": 5, "value": "peel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "closet",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She kept all her winter coats neatly arranged in the _______.",
+        "answers": [
+          { "id": 1, "value": "closet" },
+          { "id": 2, "value": "drawer" },
+          { "id": 3, "value": "kitchen" },
+          { "id": 4, "value": "cupboard" },
+          { "id": 5, "value": "bathroom" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "console",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She tried to _______ her friend after hearing about the bad news.",
+        "answers": [
+          { "id": 1, "value": "console" },
+          { "id": 2, "value": "comfort" },
+          { "id": 3, "value": "smile" },
+          { "id": 4, "value": "discourage" },
+          { "id": 5, "value": "offend" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "district",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This _______ is known for its vibrant markets and cultural festivals.",
+        "answers": [
+          { "id": 1, "value": "district" },
+          { "id": 2, "value": "ocean" },
+          { "id": 3, "value": "planet" },
+          { "id": 4, "value": "forest" },
+          { "id": 5, "value": "desert" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "drawer",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He opened the _______ to look for his missing keys.",
+        "answers": [
+          { "id": 1, "value": "drawer" },
+          { "id": 2, "value": "pocket" },
+          { "id": 3, "value": "lock" },
+          { "id": 4, "value": "mirror" },
+          { "id": 5, "value": "lamp" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "endure",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hikers had to _______ harsh weather conditions during their journey.",
+        "answers": [
+          { "id": 1, "value": "endure" },
+          { "id": 2, "value": "avoid" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "tolerate" },
+          { "id": 5, "value": "escape" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

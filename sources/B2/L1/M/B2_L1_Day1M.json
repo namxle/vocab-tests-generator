@@ -1,0 +1,182 @@
+[
+  {
+    "word": "arise",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Problems can _______ when people fail to communicate effectively.",
+        "answers": [
+          { "id": 1, "value": "arise" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "stop" },
+          { "id": 4, "value": "end" },
+          { "id": 5, "value": "fall" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "benefactor",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hospital was built thanks to a generous _______ who donated a large sum of money.",
+        "answers": [
+          { "id": 1, "value": "benefactor" },
+          { "id": 2, "value": "patient" },
+          { "id": 3, "value": "doctor" },
+          { "id": 4, "value": "visitor" },
+          { "id": 5, "value": "neighbor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "blacksmith",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ used his tools to shape the hot iron into a sword.",
+        "answers": [
+          { "id": 1, "value": "blacksmith" },
+          { "id": 2, "value": "farmer" },
+          { "id": 3, "value": "builder" },
+          { "id": 4, "value": "carpenter" },
+          { "id": 5, "value": "mechanic" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "charitable",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is known for her _______ work, always helping those in need.",
+        "answers": [
+          { "id": 1, "value": "charitable" },
+          { "id": 2, "value": "selfish" },
+          { "id": 3, "value": "careless" },
+          { "id": 4, "value": "greedy" },
+          { "id": 5, "value": "lazy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chimney",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The house has a tall _______ where the smoke escapes from the fireplace.",
+        "answers": [
+          { "id": 1, "value": "chimney" },
+          { "id": 2, "value": "roof" },
+          { "id": 3, "value": "window" },
+          { "id": 4, "value": "fence" },
+          { "id": 5, "value": "door" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "compensate",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company promised to _______ the workers for the delay in their payments.",
+        "answers": [
+          { "id": 1, "value": "compensate" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "reduce" },
+          { "id": 4, "value": "replace" },
+          { "id": 5, "value": "dismiss" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "encounter",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "On their journey, they had an unexpected _______ with a wild animal.",
+        "answers": [
+          { "id": 1, "value": "encounter" },
+          { "id": 2, "value": "problem" },
+          { "id": 3, "value": "discussion" },
+          { "id": 4, "value": "argument" },
+          { "id": 5, "value": "meeting" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "exceed",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The athlete worked hard to _______ his previous record.",
+        "answers": [
+          { "id": 1, "value": "exceed" },
+          { "id": 2, "value": "meet" },
+          { "id": 3, "value": "match" },
+          { "id": 4, "value": "ignore" },
+          { "id": 5, "value": "fail" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "forge",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The blacksmith worked in the _______ to make strong tools.",
+        "answers": [
+          { "id": 1, "value": "forge" },
+          { "id": 2, "value": "chimney" },
+          { "id": 3, "value": "factory" },
+          { "id": 4, "value": "kitchen" },
+          { "id": 5, "value": "shed" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "humble",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Even after winning the award, she remained _______ and thanked her team.",
+        "answers": [
+          { "id": 1, "value": "humble" },
+          { "id": 2, "value": "proud" },
+          { "id": 3, "value": "arrogant" },
+          { "id": 4, "value": "boastful" },
+          { "id": 5, "value": "rude" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

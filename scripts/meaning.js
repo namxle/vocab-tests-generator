@@ -12,7 +12,7 @@ function convertToTestFormat(questions) {
     // Append answers with options (a), (b), etc., marking correct answers with "*"
     question.answers.forEach((answer, answerIndex) => {
       // If the question has more than 1 correct answer
-      let option = question.correct_answers.includes(answer.id) + ')';
+      let option = String.fromCharCode(97 + answerIndex) + ')';
       let isCorrect;
       if (question.correct_answers.length > 1) {
         option = '';

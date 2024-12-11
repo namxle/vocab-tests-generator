@@ -1,0 +1,172 @@
+[
+  {
+    "word": "hunt",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The tiger moved silently through the jungle, ready to _______ its prey.",
+        "answers": [
+          { "id": 1, "value": "hunt" },
+          { "id": 2, "value": "protect" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "follow" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lot",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He has a _______ of experience in managing teams, making him a great leader.",
+        "answers": [
+          { "id": 1, "value": "lot" },
+          { "id": 2, "value": "bit" },
+          { "id": 3, "value": "little" },
+          { "id": 4, "value": "few" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "middle",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The treasure was hidden in the _______ of the dense forest.",
+        "answers": [
+          { "id": 1, "value": "middle" },
+          { "id": 2, "value": "edge" },
+          { "id": 3, "value": "end" },
+          { "id": 4, "value": "beginning" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "moment",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He paused for a _______ before answering the interviewer’s question.",
+        "answers": [
+          { "id": 1, "value": "moment" },
+          { "id": 2, "value": "hour" },
+          { "id": 3, "value": "day" },
+          { "id": 4, "value": "month" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pleased",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She was _______ with the gift her friend gave her for her birthday.",
+        "answers": [
+          { "id": 1, "value": "pleased" },
+          { "id": 2, "value": "upset" },
+          { "id": 3, "value": "angry" },
+          { "id": 4, "value": "confused" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "promise",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He made a _______ to call his parents every weekend.",
+        "answers": [
+          { "id": 1, "value": "promise" },
+          { "id": 2, "value": "request" },
+          { "id": 3, "value": "guess" },
+          { "id": 4, "value": "plan" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "reply",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please _______ to the invitation as soon as possible.",
+        "answers": [
+          { "id": 1, "value": "reply" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "cancel" },
+          { "id": 4, "value": "refuse" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "safe",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children were told to stay _______ during the thunderstorm by remaining indoors.",
+        "answers": [
+          { "id": 1, "value": "safe" },
+          { "id": 2, "value": "outside" },
+          { "id": 3, "value": "risky" },
+          { "id": 4, "value": "dangerous" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "trick",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The magician amazed the audience with an incredible card _______.",
+        "answers": [
+          { "id": 1, "value": "trick" },
+          { "id": 2, "value": "game" },
+          { "id": 3, "value": "joke" },
+          { "id": 4, "value": "puzzle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "well",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After a week of rest, she was feeling much _______ and ready to return to work.",
+        "answers": [
+          { "id": 1, "value": "well" },
+          { "id": 2, "value": "worse" },
+          { "id": 3, "value": "tired" },
+          { "id": 4, "value": "sick" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

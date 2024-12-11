@@ -1,0 +1,182 @@
+[
+  {
+    "word": "neglect",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "If you _______ your study, you can fail the final test.",
+        "answers": [
+          { "id": 1, "value": "neglect" },
+          { "id": 2, "value": "work" },
+          { "id": 3, "value": "protect" },
+          { "id": 4, "value": "listen" },
+          { "id": 5, "value": "care" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "newcomer",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "As a _______ to the school, she was given a tour by a teacher.",
+        "answers": [
+          { "id": 1, "value": "newcomer" },
+          { "id": 2, "value": "king" },
+          { "id": 3, "value": "guide" },
+          { "id": 4, "value": "classmate" },
+          { "id": 5, "value": "monitor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "offense",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He apologized for his words, saying he didn’t mean to cause any _______.",
+        "answers": [
+          { "id": 1, "value": "offense" },
+          { "id": 2, "value": "satisfaction" },
+          { "id": 3, "value": "joy" },
+          { "id": 4, "value": "happiness" },
+          { "id": 5, "value": "surprise" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "overlook",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The balcony was designed to _______ the beautiful valley below.",
+        "answers": [
+          { "id": 1, "value": "overlook" },
+          { "id": 2, "value": "face" },
+          { "id": 3, "value": "block" },
+          { "id": 4, "value": "hide" },
+          { "id": 5, "value": "cover" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "repay",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She promised to _______ the money she borrowed by next week.",
+        "answers": [
+          { "id": 1, "value": "repay" },
+          { "id": 2, "value": "borrow" },
+          { "id": 3, "value": "return" },
+          { "id": 4, "value": "owe" },
+          { "id": 5, "value": "keep" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ridiculous",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The idea of a flying car seemed _______ a hundred years ago.",
+        "answers": [
+          { "id": 1, "value": "ridiculous" },
+          { "id": 2, "value": "serious" },
+          { "id": 3, "value": "reasonable" },
+          { "id": 4, "value": "important" },
+          { "id": 5, "value": "boring" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "satisfactory",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher found the student’s explanation _______ and gave full marks.",
+        "answers": [
+          { "id": 1, "value": "satisfactory" },
+          { "id": 2, "value": "poor" },
+          { "id": 3, "value": "confusing" },
+          { "id": 4, "value": "unclear" },
+          { "id": 5, "value": "incomplete" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shepherd",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ led his flock of sheep to the meadow.",
+        "answers": [
+          { "id": 1, "value": "shepherd" },
+          { "id": 2, "value": "pirate" },
+          { "id": 3, "value": "worker" },
+          { "id": 4, "value": "cowboy" },
+          { "id": 5, "value": "gardener" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "venture",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Starting a new business is always a risky _______.",
+        "answers": [
+          { "id": 1, "value": "venture" },
+          { "id": 2, "value": "job" },
+          { "id": 3, "value": "habit" },
+          { "id": 4, "value": "mistake" },
+          { "id": 5, "value": "correction" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wheat",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The farmer harvested a large amount of _______ to sell at the market.",
+        "answers": [
+          { "id": 1, "value": "wheat" },
+          { "id": 2, "value": "sheep" },
+          { "id": 3, "value": "fields" },
+          { "id": 4, "value": "eggs" },
+          { "id": 5, "value": "milk" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

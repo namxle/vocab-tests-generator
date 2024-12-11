@@ -1,0 +1,172 @@
+[
+  {
+    "word": "issue",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The doctor will address the main _______ during the consultation.",
+        "answers": [
+          { "id": 1, "value": "issue" },
+          { "id": 2, "value": "question" },
+          { "id": 3, "value": "answer" },
+          { "id": 4, "value": "point" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "none",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There were _______ of the items left on the shelf after the sale.",
+        "answers": [
+          { "id": 1, "value": "none" },
+          { "id": 2, "value": "some" },
+          { "id": 3, "value": "all" },
+          { "id": 4, "value": "few" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "patient",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The nurse was very _______ while helping the elderly woman get dressed.",
+        "answers": [
+          { "id": 1, "value": "patient" },
+          { "id": 2, "value": "rude" },
+          { "id": 3, "value": "quick" },
+          { "id": 4, "value": "irritable" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "positive",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She had a very _______ attitude, always looking for the silver lining in every situation.",
+        "answers": [
+          { "id": 1, "value": "positive" },
+          { "id": 2, "value": "negative" },
+          { "id": 3, "value": "neutral" },
+          { "id": 4, "value": "hostile" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "punish",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher decided to _______ the student for cheating on the test.",
+        "answers": [
+          { "id": 1, "value": "punish" },
+          { "id": 2, "value": "reward" },
+          { "id": 3, "value": "encourage" },
+          { "id": 4, "value": "forgive" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "represent",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The lawyer will _______ his client in court during the trial.",
+        "answers": [
+          { "id": 1, "value": "represent" },
+          { "id": 2, "value": "defend" },
+          { "id": 3, "value": "oppose" },
+          { "id": 4, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shake",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He reached out to _______ her hand as a sign of greeting.",
+        "answers": [
+          { "id": 1, "value": "shake" },
+          { "id": 2, "value": "kiss" },
+          { "id": 3, "value": "hug" },
+          { "id": 4, "value": "wave" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "spread",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The news of the company’s success began to _______ quickly throughout the city.",
+        "answers": [
+          { "id": 1, "value": "spread" },
+          { "id": 2, "value": "reduce" },
+          { "id": 3, "value": "stop" },
+          { "id": 4, "value": "suppress" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "stroll",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After dinner, they decided to take a leisurely _______ through the park.",
+        "answers": [
+          { "id": 1, "value": "stroll" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "jog" },
+          { "id": 4, "value": "rush" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "village",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The old man grew up in a small _______ nestled between the mountains.",
+        "answers": [
+          { "id": 1, "value": "village" },
+          { "id": 2, "value": "town" },
+          { "id": 3, "value": "city" },
+          { "id": 4, "value": "suburb" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

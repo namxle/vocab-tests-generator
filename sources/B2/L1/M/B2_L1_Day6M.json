@@ -1,0 +1,182 @@
+[
+  {
+    "word": "loose",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The knot on the rope was too _______ and came undone easily.",
+        "answers": [
+          { "id": 1, "value": "loose" },
+          { "id": 2, "value": "tight" },
+          { "id": 3, "value": "strong" },
+          { "id": 4, "value": "firm" },
+          { "id": 5, "value": "secure" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "offend",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He didn’t mean to _______ anyone with his comments.",
+        "answers": [
+          { "id": 1, "value": "offend" },
+          { "id": 2, "value": "please" },
+          { "id": 3, "value": "praise" },
+          { "id": 4, "value": "help" },
+          { "id": 5, "value": "calm" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "overnight",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They stayed at a hotel _______ before continuing their journey in the morning.",
+        "answers": [
+          { "id": 1, "value": "overnight" },
+          { "id": 2, "value": "quickly" },
+          { "id": 3, "value": "slowly" },
+          { "id": 4, "value": "suddenly" },
+          { "id": 5, "value": "briefly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "persist",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "If you _______ in working hard, you will achieve your goals.",
+        "answers": [
+          { "id": 1, "value": "persist" },
+          { "id": 2, "value": "stop" },
+          { "id": 3, "value": "quit" },
+          { "id": 4, "value": "delay" },
+          { "id": 5, "value": "fail" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pine",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The forest was filled with tall _______ trees.",
+        "answers": [
+          { "id": 1, "value": "pine" },
+          { "id": 2, "value": "corn" },
+          { "id": 3, "value": "rice" },
+          { "id": 4, "value": "flower" },
+          { "id": 5, "value": "water" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scar",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The injury left a small _______ on his arm.",
+        "answers": [
+          { "id": 1, "value": "scar" },
+          { "id": 2, "value": "cut" },
+          { "id": 3, "value": "bruise" },
+          { "id": 4, "value": "mark" },
+          { "id": 5, "value": "scratch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sensation",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He felt a strange _______ on his skin when he touched the cold metal.",
+        "answers": [
+          { "id": 1, "value": "sensation" },
+          { "id": 2, "value": "pain" },
+          { "id": 3, "value": "touch" },
+          { "id": 4, "value": "sight" },
+          { "id": 5, "value": "sound" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sled",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children used a _______ to slide down the snowy hill.",
+        "answers": [
+          { "id": 1, "value": "sled" },
+          { "id": 2, "value": "car" },
+          { "id": 3, "value": "skate" },
+          { "id": 4, "value": "bike" },
+          { "id": 5, "value": "plane" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "tease",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He liked to _______ his younger brother by hiding his toys.",
+        "answers": [
+          { "id": 1, "value": "tease" },
+          { "id": 2, "value": "help" },
+          { "id": 3, "value": "protect" },
+          { "id": 4, "value": "comfort" },
+          { "id": 5, "value": "support" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "valentine",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She sent a card to her _______ on their anniversary.",
+        "answers": [
+          { "id": 1, "value": "valentine" },
+          { "id": 2, "value": "pet" },
+          { "id": 3, "value": "teacher" },
+          { "id": 4, "value": "neighbor" },
+          { "id": 5, "value": "classmate" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

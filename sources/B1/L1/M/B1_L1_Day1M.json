@@ -1,0 +1,172 @@
+[
+  {
+    "word": "afraid",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She was _______ of the dark and always kept a light on at night.",
+        "answers": [
+          { "id": 1, "value": "afraid" },
+          { "id": 2, "value": "brave" },
+          { "id": 3, "value": "excited" },
+          { "id": 4, "value": "happy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "agree",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They managed to _______ on a solution after a long discussion.",
+        "answers": [
+          { "id": 1, "value": "agree" },
+          { "id": 2, "value": "argue" },
+          { "id": 3, "value": "reject" },
+          { "id": 4, "value": "refuse" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "angry",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He was so _______ that he couldn’t speak calmly during the meeting, he was furious.",
+        "answers": [
+          { "id": 1, "value": "angry" },
+          { "id": 2, "value": "happy" },
+          { "id": 3, "value": "calm" },
+          { "id": 4, "value": "excited" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "arrive",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The train will _______ at the station in 10 minutes, you'd better be soon.",
+        "answers": [
+          { "id": 1, "value": "arrive" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "stop" },
+          { "id": 4, "value": "meet" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "attack",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The lion waited silently to _______ its prey.",
+        "answers": [
+          { "id": 1, "value": "attack" },
+          { "id": 2, "value": "defend" },
+          { "id": 3, "value": "protect" },
+          { "id": 4, "value": "save" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bottom",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She found her missing earring at the _______ of the swimming pool.",
+        "answers": [
+          { "id": 1, "value": "bottom" },
+          { "id": 2, "value": "top" },
+          { "id": 3, "value": "edge" },
+          { "id": 4, "value": "surface" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "clever",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The fox in the story was very _______ and managed to trick the hunters.",
+        "answers": [
+          { "id": 1, "value": "clever" },
+          { "id": 2, "value": "silly" },
+          { "id": 3, "value": "lazy" },
+          { "id": 4, "value": "foolish" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cruel",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It was _______ to leave the puppy outside in the cold rain.",
+        "answers": [
+          { "id": 1, "value": "cruel" },
+          { "id": 2, "value": "kind" },
+          { "id": 3, "value": "gentle" },
+          { "id": 4, "value": "helpful" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "finally",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After hours of searching, they _______ found the missing keys.",
+        "answers": [
+          { "id": 1, "value": "finally" },
+          { "id": 2, "value": "never" },
+          { "id": 3, "value": "rarely" },
+          { "id": 4, "value": "soon" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hide",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children decided to _______ behind the tree during the game.",
+        "answers": [
+          { "id": 1, "value": "hide" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "play" },
+          { "id": 4, "value": "jump" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "horizon",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "As the sun set, it disappeared below the _______ in a blaze of orange.",
+        "answers": [
+          { "id": 1, "value": "horizon" },
+          { "id": 2, "value": "ocean" },
+          { "id": 3, "value": "planet" },
+          { "id": 4, "value": "star" },
+          { "id": 5, "value": "line" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "loyal",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She remained _______ to her best friend, even during difficult times.",
+        "answers": [
+          { "id": 1, "value": "loyal" },
+          { "id": 2, "value": "faithful" },
+          { "id": 3, "value": "distant" },
+          { "id": 4, "value": "cold" },
+          { "id": 5, "value": "careless" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mayor",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ gave a speech about the city's future development plans.",
+        "answers": [
+          { "id": 1, "value": "mayor" },
+          { "id": 2, "value": "teacher" },
+          { "id": 3, "value": "judge" },
+          { "id": 4, "value": "artist" },
+          { "id": 5, "value": "employer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mutual",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Their friendship is built on _______ respect and understanding.",
+        "answers": [
+          { "id": 1, "value": "mutual" },
+          { "id": 2, "value": "shared" },
+          { "id": 3, "value": "unequal" },
+          { "id": 4, "value": "conditional" },
+          { "id": 5, "value": "temporary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "overweight",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Doctors advise people who are _______ to have a healthy diet.",
+        "answers": [
+          { "id": 1, "value": "overweight" },
+          { "id": 2, "value": "balance" },
+          { "id": 3, "value": "thin" },
+          { "id": 4, "value": "underweight" },
+          { "id": 5, "value": "fit" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "refuge",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hikers took _______ in a small cabin during the storm.",
+        "answers": [
+          { "id": 1, "value": "refuge" },
+          { "id": 2, "value": "hotel" },
+          { "id": 3, "value": "cover" },
+          { "id": 4, "value": "rest" },
+          { "id": 5, "value": "shade" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "restore",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The government plans to _______ the old theater to its original state.",
+        "answers": [
+          { "id": 1, "value": "restore" },
+          { "id": 2, "value": "demolish" },
+          { "id": 3, "value": "preserve" },
+          { "id": 4, "value": "replace" },
+          { "id": 5, "value": "decorate" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rub",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He had to _______ the stain out of his shirt before washing it.",
+        "answers": [
+          { "id": 1, "value": "rub" },
+          { "id": 2, "value": "wipe" },
+          { "id": 3, "value": "scrub" },
+          { "id": 4, "value": "wash" },
+          { "id": 5, "value": "soak" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "senses",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The human body relies on its five _______ to perceive the world.",
+        "answers": [
+          { "id": 1, "value": "senses" },
+          { "id": 2, "value": "abilities" },
+          { "id": 3, "value": "skills" },
+          { "id": 4, "value": "organs" },
+          { "id": 5, "value": "feelings" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "veterinarian",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She took her sick cat to the _______ for a check-up.",
+        "answers": [
+          { "id": 1, "value": "veterinarian" },
+          { "id": 2, "value": "doctor" },
+          { "id": 3, "value": "pharmacist" },
+          { "id": 4, "value": "nurse" },
+          { "id": 5, "value": "trainer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

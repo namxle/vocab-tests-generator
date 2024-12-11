@@ -1,0 +1,182 @@
+[
+  {
+    "word": "publication",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The research findings were released in a scientific _______ last month.",
+        "answers": [
+          { "id": 1, "value": "publication" },
+          { "id": 2, "value": "announcement" },
+          { "id": 3, "value": "comic" },
+          { "id": 4, "value": "poster" },
+          { "id": 5, "value": "summary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "riddle",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Can you solve this tricky _______ about the mountain and the river?",
+        "answers": [
+          { "id": 1, "value": "riddle" },
+          { "id": 2, "value": "game" },
+          { "id": 3, "value": "story" },
+          { "id": 4, "value": "joke" },
+          { "id": 5, "value": "research" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rot",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "If you leave fruit out for too long, it will begin to _______.",
+        "answers": [
+          { "id": 1, "value": "rot" },
+          { "id": 2, "value": "freeze" },
+          { "id": 3, "value": "dry" },
+          { "id": 4, "value": "crack" },
+          { "id": 5, "value": "grow" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scare",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You will _______ the baby if you make a big noise.",
+        "answers": [
+          { "id": 1, "value": "scare" },
+          { "id": 2, "value": "sleep" },
+          { "id": 3, "value": "impress" },
+          { "id": 4, "value": "surprise" },
+          { "id": 5, "value": "laugh" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shortly",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The train will arrive _______; please get ready to board.",
+        "answers": [
+          { "id": 1, "value": "shortly" },
+          { "id": 2, "value": "quickly" },
+          { "id": 3, "value": "suddenly" },
+          { "id": 4, "value": "calmly" },
+          { "id": 5, "value": "slowly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "skeleton",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The archaeologists found the _______ of a dinosaur buried in the ground.",
+        "answers": [
+          { "id": 1, "value": "skeleton" },
+          { "id": 2, "value": "fur" },
+          { "id": 3, "value": "photo" },
+          { "id": 4, "value": "shell" },
+          { "id": 5, "value": "skin" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "spoil",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Leaving milk out of the fridge for too long will cause it to _______.",
+        "answers": [
+          { "id": 1, "value": "spoil" },
+          { "id": 2, "value": "thicken" },
+          { "id": 3, "value": "melt" },
+          { "id": 4, "value": "freeze" },
+          { "id": 5, "value": "change" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "starve",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Without proper food, people and animals may _______ during harsh winters.",
+        "answers": [
+          { "id": 1, "value": "starve" },
+          { "id": 2, "value": "suffer" },
+          { "id": 3, "value": "freeze" },
+          { "id": 4, "value": "rest" },
+          { "id": 5, "value": "survive" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "thrill",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Riding a roller coaster gives many people an exciting _______.",
+        "answers": [
+          { "id": 1, "value": "thrill" },
+          { "id": 2, "value": "fear" },
+          { "id": 3, "value": "joy" },
+          { "id": 4, "value": "shock" },
+          { "id": 5, "value": "laugh" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wicked",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The villain in the story was known for his _______ deeds.",
+        "answers": [
+          { "id": 1, "value": "wicked" },
+          { "id": 2, "value": "heroic" },
+          { "id": 3, "value": "brave" },
+          { "id": 4, "value": "kind" },
+          { "id": 5, "value": "selfless" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "iron",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The blacksmith used _______ to make tools and weapons.",
+        "answers": [
+          { "id": 1, "value": "iron" },
+          { "id": 2, "value": "wood" },
+          { "id": 3, "value": "stone" },
+          { "id": 4, "value": "paper" },
+          { "id": 5, "value": "clay" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ladder",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He climbed up the _______ to fix the roof.",
+        "answers": [
+          { "id": 1, "value": "ladder" },
+          { "id": 2, "value": "house" },
+          { "id": 3, "value": "rope" },
+          { "id": 4, "value": "sky" },
+          { "id": 5, "value": "table" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "modest",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is very _______ and never talks about her achievements.",
+        "answers": [
+          { "id": 1, "value": "modest" },
+          { "id": 2, "value": "arrogant" },
+          { "id": 3, "value": "proud" },
+          { "id": 4, "value": "rude" },
+          { "id": 5, "value": "boastful" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "occupy",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The guests will _______ the first three rows of seats at the event.",
+        "answers": [
+          { "id": 1, "value": "occupy" },
+          { "id": 2, "value": "leave" },
+          { "id": 3, "value": "vacate" },
+          { "id": 4, "value": "clean" },
+          { "id": 5, "value": "replace" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "penny",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She found a shiny _______ on the ground and picked it up.",
+        "answers": [
+          { "id": 1, "value": "penny" },
+          { "id": 2, "value": "dollar" },
+          { "id": 3, "value": "cash" },
+          { "id": 4, "value": "note" },
+          { "id": 5, "value": "ticket" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "preach",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The priest began to _______ about kindness and compassion.",
+        "answers": [
+          { "id": 1, "value": "preach" },
+          { "id": 2, "value": "sing" },
+          { "id": 3, "value": "listen" },
+          { "id": 4, "value": "apologize" },
+          { "id": 5, "value": "argue" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "prosper",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The business began to _______ after they launched their new product.",
+        "answers": [
+          { "id": 1, "value": "prosper" },
+          { "id": 2, "value": "fail" },
+          { "id": 3, "value": "struggle" },
+          { "id": 4, "value": "end" },
+          { "id": 5, "value": "close" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "province",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The government announced new policies for each _______ in the country.",
+        "answers": [
+          { "id": 1, "value": "province" },
+          { "id": 2, "value": "jungle" },
+          { "id": 3, "value": "planet" },
+          { "id": 4, "value": "people" },
+          { "id": 5, "value": "climate" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "satisfaction",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She felt great _______ after completing the challenging task.",
+        "answers": [
+          { "id": 1, "value": "satisfaction" },
+          { "id": 2, "value": "stress" },
+          { "id": 3, "value": "fear" },
+          { "id": 4, "value": "regret" },
+          { "id": 5, "value": "disappointment" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sustain",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The pillars are strong enough to _______ the weight of the roof.",
+        "answers": [
+          { "id": 1, "value": "sustain" },
+          { "id": 2, "value": "drop" },
+          { "id": 3, "value": "move" },
+          { "id": 4, "value": "remove" },
+          { "id": 5, "value": "reduce" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

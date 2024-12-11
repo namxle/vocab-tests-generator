@@ -1,0 +1,172 @@
+[
+  {
+    "word": "aware",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She wasn't _______ of the time, so she was late to the meeting.",
+        "answers": [
+          { "id": 1, "value": "aware" },
+          { "id": 2, "value": "unaware" },
+          { "id": 3, "value": "concerned" },
+          { "id": 4, "value": "interested" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "badly",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He hurt his leg _______ during the game and had to go to the hospital.",
+        "answers": [
+          { "id": 1, "value": "badly" },
+          { "id": 2, "value": "gently" },
+          { "id": 3, "value": "carefully" },
+          { "id": 4, "value": "lightly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "belong",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This book does not _______ to me; it’s my sister’s.",
+        "answers": [
+          { "id": 1, "value": "belong" },
+          { "id": 2, "value": "stay" },
+          { "id": 3, "value": "remain" },
+          { "id": 4, "value": "live" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "continue",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Even after the interruption, he decided to _______ with his speech.",
+        "answers": [
+          { "id": 1, "value": "continue" },
+          { "id": 2, "value": "stop" },
+          { "id": 3, "value": "pause" },
+          { "id": 4, "value": "finish" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "error",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher pointed out the _______ in my math calculation.",
+        "answers": [
+          { "id": 1, "value": "error" },
+          { "id": 2, "value": "answer" },
+          { "id": 3, "value": "question" },
+          { "id": 4, "value": "result" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "experience",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She has a lot of _______ in managing large projects and teams.",
+        "answers": [
+          { "id": 1, "value": "experience" },
+          { "id": 2, "value": "interest" },
+          { "id": 3, "value": "stress" },
+          { "id": 4, "value": "comfort" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "field",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is a leading expert in the _______ of artificial intelligence.",
+        "answers": [
+          { "id": 1, "value": "field" },
+          { "id": 2, "value": "idea" },
+          { "id": 3, "value": "work" },
+          { "id": 4, "value": "company" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hurt",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He didn’t mean to _______ her feelings, but his words were too harsh.",
+        "answers": [
+          { "id": 1, "value": "hurt" },
+          { "id": 2, "value": "help" },
+          { "id": 3, "value": "support" },
+          { "id": 4, "value": "impress" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "judgment",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It was a poor _______ to invest in that risky stock without proper research.",
+        "answers": [
+          { "id": 1, "value": "judgment" },
+          { "id": 2, "value": "decision" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "mistake" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "likely",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is _______ that they will finish the project on time, given their current progress.",
+        "answers": [
+          { "id": 1, "value": "likely" },
+          { "id": 2, "value": "unlikely" },
+          { "id": 3, "value": "impossible" },
+          { "id": 4, "value": "certain" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

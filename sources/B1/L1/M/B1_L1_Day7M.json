@@ -1,0 +1,172 @@
+[
+  {
+    "word": "appropriate",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is important to wear _______ clothing to a formal event like a wedding.",
+        "answers": [
+          { "id": 1, "value": "appropriate" },
+          { "id": 2, "value": "casual" },
+          { "id": 3, "value": "inappropriate" },
+          { "id": 4, "value": "comfortable" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "avoid",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You should _______ eating too much sugar if you want to stay healthy.",
+        "answers": [
+          { "id": 1, "value": "avoid" },
+          { "id": 2, "value": "enjoy" },
+          { "id": 3, "value": "encourage" },
+          { "id": 4, "value": "increase" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "behave",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It's important to _______ politely when you are a guest at someone’s house.",
+        "answers": [
+          { "id": 1, "value": "behave" },
+          { "id": 2, "value": "speak" },
+          { "id": 3, "value": "rest" },
+          { "id": 4, "value": "eat" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "calm",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She remained _______ even when the situation became very stressful.",
+        "answers": [
+          { "id": 1, "value": "calm" },
+          { "id": 2, "value": "angry" },
+          { "id": 3, "value": "nervous" },
+          { "id": 4, "value": "excited" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "concern",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her main _______ was making sure everyone was safe during the event.",
+        "answers": [
+          { "id": 1, "value": "concern" },
+          { "id": 2, "value": "joy" },
+          { "id": 3, "value": "satisfaction" },
+          { "id": 4, "value": "anger" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "content",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children were _______ with their toys and did not ask for anything else.",
+        "answers": [
+          { "id": 1, "value": "content" },
+          { "id": 2, "value": "bored" },
+          { "id": 3, "value": "disappointed" },
+          { "id": 4, "value": "angry" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "expect",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We _______ the meeting to start at 10 a.m., but it was delayed by an hour.",
+        "answers": [
+          { "id": 1, "value": "expect" },
+          { "id": 2, "value": "hope" },
+          { "id": 3, "value": "guess" },
+          { "id": 4, "value": "doubt" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "frequently",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She _______ travels abroad for work, sometimes several times a year.",
+        "answers": [
+          { "id": 1, "value": "frequently" },
+          { "id": 2, "value": "rarely" },
+          { "id": 3, "value": "occasionally" },
+          { "id": 4, "value": "never" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "habit",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Brushing your teeth twice a day is a good _______ to develop for your health.",
+        "answers": [
+          { "id": 1, "value": "habit" },
+          { "id": 2, "value": "task" },
+          { "id": 3, "value": "project" },
+          { "id": 4, "value": "goal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "instruct",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher will _______ the students on how to complete the assignment.",
+        "answers": [
+          { "id": 1, "value": "instruct" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "teach" },
+          { "id": 4, "value": "assume" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

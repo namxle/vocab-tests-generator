@@ -1,0 +1,182 @@
+[
+  {
+    "word": "acquaint",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "New students are encouraged to _______ themselves with the campus facilities.",
+        "answers": [
+          { "id": 1, "value": "acquaint" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "isolate" },
+          { "id": 4, "value": "reject" },
+          { "id": 5, "value": "distance" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cemetery",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The old _______ near the church is believed to be haunted.",
+        "answers": [
+          { "id": 1, "value": "cemetery" },
+          { "id": 2, "value": "park" },
+          { "id": 3, "value": "forest" },
+          { "id": 4, "value": "museum" },
+          { "id": 5, "value": "playground" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "curse",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The angry villager shouted a _______ at the thieves as they ran away.",
+        "answers": [
+          { "id": 1, "value": "curse" },
+          { "id": 2, "value": "blessing" },
+          { "id": 3, "value": "prayer" },
+          { "id": 4, "value": "greeting" },
+          { "id": 5, "value": "joke" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "disguise",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She had a lot of cosmetic surgery in an attempt to _______ her age.",
+        "answers": [
+          { "id": 1, "value": "disguise" },
+          { "id": 2, "value": "care" },
+          { "id": 3, "value": "express" },
+          { "id": 4, "value": "improve" },
+          { "id": 5, "value": "prepare" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fancy",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He seemed to _______ her from the moment they met.",
+        "answers": [
+          { "id": 1, "value": "fancy" },
+          { "id": 2, "value": "convince" },
+          { "id": 3, "value": "pretend" },
+          { "id": 4, "value": "apologize" },
+          { "id": 5, "value": "offend" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "flashlight",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He used a _______ to find his way in the dark forest.",
+        "answers": [
+          { "id": 1, "value": "flashlight" },
+          { "id": 2, "value": "star" },
+          { "id": 3, "value": "fan" },
+          { "id": 4, "value": "candle" },
+          { "id": 5, "value": "lantern" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hood",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She pulled up her _______ to shield herself from the rain.",
+        "answers": [
+          { "id": 1, "value": "hood" },
+          { "id": 2, "value": "socks" },
+          { "id": 3, "value": "scarf" },
+          { "id": 4, "value": "kite" },
+          { "id": 5, "value": "bag" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "inhabitant",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The island has only a few _______ remaining after the storm.",
+        "answers": [
+          { "id": 1, "value": "inhabitants" },
+          { "id": 2, "value": "visitors" },
+          { "id": 3, "value": "water" },
+          { "id": 4, "value": "workers" },
+          { "id": 5, "value": "doctors" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "nourish",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "A balanced diet helps to _______ the body and keep it healthy.",
+        "answers": [
+          { "id": 1, "value": "nourish" },
+          { "id": 2, "value": "weaken" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "starve" },
+          { "id": 5, "value": "harm" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pirate",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ship was attacked by a group of dangerous _______.",
+        "answers": [
+          { "id": 1, "value": "pirates" },
+          { "id": 2, "value": "sailors" },
+          { "id": 3, "value": "merchants" },
+          { "id": 4, "value": "soldiers" },
+          { "id": 5, "value": "travelers" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

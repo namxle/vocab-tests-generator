@@ -1,0 +1,182 @@
+[
+  {
+    "word": "abandon",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He had to _______ his plans for the trip due to bad weather.",
+        "answers": [
+          { "id": 1, "value": "abandon" },
+          { "id": 2, "value": "continue" },
+          { "id": 3, "value": "start" },
+          { "id": 4, "value": "finish" },
+          { "id": 5, "value": "satisfy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ambitious",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is very _______ and aims to become the CEO of the company.",
+        "answers": [
+          { "id": 1, "value": "ambitious" },
+          { "id": 2, "value": "lazy" },
+          { "id": 3, "value": "modest" },
+          { "id": 4, "value": "calm" },
+          { "id": 5, "value": "careless" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bark",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The dog gave a loud _______ when it saw the stranger.",
+        "answers": [
+          { "id": 1, "value": "bark" },
+          { "id": 2, "value": "meow" },
+          { "id": 3, "value": "growl" },
+          { "id": 4, "value": "shout" },
+          { "id": 5, "value": "whistle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bay",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ship anchored in a small _______ to avoid the storm.",
+        "answers": [
+          { "id": 1, "value": "bay" },
+          { "id": 2, "value": "river" },
+          { "id": 3, "value": "ocean" },
+          { "id": 4, "value": "lake" },
+          { "id": 5, "value": "waterfall" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "brilliant",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The fireworks display was so _______ that everyone was amazed.",
+        "answers": [
+          { "id": 1, "value": "brilliant" },
+          { "id": 2, "value": "dull" },
+          { "id": 3, "value": "ordinary" },
+          { "id": 4, "value": "dim" },
+          { "id": 5, "value": "simple" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chin",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He rested his _______ on his hand while thinking about the problem.",
+        "answers": [
+          { "id": 1, "value": "chin" },
+          { "id": 2, "value": "teeth" },
+          { "id": 3, "value": "nail" },
+          { "id": 4, "value": "eyelashes" },
+          { "id": 5, "value": "chest" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "complaint",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The customer made a _______ about the poor service at the restaurant.",
+        "answers": [
+          { "id": 1, "value": "complaint" },
+          { "id": 2, "value": "request" },
+          { "id": 3, "value": "praise" },
+          { "id": 4, "value": "suggestion" },
+          { "id": 5, "value": "advantage" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "deaf",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He was born _______ and had to learn sign language to communicate.",
+        "answers": [
+          { "id": 1, "value": "deaf" },
+          { "id": 2, "value": "blind" },
+          { "id": 3, "value": "normal" },
+          { "id": 4, "value": "weak" },
+          { "id": 5, "value": "silent" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "enthusiastic",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team was very _______ about their chances of winning the championship.",
+        "answers": [
+          { "id": 1, "value": "enthusiastic" },
+          { "id": 2, "value": "hesitant" },
+          { "id": 3, "value": "calm" },
+          { "id": 4, "value": "bored" },
+          { "id": 5, "value": "nervous" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "expedition",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team prepared for the challenging _______ to the Arctic region.",
+        "answers": [
+          { "id": 1, "value": "expedition" },
+          { "id": 2, "value": "project" },
+          { "id": 3, "value": "lesson" },
+          { "id": 4, "value": "mission" },
+          { "id": 5, "value": "game" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

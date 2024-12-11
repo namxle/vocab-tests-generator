@@ -1,0 +1,182 @@
+[
+  {
+    "word": "bloom",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The flowers began to _______ as spring arrived.",
+        "answers": [
+          { "id": 1, "value": "bloom" },
+          { "id": 2, "value": "fade" },
+          { "id": 3, "value": "die" },
+          { "id": 4, "value": "fall" },
+          { "id": 5, "value": "break" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "compact",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The suitcase is very _______ and we can't put more clothes in it.",
+        "answers": [
+          { "id": 1, "value": "compact" },
+          { "id": 2, "value": "large" },
+          { "id": 3, "value": "heavy" },
+          { "id": 4, "value": "loose" },
+          { "id": 5, "value": "wide" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "curl",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She likes to _______ her hair after washing it for a wavy look.",
+        "answers": [
+          { "id": 1, "value": "curl" },
+          { "id": 2, "value": "straighten" },
+          { "id": 3, "value": "cut" },
+          { "id": 4, "value": "comb" },
+          { "id": 5, "value": "color" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "decay",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "If you don’t brush your teeth regularly, they might _______.",
+        "answers": [
+          { "id": 1, "value": "decay" },
+          { "id": 2, "value": "grow" },
+          { "id": 3, "value": "shine" },
+          { "id": 4, "value": "harden" },
+          { "id": 5, "value": "heal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dessert",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "For _______ tonight, we are having chocolate cake.",
+        "answers": [
+          { "id": 1, "value": "dessert" },
+          { "id": 2, "value": "dinner" },
+          { "id": 3, "value": "breakfast" },
+          { "id": 4, "value": "snack" },
+          { "id": 5, "value": "appetizer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dip",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She likes to _______ her cookies in milk before eating them.",
+        "answers": [
+          { "id": 1, "value": "dip" },
+          { "id": 2, "value": "drop" },
+          { "id": 3, "value": "break" },
+          { "id": 4, "value": "spread" },
+          { "id": 5, "value": "wash" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "distant",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The mountain range was visible in the _______ horizon.",
+        "answers": [
+          { "id": 1, "value": "distant" },
+          { "id": 2, "value": "near" },
+          { "id": 3, "value": "close" },
+          { "id": 4, "value": "present" },
+          { "id": 5, "value": "under" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "eclipse",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "A solar _______ happens when the moon blocks the sun's light.",
+        "answers": [
+          { "id": 1, "value": "eclipse" },
+          { "id": 2, "value": "storm" },
+          { "id": 3, "value": "shadow" },
+          { "id": 4, "value": "phase" },
+          { "id": 5, "value": "circle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fairy",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The child loved listening to stories about a magical _______ living in the forest.",
+        "answers": [
+          { "id": 1, "value": "fairy" },
+          { "id": 2, "value": "zombie" },
+          { "id": 3, "value": "demon" },
+          { "id": 4, "value": "ghost" },
+          { "id": 5, "value": "wizard" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "grace",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The dancer moved with such _______ that the audience was captivated.",
+        "answers": [
+          { "id": 1, "value": "grace" },
+          { "id": 2, "value": "speed" },
+          { "id": 3, "value": "energy" },
+          { "id": 4, "value": "force" },
+          { "id": 5, "value": "strength" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

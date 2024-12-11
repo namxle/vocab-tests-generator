@@ -1,0 +1,172 @@
+[
+  {
+    "word": "loud",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The music was so _______ that the neighbors complained about the noise.",
+        "answers": [
+          { "id": 1, "value": "loud" },
+          { "id": 2, "value": "quiet" },
+          { "id": 3, "value": "soft" },
+          { "id": 4, "value": "low" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "nervous",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She felt _______ before the big presentation in front of the entire class.",
+        "answers": [
+          { "id": 1, "value": "nervous" },
+          { "id": 2, "value": "confident" },
+          { "id": 3, "value": "calm" },
+          { "id": 4, "value": "excited" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "noise",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The loud _______ from the construction site made it hard to concentrate.",
+        "answers": [
+          { "id": 1, "value": "noise" },
+          { "id": 2, "value": "silence" },
+          { "id": 3, "value": "song" },
+          { "id": 4, "value": "whisper" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "project",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The students worked together on a group _______ for their science class.",
+        "answers": [
+          { "id": 1, "value": "project" },
+          { "id": 2, "value": "test" },
+          { "id": 3, "value": "game" },
+          { "id": 4, "value": "party" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scare",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The sudden noise from the thunderstorm was enough to _______ the little boy.",
+        "answers": [
+          { "id": 1, "value": "scare" },
+          { "id": 2, "value": "calm" },
+          { "id": 3, "value": "soothe" },
+          { "id": 4, "value": "comfort" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "secret",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She whispered a _______ to her best friend, ensuring no one else could hear.",
+        "answers": [
+          { "id": 1, "value": "secret" },
+          { "id": 2, "value": "fairytale" },
+          { "id": 3, "value": "lie" },
+          { "id": 4, "value": "diary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shout",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He had to _______ to be heard over the noise of the crowd.",
+        "answers": [
+          { "id": 1, "value": "shout" },
+          { "id": 2, "value": "whisper" },
+          { "id": 3, "value": "speak" },
+          { "id": 4, "value": "mumble" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "smell",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The kitchen filled with the delicious _______ of freshly baked cookies.",
+        "answers": [
+          { "id": 1, "value": "smell" },
+          { "id": 2, "value": "taste" },
+          { "id": 3, "value": "noise" },
+          { "id": 4, "value": "color" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "terrible",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The storm caused _______ damage to the town, leaving many people homeless.",
+        "answers": [
+          { "id": 1, "value": "terrible" },
+          { "id": 2, "value": "minor" },
+          { "id": 3, "value": "small" },
+          { "id": 4, "value": "unimportant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "worse",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her condition became _______ after she caught a cold on top of the flu.",
+        "answers": [
+          { "id": 1, "value": "worse" },
+          { "id": 2, "value": "better" },
+          { "id": 3, "value": "improved" },
+          { "id": 4, "value": "stable" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

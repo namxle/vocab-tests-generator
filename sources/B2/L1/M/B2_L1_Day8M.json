@@ -1,0 +1,182 @@
+[
+  {
+    "word": "leisure",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In her _______ time, she enjoys reading novels and painting.",
+        "answers": [
+          { "id": 1, "value": "leisure" },
+          { "id": 2, "value": "busy" },
+          { "id": 3, "value": "work" },
+          { "id": 4, "value": "long" },
+          { "id": 5, "value": "quick" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mankind",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This discovery will benefit all of _______ in the future.",
+        "answers": [
+          { "id": 1, "value": "mankind" },
+          { "id": 2, "value": "person" },
+          { "id": 3, "value": "water" },
+          { "id": 4, "value": "machines" },
+          { "id": 5, "value": "robots" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "passion",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She pursued her _______ for photography by starting her own studio.",
+        "answers": [
+          { "id": 1, "value": "passion" },
+          { "id": 2, "value": "hobby" },
+          { "id": 3, "value": "fear" },
+          { "id": 4, "value": "job" },
+          { "id": 5, "value": "habit" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pillow",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He rested his head on a soft _______ and fell asleep.",
+        "answers": [
+          { "id": 1, "value": "pillow" },
+          { "id": 2, "value": "blanket" },
+          { "id": 3, "value": "chair" },
+          { "id": 4, "value": "table" },
+          { "id": 5, "value": "drawer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pulse",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The doctor checked his _______ to make sure he was okay.",
+        "answers": [
+          { "id": 1, "value": "pulse" },
+          { "id": 2, "value": "pressure" },
+          { "id": 3, "value": "breath" },
+          { "id": 4, "value": "temperature" },
+          { "id": 5, "value": "signal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "refresh",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "A quick nap can help _______ your mind after a long day.",
+        "answers": [
+          { "id": 1, "value": "refresh" },
+          { "id": 2, "value": "weaken" },
+          { "id": 3, "value": "slow" },
+          { "id": 4, "value": "tire" },
+          { "id": 5, "value": "calm" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sneeze",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Allergy season makes her _______ frequently in the morning.",
+        "answers": [
+          { "id": 1, "value": "sneeze" },
+          { "id": 2, "value": "yawn" },
+          { "id": 3, "value": "clap" },
+          { "id": 4, "value": "laugh" },
+          { "id": 5, "value": "sniff" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "spice",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The chef added a pinch of _______ to enhance the flavor of the dish.",
+        "answers": [
+          { "id": 1, "value": "spice" },
+          { "id": 2, "value": "water" },
+          { "id": 3, "value": "flower" },
+          { "id": 4, "value": "cream" },
+          { "id": 5, "value": "perfume" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "whistle",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He likes to _______ while walking in the park.",
+        "answers": [
+          { "id": 1, "value": "whistle" },
+          { "id": 2, "value": "cry" },
+          { "id": 3, "value": "yawn" },
+          { "id": 4, "value": "whisper" },
+          { "id": 5, "value": "shout" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wool",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She bought a scarf made of soft _______ for the winter.",
+        "answers": [
+          { "id": 1, "value": "wool" },
+          { "id": 2, "value": "paper" },
+          { "id": 3, "value": "wood" },
+          { "id": 4, "value": "gold" },
+          { "id": 5, "value": "sand" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

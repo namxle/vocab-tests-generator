@@ -1,0 +1,172 @@
+[
+  {
+    "word": "ghost",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She thought she saw a _______ in the abandoned house, but it turned out to be a shadow.",
+        "answers": [
+          { "id": 1, "value": "ghost" },
+          { "id": 2, "value": "cat" },
+          { "id": 3, "value": "animal" },
+          { "id": 4, "value": "person" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "individual",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Each _______ is responsible for their own actions in the team.",
+        "answers": [
+          { "id": 1, "value": "individual" },
+          { "id": 2, "value": "group" },
+          { "id": 3, "value": "family" },
+          { "id": 4, "value": "team" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "My dog is a beloved _______ that I treat like a family member.",
+        "answers": [
+          { "id": 1, "value": "pet" },
+          { "id": 2, "value": "animal" },
+          { "id": 3, "value": "plant" },
+          { "id": 4, "value": "fish" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "reach",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She stretched to _______ the book on the top shelf.",
+        "answers": [
+          { "id": 1, "value": "reach" },
+          { "id": 2, "value": "touch" },
+          { "id": 3, "value": "hold" },
+          { "id": 4, "value": "grab" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "return",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He promised to _______ the book to the library by tomorrow.",
+        "answers": [
+          { "id": 1, "value": "return" },
+          { "id": 2, "value": "borrow" },
+          { "id": 3, "value": "buy" },
+          { "id": 4, "value": "take" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "survive",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "In the harsh conditions, only the strongest animals could _______.",
+        "answers": [
+          { "id": 1, "value": "survive" },
+          { "id": 2, "value": "thrive" },
+          { "id": 3, "value": "escape" },
+          { "id": 4, "value": "hide" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "upset",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She was _______ after hearing the bad news about her friend's health.",
+        "answers": [
+          { "id": 1, "value": "upset" },
+          { "id": 2, "value": "excited" },
+          { "id": 3, "value": "calm" },
+          { "id": 4, "value": "relaxed" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "voice",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her _______ was so powerful that it filled the entire hall.",
+        "answers": [
+          { "id": 1, "value": "voice" },
+          { "id": 2, "value": "laughter" },
+          { "id": 3, "value": "song" },
+          { "id": 4, "value": "speech" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "weather",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ forecast predicts rain later in the day.",
+        "answers": [
+          { "id": 1, "value": "weather" },
+          { "id": 2, "value": "climate" },
+          { "id": 3, "value": "temperature" },
+          { "id": 4, "value": "season" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wise",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The old man gave the young traveler _______ advice on how to find happiness.",
+        "answers": [
+          { "id": 1, "value": "wise" },
+          { "id": 2, "value": "foolish" },
+          { "id": 3, "value": "quick" },
+          { "id": 4, "value": "bad" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

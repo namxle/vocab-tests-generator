@@ -1,0 +1,172 @@
+[
+  {
+    "word": "allow",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher will _______ the students to leave early if they finish their work.",
+        "answers": [
+          { "id": 1, "value": "allow" },
+          { "id": 2, "value": "stop" },
+          { "id": 3, "value": "force" },
+          { "id": 4, "value": "demand" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "announce",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The mayor will _______ the results of the election at the press conference.",
+        "answers": [
+          { "id": 1, "value": "announce" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "predict" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "beside",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She sat _______ her best friend during the movie.",
+        "answers": [
+          { "id": 1, "value": "beside" },
+          { "id": 2, "value": "behind" },
+          { "id": 3, "value": "in front of" },
+          { "id": 4, "value": "near" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "challenge",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Climbing Mount Everest is a great _______ for any adventurer.",
+        "answers": [
+          { "id": 1, "value": "challenge" },
+          { "id": 2, "value": "help" },
+          { "id": 3, "value": "promise" },
+          { "id": 4, "value": "option" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "claim",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He decided to _______ the lost wallet he found on the street.",
+        "answers": [
+          { "id": 1, "value": "claim" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "give" },
+          { "id": 4, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "condition",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The car is in excellent _______ after the recent repairs.",
+        "answers": [
+          { "id": 1, "value": "condition" },
+          { "id": 2, "value": "color" },
+          { "id": 3, "value": "price" },
+          { "id": 4, "value": "form" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "contribute",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The employees were asked to _______ their ideas for the new marketing strategy.",
+        "answers": [
+          { "id": 1, "value": "contribute" },
+          { "id": 2, "value": "take" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "complain" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "difference",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There is a noticeable _______ in quality between the two products.",
+        "answers": [
+          { "id": 1, "value": "difference" },
+          { "id": 2, "value": "similarity" },
+          { "id": 3, "value": "comparison" },
+          { "id": 4, "value": "disagreement" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "divide",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The river will _______ the city into two separate parts.",
+        "answers": [
+          { "id": 1, "value": "divide" },
+          { "id": 2, "value": "connect" },
+          { "id": 3, "value": "combine" },
+          { "id": 4, "value": "merge" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "expert",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is an _______ in the field of artificial intelligence.",
+        "answers": [
+          { "id": 1, "value": "expert" },
+          { "id": 2, "value": "novice" },
+          { "id": 3, "value": "beginner" },
+          { "id": 4, "value": "amateur" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "acquire",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She worked hard to _______ the skills needed for the job.",
+        "answers": [
+          { "id": 1, "value": "acquire" },
+          { "id": 2, "value": "lose" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "forget" },
+          { "id": 5, "value": "reject" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "awkward",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He felt _______ when he didn’t know how to respond to the question.",
+        "answers": [
+          { "id": 1, "value": "awkward" },
+          { "id": 2, "value": "confident" },
+          { "id": 3, "value": "relaxed" },
+          { "id": 4, "value": "calm" },
+          { "id": 5, "value": "happy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "caretaker",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ is responsible for maintaining the house while the owners are away.",
+        "answers": [
+          { "id": 1, "value": "caretaker" },
+          { "id": 2, "value": "neighbor" },
+          { "id": 3, "value": "visitor" },
+          { "id": 4, "value": "gardener" },
+          { "id": 5, "value": "guest" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "deceive",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He tried to _______ his friend by telling a false story.",
+        "answers": [
+          { "id": 1, "value": "deceive" },
+          { "id": 2, "value": "help" },
+          { "id": 3, "value": "trust" },
+          { "id": 4, "value": "thank" },
+          { "id": 5, "value": "support" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "discourage",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Negative comments can _______ people from pursuing their goals.",
+        "answers": [
+          { "id": 1, "value": "discourage" },
+          { "id": 2, "value": "motivate" },
+          { "id": 3, "value": "support" },
+          { "id": 4, "value": "encourage" },
+          { "id": 5, "value": "help" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fake",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The necklace looked valuable, but it turned out to be a _______.",
+        "answers": [
+          { "id": 1, "value": "fake" },
+          { "id": 2, "value": "treasure" },
+          { "id": 3, "value": "gift" },
+          { "id": 4, "value": "jewel" },
+          { "id": 5, "value": "design" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hatred",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She felt deep _______ for the person who betrayed her trust.",
+        "answers": [
+          { "id": 1, "value": "hatred" },
+          { "id": 2, "value": "respect" },
+          { "id": 3, "value": "kindness" },
+          { "id": 4, "value": "friendship" },
+          { "id": 5, "value": "admiration" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hut",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The poor family lived in a small _______ near the forest.",
+        "answers": [
+          { "id": 1, "value": "hut" },
+          { "id": 2, "value": "mansion" },
+          { "id": 3, "value": "apartment" },
+          { "id": 4, "value": "castle" },
+          { "id": 5, "value": "villa" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "inferior",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The cheaper product was of _______ quality compared to the original.",
+        "answers": [
+          { "id": 1, "value": "inferior" },
+          { "id": 2, "value": "superior" },
+          { "id": 3, "value": "excellent" },
+          { "id": 4, "value": "equal" },
+          { "id": 5, "value": "better" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lodge",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They stayed at a cozy _______ in the mountains during their vacation.",
+        "answers": [
+          { "id": 1, "value": "lodge" },
+          { "id": 2, "value": "stage" },
+          { "id": 3, "value": "palace" },
+          { "id": 4, "value": "ship" },
+          { "id": 5, "value": "forest" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

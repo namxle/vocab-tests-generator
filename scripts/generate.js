@@ -12,6 +12,7 @@ const readingScript = require('./reading');
 // Fixed constants
 const CWD = process.cwd();
 const tests = {
+  all_daily: 'All Daily',
   daily: 'Daily',
   weekly: 'Weekly',
   unit: 'Unit',
@@ -83,6 +84,8 @@ async function run() {
   const outputFile = `${exportsDir}/${outfile}`;
 
   const days = meaningData.map((item) => Number(item.day));
+  const start = Math.min(...days);
+  const end = Math.max(...days);
 
   const startDayFirstWeek = 1;
   const endDayFirstWeek = 7;
@@ -93,9 +96,26 @@ async function run() {
   let formatedTest = null;
 
   switch (inputTest) {
+    case tests.all_daily:
+      for (let day = start; day <= end; day++) {
+        let meaningDayData = meaningData.find((item) => item.day == day)[
+          'data'
+        ];
+        console.log();
+        console.log(
+          `Day: ${day}.`,
+          `Words: ${meaningDayData.map((item) => item.word).join(', ')}`,
+        );
+
+        // Generate test
+        finalResult = meaningScript.generateMeaningTestData(meaningDayData);
+
+        // Convert to Canvas test format
+        formatedTest = meaningScript.convertToTestFormat(finalResult.testData);
+        fs.writeFileSync(outputFile + day + '.txt', formatedTest, 'utf-8');
+      }
+      break;
     case tests.daily:
-      const start = Math.min(...days);
-      const end = Math.max(...days);
       const { inputDay, inputTotalWords } = await inquirer.prompt([
         {
           type: 'input',

@@ -1,0 +1,172 @@
+[
+  {
+    "word": "famous",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The Eiffel Tower is a _______ landmark in Paris, attracting millions of tourists each year.",
+        "answers": [
+          { "id": 1, "value": "famous" },
+          { "id": 2, "value": "small" },
+          { "id": 3, "value": "hidden" },
+          { "id": 4, "value": "new" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "force",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The wind's strong _______ pushed the boat off course.",
+        "answers": [
+          { "id": 1, "value": "force" },
+          { "id": 2, "value": "speed" },
+          { "id": 3, "value": "sound" },
+          { "id": 4, "value": "light" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "harm",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The chemicals in the water can _______ the local wildlife if not treated properly.",
+        "answers": [
+          { "id": 1, "value": "harm" },
+          { "id": 2, "value": "help" },
+          { "id": 3, "value": "protect" },
+          { "id": 4, "value": "support" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lay",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She will _______ the book on the table after reading it.",
+        "answers": [
+          { "id": 1, "value": "lay" },
+          { "id": 2, "value": "pick" },
+          { "id": 3, "value": "throw" },
+          { "id": 4, "value": "hide" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "peace",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After years of conflict, the countries finally signed a treaty to ensure lasting _______.",
+        "answers": [
+          { "id": 1, "value": "peace" },
+          { "id": 2, "value": "war" },
+          { "id": 3, "value": "conflict" },
+          { "id": 4, "value": "struggle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "prince",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ of the kingdom was known for his bravery and kindness.",
+        "answers": [
+          { "id": 1, "value": "prince" },
+          { "id": 2, "value": "knight" },
+          { "id": 3, "value": "king" },
+          { "id": 4, "value": "lord" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "protect",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The guard was hired to _______ the palace from any potential threats.",
+        "answers": [
+          { "id": 1, "value": "protect" },
+          { "id": 2, "value": "destroy" },
+          { "id": 3, "value": "harm" },
+          { "id": 4, "value": "attack" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sense",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She could not make _______ of the complicated instructions.",
+        "answers": [
+          { "id": 1, "value": "sense" },
+          { "id": 2, "value": "sense" },
+          { "id": 3, "value": "noise" },
+          { "id": 4, "value": "vision" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sudden",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There was a _______ change in the weather, and the skies turned dark within minutes.",
+        "answers": [
+          { "id": 1, "value": "sudden" },
+          { "id": 2, "value": "predictable" },
+          { "id": 3, "value": "calm" },
+          { "id": 4, "value": "gradual" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "therefore",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He was late for the meeting; _______ he missed the important announcement.",
+        "answers": [
+          { "id": 1, "value": "therefore" },
+          { "id": 2, "value": "however" },
+          { "id": 3, "value": "despite" },
+          { "id": 4, "value": "because" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]
