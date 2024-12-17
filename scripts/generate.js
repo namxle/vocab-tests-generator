@@ -119,7 +119,7 @@ async function run() {
     case tests.all_reading_daily:
       for (let day = start; day <= end; day++) {
         // Logic data
-        let logicDayData = logicData.find((item) => item.day == day)['data'];
+        let readingDayData = logicData.find((item) => item.day == day)['data'];
         console.log();
         console.log(`Day: ${day}.`);
 
