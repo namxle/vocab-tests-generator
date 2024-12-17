@@ -13,6 +13,7 @@ const readingScript = require('./reading');
 const CWD = process.cwd();
 const tests = {
   all_daily: 'All Daily',
+  all_reading_daily: 'All Reading',
   daily: 'Daily',
   weekly: 'Weekly',
   unit: 'Unit',
@@ -112,6 +113,27 @@ async function run() {
 
         // Convert to Canvas test format
         formatedTest = meaningScript.convertToTestFormat(finalResult.testData);
+        fs.writeFileSync(outputFile + day + '.txt', formatedTest, 'utf-8');
+      }
+      break;
+    case tests.all_reading_daily:
+      for (let day = start; day <= end; day++) {
+        // Logic data
+        let logicDayData = logicData.find((item) => item.day == day)['data'];
+        console.log();
+        console.log(`Day: ${day}.`);
+
+        const readingResult = readingScript.generateReadingTestData(
+          [readingDayData],
+          1,
+        );
+
+        // Convert to Canvas test format
+        formatedTest = helperScript.generateCombinedTestFormat(
+          [],
+          [],
+          readingResult,
+        );
         fs.writeFileSync(outputFile + day + '.txt', formatedTest, 'utf-8');
       }
       break;
