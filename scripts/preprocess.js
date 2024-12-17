@@ -1,5 +1,5 @@
 const fs = require('fs');
-const inquirer = require('inquirer');
+// const inquirer = require('inquirer');
 
 // Import scripts
 const logicScript = require('./logic');
