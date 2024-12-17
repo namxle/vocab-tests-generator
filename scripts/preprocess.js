@@ -1,4 +1,5 @@
 const fs = require('fs');
+const inquirer = require('inquirer');
 
 // Import scripts
 const logicScript = require('./logic');
@@ -6,6 +7,32 @@ const helperScript = require('./helper');
 
 // Constants
 const CWD = process.cwd();
+
+// const mainQuestions = [
+//   {
+//     type: 'input',
+//     name: 'outfile',
+//     message: 'Enter LEVEL:',
+//     validate: (value) => {
+//       if (value && value.trim() != '') {
+//         return true;
+//       }
+//       return 'LEVEL cannot be empty or just spaces.';
+//     },
+//   },
+//   {
+//     type: 'list',
+//     name: 'inputTest',
+//     message: 'Select type of test to be generated:',
+//     choices: Object.values(tests),
+//   },
+//   {
+//     type: 'list',
+//     name: 'inputLevel',
+//     message: 'Select level:',
+//     choices: possibleLevels,
+//   },
+// ];
 
 const LEVEL = 'B2';
 const SUB_LEVEL = 'L1';
@@ -109,6 +136,10 @@ function processSourceFiles(files) {
     // If sub level is custom level then we have another type to mark the data
     let elements, fileLevel, fileSubLevel, fileDay;
 
+    if (fileName == '.DS_Store') {
+      return;
+    }
+
     if (SUB_LEVEL == 'CUSTOM') {
       fileDay = fileName.split('.json')[0];
     } else {
@@ -120,7 +151,9 @@ function processSourceFiles(files) {
 
     // Read data
     const filePath = `${sourcesDir}/${fileName}`;
-    const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    const fileData = JSON.parse(
+      fs.readFileSync(filePath, 'utf-8').replace(/\n/g, ''),
+    );
 
     let finalData = null;
 
