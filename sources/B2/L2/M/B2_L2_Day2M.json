@@ -1,0 +1,182 @@
+[
+  {
+    "word": "highlands",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The scenic _______ are known for their breathtaking views and cool climate.",
+        "answers": [
+          { "id": 1, "value": "highlands" },
+          { "id": 2, "value": "lowlands" },
+          { "id": 3, "value": "deserts" },
+          { "id": 4, "value": "oceans" },
+          { "id": 5, "value": "forests" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mill",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The old _______ was used to grind wheat into flour for the villagers.",
+        "answers": [
+          { "id": 1, "value": "mill" },
+          { "id": 2, "value": "bakery" },
+          { "id": 3, "value": "warehouse" },
+          { "id": 4, "value": "farm" },
+          { "id": 5, "value": "barn" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ivory",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The statue was carved from a single piece of _______.",
+        "answers": [
+          { "id": 1, "value": "ivory" },
+          { "id": 2, "value": "diamond" },
+          { "id": 3, "value": "sand" },
+          { "id": 4, "value": "fabric" },
+          { "id": 5, "value": "paper" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "needle",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She carefully threaded the _______ to start sewing the fabric.",
+        "answers": [
+          { "id": 1, "value": "needle" },
+          { "id": 2, "value": "thread" },
+          { "id": 3, "value": "pin" },
+          { "id": 4, "value": "scissors" },
+          { "id": 5, "value": "button" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "polish",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He used a soft cloth to _______ the silverware until it shone.",
+        "answers": [
+          { "id": 1, "value": "polish" },
+          { "id": 2, "value": "clean" },
+          { "id": 3, "value": "wash" },
+          { "id": 4, "value": "scrub" },
+          { "id": 5, "value": "dry" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sew",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She learned to _______ her own clothes using her grandmother’s sewing machine.",
+        "answers": [
+          { "id": 1, "value": "sew" },
+          { "id": 2, "value": "knit" },
+          { "id": 3, "value": "stitch" },
+          { "id": 4, "value": "patch" },
+          { "id": 5, "value": "cut" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shed",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The tools were stored in a small wooden _______ behind the house.",
+        "answers": [
+          { "id": 1, "value": "shed" },
+          { "id": 2, "value": "garage" },
+          { "id": 3, "value": "barn" },
+          { "id": 4, "value": "basement" },
+          { "id": 5, "value": "attic" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "thread",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The spool of _______ was almost empty after she finished sewing.",
+        "answers": [
+          { "id": 1, "value": "thread" },
+          { "id": 2, "value": "string" },
+          { "id": 3, "value": "yarn" },
+          { "id": 4, "value": "cord" },
+          { "id": 5, "value": "rope" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "trim",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The gardener used scissors to _______ the hedge into a neat shape.",
+        "answers": [
+          { "id": 1, "value": "trim" },
+          { "id": 2, "value": "slice" },
+          { "id": 3, "value": "prune" },
+          { "id": 4, "value": "shape" },
+          { "id": 5, "value": "chop" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "upwards",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The smoke from the fire rose _______ into the evening sky.",
+        "answers": [
+          { "id": 1, "value": "upwards" },
+          { "id": 2, "value": "downwards" },
+          { "id": 3, "value": "outwards" },
+          { "id": 4, "value": "sideways" },
+          { "id": 5, "value": "backwards" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

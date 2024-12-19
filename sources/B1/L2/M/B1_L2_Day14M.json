@@ -1,0 +1,172 @@
+[
+  {
+    "word": "novel",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She spent her weekend reading an exciting _______ about a detective solving mysteries.",
+        "answers": [
+          { "id": 1, "value": "novel" },
+          { "id": 2, "value": "article" },
+          { "id": 3, "value": "poem" },
+          { "id": 4, "value": "report" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "outline",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Before writing the essay, he prepared an _______ to organize his ideas.",
+        "answers": [
+          { "id": 1, "value": "outline" },
+          { "id": 2, "value": "summary" },
+          { "id": 3, "value": "list" },
+          { "id": 4, "value": "sketch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "poet",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The famous _______ - Xuan Dieu wrote beautiful verses about love and nature.",
+        "answers": [
+          { "id": 1, "value": "poet" },
+          { "id": 2, "value": "author" },
+          { "id": 3, "value": "painter" },
+          { "id": 4, "value": "musician" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "print",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher asked the students to _______ their essays and bring them to class.",
+        "answers": [
+          { "id": 1, "value": "print" },
+          { "id": 2, "value": "draw" },
+          { "id": 3, "value": "call" },
+          { "id": 4, "value": "send" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scene",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The opening _______ of the movie showed a beautiful sunrise over the mountains.",
+        "answers": [
+          { "id": 1, "value": "scene" },
+          { "id": 2, "value": "story" },
+          { "id": 3, "value": "setting" },
+          { "id": 4, "value": "moment" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sheet",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He wrote his answers on a blank _______ of paper provided by the teacher.",
+        "answers": [
+          { "id": 1, "value": "sheet" },
+          { "id": 2, "value": "book" },
+          { "id": 3, "value": "board" },
+          { "id": 4, "value": "file" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "silly",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children laughed at the clown’s _______ jokes during the show.",
+        "answers": [
+          { "id": 1, "value": "silly" },
+          { "id": 2, "value": "serious" },
+          { "id": 3, "value": "boring" },
+          { "id": 4, "value": "clever" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "store",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We went to the _______ to buy some groceries for dinner.",
+        "answers": [
+          { "id": 1, "value": "store" },
+          { "id": 2, "value": "bank" },
+          { "id": 3, "value": "school" },
+          { "id": 4, "value": "office" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "suffer",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Many people _______ from allergies during the spring season.",
+        "answers": [
+          { "id": 1, "value": "suffer" },
+          { "id": 2, "value": "recover" },
+          { "id": 3, "value": "benefit" },
+          { "id": 4, "value": "enjoy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "technology",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Advancements in _______ have made communication faster and more efficient.",
+        "answers": [
+          { "id": 1, "value": "technology" },
+          { "id": 2, "value": "science" },
+          { "id": 3, "value": "education" },
+          { "id": 4, "value": "medicine" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

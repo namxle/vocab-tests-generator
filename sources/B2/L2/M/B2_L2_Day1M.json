@@ -1,0 +1,182 @@
+[
+  {
+    "word": "anniversary",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They celebrated their wedding _______ with a special dinner.",
+        "answers": [
+          { "id": 1, "value": "anniversary" },
+          { "id": 2, "value": "holiday" },
+          { "id": 3, "value": "announcement" },
+          { "id": 4, "value": "occasion" },
+          { "id": 5, "value": "gathering" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "arithmetic",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Basic _______ is taught in elementary school, including addition and subtraction.",
+        "answers": [
+          { "id": 1, "value": "arithmetic" },
+          { "id": 2, "value": "literature" },
+          { "id": 3, "value": "chemistry" },
+          { "id": 4, "value": "science" },
+          { "id": 5, "value": "reading" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ashamed",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He felt _______ of his rude behavior during the meeting.",
+        "answers": [
+          { "id": 1, "value": "ashamed" },
+          { "id": 2, "value": "proud" },
+          { "id": 3, "value": "happy" },
+          { "id": 4, "value": "relieved" },
+          { "id": 5, "value": "excited" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "burst",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The balloon suddenly _______ when it touched the sharp edge.",
+        "answers": [
+          { "id": 1, "value": "burst" },
+          { "id": 2, "value": "popped" },
+          { "id": 3, "value": "fell" },
+          { "id": 4, "value": "bounced" },
+          { "id": 5, "value": "tore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "carpenter",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ made a beautiful table out of solid oak wood.",
+        "answers": [
+          { "id": 1, "value": "carpenter" },
+          { "id": 2, "value": "blacksmith" },
+          { "id": 3, "value": "plumber" },
+          { "id": 4, "value": "painter" },
+          { "id": 5, "value": "builder" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "coal",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The train was powered by burning _______ in its engine.",
+        "answers": [
+          { "id": 1, "value": "coal" },
+          { "id": 2, "value": "wood" },
+          { "id": 3, "value": "water" },
+          { "id": 4, "value": "paper" },
+          { "id": 5, "value": "metal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "couch",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She lay down on the _______ to take a short nap.",
+        "answers": [
+          { "id": 1, "value": "couch" },
+          { "id": 2, "value": "chair" },
+          { "id": 3, "value": "shelf" },
+          { "id": 4, "value": "table" },
+          { "id": 5, "value": "stool" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "drip",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Water began to _______ from the faucet, making a soft sound.",
+        "answers": [
+          { "id": 1, "value": "drip" },
+          { "id": 2, "value": "fall" },
+          { "id": 3, "value": "pour" },
+          { "id": 4, "value": "splash" },
+          { "id": 5, "value": "spill" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "elegant",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She looked _______ in her long evening gown at the gala.",
+        "answers": [
+          { "id": 1, "value": "elegant" },
+          { "id": 2, "value": "messy" },
+          { "id": 3, "value": "casual" },
+          { "id": 4, "value": "shabby" },
+          { "id": 5, "value": "plain" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fabric",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She chose a soft _______ to sew her new curtains.",
+        "answers": [
+          { "id": 1, "value": "fabric" },
+          { "id": 2, "value": "thread" },
+          { "id": 3, "value": "pillow" },
+          { "id": 4, "value": "clothes" },
+          { "id": 5, "value": "silk" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

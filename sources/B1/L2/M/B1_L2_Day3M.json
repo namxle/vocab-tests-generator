@@ -1,0 +1,172 @@
+[
+  {
+    "word": "against",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team played _______ a strong opponent in the final match.",
+        "answers": [
+          { "id": 1, "value": "against" },
+          { "id": 2, "value": "with" },
+          { "id": 3, "value": "for" },
+          { "id": 4, "value": "beside" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "beach",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They spent the entire day relaxing on the sandy _______ under the sun.",
+        "answers": [
+          { "id": 1, "value": "beach" },
+          { "id": 2, "value": "shore" },
+          { "id": 3, "value": "cliff" },
+          { "id": 4, "value": "field" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "damage",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The storm caused severe _______ to the buildings in the area.",
+        "answers": [
+          { "id": 1, "value": "damage" },
+          { "id": 2, "value": "improvement" },
+          { "id": 3, "value": "protection" },
+          { "id": 4, "value": "help" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "discover",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The scientists hope to _______ a cure for the disease soon.",
+        "answers": [
+          { "id": 1, "value": "discover" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "destroy" },
+          { "id": 4, "value": "lose" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "emotion",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her voice was filled with _______ as she thanked everyone for their support.",
+        "answers": [
+          { "id": 1, "value": "emotion" },
+          { "id": 2, "value": "anger" },
+          { "id": 3, "value": "calmness" },
+          { "id": 4, "value": "confusion" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fix",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He tried to _______ the broken chair before the guests arrived.",
+        "answers": [
+          { "id": 1, "value": "fix" },
+          { "id": 2, "value": "break" },
+          { "id": 3, "value": "throw" },
+          { "id": 4, "value": "sell" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "frank",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "To be _______ with you, I think this project needs more work before it's ready.",
+        "answers": [
+          { "id": 1, "value": "frank" },
+          { "id": 2, "value": "rude" },
+          { "id": 3, "value": "kind" },
+          { "id": 4, "value": "silent" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "identify",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The witness was able to _______ the suspect from a lineup.",
+        "answers": [
+          { "id": 1, "value": "identify" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "avoid" },
+          { "id": 4, "value": "forget" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "island",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They spent their vacation on a beautiful _______ surrounded by clear blue water.",
+        "answers": [
+          { "id": 1, "value": "island" },
+          { "id": 2, "value": "forest" },
+          { "id": 3, "value": "desert" },
+          { "id": 4, "value": "valley" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ocean",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ship sailed across the vast _______ for weeks.",
+        "answers": [
+          { "id": 1, "value": "ocean" },
+          { "id": 2, "value": "lake" },
+          { "id": 3, "value": "river" },
+          { "id": 4, "value": "pond" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

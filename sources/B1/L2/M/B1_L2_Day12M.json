@@ -1,0 +1,172 @@
+[
+  {
+    "word": "increase",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company plans to _______ production to meet the growing demand.",
+        "answers": [
+          { "id": 1, "value": "increase" },
+          { "id": 2, "value": "reduce" },
+          { "id": 3, "value": "maintain" },
+          { "id": 4, "value": "stop" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "lord",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ of the castle was known for his generosity to the villagers.",
+        "answers": [
+          { "id": 1, "value": "lord" },
+          { "id": 2, "value": "queen" },
+          { "id": 3, "value": "knight" },
+          { "id": 4, "value": "servant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "owe",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I _______ him $20 for the groceries he bought for me last week.",
+        "answers": [
+          { "id": 1, "value": "owe" },
+          { "id": 2, "value": "borrow" },
+          { "id": 3, "value": "pay" },
+          { "id": 4, "value": "lend" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "position",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her new job offered her a higher _______ with more responsibilities.",
+        "answers": [
+          { "id": 1, "value": "position" },
+          { "id": 2, "value": "salary" },
+          { "id": 3, "value": "role" },
+          { "id": 4, "value": "title" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "raise",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He asked his employer for a _______ because of his excellent performance.",
+        "answers": [
+          { "id": 1, "value": "raise" },
+          { "id": 2, "value": "increase" },
+          { "id": 3, "value": "decrease" },
+          { "id": 4, "value": "transfer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "responsible",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "As team leader, she is _______ for ensuring the project is completed on time.",
+        "answers": [
+          { "id": 1, "value": "responsible" },
+          { "id": 2, "value": "careless" },
+          { "id": 3, "value": "unaware" },
+          { "id": 4, "value": "dependent" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sight",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The beautiful mountain view was a breathtaking _______ to behold.",
+        "answers": [
+          { "id": 1, "value": "sight" },
+          { "id": 2, "value": "scene" },
+          { "id": 3, "value": "sound" },
+          { "id": 4, "value": "memory" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "spot",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This is the perfect _______ for a picnic, with plenty of shade and grass.",
+        "answers": [
+          { "id": 1, "value": "spot" },
+          { "id": 2, "value": "place" },
+          { "id": 3, "value": "area" },
+          { "id": 4, "value": "location" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "structure",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The old bridge is a historical _______ that attracts many tourists.",
+        "answers": [
+          { "id": 1, "value": "structure" },
+          { "id": 2, "value": "building" },
+          { "id": 3, "value": "monument" },
+          { "id": 4, "value": "design" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "whole",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He ate the entire cake by himself, leaving not a single slice for anyone else.",
+        "answers": [
+          { "id": 1, "value": "whole" },
+          { "id": 2, "value": "half" },
+          { "id": 3, "value": "part" },
+          { "id": 4, "value": "piece" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

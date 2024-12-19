@@ -1,0 +1,182 @@
+[
+  {
+    "word": "absence",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her repeated _______ from school caused concern among the teachers.",
+        "answers": [
+          { "id": 1, "value": "absence" },
+          { "id": 2, "value": "presence" },
+          { "id": 3, "value": "concentration" },
+          { "id": 4, "value": "attendance" },
+          { "id": 5, "value": "participation" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "aloud",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please read the instructions _______ so everyone can hear them.",
+        "answers": [
+          { "id": 1, "value": "aloud" },
+          { "id": 2, "value": "quietly" },
+          { "id": 3, "value": "softly" },
+          { "id": 4, "value": "silently" },
+          { "id": 5, "value": "calmly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bald",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The man was completely _______ and didn’t have a single hair on his head.",
+        "answers": [
+          { "id": 1, "value": "bald" },
+          { "id": 2, "value": "shaved" },
+          { "id": 3, "value": "old" },
+          { "id": 4, "value": "gray" },
+          { "id": 5, "value": "smooth" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "blanket",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She wrapped herself in a warm _______ to stay cozy on the couch.",
+        "answers": [
+          { "id": 1, "value": "blanket" },
+          { "id": 2, "value": "pillow" },
+          { "id": 3, "value": "sheet" },
+          { "id": 4, "value": "curtain" },
+          { "id": 5, "value": "coat" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "creep",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He tried to _______ quietly into the room so he wouldn’t wake anyone.",
+        "answers": [
+          { "id": 1, "value": "creep" },
+          { "id": 2, "value": "fly" },
+          { "id": 3, "value": "run" },
+          { "id": 4, "value": "stomp" },
+          { "id": 5, "value": "sneak" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "divorce",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The couple decided to get a _______ after years of disagreements.",
+        "answers": [
+          { "id": 1, "value": "divorce" },
+          { "id": 2, "value": "reunion" },
+          { "id": 3, "value": "anniversary" },
+          { "id": 4, "value": "marriage" },
+          { "id": 5, "value": "agreement" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "imitate",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The parrot can _______ human speech very accurately.",
+        "answers": [
+          { "id": 1, "value": "imitate" },
+          { "id": 2, "value": "encourage" },
+          { "id": 3, "value": "sing" },
+          { "id": 4, "value": "mock" },
+          { "id": 5, "value": "see" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "infant",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The nurse gently held the _______ and fed him a bottle of milk.",
+        "answers": [
+          { "id": 1, "value": "infant" },
+          { "id": 2, "value": "woman" },
+          { "id": 3, "value": "pet" },
+          { "id": 4, "value": "children" },
+          { "id": 5, "value": "teenager" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "kidnap",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He is very wealthy and lives in fear of his children being _______.",
+        "answers": [
+          { "id": 1, "value": "kidnapped" },
+          { "id": 2, "value": "robbed" },
+          { "id": 3, "value": "excited" },
+          { "id": 4, "value": "admired" },
+          { "id": 5, "value": "chased" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "nap",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He took a quick _______ on the sofa before returning to work.",
+        "answers": [
+          { "id": 1, "value": "nap" },
+          { "id": 2, "value": "lesson" },
+          { "id": 3, "value": "glance" },
+          { "id": 4, "value": "smile" },
+          { "id": 5, "value": "pause" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

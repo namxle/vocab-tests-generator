@@ -1,0 +1,182 @@
+[
+  {
+    "word": "apprentice",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The carpenter taught his _______ how to properly use the tools.",
+        "answers": [
+          { "id": 1, "value": "apprentice" },
+          { "id": 2, "value": "blacksmith" },
+          { "id": 3, "value": "teacher" },
+          { "id": 4, "value": "craftsman" },
+          { "id": 5, "value": "manager" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "assure",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I can _______ you that the package will arrive on time.",
+        "answers": [
+          { "id": 1, "value": "assure" },
+          { "id": 2, "value": "encourage" },
+          { "id": 3, "value": "imply" },
+          { "id": 4, "value": "persuade" },
+          { "id": 5, "value": "convince" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bandage",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The nurse carefully wrapped a _______ around his injured hand.",
+        "answers": [
+          { "id": 1, "value": "bandage" },
+          { "id": 2, "value": "cloth" },
+          { "id": 3, "value": "tape" },
+          { "id": 4, "value": "gauze" },
+          { "id": 5, "value": "pad" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bleed",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "If you cut yourself, the wound might _______ for a few minutes.",
+        "answers": [
+          { "id": 1, "value": "bleed" },
+          { "id": 2, "value": "sick" },
+          { "id": 3, "value": "ail" },
+          { "id": 4, "value": "sting" },
+          { "id": 5, "value": "bruise" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bond",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The siblings share a strong _______ that has grown over the years.",
+        "answers": [
+          { "id": 1, "value": "bond" },
+          { "id": 2, "value": "brother" },
+          { "id": 3, "value": "quarrel" },
+          { "id": 4, "value": "friendship" },
+          { "id": 5, "value": "tie" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chef",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The restaurant’s head _______ is famous for creating delicious desserts.",
+        "answers": [
+          { "id": 1, "value": "chef" },
+          { "id": 2, "value": "boss" },
+          { "id": 3, "value": "manager" },
+          { "id": 4, "value": "waiter" },
+          { "id": 5, "value": "host" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "crown",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The king placed the golden _______ on his head during the ceremony.",
+        "answers": [
+          { "id": 1, "value": "crown" },
+          { "id": 2, "value": "hat" },
+          { "id": 3, "value": "helmet" },
+          { "id": 4, "value": "cap" },
+          { "id": 5, "value": "diadem" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "departure",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The flight’s _______ has been delayed due to bad weather.",
+        "answers": [
+          { "id": 1, "value": "departure" },
+          { "id": 2, "value": "journey" },
+          { "id": 3, "value": "airport" },
+          { "id": 4, "value": "luggage" },
+          { "id": 5, "value": "route" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "diligent",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She is a very _______ student who always completes her assignments on time.",
+        "answers": [
+          { "id": 1, "value": "diligent" },
+          { "id": 2, "value": "lazy" },
+          { "id": 3, "value": "careless" },
+          { "id": 4, "value": "quick" },
+          { "id": 5, "value": "forgetful" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "emperor",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ancient _______ ruled over a vast and powerful empire.",
+        "answers": [
+          { "id": 1, "value": "emperor" },
+          { "id": 2, "value": "manager" },
+          { "id": 3, "value": "ruler" },
+          { "id": 4, "value": "general" },
+          { "id": 5, "value": "leader" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

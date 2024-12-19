@@ -1,0 +1,172 @@
+[
+  {
+    "word": "benefit",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "One major _______ of regular exercise is improved mental health.",
+        "answers": [
+          { "id": 1, "value": "benefit" },
+          { "id": 2, "value": "problem" },
+          { "id": 3, "value": "challenge" },
+          { "id": 4, "value": "difficulty" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "certain",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I’m not _______ about the exact time, but the meeting is in the afternoon.",
+        "answers": [
+          { "id": 1, "value": "certain" },
+          { "id": 2, "value": "confused" },
+          { "id": 3, "value": "unsure" },
+          { "id": 4, "value": "wrong" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "chance",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She took a _______ and applied for her dream job, even though it was risky.",
+        "answers": [
+          { "id": 1, "value": "chance" },
+          { "id": 2, "value": "loss" },
+          { "id": 3, "value": "step" },
+          { "id": 4, "value": "pause" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "effect",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The new law will have a significant _______ on local businesses.",
+        "answers": [
+          { "id": 1, "value": "effect" },
+          { "id": 2, "value": "result" },
+          { "id": 3, "value": "cause" },
+          { "id": 4, "value": "problem" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "essential",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Water is _______ for all living things to survive.",
+        "answers": [
+          { "id": 1, "value": "essential" },
+          { "id": 2, "value": "unnecessary" },
+          { "id": 3, "value": "optional" },
+          { "id": 4, "value": "harmful" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "far",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The island is located very _______ from the mainland, we have to take a 30 minutes boat in order to arrive.",
+        "answers": [
+          { "id": 1, "value": "far" },
+          { "id": 2, "value": "close" },
+          { "id": 3, "value": "near" },
+          { "id": 4, "value": "above" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "focus",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He needs to _______ more on his studies to improve his grades.",
+        "answers": [
+          { "id": 1, "value": "focus" },
+          { "id": 2, "value": "relax" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "stop" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "function",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The main _______ of the heart is to pump blood throughout the body.",
+        "answers": [
+          { "id": 1, "value": "function" },
+          { "id": 2, "value": "role" },
+          { "id": 3, "value": "purpose" },
+          { "id": 4, "value": "task" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "grass",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children played on the soft green _______ in the park.",
+        "answers": [
+          { "id": 1, "value": "grass" },
+          { "id": 2, "value": "ground" },
+          { "id": 3, "value": "soil" },
+          { "id": 4, "value": "sand" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "guard",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The museum hired a security officer to _______ the valuable artifacts.",
+        "answers": [
+          { "id": 1, "value": "guard" },
+          { "id": 2, "value": "sell" },
+          { "id": 3, "value": "exhibit" },
+          { "id": 4, "value": "hide" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

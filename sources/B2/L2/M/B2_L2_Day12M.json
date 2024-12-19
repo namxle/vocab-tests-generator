@@ -1,0 +1,182 @@
+[
+  {
+    "word": "millionaire",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He became a _______ after inventing a popular smartphone app.",
+        "answers": [
+          { "id": 1, "value": "millionaire" },
+          { "id": 2, "value": "beggar" },
+          { "id": 3, "value": "worker" },
+          { "id": 4, "value": "banker" },
+          { "id": 5, "value": "doctor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "port",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ship docked at the _______ to unload its cargo.",
+        "answers": [
+          { "id": 1, "value": "port" },
+          { "id": 2, "value": "ocean" },
+          { "id": 3, "value": "stop" },
+          { "id": 4, "value": "prison" },
+          { "id": 5, "value": "station" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sheriff",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ was responsible for maintaining law and order in the town.",
+        "answers": [
+          { "id": 1, "value": "sheriff" },
+          { "id": 2, "value": "judge" },
+          { "id": 3, "value": "lawyer" },
+          { "id": 4, "value": "officer" },
+          { "id": 5, "value": "detective" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "startle",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The loud noise from the firecracker was enough to _______ the baby.",
+        "answers": [
+          { "id": 1, "value": "startle" },
+          { "id": 2, "value": "calm" },
+          { "id": 3, "value": "soothe" },
+          { "id": 4, "value": "relax" },
+          { "id": 5, "value": "amuse" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sweat",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After running a marathon, he was covered in _______.",
+        "answers": [
+          { "id": 1, "value": "sweat" },
+          { "id": 2, "value": "water" },
+          { "id": 3, "value": "dust" },
+          { "id": 4, "value": "rain" },
+          { "id": 5, "value": "heat" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "trigger",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He accidentally pulled the _______ of the gun while cleaning it.",
+        "answers": [
+          { "id": 1, "value": "trigger" },
+          { "id": 2, "value": "handle" },
+          { "id": 3, "value": "barrel" },
+          { "id": 4, "value": "grip" },
+          { "id": 5, "value": "safety" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "unify",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The leader's goal was to _______ the country after years of conflict.",
+        "answers": [
+          { "id": 1, "value": "unify" },
+          { "id": 2, "value": "divide" },
+          { "id": 3, "value": "separate" },
+          { "id": 4, "value": "weaken" },
+          { "id": 5, "value": "scatter" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "vessel",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ancient _______ was made of clay and used to store water.",
+        "answers": [
+          { "id": 1, "value": "vessel" },
+          { "id": 2, "value": "container" },
+          { "id": 3, "value": "can" },
+          { "id": 4, "value": "bucket" },
+          { "id": 5, "value": "box" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "voyage",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The explorers went on a long _______ to discover new lands.",
+        "answers": [
+          { "id": 1, "value": "voyage" },
+          { "id": 2, "value": "transport" },
+          { "id": 3, "value": "communication" },
+          { "id": 4, "value": "trip" },
+          { "id": 5, "value": "cruise" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "worship",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The temple is a place where people come to _______ their gods.",
+        "answers": [
+          { "id": 1, "value": "worship" },
+          { "id": 2, "value": "pray" },
+          { "id": 3, "value": "honor" },
+          { "id": 4, "value": "respect" },
+          { "id": 5, "value": "admire" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

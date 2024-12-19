@@ -1,0 +1,182 @@
+[
+  {
+    "word": "nowhere",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "_______ does the article mention the names of the people involved.",
+        "answers": [
+          { "id": 1, "value": "nowhere" },
+          { "id": 2, "value": "nobody" },
+          { "id": 3, "value": "everyone" },
+          { "id": 4, "value": "anywhere" },
+          { "id": 5, "value": "anyplace" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pat",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She gave the dog a gentle _______ on the head for being good.",
+        "answers": [
+          { "id": 1, "value": "pat" },
+          { "id": 2, "value": "hit" },
+          { "id": 3, "value": "pull" },
+          { "id": 4, "value": "push" },
+          { "id": 5, "value": "rub" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "relief",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She felt a sense of _______ after finishing the difficult exam.",
+        "answers": [
+          { "id": 1, "value": "relief" },
+          { "id": 2, "value": "stress" },
+          { "id": 3, "value": "pressure" },
+          { "id": 4, "value": "anxiety" },
+          { "id": 5, "value": "worry" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "reproduce",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Some animals can _______ rapidly under the right conditions.",
+        "answers": [
+          { "id": 1, "value": "reproduce" },
+          { "id": 2, "value": "recycle" },
+          { "id": 3, "value": "move" },
+          { "id": 4, "value": "migrate" },
+          { "id": 5, "value": "hunt" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rhyme",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The poet wrote a short _______ about the beauty of the spring.",
+        "answers": [
+          { "id": 1, "value": "rhyme" },
+          { "id": 2, "value": "story" },
+          { "id": 3, "value": "song" },
+          { "id": 4, "value": "essay" },
+          { "id": 5, "value": "line" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "suck",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The baby started to _______ on the bottle as soon as it was given.",
+        "answers": [
+          { "id": 1, "value": "suck" },
+          { "id": 2, "value": "bite" },
+          { "id": 3, "value": "chew" },
+          { "id": 4, "value": "sip" },
+          { "id": 5, "value": "hold" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "urgent",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He received an _______ message to call his boss immediately.",
+        "answers": [
+          { "id": 1, "value": "urgent" },
+          { "id": 2, "value": "advanced" },
+          { "id": 3, "value": "casual" },
+          { "id": 4, "value": "optional" },
+          { "id": 5, "value": "ordinary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "vanish",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The magician made the rabbit _______ right before the audience’s eyes.",
+        "answers": [
+          { "id": 1, "value": "vanish" },
+          { "id": 2, "value": "sleep" },
+          { "id": 3, "value": "eat" },
+          { "id": 4, "value": "smile" },
+          { "id": 5, "value": "move" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wagon",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The farmer loaded the _______ with hay to take it to the barn.",
+        "answers": [
+          { "id": 1, "value": "wagon" },
+          { "id": 2, "value": "carriage" },
+          { "id": 3, "value": "cart" },
+          { "id": 4, "value": "truck" },
+          { "id": 5, "value": "trailer" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wrinkle",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She noticed a small _______ on her dress and decided to iron it out.",
+        "answers": [
+          { "id": 1, "value": "wrinkle" },
+          { "id": 2, "value": "stain" },
+          { "id": 3, "value": "tear" },
+          { "id": 4, "value": "mark" },
+          { "id": 5, "value": "crease" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

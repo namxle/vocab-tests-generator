@@ -1,0 +1,182 @@
+[
+  {
+    "word": "ail",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He visited the doctor to find out what might _______ him.",
+        "answers": [
+          { "id": 1, "value": "ail" },
+          { "id": 2, "value": "help" },
+          { "id": 3, "value": "heal" },
+          { "id": 4, "value": "benefit" },
+          { "id": 5, "value": "fix" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ally",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The two countries formed an _______ to support each other in war.",
+        "answers": [
+          { "id": 1, "value": "ally" },
+          { "id": 2, "value": "enemy" },
+          { "id": 3, "value": "opponent" },
+          { "id": 4, "value": "rival" },
+          { "id": 5, "value": "adversary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "boast",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He couldn’t stop _______ about his new car to his friends.",
+        "answers": [
+          { "id": 1, "value": "boasting" },
+          { "id": 2, "value": "complaining" },
+          { "id": 3, "value": "hiding" },
+          { "id": 4, "value": "ignoring" },
+          { "id": 5, "value": "whispering" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bounce",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The basketball began to _______ as soon as it hit the ground.",
+        "answers": [
+          { "id": 1, "value": "bounce" },
+          { "id": 2, "value": "drip" },
+          { "id": 3, "value": "fall" },
+          { "id": 4, "value": "spin" },
+          { "id": 5, "value": "slide" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bully",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The school has a strict policy to protect students from any _______.",
+        "answers": [
+          { "id": 1, "value": "bully" },
+          { "id": 2, "value": "teacher" },
+          { "id": 3, "value": "friend" },
+          { "id": 4, "value": "helper" },
+          { "id": 5, "value": "guide" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "carbohydrate",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Foods rich in _______ include bread, rice, and pasta.",
+        "answers": [
+          { "id": 1, "value": "carbohydrates" },
+          { "id": 2, "value": "proteins" },
+          { "id": 3, "value": "fats" },
+          { "id": 4, "value": "vitamins" },
+          { "id": 5, "value": "minerals" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "crawl",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The baby started to _______ across the floor to reach her toy.",
+        "answers": [
+          { "id": 1, "value": "crawl" },
+          { "id": 2, "value": "walk" },
+          { "id": 3, "value": "run" },
+          { "id": 4, "value": "jump" },
+          { "id": 5, "value": "slide" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "defeat",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team managed to _______ their opponents in the final match.",
+        "answers": [
+          { "id": 1, "value": "defeat" },
+          { "id": 2, "value": "join" },
+          { "id": 3, "value": "help" },
+          { "id": 4, "value": "support" },
+          { "id": 5, "value": "follow" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dial",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He adjusted the _______ on his watch to set the correct time.",
+        "answers": [
+          { "id": 1, "value": "dial" },
+          { "id": 2, "value": "needle" },
+          { "id": 3, "value": "view" },
+          { "id": 4, "value": "strap" },
+          { "id": 5, "value": "case" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dominant",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "English is the _______ language in many international business settings.",
+        "answers": [
+          { "id": 1, "value": "dominant" },
+          { "id": 2, "value": "minor" },
+          { "id": 3, "value": "optional" },
+          { "id": 4, "value": "secondary" },
+          { "id": 5, "value": "emerging" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

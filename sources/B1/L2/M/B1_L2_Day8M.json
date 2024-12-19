@@ -1,0 +1,172 @@
+[
+  {
+    "word": "ground",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children sat on the _______ to play their favorite outdoor game.",
+        "answers": [
+          { "id": 1, "value": "ground" },
+          { "id": 2, "value": "table" },
+          { "id": 3, "value": "chair" },
+          { "id": 4, "value": "roof" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "introduce",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Let me _______ you to my colleague, who will assist you with your project.",
+        "answers": [
+          { "id": 1, "value": "introduce" },
+          { "id": 2, "value": "meet" },
+          { "id": 3, "value": "explain" },
+          { "id": 4, "value": "dismiss" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "marry",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They decided to _______ after being together for several years.",
+        "answers": [
+          { "id": 1, "value": "marry" },
+          { "id": 2, "value": "separate" },
+          { "id": 3, "value": "argue" },
+          { "id": 4, "value": "leave" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "prepare",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The students worked hard to _______ for their final exams.",
+        "answers": [
+          { "id": 1, "value": "prepare" },
+          { "id": 2, "value": "avoid" },
+          { "id": 3, "value": "postpone" },
+          { "id": 4, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sail",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They plan to _______ across the ocean to visit a distant island.",
+        "answers": [
+          { "id": 1, "value": "sail" },
+          { "id": 2, "value": "drive" },
+          { "id": 3, "value": "walk" },
+          { "id": 4, "value": "fly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "serious",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This is a _______ issue that requires immediate attention.",
+        "answers": [
+          { "id": 1, "value": "serious" },
+          { "id": 2, "value": "funny" },
+          { "id": 3, "value": "simple" },
+          { "id": 4, "value": "minor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "spend",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She plans to _______ her weekend relaxing at the beach.",
+        "answers": [
+          { "id": 1, "value": "spend" },
+          { "id": 2, "value": "save" },
+          { "id": 3, "value": "earn" },
+          { "id": 4, "value": "lose" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "strange",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The old house had a _______ smell that no one could identify.",
+        "answers": [
+          { "id": 1, "value": "strange" },
+          { "id": 2, "value": "familiar" },
+          { "id": 3, "value": "pleasant" },
+          { "id": 4, "value": "normal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "truth",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It’s always better to tell the _______ than to lie about what happened.",
+        "answers": [
+          { "id": 1, "value": "truth" },
+          { "id": 2, "value": "joke" },
+          { "id": 3, "value": "story" },
+          { "id": 4, "value": "excuse" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wake",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She always tries to _______ up early to start her day with a workout.",
+        "answers": [
+          { "id": 1, "value": "wake" },
+          { "id": 2, "value": "sleep" },
+          { "id": 3, "value": "stay" },
+          { "id": 4, "value": "rest" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

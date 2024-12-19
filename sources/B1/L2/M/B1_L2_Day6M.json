@@ -1,0 +1,172 @@
+[
+  {
+    "word": "image",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The photographer captured a beautiful _______ of the sunset over the mountains.",
+        "answers": [
+          { "id": 1, "value": "image" },
+          { "id": 2, "value": "scene" },
+          { "id": 3, "value": "drawing" },
+          { "id": 4, "value": "shape" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "immediate",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher called for an _______ meeting to address the issue.",
+        "answers": [
+          { "id": 1, "value": "immediate" },
+          { "id": 2, "value": "later" },
+          { "id": 3, "value": "delayed" },
+          { "id": 4, "value": "unnecessary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "primary",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ goal of the project is to improve access to clean water.",
+        "answers": [
+          { "id": 1, "value": "primary" },
+          { "id": 2, "value": "worst" },
+          { "id": 3, "value": "better" },
+          { "id": 4, "value": "minor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "proud",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She was very _______ of her son for winning the science competition.",
+        "answers": [
+          { "id": 1, "value": "proud" },
+          { "id": 2, "value": "ashamed" },
+          { "id": 3, "value": "embarrassed" },
+          { "id": 4, "value": "worried" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "remain",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Despite the changes, he chose to _______ in the same city where he grew up.",
+        "answers": [
+          { "id": 1, "value": "remain" },
+          { "id": 2, "value": "leave" },
+          { "id": 3, "value": "return" },
+          { "id": 4, "value": "move" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rest",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After a long day of work, he needed to sit down and _______ for a while.",
+        "answers": [
+          { "id": 1, "value": "rest" },
+          { "id": 2, "value": "run" },
+          { "id": 3, "value": "talk" },
+          { "id": 4, "value": "exercise" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "separate",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please _______ the recyclable items from the regular trash.",
+        "answers": [
+          { "id": 1, "value": "separate" },
+          { "id": 2, "value": "mix" },
+          { "id": 3, "value": "combine" },
+          { "id": 4, "value": "discard" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "site",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The construction _______ was cleared before the workers began building.",
+        "answers": [
+          { "id": 1, "value": "site" },
+          { "id": 2, "value": "place" },
+          { "id": 3, "value": "monument" },
+          { "id": 4, "value": "spot" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "tail",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The dog wagged its _______ happily when it saw its owner.",
+        "answers": [
+          { "id": 1, "value": "tail" },
+          { "id": 2, "value": "paw" },
+          { "id": 3, "value": "ear" },
+          { "id": 4, "value": "nose" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "trouble",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He got into _______ for not completing his homework on time.",
+        "answers": [
+          { "id": 1, "value": "trouble" },
+          { "id": 2, "value": "praise" },
+          { "id": 3, "value": "help" },
+          { "id": 4, "value": "luck" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "word": "anymore",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "I don’t live in that town _______; I moved to the city last year.",
+        "answers": [
+          { "id": 1, "value": "anymore" },
+          { "id": 2, "value": "already" },
+          { "id": 3, "value": "still" },
+          { "id": 4, "value": "yet" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "asleep",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The baby fell _______ quickly after being rocked in her mother’s arms.",
+        "answers": [
+          { "id": 1, "value": "asleep" },
+          { "id": 2, "value": "awake" },
+          { "id": 3, "value": "hungry" },
+          { "id": 4, "value": "quiet" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "berry",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We picked a bright red _______ from the bush while hiking.",
+        "answers": [
+          { "id": 1, "value": "berry" },
+          { "id": 2, "value": "trunk" },
+          { "id": 3, "value": "leaf" },
+          { "id": 4, "value": "rock" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "collect",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She loves to _______ stamps from different countries.",
+        "answers": [
+          { "id": 1, "value": "collect" },
+          { "id": 2, "value": "drop" },
+          { "id": 3, "value": "lose" },
+          { "id": 4, "value": "borrow" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "compete",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Athletes from all over the world will _______ in the Olympic Games.",
+        "answers": [
+          { "id": 1, "value": "compete" },
+          { "id": 2, "value": "train" },
+          { "id": 3, "value": "rest" },
+          { "id": 4, "value": "travel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "conversation",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We had a long _______ about our plans for the future.",
+        "answers": [
+          { "id": 1, "value": "conversation" },
+          { "id": 2, "value": "argument" },
+          { "id": 3, "value": "announcement" },
+          { "id": 4, "value": "debate" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "creature",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The deep sea is home to many strange and mysterious _______.",
+        "answers": [
+          { "id": 1, "value": "creatures" },
+          { "id": 2, "value": "plants" },
+          { "id": 3, "value": "fish" },
+          { "id": 4, "value": "objects" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "decision",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Making the right _______ about college can shape your future.",
+        "answers": [
+          { "id": 1, "value": "decision" },
+          { "id": 2, "value": "choice" },
+          { "id": 3, "value": "mistake" },
+          { "id": 4, "value": "idea" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "either",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You can choose _______ the red or blue dress for the party.",
+        "answers": [
+          { "id": 1, "value": "either" },
+          { "id": 2, "value": "both" },
+          { "id": 3, "value": "neither" },
+          { "id": 4, "value": "all" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "forest",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hikers got lost in the dense _______ while looking for the trail.",
+        "answers": [
+          { "id": 1, "value": "forest" },
+          { "id": 2, "value": "mountain" },
+          { "id": 3, "value": "river" },
+          { "id": 4, "value": "valley" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

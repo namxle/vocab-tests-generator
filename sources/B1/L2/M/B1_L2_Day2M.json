@@ -1,0 +1,172 @@
+[
+  {
+    "word": "necessary",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is _______ to wear a helmet when riding a motorcycle for safety reasons.",
+        "answers": [
+          { "id": 1, "value": "necessary" },
+          { "id": 2, "value": "optional" },
+          { "id": 3, "value": "unimportant" },
+          { "id": 4, "value": "rare" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pattern",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The artist used a floral _______ to decorate the wall.",
+        "answers": [
+          { "id": 1, "value": "pattern" },
+          { "id": 2, "value": "design" },
+          { "id": 3, "value": "color" },
+          { "id": 4, "value": "shape" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "propose",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The committee will _______ a new plan to improve the city’s public transport.",
+        "answers": [
+          { "id": 1, "value": "propose" },
+          { "id": 2, "value": "reject" },
+          { "id": 3, "value": "cancel" },
+          { "id": 4, "value": "dismiss" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "purpose",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The main _______ of the meeting was to discuss the budget for next year.",
+        "answers": [
+          { "id": 1, "value": "purpose" },
+          { "id": 2, "value": "idea" },
+          { "id": 3, "value": "result" },
+          { "id": 4, "value": "reason" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "release",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company will _______ a new smartphone model next month, everyone is so excited.",
+        "answers": [
+          { "id": 1, "value": "release" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "delay" },
+          { "id": 4, "value": "cancel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "require",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You will _______ a passport to travel to another country.",
+        "answers": [
+          { "id": 1, "value": "require" },
+          { "id": 2, "value": "lose" },
+          { "id": 3, "value": "deny" },
+          { "id": 4, "value": "suggest" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "single",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She didn’t make a _______ mistake in the entire test.",
+        "answers": [
+          { "id": 1, "value": "single" },
+          { "id": 2, "value": "multiple" },
+          { "id": 3, "value": "double" },
+          { "id": 4, "value": "many" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "success",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her hard work and determination led to her _______ in the competition.",
+        "answers": [
+          { "id": 1, "value": "success" },
+          { "id": 2, "value": "failure" },
+          { "id": 3, "value": "challenge" },
+          { "id": 4, "value": "struggle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "tear",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Be careful not to _______ the paper while removing it from the binder.",
+        "answers": [
+          { "id": 1, "value": "tear" },
+          { "id": 2, "value": "fold" },
+          { "id": 3, "value": "write" },
+          { "id": 4, "value": "cut" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "theory",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Einstein’s theory of relativity is one of the most famous scientific _______.",
+        "answers": [
+          { "id": 1, "value": "theories" },
+          { "id": 2, "value": "ideas" },
+          { "id": 3, "value": "facts" },
+          { "id": 4, "value": "opinions" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

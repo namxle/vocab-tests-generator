@@ -1,0 +1,172 @@
+[
+  {
+    "word": "coach",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The football _______ gave the players an inspiring speech before the game.",
+        "answers": [
+          { "id": 1, "value": "coach" },
+          { "id": 2, "value": "referee" },
+          { "id": 3, "value": "athlete" },
+          { "id": 4, "value": "manager" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "control",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She tried to _______ her emotions during the difficult conversation.",
+        "answers": [
+          { "id": 1, "value": "control" },
+          { "id": 2, "value": "hide" },
+          { "id": 3, "value": "release" },
+          { "id": 4, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "description",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The witness gave a detailed _______ of the suspect to the police.",
+        "answers": [
+          { "id": 1, "value": "description" },
+          { "id": 2, "value": "name" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "drawing" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "direct",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher gave us _______ instructions on how to complete the assignment.",
+        "answers": [
+          { "id": 1, "value": "direct" },
+          { "id": 2, "value": "confusing" },
+          { "id": 3, "value": "general" },
+          { "id": 4, "value": "indirect" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "exam",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He studied hard all week to prepare for the final _______.",
+        "answers": [
+          { "id": 1, "value": "exam" },
+          { "id": 2, "value": "class" },
+          { "id": 3, "value": "lecture" },
+          { "id": 4, "value": "quiz" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "example",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher provided an _______ to help explain the math problem.",
+        "answers": [
+          { "id": 1, "value": "example" },
+          { "id": 2, "value": "answer" },
+          { "id": 3, "value": "exercise" },
+          { "id": 4, "value": "explanation" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "limit",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There is a strict time _______ of 30 minutes for the test.",
+        "answers": [
+          { "id": 1, "value": "limit" },
+          { "id": 2, "value": "extension" },
+          { "id": 3, "value": "restriction" },
+          { "id": 4, "value": "allowance" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "local",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We visited the _______ market to buy fresh fruits and vegetables.",
+        "answers": [
+          { "id": 1, "value": "local" },
+          { "id": 2, "value": "global" },
+          { "id": 3, "value": "online" },
+          { "id": 4, "value": "distant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "magical",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The movie had a _______ story filled with wizards and enchanted forests.",
+        "answers": [
+          { "id": 1, "value": "magical" },
+          { "id": 2, "value": "realistic" },
+          { "id": 3, "value": "boring" },
+          { "id": 4, "value": "ordinary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "mail",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She checked her mailbox for any new _______ from her friends.",
+        "answers": [
+          { "id": 1, "value": "mail" },
+          { "id": 2, "value": "letter" },
+          { "id": 3, "value": "message" },
+          { "id": 4, "value": "parcel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

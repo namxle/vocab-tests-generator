@@ -1,0 +1,172 @@
+[
+  {
+    "word": "accept",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He decided to _______ the job offer after considering all his options.",
+        "answers": [
+          { "id": 1, "value": "accept" },
+          { "id": 2, "value": "decline" },
+          { "id": 3, "value": "ignore" },
+          { "id": 4, "value": "avoid" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "arrange",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She will _______ the furniture in the living room to make it more spacious.",
+        "answers": [
+          { "id": 1, "value": "arrange" },
+          { "id": 2, "value": "Paint" },
+          { "id": 3, "value": "decorate" },
+          { "id": 4, "value": "clean" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "attend",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He plans to _______ the conference next week to learn about new technologies.",
+        "answers": [
+          { "id": 1, "value": "attend" },
+          { "id": 2, "value": "miss" },
+          { "id": 3, "value": "organize" },
+          { "id": 4, "value": "skip" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "balance",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It's important to maintain a good _______ between work and personal life.",
+        "answers": [
+          { "id": 1, "value": "balance" },
+          { "id": 2, "value": "connection" },
+          { "id": 3, "value": "division" },
+          { "id": 4, "value": "schedule" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "contrast",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There is a sharp _______ between the old and modern parts of the city, a lot of things have changed",
+        "answers": [
+          { "id": 1, "value": "contrast" },
+          { "id": 2, "value": "similarity" },
+          { "id": 3, "value": "connection" },
+          { "id": 4, "value": "alike" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "encourage",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Parents should _______ their children to try new activities and hobbies.",
+        "answers": [
+          { "id": 1, "value": "encourage" },
+          { "id": 2, "value": "discourage" },
+          { "id": 3, "value": "force" },
+          { "id": 4, "value": "ignore" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "familiar",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The street looked _______ to her, as if she had been there before.",
+        "answers": [
+          { "id": 1, "value": "familiar" },
+          { "id": 2, "value": "strange" },
+          { "id": 3, "value": "new" },
+          { "id": 4, "value": "unusual" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "grab",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She tried to _______ the book before it fell off the table.",
+        "answers": [
+          { "id": 1, "value": "grab" },
+          { "id": 2, "value": "drop" },
+          { "id": 3, "value": "throw" },
+          { "id": 4, "value": "shut" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hang",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They decided to _______ the painting on the wall in the living room.",
+        "answers": [
+          { "id": 1, "value": "hang" },
+          { "id": 2, "value": "cut" },
+          { "id": 3, "value": "drop" },
+          { "id": 4, "value": "remove" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "huge",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company made a _______ profit this year thanks to its new product.",
+        "answers": [
+          { "id": 1, "value": "huge" },
+          { "id": 2, "value": "small" },
+          { "id": 3, "value": "minor" },
+          { "id": 4, "value": "average" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

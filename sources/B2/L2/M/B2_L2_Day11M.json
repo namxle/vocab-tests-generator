@@ -1,0 +1,182 @@
+[
+  {
+    "word": "aboard",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "All passengers must be _______ the train before it departs the station.",
+        "answers": [
+          { "id": 1, "value": "aboard" },
+          { "id": 2, "value": "under" },
+          { "id": 3, "value": "around" },
+          { "id": 4, "value": "outside" },
+          { "id": 5, "value": "beside" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bitter",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The medicine had a _______ taste, but it was very effective.",
+        "answers": [
+          { "id": 1, "value": "bitter" },
+          { "id": 2, "value": "sweet" },
+          { "id": 3, "value": "sour" },
+          { "id": 4, "value": "spicy" },
+          { "id": 5, "value": "salty" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bullet",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The soldier loaded a _______ into his rifle before aiming at the target.",
+        "answers": [
+          { "id": 1, "value": "bullet" },
+          { "id": 2, "value": "shell" },
+          { "id": 3, "value": "dart" },
+          { "id": 4, "value": "arrow" },
+          { "id": 5, "value": "stone" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "devil",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The painting depicted an ancient battle between an angel and a _______.",
+        "answers": [
+          { "id": 1, "value": "devil" },
+          { "id": 2, "value": "animal" },
+          { "id": 3, "value": "person" },
+          { "id": 4, "value": "fairy" },
+          { "id": 5, "value": "shadow" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "drift",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The snow began to _______ across the road, making it difficult to drive.",
+        "answers": [
+          { "id": 1, "value": "drift" },
+          { "id": 2, "value": "disappear" },
+          { "id": 3, "value": "melt" },
+          { "id": 4, "value": "fall" },
+          { "id": 5, "value": "dissolve" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "enforce",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The police are responsible for ensuring that laws are _______ in the city.",
+        "answers": [
+          { "id": 1, "value": "enforced" },
+          { "id": 2, "value": "admired" },
+          { "id": 3, "value": "broken" },
+          { "id": 4, "value": "ignored" },
+          { "id": 5, "value": "discussed" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fountain",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The children enjoyed playing near the _______ in the park.",
+        "answers": [
+          { "id": 1, "value": "fountain" },
+          { "id": 2, "value": "desert" },
+          { "id": 3, "value": "volcano" },
+          { "id": 4, "value": "well" },
+          { "id": 5, "value": "forest" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "inhabit",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The forest is _______ by various species of animals and birds.",
+        "answers": [
+          { "id": 1, "value": "inhabited" },
+          { "id": 2, "value": "deserted" },
+          { "id": 3, "value": "visited" },
+          { "id": 4, "value": "controlled" },
+          { "id": 5, "value": "protected" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "harbor",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ships were anchored safely in the _______ during the storm.",
+        "answers": [
+          { "id": 1, "value": "harbor" },
+          { "id": 2, "value": "sea" },
+          { "id": 3, "value": "office" },
+          { "id": 4, "value": "airport" },
+          { "id": 5, "value": "galaxy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "march",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The soldiers began to _______ in formation toward the base.",
+        "answers": [
+          { "id": 1, "value": "march" },
+          { "id": 2, "value": "sit" },
+          { "id": 3, "value": "stay" },
+          { "id": 4, "value": "crawl" },
+          { "id": 5, "value": "stand" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

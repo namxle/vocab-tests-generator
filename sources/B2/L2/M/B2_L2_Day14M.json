@@ -1,0 +1,182 @@
+[
+  {
+    "word": "fiber",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The shirt is made from a natural _______ that feels soft on the skin.",
+        "answers": [
+          { "id": 1, "value": "fiber" },
+          { "id": 2, "value": "thread" },
+          { "id": 3, "value": "sewing" },
+          { "id": 4, "value": "diamond" },
+          { "id": 5, "value": "plant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "impolite",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It is considered _______ to interrupt someone while they are speaking.",
+        "answers": [
+          { "id": 1, "value": "impolite" },
+          { "id": 2, "value": "polite" },
+          { "id": 3, "value": "friendly" },
+          { "id": 4, "value": "kind" },
+          { "id": 5, "value": "respectful" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "horrible",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The weather was so _______ that we decided to stay indoors all day.",
+        "answers": [
+          { "id": 1, "value": "horrible" },
+          { "id": 2, "value": "beautiful" },
+          { "id": 3, "value": "pleasant" },
+          { "id": 4, "value": "calm" },
+          { "id": 5, "value": "mild" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "kneel",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He had to _______ on the floor to look under the bed for his keys.",
+        "answers": [
+          { "id": 1, "value": "kneel" },
+          { "id": 2, "value": "sit" },
+          { "id": 3, "value": "stand" },
+          { "id": 4, "value": "run" },
+          { "id": 5, "value": "walk" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "luxury",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "As daughter of a billionaire, she grew up surrounded by unimaginable _______.",
+        "answers": [
+          { "id": 1, "value": "luxury" },
+          { "id": 2, "value": "story" },
+          { "id": 3, "value": "necessity" },
+          { "id": 4, "value": "poverty" },
+          { "id": 5, "value": "ceremony" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "massive",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ building could be seen from miles away due to its size.",
+        "answers": [
+          { "id": 1, "value": "massive" },
+          { "id": 2, "value": "small" },
+          { "id": 3, "value": "narrow" },
+          { "id": 4, "value": "fragile" },
+          { "id": 5, "value": "ordinary" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "panic",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "_______ spread through the crowd as the bullets started to fly..",
+        "answers": [
+          { "id": 1, "value": "Panic" },
+          { "id": 2, "value": "Rest" },
+          { "id": 3, "value": "Happiness" },
+          { "id": 4, "value": "Disappointment" },
+          { "id": 5, "value": "Celebration" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "priority",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The safety of the passengers is always the highest _______ for the airline.",
+        "answers": [
+          { "id": 1, "value": "priority" },
+          { "id": 2, "value": "mission" },
+          { "id": 3, "value": "responsibility" },
+          { "id": 4, "value": "duty" },
+          { "id": 5, "value": "goal" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "robe",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The king wore a long velvet _______ during the royal ceremony.",
+        "answers": [
+          { "id": 1, "value": "robe" },
+          { "id": 2, "value": "coat" },
+          { "id": 3, "value": "cloak" },
+          { "id": 4, "value": "suit" },
+          { "id": 5, "value": "jacket" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scold",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The teacher had to _______ the students for being too noisy in class.",
+        "answers": [
+          { "id": 1, "value": "scold" },
+          { "id": 2, "value": "praise" },
+          { "id": 3, "value": "thank" },
+          { "id": 4, "value": "help" },
+          { "id": 5, "value": "encourage" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

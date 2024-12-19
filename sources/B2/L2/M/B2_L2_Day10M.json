@@ -1,0 +1,182 @@
+[
+  {
+    "word": "germ",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Washing your hands helps remove harmful _______ that can cause illness.",
+        "answers": [
+          { "id": 1, "value": "germs" },
+          { "id": 2, "value": "animals" },
+          { "id": 3, "value": "humans" },
+          { "id": 4, "value": "materials" },
+          { "id": 5, "value": "particles" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "kit",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The first aid _______ contains bandages, scissors, and antiseptic cream.",
+        "answers": [
+          { "id": 1, "value": "kit" },
+          { "id": 2, "value": "shelf" },
+          { "id": 3, "value": "pack" },
+          { "id": 4, "value": "case" },
+          { "id": 5, "value": "bag" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "puff",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "A small _______ of smoke came from the chimney as the fire started.",
+        "answers": [
+          { "id": 1, "value": "puff" },
+          { "id": 2, "value": "cloud" },
+          { "id": 3, "value": "stream" },
+          { "id": 4, "value": "wisp" },
+          { "id": 5, "value": "wave" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rag",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He used an old _______ to clean the dirty window.",
+        "answers": [
+          { "id": 1, "value": "rag" },
+          { "id": 2, "value": "blanket" },
+          { "id": 3, "value": "umbrella" },
+          { "id": 4, "value": "scarf" },
+          { "id": 5, "value": "paper" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scatter",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The loud noise caused the birds to _______ in all directions.",
+        "answers": [
+          { "id": 1, "value": "scatter" },
+          { "id": 2, "value": "gather" },
+          { "id": 3, "value": "group" },
+          { "id": 4, "value": "perch" },
+          { "id": 5, "value": "stay" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "scent",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The dog _______ its owner and immediately ran out to welcome him home.",
+        "answers": [
+          { "id": 1, "value": "scented" },
+          { "id": 2, "value": "tracked" },
+          { "id": 3, "value": "smiled" },
+          { "id": 4, "value": "barked" },
+          { "id": 5, "value": "slept" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "steel",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The bridge was constructed using strong _______ beams for support.",
+        "answers": [
+          { "id": 1, "value": "steel" },
+          { "id": 2, "value": "paper" },
+          { "id": 3, "value": "sand" },
+          { "id": 4, "value": "diamond" },
+          { "id": 5, "value": "plastic" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "swift",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The rescue team took _______ action to save the hikers from the flood.",
+        "answers": [
+          { "id": 1, "value": "swift" },
+          { "id": 2, "value": "slow" },
+          { "id": 3, "value": "surprised" },
+          { "id": 4, "value": "careless" },
+          { "id": 5, "value": "measured" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "toss",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He decided to _______ the ball to his teammate instead of running with it.",
+        "answers": [
+          { "id": 1, "value": "toss" },
+          { "id": 2, "value": "chase" },
+          { "id": 3, "value": "search" },
+          { "id": 4, "value": "touch" },
+          { "id": 5, "value": "catch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "triumph",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The team celebrated their _______ after winning the championship game.",
+        "answers": [
+          { "id": 1, "value": "triumph" },
+          { "id": 2, "value": "loss" },
+          { "id": 3, "value": "failure" },
+          { "id": 4, "value": "defeat" },
+          { "id": 5, "value": "struggle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

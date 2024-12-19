@@ -34,8 +34,8 @@ const CWD = process.cwd();
 //   },
 // ];
 
-const LEVEL = 'B2';
-const SUB_LEVEL = 'L1';
+const LEVEL = 'B1';
+const SUB_LEVEL = 'L2';
 const GROUP = 'M';
 const DAY = 'Day';
 

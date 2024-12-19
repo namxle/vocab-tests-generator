@@ -1,0 +1,172 @@
+[
+  {
+    "word": "alone",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She prefers to work _______ when she needs to concentrate.",
+        "answers": [
+          { "id": 1, "value": "alone" },
+          { "id": 2, "value": "together" },
+          { "id": 3, "value": "quickly" },
+          { "id": 4, "value": "silently" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "apartment",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They moved into a new _______ in the city center last week. It's in high building, perfect for their family.",
+        "answers": [
+          { "id": 1, "value": "apartment" },
+          { "id": 2, "value": "house" },
+          { "id": 3, "value": "office" },
+          { "id": 4, "value": "hotel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "article",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She wrote an interesting _______ about climate change for the newspaper.",
+        "answers": [
+          { "id": 1, "value": "article" },
+          { "id": 2, "value": "book" },
+          { "id": 3, "value": "letter" },
+          { "id": 4, "value": "note" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "artist",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ painted a beautiful landscape that won first prize.",
+        "answers": [
+          { "id": 1, "value": "artist" },
+          { "id": 2, "value": "scientist" },
+          { "id": 3, "value": "writer" },
+          { "id": 4, "value": "teacher" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "attitude",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her positive _______ helped her overcome many challenges.",
+        "answers": [
+          { "id": 1, "value": "attitude" },
+          { "id": 2, "value": "emotion" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "mood" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "compare",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It’s not fair to _______ one student’s work with another’s without context.",
+        "answers": [
+          { "id": 1, "value": "compare" },
+          { "id": 2, "value": "share" },
+          { "id": 3, "value": "show" },
+          { "id": 4, "value": "explain" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "judge",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "It’s important not to _______ others without knowing their full story.",
+        "answers": [
+          { "id": 1, "value": "judge" },
+          { "id": 2, "value": "help" },
+          { "id": 3, "value": "follow" },
+          { "id": 4, "value": "copy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "magazine",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She bought the latest _______ to read during her flight.",
+        "answers": [
+          { "id": 1, "value": "magazine" },
+          { "id": 2, "value": "novel" },
+          { "id": 3, "value": "letter" },
+          { "id": 4, "value": "pamphlet" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "material",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The jacket is made of a waterproof _______ to keep you dry in the rain.",
+        "answers": [
+          { "id": 1, "value": "material" },
+          { "id": 2, "value": "color" },
+          { "id": 3, "value": "design" },
+          { "id": 4, "value": "texture" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "meal",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Breakfast is considered the most important _______ of the day.",
+        "answers": [
+          { "id": 1, "value": "meal" },
+          { "id": 2, "value": "snack" },
+          { "id": 3, "value": "dish" },
+          { "id": 4, "value": "drink" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

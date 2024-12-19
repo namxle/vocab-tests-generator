@@ -1,0 +1,172 @@
+[
+  {
+    "word": "blood",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Doctors took a sample of her _______ to test for any infections.",
+        "answers": [
+          { "id": 1, "value": "blood" },
+          { "id": 2, "value": "water" },
+          { "id": 3, "value": "tissue" },
+          { "id": 4, "value": "sweat" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "burn",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Be careful not to _______ your hand while cooking on the stove.",
+        "answers": [
+          { "id": 1, "value": "burn" },
+          { "id": 2, "value": "cut" },
+          { "id": 3, "value": "scratch" },
+          { "id": 4, "value": "break" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "cell",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Every living organism is made up of at least one _______.",
+        "answers": [
+          { "id": 1, "value": "cell" },
+          { "id": 2, "value": "bone" },
+          { "id": 3, "value": "organ" },
+          { "id": 4, "value": "muscle" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "contain",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "This bottle can _______ up to one liter of water.",
+        "answers": [
+          { "id": 1, "value": "contain" },
+          { "id": 2, "value": "spill" },
+          { "id": 3, "value": "break" },
+          { "id": 4, "value": "hold" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "correct",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please double-check your answers to make sure they are _______.",
+        "answers": [
+          { "id": 1, "value": "correct" },
+          { "id": 2, "value": "wrong" },
+          { "id": 3, "value": "false" },
+          { "id": 4, "value": "doubtful" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "crop",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Wheat is the most commonly grown _______ in this region.",
+        "answers": [
+          { "id": 1, "value": "crop" },
+          { "id": 2, "value": "tree" },
+          { "id": 3, "value": "fruit" },
+          { "id": 4, "value": "flower" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "demand",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There is a high _______ for electric cars in the market right now, people want to own it so bad",
+        "answers": [
+          { "id": 1, "value": "demand" },
+          { "id": 2, "value": "supply" },
+          { "id": 3, "value": "request" },
+          { "id": 4, "value": "shortage" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "equal",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Both sides of the equation must be _______ to solve it correctly.",
+        "answers": [
+          { "id": 1, "value": "equal" },
+          { "id": 2, "value": "different" },
+          { "id": 3, "value": "greater" },
+          { "id": 4, "value": "less" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "feed",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Don’t forget to _______ the cat before leaving for work.",
+        "answers": [
+          { "id": 1, "value": "feed" },
+          { "id": 2, "value": "bathe" },
+          { "id": 3, "value": "wash" },
+          { "id": 4, "value": "brush" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "hole",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "There’s a small _______ in my jacket, so I need to sew it up.",
+        "answers": [
+          { "id": 1, "value": "hole" },
+          { "id": 2, "value": "tear" },
+          { "id": 3, "value": "patch" },
+          { "id": 4, "value": "mark" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

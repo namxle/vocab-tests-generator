@@ -1,0 +1,172 @@
+[
+  {
+    "word": "perhaps",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He isn't sure, but _______ we will go to the beach this weekend.",
+        "answers": [
+          { "id": 1, "value": "perhaps" },
+          { "id": 2, "value": "always" },
+          { "id": 3, "value": "never" },
+          { "id": 4, "value": "certainly" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pleasant",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "We had a very _______ evening at the party with our friends, he was so happy",
+        "answers": [
+          { "id": 1, "value": "pleasant" },
+          { "id": 2, "value": "uncomfortable" },
+          { "id": 3, "value": "boring" },
+          { "id": 4, "value": "quiet" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "prevent",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Washing your hands regularly can help _______ the spread of germs.",
+        "answers": [
+          { "id": 1, "value": "prevent" },
+          { "id": 2, "value": "allow" },
+          { "id": 3, "value": "cause" },
+          { "id": 4, "value": "encourage" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rock",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The child picked up a small _______ and threw it into the lake, it was pretty heavy.",
+        "answers": [
+          { "id": 1, "value": "rock" },
+          { "id": 2, "value": "stick" },
+          { "id": 3, "value": "ball" },
+          { "id": 4, "value": "leaf" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "save",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "You should _______ some money each month for emergencies.",
+        "answers": [
+          { "id": 1, "value": "save" },
+          { "id": 2, "value": "spend" },
+          { "id": 3, "value": "borrow" },
+          { "id": 4, "value": "lose" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "step",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The first _______ in learning a new language is to practice every day.",
+        "answers": [
+          { "id": 1, "value": "step" },
+          { "id": 2, "value": "mistake" },
+          { "id": 3, "value": "goal" },
+          { "id": 4, "value": "result" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "still",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Even after all these years, they are _______ close friends, that is a special relationship.",
+        "answers": [
+          { "id": 1, "value": "still" },
+          { "id": 2, "value": "no longer" },
+          { "id": 3, "value": "rarely" },
+          { "id": 4, "value": "barely" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "taste",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The soup had a rich, delicious _______ that everyone enjoyed.",
+        "answers": [
+          { "id": 1, "value": "taste" },
+          { "id": 2, "value": "color" },
+          { "id": 3, "value": "smell" },
+          { "id": 4, "value": "texture" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "throw",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He decided to _______ the ball to his dog for a game of fetch.",
+        "answers": [
+          { "id": 1, "value": "throw" },
+          { "id": 2, "value": "kick" },
+          { "id": 3, "value": "catch" },
+          { "id": 4, "value": "hold" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wave",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She gave a quick _______ as she said goodbye and walked away.",
+        "answers": [
+          { "id": 1, "value": "wave" },
+          { "id": 2, "value": "nod" },
+          { "id": 3, "value": "smile" },
+          { "id": 4, "value": "look" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

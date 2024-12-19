@@ -1,0 +1,182 @@
+[
+  {
+    "word": "leaf",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ fell gently from the tree and landed on the ground.",
+        "answers": [
+          { "id": 1, "value": "leaf" },
+          { "id": 2, "value": "cloud" },
+          { "id": 3, "value": "star" },
+          { "id": 4, "value": "petal" },
+          { "id": 5, "value": "water" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "manuscript",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The author submitted her _______ to the publisher for review.",
+        "answers": [
+          { "id": 1, "value": "manuscript" },
+          { "id": 2, "value": "lesson" },
+          { "id": 3, "value": "story" },
+          { "id": 4, "value": "letter" },
+          { "id": 5, "value": "application" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "marsh",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Many species of birds nest in the _______ near the river.",
+        "answers": [
+          { "id": 1, "value": "marsh" },
+          { "id": 2, "value": "ocean" },
+          { "id": 3, "value": "desert" },
+          { "id": 4, "value": "meadow" },
+          { "id": 5, "value": "highland" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "patience",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Raising children requires a great deal of _______ and understanding.",
+        "answers": [
+          { "id": 1, "value": "patience" },
+          { "id": 2, "value": "strength" },
+          { "id": 3, "value": "advantage" },
+          { "id": 4, "value": "courage" },
+          { "id": 5, "value": "discipline" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "perfume",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She sprayed a light _______ on her wrist before leaving the house.",
+        "answers": [
+          { "id": 1, "value": "perfume" },
+          { "id": 2, "value": "oil" },
+          { "id": 3, "value": "gas" },
+          { "id": 4, "value": "flavor" },
+          { "id": 5, "value": "cream" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pond",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The ducks were swimming peacefully in the small _______ near the park.",
+        "answers": [
+          { "id": 1, "value": "pond" },
+          { "id": 2, "value": "ocean" },
+          { "id": 3, "value": "well" },
+          { "id": 4, "value": "valley" },
+          { "id": 5, "value": "field" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "proverb",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "My grandmother often quoted the _______ 'A stitch in time saves nine.'",
+        "answers": [
+          { "id": 1, "value": "proverb" },
+          { "id": 2, "value": "phrase" },
+          { "id": 3, "value": "story" },
+          { "id": 4, "value": "letter" },
+          { "id": 5, "value": "lesson" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "pursuit",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She quit her job to focus on the _______ of her dreams in art.",
+        "answers": [
+          { "id": 1, "value": "pursuit" },
+          { "id": 2, "value": "search" },
+          { "id": 3, "value": "study" },
+          { "id": 4, "value": "creation" },
+          { "id": 5, "value": "exploration" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "recite",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He was asked to _______ the story from memory during the class presentation.",
+        "answers": [
+          { "id": 1, "value": "recite" },
+          { "id": 2, "value": "sing" },
+          { "id": 3, "value": "publish" },
+          { "id": 4, "value": "create" },
+          { "id": 5, "value": "reuse" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wilderness",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The explorers spent weeks in the _______ without seeing another person.",
+        "answers": [
+          { "id": 1, "value": "wilderness" },
+          { "id": 2, "value": "hospital" },
+          { "id": 3, "value": "museum" },
+          { "id": 4, "value": "planet" },
+          { "id": 5, "value": "prison" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

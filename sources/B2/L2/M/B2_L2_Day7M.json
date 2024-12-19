@@ -1,0 +1,182 @@
+[
+  {
+    "word": "abnormal",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The doctors noticed an _______ growth on the X-ray and suggested further tests.",
+        "answers": [
+          { "id": 1, "value": "abnormal" },
+          { "id": 2, "value": "normal" },
+          { "id": 3, "value": "usual" },
+          { "id": 4, "value": "typical" },
+          { "id": 5, "value": "expected" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "bamboo",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Pandas primarily eat _______ as their main source of food.",
+        "answers": [
+          { "id": 1, "value": "bamboo" },
+          { "id": 2, "value": "water" },
+          { "id": 3, "value": "insects" },
+          { "id": 4, "value": "flowers" },
+          { "id": 5, "value": "wood" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "blossom",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The cherry trees began to _______ in early spring, covering the park in pink flowers.",
+        "answers": [
+          { "id": 1, "value": "blossom" },
+          { "id": 2, "value": "wilt" },
+          { "id": 3, "value": "fall" },
+          { "id": 4, "value": "grow" },
+          { "id": 5, "value": "shed" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "compass",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hikers used a _______ to navigate their way through the dense forest.",
+        "answers": [
+          { "id": 1, "value": "compass" },
+          { "id": 2, "value": "watch" },
+          { "id": 3, "value": "clock" },
+          { "id": 4, "value": "guide" },
+          { "id": 5, "value": "tracker" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dialect",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "People from different regions of the country often speak in a distinct _______.",
+        "answers": [
+          { "id": 1, "value": "dialect" },
+          { "id": 2, "value": "area" },
+          { "id": 3, "value": "attitude" },
+          { "id": 4, "value": "manuscript" },
+          { "id": 5, "value": "letter" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dishonest",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The salesperson was accused of being _______ by exaggerating the benefits of the product.",
+        "answers": [
+          { "id": 1, "value": "dishonest" },
+          { "id": 2, "value": "truthful" },
+          { "id": 3, "value": "polite" },
+          { "id": 4, "value": "honest" },
+          { "id": 5, "value": "kind" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dwarf",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The tree was a _______ variety that stayed small even when fully grown.",
+        "answers": [
+          { "id": 1, "value": "dwarf" },
+          { "id": 2, "value": "giant" },
+          { "id": 3, "value": "tall" },
+          { "id": 4, "value": "wide" },
+          { "id": 5, "value": "thin" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "ecosystem",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Deforestation can have a damaging effect on the local _______.",
+        "answers": [
+          { "id": 1, "value": "ecosystem" },
+          { "id": 2, "value": "galaxy" },
+          { "id": 3, "value": "population" },
+          { "id": 4, "value": "president" },
+          { "id": 5, "value": "transport" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fatal",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The accident was _______ and claimed the lives of two passengers.",
+        "answers": [
+          { "id": 1, "value": "fatal" },
+          { "id": 2, "value": "minor" },
+          { "id": 3, "value": "severe" },
+          { "id": 4, "value": "avoidable" },
+          { "id": 5, "value": "unimportant" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "impatient",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She grew _______ waiting in the long line at the grocery store.",
+        "answers": [
+          { "id": 1, "value": "impatient" },
+          { "id": 2, "value": "calm" },
+          { "id": 3, "value": "relaxed" },
+          { "id": 4, "value": "content" },
+          { "id": 5, "value": "patient" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

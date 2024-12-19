@@ -1,0 +1,172 @@
+[
+  {
+    "word": "method",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The scientist used a new _______ to conduct the experiment more efficiently.",
+        "answers": [
+          { "id": 1, "value": "method" },
+          { "id": 2, "value": "paper" },
+          { "id": 3, "value": "idea" },
+          { "id": 4, "value": "step" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "neighbor",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "My _______ brought me a cake to welcome me to the neighborhood.",
+        "answers": [
+          { "id": 1, "value": "neighbor" },
+          { "id": 2, "value": "friend" },
+          { "id": 3, "value": "family" },
+          { "id": 4, "value": "stranger" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "professional",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She hired a _______ photographer to take pictures for her wedding.",
+        "answers": [
+          { "id": 1, "value": "professional" },
+          { "id": 2, "value": "casual" },
+          { "id": 3, "value": "amateur" },
+          { "id": 4, "value": "part-time" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "profit",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company reported a significant _______ this quarter due to increased sales.",
+        "answers": [
+          { "id": 1, "value": "profit" },
+          { "id": 2, "value": "loss" },
+          { "id": 3, "value": "expense" },
+          { "id": 4, "value": "revenue" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "quality",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The _______ of the fabric is excellent and will last for years.",
+        "answers": [
+          { "id": 1, "value": "quality" },
+          { "id": 2, "value": "color" },
+          { "id": 3, "value": "cost" },
+          { "id": 4, "value": "size" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "shape",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The table was designed in the _______ of a star to make it unique.",
+        "answers": [
+          { "id": 1, "value": "shape" },
+          { "id": 2, "value": "color" },
+          { "id": 3, "value": "size" },
+          { "id": 4, "value": "style" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "space",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "They needed more _______ in their apartment to fit a larger sofa.",
+        "answers": [
+          { "id": 1, "value": "space" },
+          { "id": 2, "value": "time" },
+          { "id": 3, "value": "area" },
+          { "id": 4, "value": "room" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "stair",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He climbed the last _______ and reached the top floor of the building.",
+        "answers": [
+          { "id": 1, "value": "stair" },
+          { "id": 2, "value": "way" },
+          { "id": 3, "value": "floor" },
+          { "id": 4, "value": "path" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "symbol",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The heart is a universal _______ of love and affection.",
+        "answers": [
+          { "id": 1, "value": "symbol" },
+          { "id": 2, "value": "sign" },
+          { "id": 3, "value": "mark" },
+          { "id": 4, "value": "shape" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "thin",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The walls of the tent were too _______ to keep out the cold wind.",
+        "answers": [
+          { "id": 1, "value": "thin" },
+          { "id": 2, "value": "thick" },
+          { "id": 3, "value": "wide" },
+          { "id": 4, "value": "strong" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

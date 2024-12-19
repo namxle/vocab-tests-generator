@@ -1,0 +1,182 @@
+[
+  {
+    "word": "mercy",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The prisoner begged for _______ from the judge during the trial.",
+        "answers": [
+          { "id": 1, "value": "mercy" },
+          { "id": 2, "value": "punishment" },
+          { "id": 3, "value": "surprise" },
+          { "id": 4, "value": "anger" },
+          { "id": 5, "value": "apology" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "nod",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "She gave a quick _______ to show her agreement with the idea.",
+        "answers": [
+          { "id": 1, "value": "nod" },
+          { "id": 2, "value": "shake" },
+          { "id": 3, "value": "whistle" },
+          { "id": 4, "value": "glance" },
+          { "id": 5, "value": "shrug" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "opponent",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He studied his _______ carefully before the chess match.",
+        "answers": [
+          { "id": 1, "value": "opponent" },
+          { "id": 2, "value": "ally" },
+          { "id": 3, "value": "partner" },
+          { "id": 4, "value": "coach" },
+          { "id": 5, "value": "referee" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "quarrel",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The siblings had a minor _______ over who would wash the dishes.",
+        "answers": [
+          { "id": 1, "value": "quarrel" },
+          { "id": 2, "value": "lesson" },
+          { "id": 3, "value": "fight" },
+          { "id": 4, "value": "agreement" },
+          { "id": 5, "value": "story" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "rival",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The company’s biggest _______ launched a similar product last month.",
+        "answers": [
+          { "id": 1, "value": "rival" },
+          { "id": 2, "value": "customer" },
+          { "id": 3, "value": "supplier" },
+          { "id": 4, "value": "ally" },
+          { "id": 5, "value": "investor" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sore",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "After the long hike, his legs felt _______ from all the walking.",
+        "answers": [
+          { "id": 1, "value": "sore" },
+          { "id": 2, "value": "big" },
+          { "id": 3, "value": "strong" },
+          { "id": 4, "value": "tired" },
+          { "id": 5, "value": "heavy" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "sting",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He felt a sharp _______ on his arm after the bee landed on him.",
+        "answers": [
+          { "id": 1, "value": "sting" },
+          { "id": 2, "value": "bite" },
+          { "id": 3, "value": "scratch" },
+          { "id": 4, "value": "bruise" },
+          { "id": 5, "value": "touch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "strain",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Lifting heavy boxes caused him to _______ his back muscles.",
+        "answers": [
+          { "id": 1, "value": "strain" },
+          { "id": 2, "value": "injure" },
+          { "id": 3, "value": "relax" },
+          { "id": 4, "value": "strengthen" },
+          { "id": 5, "value": "stretch" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "torture",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The movie depicted the cruel methods used to _______ prisoners.",
+        "answers": [
+          { "id": 1, "value": "torture" },
+          { "id": 2, "value": "punish" },
+          { "id": 3, "value": "interrogate" },
+          { "id": 4, "value": "imprison" },
+          { "id": 5, "value": "question" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "wrestle",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The two athletes decided to _______ to determine the winner of the match.",
+        "answers": [
+          { "id": 1, "value": "wrestle" },
+          { "id": 2, "value": "sing" },
+          { "id": 3, "value": "fight" },
+          { "id": 4, "value": "sleep" },
+          { "id": 5, "value": "learn" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]

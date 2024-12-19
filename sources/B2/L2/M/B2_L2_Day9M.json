@@ -1,0 +1,182 @@
+[
+  {
+    "word": "anticipate",
+    "questions": [
+      {
+        "id": 1,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The weather forecast allows people to _______ storms and prepare in advance.",
+        "answers": [
+          { "id": 1, "value": "anticipate" },
+          { "id": 2, "value": "ignore" },
+          { "id": 3, "value": "welcome" },
+          { "id": 4, "value": "avoid" },
+          { "id": 5, "value": "resist" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "barrel",
+    "questions": [
+      {
+        "id": 2,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The wine was stored in an oak _______ to enhance its flavor.",
+        "answers": [
+          { "id": 1, "value": "barrel" },
+          { "id": 2, "value": "bottle" },
+          { "id": 3, "value": "glass" },
+          { "id": 4, "value": "pot" },
+          { "id": 5, "value": "can" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "beam",
+    "questions": [
+      {
+        "id": 3,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The large wooden _______ supported the roof of the old house.",
+        "answers": [
+          { "id": 1, "value": "beam" },
+          { "id": 2, "value": "pillar" },
+          { "id": 3, "value": "plank" },
+          { "id": 4, "value": "board" },
+          { "id": 5, "value": "post" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "casual",
+    "questions": [
+      {
+        "id": 4,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "He wore a _______ outfit of jeans and a t-shirt to the party.",
+        "answers": [
+          { "id": 1, "value": "casual" },
+          { "id": 2, "value": "formal" },
+          { "id": 3, "value": "traditional" },
+          { "id": 4, "value": "elaborate" },
+          { "id": 5, "value": "complex" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "caution",
+    "questions": [
+      {
+        "id": 5,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Drivers are advised to proceed with _______ on icy roads.",
+        "answers": [
+          { "id": 1, "value": "caution" },
+          { "id": 2, "value": "speed" },
+          { "id": 3, "value": "confidence" },
+          { "id": 4, "value": "carelessness" },
+          { "id": 5, "value": "recklessness" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "contrary",
+    "questions": [
+      {
+        "id": 6,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Her actions were completely _______ to what she had promised earlier.",
+        "answers": [
+          { "id": 1, "value": "contrary" },
+          { "id": 2, "value": "difficult" },
+          { "id": 3, "value": "popular" },
+          { "id": 4, "value": "identical" },
+          { "id": 5, "value": "parallel" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "deliberate",
+    "questions": [
+      {
+        "id": 7,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The act was _______ and planned well in advance.",
+        "answers": [
+          { "id": 1, "value": "deliberate" },
+          { "id": 2, "value": "accidental" },
+          { "id": 3, "value": "sudden" },
+          { "id": 4, "value": "careless" },
+          { "id": 5, "value": "quick" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "dissolve",
+    "questions": [
+      {
+        "id": 8,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The hot water can _______  the sugar quickly.",
+        "answers": [
+          { "id": 1, "value": "dissolve" },
+          { "id": 2, "value": "melt" },
+          { "id": 3, "value": "disappear" },
+          { "id": 4, "value": "sink" },
+          { "id": 5, "value": "float" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "explode",
+    "questions": [
+      {
+        "id": 9,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "The gas leak caused the building to _______ and collapse.",
+        "answers": [
+          { "id": 1, "value": "explode" },
+          { "id": 2, "value": "shake" },
+          { "id": 3, "value": "burn" },
+          { "id": 4, "value": "crumble" },
+          { "id": 5, "value": "break" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  },
+  {
+    "word": "fasten",
+    "questions": [
+      {
+        "id": 10,
+        "type": "Fill-in-the-Blanks (MCQ)",
+        "question_name": "Please _______ your seatbelt before the plane takes off.",
+        "answers": [
+          { "id": 1, "value": "fasten" },
+          { "id": 2, "value": "open" },
+          { "id": 3, "value": "loosen" },
+          { "id": 4, "value": "unbuckle" },
+          { "id": 5, "value": "remove" }
+        ],
+        "correct_answers": [1]
+      }
+    ]
+  }
+]
