@@ -205,10 +205,19 @@ async function main() {
   fs.mkdir(dataDir, { recursive: true }, (err) => {
     if (err) {
       console.error('Error creating directory:', err);
+      process.exit(1);
     } else {
-      console.log('Directory created successfully!');
+      // console.log('Directory created successfully!');
     }
   });
+
+  // Check if folder exists
+
+  if (fs.existsSync(sourcesDir)) {
+  } else {
+    console.log(`Folder sources/${LEVEL}/${SUB_LEVEL}/${GROUP} not exist`);
+    process.exit(1);
+  }
 
   console.log(`Level: ${LEVEL}`);
   console.log(`Sub Level: ${SUB_LEVEL}`);
