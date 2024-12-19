@@ -1,5 +1,5 @@
 const fs = require('fs');
-// const inquirer = require('inquirer');
+const inquirer = require('inquirer');
 
 // Import scripts
 const logicScript = require('./logic');
@@ -8,43 +8,51 @@ const helperScript = require('./helper');
 // Constants
 const CWD = process.cwd();
 
-// const mainQuestions = [
-//   {
-//     type: 'input',
-//     name: 'outfile',
-//     message: 'Enter LEVEL:',
-//     validate: (value) => {
-//       if (value && value.trim() != '') {
-//         return true;
-//       }
-//       return 'LEVEL cannot be empty or just spaces.';
-//     },
-//   },
-//   {
-//     type: 'list',
-//     name: 'inputTest',
-//     message: 'Select type of test to be generated:',
-//     choices: Object.values(tests),
-//   },
-//   {
-//     type: 'list',
-//     name: 'inputLevel',
-//     message: 'Select level:',
-//     choices: possibleLevels,
-//   },
-// ];
+const mainQuestions = [
+  {
+    type: 'input',
+    name: 'LEVEL',
+    message: 'Enter LEVEL:',
+    validate: (value) => {
+      if (value && value.trim() != '') {
+        return true;
+      }
+      return 'LEVEL cannot be empty or just spaces.';
+    },
+  },
+  {
+    type: 'input',
+    name: 'SUB_LEVEL',
+    message: 'Enter SUB LEVEL:',
+    validate: (value) => {
+      if (value && value.trim() != '') {
+        return true;
+      }
+      return 'SUB LEVEL cannot be empty or just spaces.';
+    },
+  },
+  {
+    type: 'input',
+    name: 'GROUP',
+    message: 'Enter GROUP:',
+    validate: (value) => {
+      if (value && value.trim() != '') {
+        return true;
+      }
+      return 'SUB LEVEL cannot be empty or just spaces.';
+    },
+  },
+];
 
-const LEVEL = 'B1';
-const SUB_LEVEL = 'L2';
-const GROUP = 'M';
+// const LEVEL = 'B1';
+// const SUB_LEVEL = 'L2';
+// const GROUP = 'M';
 const DAY = 'Day';
 
 // Total expected questions per GROUP
 const totalMeaningQuestions = 10;
 
-// Get all required directories
-const sourcesDir = `${CWD}/sources/${LEVEL}/${SUB_LEVEL}/${GROUP}`;
-const dataDir = `${CWD}/data/${LEVEL}/${SUB_LEVEL}`;
+var LEVEL, SUB_LEVEL, GROUP, sourcesDir, dataDir;
 
 // Helper function
 function writeData(data) {
@@ -183,7 +191,25 @@ function processSourceFiles(files) {
   return data;
 }
 
-function main() {
+async function main() {
+  const result = await inquirer.prompt(mainQuestions);
+  LEVEL = result.LEVEL;
+  SUB_LEVEL = result.SUB_LEVEL;
+  GROUP = result.GROUP;
+
+  // Get all required directories
+  sourcesDir = `${CWD}/sources/${LEVEL}/${SUB_LEVEL}/${GROUP}`;
+  dataDir = `${CWD}/data/${LEVEL}/${SUB_LEVEL}`;
+
+  // Make new directory
+  fs.mkdir(dataDir, { recursive: true }, (err) => {
+    if (err) {
+      console.error('Error creating directory:', err);
+    } else {
+      console.log('Directory created successfully!');
+    }
+  });
+
   console.log(`Level: ${LEVEL}`);
   console.log(`Sub Level: ${SUB_LEVEL}`);
 
